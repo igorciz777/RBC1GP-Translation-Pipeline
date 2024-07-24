@@ -1,0 +1,1850 @@
+//GAME NAME:		C1 Racing Battle Grand Prix
+
+//BLOCK #000 NAME:		224.bin File - Item Names block
+
+//POINTER #0 @ $0 - STRING #0 @ $4E54
+
+#W32($0)
+ヘルメット<END>
+//POINTER #1 @ $84 - STRING #1 @ $4E60
+
+#W32($84)
+公認ヘルメット<END>
+//POINTER #2 @ $108 - STRING #2 @ $4E70
+
+#W32($108)
+レーサーモデルヘルメット<END>
+//POINTER #3 @ $18C - STRING #3 @ $4E8A
+
+#W32($18C)
+レーシングスーツ<END>
+//POINTER #4 @ $210 - STRING #4 @ $4E9C
+
+#W32($210)
+公認スーツ<END>
+//POINTER #5 @ $294 - STRING #5 @ $4EA8
+
+#W32($294)
+レーサーモデルスーツ<END>
+//POINTER #6 @ $318 - STRING #6 @ $4EBE
+
+#W32($318)
+レーシンググローブ<END>
+//POINTER #7 @ $39C - STRING #7 @ $4ED2
+
+#W32($39C)
+公認グローブ<END>
+//POINTER #8 @ $420 - STRING #8 @ $4EE0
+
+#W32($420)
+レーサーモデルグローブ<END>
+//POINTER #9 @ $4A4 - STRING #9 @ $4EF8
+
+#W32($4A4)
+レーシングシューズ<END>
+//POINTER #10 @ $528 - STRING #10 @ $4F0C
+
+#W32($528)
+公認シューズ<END>
+//POINTER #11 @ $5AC - STRING #11 @ $4F1A
+
+#W32($5AC)
+レーサーモデルシューズ<END>
+//POINTER #12 @ $630 - STRING #12 @ $4F32
+
+#W32($630)
+セミバケットシート<END>
+//POINTER #13 @ $6B4 - STRING #13 @ $4F46
+
+#W32($6B4)
+フルバケットシート<END>
+//POINTER #14 @ $738 - STRING #14 @ $4F5A
+
+#W32($738)
+カーボン製フルバケットシート<END>
+//POINTER #15 @ $7BC - STRING #15 @ $4F78
+
+#W32($7BC)
+4点式シートベルト<END>
+//POINTER #16 @ $840 - STRING #16 @ $4F8C
+
+#W32($840)
+4点式クイックリリースタイプ<END>
+//POINTER #17 @ $8C4 - STRING #17 @ $4FAA
+
+#W32($8C4)
+ニッケル製プラグ<END>
+//POINTER #18 @ $948 - STRING #18 @ $4FBC
+
+#W32($948)
+ゴールド製プラグ<END>
+//POINTER #19 @ $9CC - STRING #19 @ $4FCE
+
+#W32($9CC)
+プラチナ製プラグ<END>
+//POINTER #20 @ $A50 - STRING #20 @ $4FE0
+
+#W32($A50)
+MDIシステム<END>
+//POINTER #21 @ $AD4 - STRING #21 @ $4FF0
+
+#W32($AD4)
+高性能MDIシステム<END>
+//POINTER #22 @ $B58 - STRING #22 @ $5006
+
+#W32($B58)
+プラグコード<END>
+//POINTER #23 @ $BDC - STRING #23 @ $5014
+
+#W32($BDC)
+高性能プラグコード<END>
+//POINTER #24 @ $C60 - STRING #24 @ $5028
+
+#W32($C60)
+アルミ製スピンターンノブ<END>
+//POINTER #25 @ $CE4 - STRING #25 @ $5042
+
+#W32($CE4)
+チタン製スピンターンノブ<END>
+//POINTER #26 @ $D68 - STRING #26 @ $505C
+
+#W32($D68)
+油圧式サイドブレーキ<END>
+//POINTER #27 @ $DEC - STRING #27 @ $5072
+
+#W32($DEC)
+スポーツ用インナーシュー<END>
+//POINTER #28 @ $E70 - STRING #28 @ $508C
+
+#W32($E70)
+競技用インナーシュー<END>
+//POINTER #29 @ $EF4 - STRING #29 @ $50A2
+
+#W32($EF4)
+ブラックボード<END>
+//POINTER #30 @ $F78 - STRING #30 @ $50B2
+
+#W32($F78)
+チョークボード<END>
+//POINTER #31 @ $FFC - STRING #31 @ $50C2
+
+#W32($FFC)
+サインボード<END>
+//POINTER #32 @ $1080 - STRING #32 @ $50D0
+
+#W32($1080)
+補修マーカー<END>
+//POINTER #33 @ $1104 - STRING #33 @ $50DE
+
+#W32($1104)
+パテ<END>
+//POINTER #34 @ $1188 - STRING #34 @ $50E4
+
+#W32($1188)
+補修キット<END>
+//POINTER #35 @ $120C - STRING #35 @ $50F0
+
+#W32($120C)
+シンプル工具セット<END>
+//POINTER #36 @ $1290 - STRING #36 @ $5104
+
+#W32($1290)
+ノーマル工具セット<END>
+//POINTER #37 @ $1314 - STRING #37 @ $5118
+
+#W32($1314)
+デラックス工具セット<END>
+//POINTER #38 @ $1398 - STRING #38 @ $512E
+
+#W32($1398)
+小型ジャッキ<END>
+//POINTER #39 @ $141C - STRING #39 @ $513C
+
+#W32($141C)
+ダルマジャッキ<END>
+//POINTER #40 @ $14A0 - STRING #40 @ $514C
+
+#W32($14A0)
+油圧ジャッキ<END>
+//POINTER #41 @ $1524 - STRING #41 @ $515A
+
+#W32($1524)
+小型リジッドラック<END>
+//POINTER #42 @ $15A8 - STRING #42 @ $516E
+
+#W32($15A8)
+大型リジッドラック<END>
+//POINTER #43 @ $162C - STRING #43 @ $5182
+
+#W32($162C)
+リジッドラック・スロープ<END>
+//POINTER #44 @ $16B0 - STRING #44 @ $519C
+
+#W32($16B0)
+ブレーキクリーナースプレータイプ<END>
+//POINTER #45 @ $1734 - STRING #45 @ $51BE
+
+#W32($1734)
+ブレーキクリーナーグリスタイプ<END>
+//POINTER #46 @ $17B8 - STRING #46 @ $51DE
+
+#W32($17B8)
+ブレーキクリーナーボトルタイプ<END>
+//POINTER #47 @ $183C - STRING #47 @ $51FE
+
+#W32($183C)
+ノーマルバッテリー<END>
+//POINTER #48 @ $18C0 - STRING #48 @ $5212
+
+#W32($18C0)
+ハイパワーバッテリー<END>
+//POINTER #49 @ $1944 - STRING #49 @ $5228
+
+#W32($1944)
+ドライバッテリー<END>
+//POINTER #50 @ $19C8 - STRING #50 @ $523A
+
+#W32($19C8)
+鉱物油<END>
+//POINTER #51 @ $1A4C - STRING #51 @ $5242
+
+#W32($1A4C)
+部分合成油<END>
+//POINTER #52 @ $1AD0 - STRING #52 @ $524E
+
+#W32($1AD0)
+化学合成油<END>
+//POINTER #53 @ $1B54 - STRING #53 @ $525A
+
+#W32($1B54)
+エンジンオイル添加剤<END>
+//POINTER #54 @ $1BD8 - STRING #54 @ $5270
+
+#W32($1BD8)
+アーシングケーブル<END>
+//POINTER #55 @ $1C5C - STRING #55 @ $5284
+
+#W32($1C5C)
+アーシングキット<END>
+//POINTER #56 @ $1CE0 - STRING #56 @ $5296
+
+#W32($1CE0)
+トルマリンシート<END>
+//POINTER #57 @ $1D64 - STRING #57 @ $52A8
+
+#W32($1D64)
+エコプラグ<END>
+//POINTER #58 @ $1DE8 - STRING #58 @ $52B4
+
+#W32($1DE8)
+エコマグネット<END>
+//POINTER #59 @ $1E6C - STRING #59 @ $52C4
+
+#W32($1E6C)
+エコストーン<END>
+//POINTER #60 @ $1EF0 - STRING #60 @ $52D2
+
+#W32($1EF0)
+エコエコ君<END>
+//POINTER #61 @ $1F74 - STRING #61 @ $52DE
+
+#W32($1F74)
+エンジンクレーン・リフト<END>
+//POINTER #62 @ $1FF8 - STRING #62 @ $52F8
+
+#W32($1FF8)
+据え付けエンジンハンガー<END>
+//POINTER #63 @ $207C - STRING #63 @ $5312
+
+#W32($207C)
+手動エアポンプ<END>
+//POINTER #64 @ $2100 - STRING #64 @ $5322
+
+#W32($2100)
+エアコンプレッサー<END>
+//POINTER #65 @ $2184 - STRING #65 @ $5336
+
+#W32($2184)
+大型エアコンプレッサー<END>
+//POINTER #66 @ $2208 - STRING #66 @ $534E
+
+#W32($2208)
+バケツ・シャンプー<END>
+//POINTER #67 @ $228C - STRING #67 @ $5362
+
+#W32($228C)
+ワックス<END>
+//POINTER #68 @ $2310 - STRING #68 @ $536C
+
+#W32($2310)
+高圧洗浄機<END>
+//POINTER #69 @ $2394 - STRING #69 @ $5378
+
+#W32($2394)
+コート剤<END>
+//POINTER #70 @ $2418 - STRING #70 @ $5382
+
+#W32($2418)
+ガラスクリーナー<END>
+//POINTER #71 @ $249C - STRING #71 @ $5394
+
+#W32($249C)
+業務用ガラスクリーナー<END>
+//POINTER #72 @ $2520 - STRING #72 @ $53AC
+
+#W32($2520)
+化学イオンガラスクリーナー<END>
+//POINTER #73 @ $25A4 - STRING #73 @ $53C8
+
+#W32($25A4)
+くもり止め<END>
+//POINTER #74 @ $2628 - STRING #74 @ $53D4
+
+#W32($2628)
+クッション<END>
+//POINTER #75 @ $26AC - STRING #75 @ $53E0
+
+#W32($26AC)
+フロアカーペット<END>
+//POINTER #76 @ $2730 - STRING #76 @ $53F2
+
+#W32($2730)
+マイナスイオン発生器<END>
+//POINTER #77 @ $27B4 - STRING #77 @ $5408
+
+#W32($27B4)
+空気清浄機<END>
+//POINTER #78 @ $2838 - STRING #78 @ $5414
+
+#W32($2838)
+エアコンフィルター<END>
+//POINTER #79 @ $28BC - STRING #79 @ $5428
+
+#W32($28BC)
+サイドブレーキカバー<END>
+//POINTER #80 @ $2940 - STRING #80 @ $543E
+
+#W32($2940)
+ドリンクホルダー<END>
+//POINTER #81 @ $29C4 - STRING #81 @ $5450
+
+#W32($29C4)
+衝突防止センサー<END>
+//POINTER #82 @ $2A48 - STRING #82 @ $5462
+
+#W32($2A48)
+ノーマルレーダー<END>
+//POINTER #83 @ $2ACC - STRING #83 @ $5474
+
+#W32($2ACC)
+G<PS>レーダー<END>
+//POINTER #84 @ $2B50 - STRING #84 @ $5482
+
+#W32($2B50)
+芳香剤<END>
+//POINTER #85 @ $2BD4 - STRING #85 @ $548A
+
+#W32($2BD4)
+消臭剤<END>
+//POINTER #86 @ $2C58 - STRING #86 @ $5492
+
+#W32($2C58)
+コインホルダー<END>
+//POINTER #87 @ $2CDC - STRING #87 @ $54A2
+
+#W32($2CDC)
+アームレスト<END>
+//POINTER #88 @ $2D60 - STRING #88 @ $54B0
+
+#W32($2D60)
+バックミラーミニサイズ<END>
+//POINTER #89 @ $2DE4 - STRING #89 @ $54C8
+
+#W32($2DE4)
+バックミラービッグサイズ<END>
+//POINTER #90 @ $2E68 - STRING #90 @ $54E2
+
+#W32($2E68)
+商売繁盛お守り<END>
+//POINTER #91 @ $2EEC - STRING #91 @ $54F2
+
+#W32($2EEC)
+交通安全お守り<END>
+//POINTER #92 @ $2F70 - STRING #92 @ $5502
+
+#W32($2F70)
+メンタルお守り<END>
+//POINTER #93 @ $2FF4 - STRING #93 @ $5512
+
+#W32($2FF4)
+ドリフトお守り<END>
+//POINTER #94 @ $3078 - STRING #94 @ $5522
+
+#W32($3078)
+ペナルティお守り<END>
+//POINTER #95 @ $30FC - STRING #95 @ $5534
+
+#W32($30FC)
+レースクイーンポスター<END>
+//POINTER #96 @ $3180 - STRING #96 @ $554C
+
+#W32($3180)
+レーサーポスター<END>
+//POINTER #97 @ $3204 - STRING #97 @ $555E
+
+#W32($3204)
+サーキット風景ポスター<END>
+//POINTER #98 @ $3288 - STRING #98 @ $5576
+
+#W32($3288)
+車ポスター<END>
+//POINTER #99 @ $330C - STRING #99 @ $5582
+
+#W32($330C)
+コース図ポスター<END>
+//POINTER #100 @ $3390 - STRING #100 @ $5594
+
+#W32($3390)
+模型<END>
+//POINTER #101 @ $3414 - STRING #101 @ $559A
+
+#W32($3414)
+模型コレクション<END>
+//POINTER #102 @ $3498 - STRING #102 @ $55AC
+
+#W32($3498)
+ラジコン<END>
+//POINTER #103 @ $351C - STRING #103 @ $55B6
+
+#W32($351C)
+サバイバル<END>
+//POINTER #104 @ $35A0 - STRING #104 @ $55C2
+
+#W32($35A0)
+ドリフト<END>
+//POINTER #105 @ $3624 - STRING #105 @ $55CC
+
+#W32($3624)
+ジェネラス<END>
+//POINTER #106 @ $36A8 - STRING #106 @ $55D8
+
+#W32($36A8)
+ランクＣトロフィー<END>
+//POINTER #107 @ $372C - STRING #107 @ $55EC
+
+#W32($372C)
+ランクＢトロフィー<END>
+//POINTER #108 @ $37B0 - STRING #108 @ $5600
+
+#W32($37B0)
+ランクＡトロフィー<END>
+//POINTER #109 @ $3834 - STRING #109 @ $5614
+
+#W32($3834)
+Ｃ１ＧＰトロフィー（ＳＰ）<END>
+//POINTER #110 @ $38B8 - STRING #110 @ $5630
+
+#W32($38B8)
+Ｃ１ＧＰトロフィー（ＤＰ）<END>
+//POINTER #111 @ $393C - STRING #111 @ $564C
+
+#W32($393C)
+Ｃ１ＧＰトロフィー（ＲＰ）<END>
+//POINTER #112 @ $39C0 - STRING #112 @ $5668
+
+#W32($39C0)
+小型キャビネット<END>
+//POINTER #113 @ $3A44 - STRING #113 @ $567A
+
+#W32($3A44)
+中型キャビネット<END>
+//POINTER #114 @ $3AC8 - STRING #114 @ $568C
+
+#W32($3AC8)
+大型キャビネット<END>
+//BLOCK #001 NAME:		224.bin File - Item Effect Description block
+
+//POINTER #0 @ $18 - STRING #0 @ $569E
+
+#W32($18)
+車に接触した際のＳＰダメージを緩和。<END>
+//POINTER #1 @ $9C - STRING #1 @ $56C4
+
+#W32($9C)
+壁に接触した際のレーシングペナルティを<END>
+//POINTER #2 @ $120 - STRING #2 @ $56EC
+
+#W32($120)
+ＤＰの獲得値を増加。<END>
+//POINTER #3 @ $1A4 - STRING #3 @ $5702
+
+#W32($1A4)
+相手との距離を離されてもＳＰが減りにくくなる。<END>
+//POINTER #4 @ $228 - STRING #4 @ $5732
+
+#W32($228)
+車に接触した際のペナルティを受けにくくなる。<END>
+//POINTER #5 @ $2AC - STRING #5 @ $5760
+
+#W32($2AC)
+ＤＰの獲得値を増加。<END>
+//POINTER #6 @ $330 - STRING #6 @ $5776
+
+#W32($330)
+相手との距離を離されてもＳＰが減りにくくなる。<END>
+//POINTER #7 @ $3B4 - STRING #7 @ $57A6
+
+#W32($3B4)
+車に接触した際のペナルティを受けにくくなる。<END>
+//POINTER #8 @ $438 - STRING #8 @ $57D4
+
+#W32($438)
+ＤＰの獲得値を増加。<END>
+//POINTER #9 @ $4BC - STRING #9 @ $57EA
+
+#W32($4BC)
+コースアウトした際のＳＰダメージを緩和。<END>
+//POINTER #10 @ $540 - STRING #10 @ $5814
+
+#W32($540)
+コースアウトによるペナルティを受けにくくなる。<END>
+//POINTER #11 @ $5C4 - STRING #11 @ $5844
+
+#W32($5C4)
+ＤＰの獲得値を増加。<END>
+//POINTER #12 @ $648 - STRING #12 @ $585A
+
+#W32($648)
+壁に接触した際のＳＰダメージを緩和。<END>
+//POINTER #13 @ $6CC - STRING #13 @ $5880
+
+#W32($6CC)
+ＤＰの獲得値を増加。<END>
+//POINTER #14 @ $750 - STRING #14 @ $5896
+
+#W32($750)
+壁に接触した際のペナルティを受けにくくなる。<END>
+//POINTER #15 @ $7D4 - STRING #15 @ $58C4
+
+#W32($7D4)
+壁に接触した際のＳＰダメージを緩和。<END>
+//POINTER #16 @ $858 - STRING #16 @ $58EA
+
+#W32($858)
+壁に接触した際のペナルティを受けにくくなる。<END>
+//POINTER #17 @ $8DC - STRING #17 @ $5918
+
+#W32($8DC)
+相手に与えるＳＰダメージを著しく増加させるが、<END>
+//POINTER #18 @ $960 - STRING #18 @ $5948
+
+#W32($960)
+ＤＰの獲得値を増加。<END>
+//POINTER #19 @ $9E4 - STRING #19 @ $595E
+
+#W32($9E4)
+壁と車に接触した際のペナルティを受けにくくなる。<END>
+//POINTER #20 @ $A68 - STRING #20 @ $5990
+
+#W32($A68)
+相手に与えるＳＰダメージを著しく増加させるが、<END>
+//POINTER #21 @ $AEC - STRING #21 @ $59C0
+
+#W32($AEC)
+壁に接触した際のペナルティを受けにくくなる。<END>
+//POINTER #22 @ $B70 - STRING #22 @ $59EE
+
+#W32($B70)
+相手に与えるＳＰダメージを著しく増加させるが、<END>
+//POINTER #23 @ $BF4 - STRING #23 @ $5A1E
+
+#W32($BF4)
+ＤＰの獲得値を増加。<END>
+//POINTER #24 @ $C78 - STRING #24 @ $5A34
+
+#W32($C78)
+ＤＰの獲得値を増加。<END>
+//POINTER #25 @ $CFC - STRING #25 @ $5A4A
+
+#W32($CFC)
+ＤＰの獲得値を増加。<END>
+//POINTER #26 @ $D80 - STRING #26 @ $5A60
+
+#W32($D80)
+ＤＰの獲得値を増加。<END>
+//POINTER #27 @ $E04 - STRING #27 @ $5A76
+
+#W32($E04)
+サイドブレーキの温度上昇を緩和。<END>
+//POINTER #28 @ $E88 - STRING #28 @ $5A98
+
+#W32($E88)
+サイドブレーキの温度上昇を緩和。<END>
+//POINTER #29 @ $F0C - STRING #29 @ $5ABA
+
+#W32($F0C)
+油温・水温が一定以上上昇すると警告を表示。<END>
+//POINTER #30 @ $F90 - STRING #30 @ $5AE6
+
+#W32($F90)
+ブレーキフェードが一定以上上昇すると<END>
+//POINTER #31 @ $1014 - STRING #31 @ $5B0C
+
+#W32($1014)
+油温・水温・ブレーキフェードが<END>
+//POINTER #32 @ $1098 - STRING #32 @ $5B2C
+
+#W32($1098)
+壁や車に接触した際の、<END>
+//POINTER #33 @ $111C - STRING #33 @ $5B44
+
+#W32($111C)
+壁や車に接触した際の、<END>
+//POINTER #34 @ $11A0 - STRING #34 @ $5B5C
+
+#W32($11A0)
+壁や車に接触した際の、<END>
+//POINTER #35 @ $1224 - STRING #35 @ $5B74
+
+#W32($1224)
+壁や車に接触した際の、<END>
+//POINTER #36 @ $12A8 - STRING #36 @ $5B8C
+
+#W32($12A8)
+壁や車に接触した際の、<END>
+//POINTER #37 @ $132C - STRING #37 @ $5BA4
+
+#W32($132C)
+壁や車に接触した際の、<END>
+//POINTER #38 @ $13B0 - STRING #38 @ $5BBC
+
+#W32($13B0)
+ピット作業の時間を短縮。<END>
+//POINTER #39 @ $1434 - STRING #39 @ $5BD6
+
+#W32($1434)
+ピット作業の時間を短縮。<END>
+//POINTER #40 @ $14B8 - STRING #40 @ $5BF0
+
+#W32($14B8)
+ピット作業の時間を短縮。<END>
+//POINTER #41 @ $153C - STRING #41 @ $5C0A
+
+#W32($153C)
+ピット作業の時間を短縮。<END>
+//POINTER #42 @ $15C0 - STRING #42 @ $5C24
+
+#W32($15C0)
+ピット作業の時間を短縮。<END>
+//POINTER #43 @ $1644 - STRING #43 @ $5C3E
+
+#W32($1644)
+ピット作業の時間を短縮。<END>
+//POINTER #44 @ $16C8 - STRING #44 @ $5C58
+
+#W32($16C8)
+ブレーキフェードを緩和。<END>
+//POINTER #45 @ $174C - STRING #45 @ $5C72
+
+#W32($174C)
+ブレーキフェードを緩和。<END>
+//POINTER #46 @ $17D0 - STRING #46 @ $5C8C
+
+#W32($17D0)
+ブレーキフェードを緩和。<END>
+//POINTER #47 @ $1854 - STRING #47 @ $5CA6
+
+#W32($1854)
+走行によるコンディション低下を著しく抑えるが、<END>
+//POINTER #48 @ $18D8 - STRING #48 @ $5CD6
+
+#W32($18D8)
+走行によるコンディション低下を著しく抑えるが、<END>
+//POINTER #49 @ $195C - STRING #49 @ $5D06
+
+#W32($195C)
+走行によるコンディション低下を著しく抑えるが、<END>
+//POINTER #50 @ $19E0 - STRING #50 @ $5D36
+
+#W32($19E0)
+走行によるコンディション低下を抑える。<END>
+//POINTER #51 @ $1A64 - STRING #51 @ $5D5E
+
+#W32($1A64)
+走行によるコンディション低下を抑える。<END>
+//POINTER #52 @ $1AE8 - STRING #52 @ $5D86
+
+#W32($1AE8)
+走行によるコンディション低下を抑える。<END>
+//POINTER #53 @ $1B6C - STRING #53 @ $5DAE
+
+#W32($1B6C)
+走行によるコンディション低下を抑える。<END>
+//POINTER #54 @ $1BF0 - STRING #54 @ $5DD6
+
+#W32($1BF0)
+走行によるコンディション低下を著しく抑えるが、<END>
+//POINTER #55 @ $1C74 - STRING #55 @ $5E06
+
+#W32($1C74)
+走行によるコンディション低下を著しく抑えるが、<END>
+//POINTER #56 @ $1CF8 - STRING #56 @ $5E36
+
+#W32($1CF8)
+エンジンルームに貼り付けるだけで驚きの効果！<END>
+//POINTER #57 @ $1D7C - STRING #57 @ $5E64
+
+#W32($1D7C)
+簡単交換で、燃費を年間３０％削減！<END>
+//POINTER #58 @ $1E00 - STRING #58 @ $5E88
+
+#W32($1E00)
+簡単装着で、燃費を年間４０％削減！<END>
+//POINTER #59 @ $1E84 - STRING #59 @ $5EAC
+
+#W32($1E84)
+簡単装着で、燃費を年間５０％削減！<END>
+//POINTER #60 @ $1F08 - STRING #60 @ $5ED0
+
+#W32($1F08)
+使ってすぐに燃費削減の効果を実感！（体験者談）<END>
+//POINTER #61 @ $1F8C - STRING #61 @ $5F00
+
+#W32($1F8C)
+レストア費用を減少。<END>
+//POINTER #62 @ $2010 - STRING #62 @ $5F16
+
+#W32($2010)
+レストア費用を減少。<END>
+//POINTER #63 @ $2094 - STRING #63 @ $5F2C
+
+#W32($2094)
+タイヤダメージを緩和。<END>
+//POINTER #64 @ $2118 - STRING #64 @ $5F44
+
+#W32($2118)
+タイヤダメージを緩和。<END>
+//POINTER #65 @ $219C - STRING #65 @ $5F5C
+
+#W32($219C)
+タイヤダメージを緩和。<END>
+//POINTER #66 @ $2220 - STRING #66 @ $5F74
+
+#W32($2220)
+車を売却する際の買取価格がアップ。<END>
+//POINTER #67 @ $22A4 - STRING #67 @ $5F98
+
+#W32($22A4)
+車を売却する際の買取価格がアップ。<END>
+//POINTER #68 @ $2328 - STRING #68 @ $5FBC
+
+#W32($2328)
+車を売却する際の買取価格がアップ。<END>
+//POINTER #69 @ $23AC - STRING #69 @ $5FE0
+
+#W32($23AC)
+車を売却する際の買取価格がアップ。<END>
+//POINTER #70 @ $2430 - STRING #70 @ $6004
+
+#W32($2430)
+獲得するＮＰを増加させる。<END>
+//POINTER #71 @ $24B4 - STRING #71 @ $6020
+
+#W32($24B4)
+獲得するＮＰを増加させる。<END>
+//POINTER #72 @ $2538 - STRING #72 @ $603C
+
+#W32($2538)
+獲得するＮＰを増加させる。<END>
+//POINTER #73 @ $25BC - STRING #73 @ $6058
+
+#W32($25BC)
+雨になる確率を下げる。<END>
+//POINTER #74 @ $2640 - STRING #74 @ $6070
+
+#W32($2640)
+車に接触した際のＳＰダメージを緩和する。<END>
+//POINTER #75 @ $26C4 - STRING #75 @ $609A
+
+#W32($26C4)
+コースアウトした際のＳＰダメージを緩和。<END>
+//POINTER #76 @ $2748 - STRING #76 @ $60C4
+
+#W32($2748)
+連続バトルの際に、ＳＰの回復量が増加する。<END>
+//POINTER #77 @ $27CC - STRING #77 @ $60F0
+
+#W32($27CC)
+連続バトルの際に、ＳＰの回復量が増加する。<END>
+//POINTER #78 @ $2850 - STRING #78 @ $611C
+
+#W32($2850)
+連続バトルの際に、ＳＰの回復量が増加する。<END>
+//POINTER #79 @ $28D4 - STRING #79 @ $6148
+
+#W32($28D4)
+ＤＰの獲得値を増加させる。<END>
+//POINTER #80 @ $2958 - STRING #80 @ $6164
+
+#W32($2958)
+ＤＰバトルでセクションクリア時の<END>
+//POINTER #81 @ $29DC - STRING #81 @ $6186
+
+#W32($29DC)
+あらゆる局面でペナルティを受けにくくなる。<END>
+//POINTER #82 @ $2A60 - STRING #82 @ $61B2
+
+#W32($2A60)
+マップの表示範囲を変更。<END>
+//POINTER #83 @ $2AE4 - STRING #83 @ $61CC
+
+#W32($2AE4)
+マップの表示範囲を変更。<END>
+//POINTER #84 @ $2B68 - STRING #84 @ $61E6
+
+#W32($2B68)
+ライバルの感情が変化しやすくなる。<END>
+//POINTER #85 @ $2BEC - STRING #85 @ $620A
+
+#W32($2BEC)
+ライバルの感情が変化しにくくなる。<END>
+//POINTER #86 @ $2C70 - STRING #86 @ $622E
+
+#W32($2C70)
+バトル参加のたびにＣＰが１０００ずつ増加する。<END>
+//POINTER #87 @ $2CF4 - STRING #87 @ $625E
+
+#W32($2CF4)
+カー用品を装備する枠が１つ追加される。<END>
+//POINTER #88 @ $2D78 - STRING #88 @ $6286
+
+#W32($2D78)
+バックミラーを小さいサイズに交換。<END>
+//POINTER #89 @ $2DFC - STRING #89 @ $62AA
+
+#W32($2DFC)
+バックミラーを大きいサイズに交換。<END>
+//POINTER #90 @ $2E80 - STRING #90 @ $62CE
+
+#W32($2E80)
+倒したライバルから獲得するＣＰを増加させる。<END>
+//POINTER #91 @ $2F04 - STRING #91 @ $62FC
+
+#W32($2F04)
+獲得するＮＰを増加させる。<END>
+//POINTER #92 @ $2F88 - STRING #92 @ $6318
+
+#W32($2F88)
+ＳＰゲージのＭＡＸ値が増加する。<END>
+//POINTER #93 @ $300C - STRING #93 @ $633A
+
+#W32($300C)
+ＤＰの獲得値を増加させる。<END>
+//POINTER #94 @ $3090 - STRING #94 @ $6356
+
+#W32($3090)
+ピットでのペナルティ回復値を増加させる。<END>
+//POINTER #95 @ $3114 - STRING #95 @ $6380
+
+#W32($3114)
+美人ぞろいのレースクイーンポスター。<END>
+//POINTER #96 @ $3198 - STRING #96 @ $63A6
+
+#W32($3198)
+世界に数枚しかないＲＢレーサーのポスター。<END>
+//POINTER #97 @ $321C - STRING #97 @ $63D2
+
+#W32($321C)
+Ｃ１ＧＰ開催記念のポスター。<END>
+//POINTER #98 @ $32A0 - STRING #98 @ $63F0
+
+#W32($32A0)
+ＧＥＮＫＩデモカーのポスター。<END>
+//POINTER #99 @ $3324 - STRING #99 @ $6410
+
+#W32($3324)
+有名サーキットのコース図ポスター。<END>
+//POINTER #100 @ $33A8 - STRING #100 @ $6434
+
+#W32($33A8)
+スポンサードイベントに参加する際に<END>
+//POINTER #101 @ $342C - STRING #101 @ $6458
+
+#W32($342C)
+スポンサードイベントに参加する際に<END>
+//POINTER #102 @ $34B0 - STRING #102 @ $647C
+
+#W32($34B0)
+スポンサードイベントに参加する際に<END>
+//POINTER #103 @ $3534 - STRING #103 @ $64A0
+
+#W32($3534)
+使い方次第で、強力な味方にも<END>
+//POINTER #104 @ $35B8 - STRING #104 @ $64BE
+
+#W32($35B8)
+使い方次第で、強力な味方にも<END>
+//POINTER #105 @ $363C - STRING #105 @ $64DC
+
+#W32($363C)
+使い方次第で、強力な味方にも<END>
+//POINTER #106 @ $36C0 - STRING #106 @ $64FA
+
+#W32($36C0)
+<END>
+//POINTER #107 @ $3744 - STRING #107 @ $64FC
+
+#W32($3744)
+<END>
+//POINTER #108 @ $37C8 - STRING #108 @ $64FE
+
+#W32($37C8)
+<END>
+//POINTER #109 @ $384C - STRING #109 @ $6500
+
+#W32($384C)
+<END>
+//POINTER #110 @ $38D0 - STRING #110 @ $6502
+
+#W32($38D0)
+<END>
+//POINTER #111 @ $3954 - STRING #111 @ $6504
+
+#W32($3954)
+<END>
+//POINTER #112 @ $39D8 - STRING #112 @ $6506
+
+#W32($39D8)
+カー用品の装備枠を追加する。<END>
+//POINTER #113 @ $3A5C - STRING #113 @ $6524
+
+#W32($3A5C)
+カー用品の装備枠を追加する。<END>
+//POINTER #114 @ $3AE0 - STRING #114 @ $6542
+
+#W32($3AE0)
+カー用品の装備枠を追加する。<END>
+//BLOCK #002 NAME:		224.bin File - Item Combination Description block
+
+//POINTER #0 @ $1C - STRING #0 @ $6560
+
+#W32($1C)
+「クッション」と併用で効果が上昇。<END>
+//POINTER #1 @ $A0 - STRING #1 @ $6584
+
+#W32($A0)
+受けにくくなる。<END>
+//POINTER #2 @ $124 - STRING #2 @ $6596
+
+#W32($124)
+有名レーサーが使用している<END>
+//POINTER #3 @ $1A8 - STRING #3 @ $65B2
+
+#W32($1A8)
+「レーシンググローブ」と併用で効果が上昇。<END>
+//POINTER #4 @ $22C - STRING #4 @ $65DE
+
+#W32($22C)
+「公認グローブ」と併用すると効果が上昇。<END>
+//POINTER #5 @ $2B0 - STRING #5 @ $6608
+
+#W32($2B0)
+「レーサーモデルグローブ」と併用で効果が上昇。<END>
+//POINTER #6 @ $334 - STRING #6 @ $6638
+
+#W32($334)
+「レーシングスーツ」と併用で効果が上昇。<END>
+//POINTER #7 @ $3B8 - STRING #7 @ $6662
+
+#W32($3B8)
+「公認スーツ」と併用で効果が上昇。<END>
+//POINTER #8 @ $43C - STRING #8 @ $6686
+
+#W32($43C)
+「レーサーモデルスーツ」と併用で効果が上昇。<END>
+//POINTER #9 @ $4C0 - STRING #9 @ $66B4
+
+#W32($4C0)
+「フロアカーペット」と併用で効果が上昇。<END>
+//POINTER #10 @ $544 - STRING #10 @ $66DE
+
+#W32($544)
+公式レースでも使える公認シューズ。<END>
+//POINTER #11 @ $5C8 - STRING #11 @ $6702
+
+#W32($5C8)
+有名レーサーが使用しているシューズのレプリカ。<END>
+//POINTER #12 @ $64C - STRING #12 @ $6732
+
+#W32($64C)
+「4点式シートベルト」と併用で効果が上昇。<END>
+//POINTER #13 @ $6D0 - STRING #13 @ $675E
+
+#W32($6D0)
+完全スポーツ走行向け、<END>
+//POINTER #14 @ $754 - STRING #14 @ $6776
+
+#W32($754)
+「4点式クイックリリースタイプ」と併用で<END>
+//POINTER #15 @ $7D8 - STRING #15 @ $67A0
+
+#W32($7D8)
+「セミバケットシート」と併用で効果が上昇。<END>
+//POINTER #16 @ $85C - STRING #16 @ $67CC
+
+#W32($85C)
+「カーボン製フルバケットシート」と併用で<END>
+//POINTER #17 @ $8E0 - STRING #17 @ $67F6
+
+#W32($8E0)
+自車も壁に接触した際のＳＰダメージが増加する。<END>
+//POINTER #18 @ $964 - STRING #18 @ $6826
+
+#W32($964)
+性能面、寿命面を向上させた点火系部品。<END>
+//POINTER #19 @ $9E8 - STRING #19 @ $684E
+
+#W32($9E8)
+性能面、寿命面ともに最高レベルの点火系部品。<END>
+//POINTER #20 @ $A6C - STRING #20 @ $687C
+
+#W32($A6C)
+自車も車に接触した際のＳＰダメージが増加する。<END>
+//POINTER #21 @ $AF0 - STRING #21 @ $68AC
+
+#W32($AF0)
+従来の点火システムの性能を飛躍的にアップ。<END>
+//POINTER #22 @ $B74 - STRING #22 @ $68D8
+
+#W32($B74)
+自車も車に接触した際のＳＰダメージが増加する。<END>
+//POINTER #23 @ $BF8 - STRING #23 @ $6908
+
+#W32($BF8)
+点火システムに強力な高圧電流を与え性能を向上。<END>
+//POINTER #24 @ $C7C - STRING #24 @ $6938
+
+#W32($C7C)
+サイドブレーキの自動ロック機能を解除。<END>
+//POINTER #25 @ $D00 - STRING #25 @ $6960
+
+#W32($D00)
+アルミ製よりも滑らかな手触り。<END>
+//POINTER #26 @ $D84 - STRING #26 @ $6980
+
+#W32($D84)
+「スピンターンノブ」と併用で効果が上昇。<END>
+//POINTER #27 @ $E08 - STRING #27 @ $69AA
+
+#W32($E08)
+「ブレーキクリーナー」と併用で効果が上昇。<END>
+//POINTER #28 @ $E8C - STRING #28 @ $69D6
+
+#W32($E8C)
+「ブレーキクリーナー」と併用で効果が上昇。<END>
+//POINTER #29 @ $F10 - STRING #29 @ $6A02
+
+#W32($F10)
+チョークで書き込むレトロ感の漂う黒板。<END>
+//POINTER #30 @ $F94 - STRING #30 @ $6A2A
+
+#W32($F94)
+警告を表示。<END>
+//POINTER #31 @ $1018 - STRING #31 @ $6A38
+
+#W32($1018)
+一定以上上昇すると警告を表示。<END>
+//POINTER #32 @ $109C - STRING #32 @ $6A58
+
+#W32($109C)
+車のコンディション低下を緩和。<END>
+//POINTER #33 @ $1120 - STRING #33 @ $6A78
+
+#W32($1120)
+車のコンディション低下を緩和。<END>
+//POINTER #34 @ $11A4 - STRING #34 @ $6A98
+
+#W32($11A4)
+車のコンディション低下を緩和。<END>
+//POINTER #35 @ $1228 - STRING #35 @ $6AB8
+
+#W32($1228)
+車のコンディション低下を緩和。<END>
+//POINTER #36 @ $12AC - STRING #36 @ $6AD8
+
+#W32($12AC)
+車のコンディション低下を緩和。<END>
+//POINTER #37 @ $1330 - STRING #37 @ $6AF8
+
+#W32($1330)
+車のコンディション低下を緩和。<END>
+//POINTER #38 @ $13B4 - STRING #38 @ $6B18
+
+#W32($13B4)
+「リジッドラック」と併用で効果が上昇。<END>
+//POINTER #39 @ $1438 - STRING #39 @ $6B40
+
+#W32($1438)
+「リジッドラック」と併用で効果が上昇。<END>
+//POINTER #40 @ $14BC - STRING #40 @ $6B68
+
+#W32($14BC)
+「リジッドラック」と併用で効果が上昇。<END>
+//POINTER #41 @ $1540 - STRING #41 @ $6B90
+
+#W32($1540)
+「ジャッキ」と併用で効果が上昇。<END>
+//POINTER #42 @ $15C4 - STRING #42 @ $6BB2
+
+#W32($15C4)
+「ジャッキ」と併用で効果が上昇。<END>
+//POINTER #43 @ $1648 - STRING #43 @ $6BD4
+
+#W32($1648)
+「ジャッキ」と併用で効果が上昇。<END>
+//POINTER #44 @ $16CC - STRING #44 @ $6BF6
+
+#W32($16CC)
+「インナーシュー」と併用で効果が上昇。<END>
+//POINTER #45 @ $1750 - STRING #45 @ $6C1E
+
+#W32($1750)
+「インナーシュー」と併用で効果が上昇。<END>
+//POINTER #46 @ $17D4 - STRING #46 @ $6C46
+
+#W32($17D4)
+「インナーシュー」と併用で効果が上昇。<END>
+//POINTER #47 @ $1858 - STRING #47 @ $6C6E
+
+#W32($1858)
+壁や車に接触した際の低下率は上昇する。<END>
+//POINTER #48 @ $18DC - STRING #48 @ $6C96
+
+#W32($18DC)
+壁や車に接触した際の低下率は上昇する。<END>
+//POINTER #49 @ $1960 - STRING #49 @ $6CBE
+
+#W32($1960)
+壁や車に接触した際の低下率は上昇する。<END>
+//POINTER #50 @ $19E4 - STRING #50 @ $6CE6
+
+#W32($19E4)
+「エンジンオイル添加剤」と併用で効果が上昇。<END>
+//POINTER #51 @ $1A68 - STRING #51 @ $6D14
+
+#W32($1A68)
+「エンジンオイル添加剤」と併用で効果が上昇。<END>
+//POINTER #52 @ $1AEC - STRING #52 @ $6D42
+
+#W32($1AEC)
+「エンジンオイル添加剤」と併用で効果が上昇。<END>
+//POINTER #53 @ $1B70 - STRING #53 @ $6D70
+
+#W32($1B70)
+「エンジンオイル」と併用で効果が上昇。<END>
+//POINTER #54 @ $1BF4 - STRING #54 @ $6D98
+
+#W32($1BF4)
+壁や車に接触した際の低下率は上昇する。<END>
+//POINTER #55 @ $1C78 - STRING #55 @ $6DC0
+
+#W32($1C78)
+壁や車に接触した際の低下率は上昇する。<END>
+//POINTER #56 @ $1CFC - STRING #56 @ $6DE8
+
+#W32($1CFC)
+大好評、大人気エコロジーアイテム。<END>
+//POINTER #57 @ $1D80 - STRING #57 @ $6E0C
+
+#W32($1D80)
+走れば走るほど得をする脅威のアイテム。<END>
+//POINTER #58 @ $1E04 - STRING #58 @ $6E34
+
+#W32($1E04)
+走れば走るほど得をする脅威のアイテム。<END>
+//POINTER #59 @ $1E88 - STRING #59 @ $6E5C
+
+#W32($1E88)
+走れば走るほど得をする脅威のアイテム。<END>
+//POINTER #60 @ $1F0C - STRING #60 @ $6E84
+
+#W32($1F0C)
+プロレーサーも愛用している信頼度！<END>
+//POINTER #61 @ $1F90 - STRING #61 @ $6EA8
+
+#W32($1F90)
+重いエンジンも軽々と持ち上げ作業効率もアップ。<END>
+//POINTER #62 @ $2014 - STRING #62 @ $6ED8
+
+#W32($2014)
+ガレージにクレーンを据え付け工事。<END>
+//POINTER #63 @ $2098 - STRING #63 @ $6EFC
+
+#W32($2098)
+自転車のタイヤにも使える手動のエアポンプ。<END>
+//POINTER #64 @ $211C - STRING #64 @ $6F28
+
+#W32($211C)
+電動でタイヤに楽々空気を注入。<END>
+//POINTER #65 @ $21A0 - STRING #65 @ $6F48
+
+#W32($21A0)
+電動でタイヤに楽々空気を注入。<END>
+//POINTER #66 @ $2224 - STRING #66 @ $6F68
+
+#W32($2224)
+「コート剤」と併用で効果が上昇。<END>
+//POINTER #67 @ $22A8 - STRING #67 @ $6F8A
+
+#W32($22A8)
+「コート剤」と併用で効果が上昇。<END>
+//POINTER #68 @ $232C - STRING #68 @ $6FAC
+
+#W32($232C)
+「コート剤」と併用で効果が上昇。<END>
+//POINTER #69 @ $23B0 - STRING #69 @ $6FCE
+
+#W32($23B0)
+「洗車セット」と併用で効果が上昇。<END>
+//POINTER #70 @ $2434 - STRING #70 @ $6FF2
+
+#W32($2434)
+窓の汚れや油膜を完全除去。<END>
+//POINTER #71 @ $24B8 - STRING #71 @ $700E
+
+#W32($24B8)
+通常の数倍の洗浄効果。<END>
+//POINTER #72 @ $253C - STRING #72 @ $7026
+
+#W32($253C)
+イオンパワーで頑固な汚れも根こそぎ分解。<END>
+//POINTER #73 @ $25C0 - STRING #73 @ $7050
+
+#W32($25C0)
+少量で長時間の曇り止め効果を発揮。<END>
+//POINTER #74 @ $2644 - STRING #74 @ $7074
+
+#W32($2644)
+「ヘルメット」と併用で効果が上昇。<END>
+//POINTER #75 @ $26C8 - STRING #75 @ $7098
+
+#W32($26C8)
+「レーシングシューズ」と併用で効果が上昇。<END>
+//POINTER #76 @ $274C - STRING #76 @ $70C4
+
+#W32($274C)
+「空気清浄機」「エアコンフィルター」と併用で<END>
+//POINTER #77 @ $27D0 - STRING #77 @ $70F2
+
+#W32($27D0)
+「マイナスイオン発生器」と併用で効果が上昇。<END>
+//POINTER #78 @ $2854 - STRING #78 @ $7120
+
+#W32($2854)
+「マイナスイオン発生器」と併用で効果が上昇。<END>
+//POINTER #79 @ $28D8 - STRING #79 @ $714E
+
+#W32($28D8)
+「スピンターンノブ」と併用で効果が上昇。<END>
+//POINTER #80 @ $295C - STRING #80 @ $7178
+
+#W32($295C)
+獲得ボーナスが増加する。<END>
+//POINTER #81 @ $29E0 - STRING #81 @ $7192
+
+#W32($29E0)
+高性能センサーで障害物の接近を敏感に察知。<END>
+//POINTER #82 @ $2A64 - STRING #82 @ $71BE
+
+#W32($2A64)
+様々なものを探知して、ドライバーに情報伝達。<END>
+//POINTER #83 @ $2AE8 - STRING #83 @ $71EC
+
+#W32($2AE8)
+機能拡大で探知可能範囲が大幅に拡大。<END>
+//POINTER #84 @ $2B6C - STRING #84 @ $7212
+
+#W32($2B6C)
+心地よい香りで気分をリラックス。<END>
+//POINTER #85 @ $2BF0 - STRING #85 @ $7234
+
+#W32($2BF0)
+車内にこもる嫌な臭いを強力消臭。<END>
+//POINTER #86 @ $2C74 - STRING #86 @ $7256
+
+#W32($2C74)
+小銭をセットできるホルダー。<END>
+//POINTER #87 @ $2CF8 - STRING #87 @ $7274
+
+#W32($2CF8)
+小物を収納できるアームレスト。<END>
+//POINTER #88 @ $2D7C - STRING #88 @ $7294
+
+#W32($2D7C)
+ミニサイズのバックミラー。<END>
+//POINTER #89 @ $2E00 - STRING #89 @ $72B0
+
+#W32($2E00)
+ビッグサイズのバックミラー。<END>
+//POINTER #90 @ $2E84 - STRING #90 @ $72CE
+
+#W32($2E84)
+ささやかなお金のご利益があるお守り。<END>
+//POINTER #91 @ $2F08 - STRING #91 @ $72F4
+
+#W32($2F08)
+ささやかな人気のご利益があるお守り。<END>
+//POINTER #92 @ $2F8C - STRING #92 @ $731A
+
+#W32($2F8C)
+ささやかなＳＰのご利益があるお守り。<END>
+//POINTER #93 @ $3010 - STRING #93 @ $7340
+
+#W32($3010)
+ささやかなＤＰのご利益があるお守り。<END>
+//POINTER #94 @ $3094 - STRING #94 @ $7366
+
+#W32($3094)
+ささやかなＲＰのご利益があるお守り。<END>
+//POINTER #95 @ $3118 - STRING #95 @ $738C
+
+#W32($3118)
+<END>
+//POINTER #96 @ $319C - STRING #96 @ $738E
+
+#W32($319C)
+<END>
+//POINTER #97 @ $3220 - STRING #97 @ $7390
+
+#W32($3220)
+<END>
+//POINTER #98 @ $32A4 - STRING #98 @ $7392
+
+#W32($32A4)
+<END>
+//POINTER #99 @ $3328 - STRING #99 @ $7394
+
+#W32($3328)
+<END>
+//POINTER #100 @ $33AC - STRING #100 @ $7396
+
+#W32($33AC)
+必要なＮＰが緩和される。<END>
+//POINTER #101 @ $3430 - STRING #101 @ $73B0
+
+#W32($3430)
+必要なＮＰが緩和される。<END>
+//POINTER #102 @ $34B4 - STRING #102 @ $73CA
+
+#W32($34B4)
+必要なＮＰが緩和される。<END>
+//POINTER #103 @ $3538 - STRING #103 @ $73E4
+
+#W32($3538)
+己の身を滅ぼす存在にもなる最終兵器。<END>
+//POINTER #104 @ $35BC - STRING #104 @ $740A
+
+#W32($35BC)
+己の身を滅ぼす存在にもなる最終兵器。<END>
+//POINTER #105 @ $3640 - STRING #105 @ $7430
+
+#W32($3640)
+己の身を滅ぼす存在にもなる最終兵器。<END>
+//POINTER #106 @ $36C4 - STRING #106 @ $7456
+
+#W32($36C4)
+<END>
+//POINTER #107 @ $3748 - STRING #107 @ $7458
+
+#W32($3748)
+<END>
+//POINTER #108 @ $37CC - STRING #108 @ $745A
+
+#W32($37CC)
+<END>
+//POINTER #109 @ $3850 - STRING #109 @ $745C
+
+#W32($3850)
+<END>
+//POINTER #110 @ $38D4 - STRING #110 @ $745E
+
+#W32($38D4)
+<END>
+//POINTER #111 @ $3958 - STRING #111 @ $7460
+
+#W32($3958)
+<END>
+//POINTER #112 @ $39DC - STRING #112 @ $7462
+
+#W32($39DC)
+小型でコンパクトなキャビネット。<END>
+//POINTER #113 @ $3A60 - STRING #113 @ $7484
+
+#W32($3A60)
+中型で汎用性の高いキャビネット。<END>
+//POINTER #114 @ $3AE4 - STRING #114 @ $74A6
+
+#W32($3AE4)
+大型で大容量の収納が可能なキャビネット。<END>
+//BLOCK #003 NAME:		224.bin File - Item Description block
+
+//POINTER #0 @ $20 - STRING #0 @ $74D0
+
+#W32($20)
+入門者も安心して着用できるヘルメット。<END>
+//POINTER #1 @ $A4 - STRING #1 @ $74F8
+
+#W32($A4)
+公式レースでも使える公認ヘルメット。<END>
+//POINTER #2 @ $128 - STRING #2 @ $751E
+
+#W32($128)
+ヘルメットのレプリカ。<END>
+//POINTER #3 @ $1AC - STRING #3 @ $7536
+
+#W32($1AC)
+入門者も抵抗なく着用できる安心素材。<END>
+//POINTER #4 @ $230 - STRING #4 @ $755C
+
+#W32($230)
+公式レースでも使える公認スーツ。<END>
+//POINTER #5 @ $2B4 - STRING #5 @ $757E
+
+#W32($2B4)
+有名レーサーが使用しているスーツのレプリカ。<END>
+//POINTER #6 @ $338 - STRING #6 @ $75AC
+
+#W32($338)
+入門者も違和感なく装着できるグローブ。<END>
+//POINTER #7 @ $3BC - STRING #7 @ $75D4
+
+#W32($3BC)
+公式レースでも使える公認グローブ。<END>
+//POINTER #8 @ $440 - STRING #8 @ $75F8
+
+#W32($440)
+有名レーサーが使用しているグローブのレプリカ。<END>
+//POINTER #9 @ $4C4 - STRING #9 @ $7628
+
+#W32($4C4)
+入門者向けのレーシングシューズ。<END>
+//POINTER #10 @ $548 - STRING #10 @ $764A
+
+#W32($548)
+<END>
+//POINTER #11 @ $5CC - STRING #11 @ $764C
+
+#W32($5CC)
+<END>
+//POINTER #12 @ $650 - STRING #12 @ $764E
+
+#W32($650)
+リクライニング機能付きで、シート交換も不要。<END>
+//POINTER #13 @ $6D4 - STRING #13 @ $767C
+
+#W32($6D4)
+激しい横Ｇにも体をしっかりとシートに固定。<END>
+//POINTER #14 @ $758 - STRING #14 @ $76A8
+
+#W32($758)
+効果が上昇。<END>
+//POINTER #15 @ $7DC - STRING #15 @ $76B6
+
+#W32($7DC)
+３インチ幅のベルトでホールド性、強度は抜群。<END>
+//POINTER #16 @ $860 - STRING #16 @ $76E4
+
+#W32($860)
+効果が上昇。<END>
+//POINTER #17 @ $8E4 - STRING #17 @ $76F2
+
+#W32($8E4)
+スタンダードな点火系部品。<END>
+//POINTER #18 @ $968 - STRING #18 @ $770E
+
+#W32($968)
+<END>
+//POINTER #19 @ $9EC - STRING #19 @ $7710
+
+#W32($9EC)
+<END>
+//POINTER #20 @ $A70 - STRING #20 @ $7712
+
+#W32($A70)
+「プラグコード」と併用で効果が上昇。<END>
+//POINTER #21 @ $AF4 - STRING #21 @ $7738
+
+#W32($AF4)
+<END>
+//POINTER #22 @ $B78 - STRING #22 @ $773A
+
+#W32($B78)
+「ＭＤＩシステム」と併用で効果が上昇。<END>
+//POINTER #23 @ $BFC - STRING #23 @ $7762
+
+#W32($BFC)
+<END>
+//POINTER #24 @ $C80 - STRING #24 @ $7764
+
+#W32($C80)
+スピンターンが驚くほどにしやすくなる。<END>
+//POINTER #25 @ $D04 - STRING #25 @ $778C
+
+#W32($D04)
+<END>
+//POINTER #26 @ $D88 - STRING #26 @ $778E
+
+#W32($D88)
+通常のサイドブレーキの性能向上版。<END>
+//POINTER #27 @ $E0C - STRING #27 @ $77B2
+
+#W32($E0C)
+スポーツ走行に耐えるフェード性を実現。<END>
+//POINTER #28 @ $E90 - STRING #28 @ $77DA
+
+#W32($E90)
+本格競技にも耐え得るフェード性を実現。<END>
+//POINTER #29 @ $F14 - STRING #29 @ $7802
+
+#W32($F14)
+<END>
+//POINTER #30 @ $F98 - STRING #30 @ $7804
+
+#W32($F98)
+チョークで書き込む今風の黒板。<END>
+//POINTER #31 @ $101C - STRING #31 @ $7824
+
+#W32($101C)
+文字プレートを使用したサインボード。<END>
+//POINTER #32 @ $10A0 - STRING #32 @ $784A
+
+#W32($10A0)
+「工具」と併用で効果が上昇。<END>
+//POINTER #33 @ $1124 - STRING #33 @ $7868
+
+#W32($1124)
+「工具」と併用で効果が上昇。<END>
+//POINTER #34 @ $11A8 - STRING #34 @ $7886
+
+#W32($11A8)
+「工具」と併用で効果が上昇。<END>
+//POINTER #35 @ $122C - STRING #35 @ $78A4
+
+#W32($122C)
+「補修用品」と併用で効果が上昇。<END>
+//POINTER #36 @ $12B0 - STRING #36 @ $78C6
+
+#W32($12B0)
+「補修用品」と併用で効果が上昇。<END>
+//POINTER #37 @ $1334 - STRING #37 @ $78E8
+
+#W32($1334)
+「補修用品」と併用で効果が上昇。<END>
+//POINTER #38 @ $13B8 - STRING #38 @ $790A
+
+#W32($13B8)
+小型ながらも納得の強度。<END>
+//POINTER #39 @ $143C - STRING #39 @ $7924
+
+#W32($143C)
+車高が高めの車向き。<END>
+//POINTER #40 @ $14C0 - STRING #40 @ $793A
+
+#W32($14C0)
+油圧を利用してパワフルな力を生み出す。<END>
+//POINTER #41 @ $1544 - STRING #41 @ $7962
+
+#W32($1544)
+ジャッキアップした車を支える支持台。<END>
+//POINTER #42 @ $15C8 - STRING #42 @ $7988
+
+#W32($15C8)
+ジャッキアップした車を支える支持台。<END>
+//POINTER #43 @ $164C - STRING #43 @ $79AE
+
+#W32($164C)
+ジャッキアップを補助するスロープ付き。<END>
+//POINTER #44 @ $16D0 - STRING #44 @ $79D6
+
+#W32($16D0)
+ブレーキクリーナーのスタンダード。<END>
+//POINTER #45 @ $1754 - STRING #45 @ $79FA
+
+#W32($1754)
+競技用車両向けに開発された高性能クリーナー。<END>
+//POINTER #46 @ $17D8 - STRING #46 @ $7A28
+
+#W32($17D8)
+お徳用ボトルタイプ。<END>
+//POINTER #47 @ $185C - STRING #47 @ $7A3E
+
+#W32($185C)
+「アーシングパーツ」と併用で効果が上昇。<END>
+//POINTER #48 @ $18E0 - STRING #48 @ $7A68
+
+#W32($18E0)
+「アーシングパーツ」と併用で効果が上昇。<END>
+//POINTER #49 @ $1964 - STRING #49 @ $7A92
+
+#W32($1964)
+「アーシングパーツ」と併用で効果が上昇。<END>
+//POINTER #50 @ $19E8 - STRING #50 @ $7ABC
+
+#W32($19E8)
+低コストなエンジンオイルのスタンダード。<END>
+//POINTER #51 @ $1A6C - STRING #51 @ $7AE6
+
+#W32($1A6C)
+性能とコストバランスが良いハイブリットオイル。<END>
+//POINTER #52 @ $1AF0 - STRING #52 @ $7B16
+
+#W32($1AF0)
+スポーツ走行向けの高性能エンジンオイル。<END>
+//POINTER #53 @ $1B74 - STRING #53 @ $7B40
+
+#W32($1B74)
+エンジンオイルの性能が驚くほどに向上。<END>
+//POINTER #54 @ $1BF8 - STRING #54 @ $7B68
+
+#W32($1BF8)
+「バッテリー」と併用で効果が上昇。<END>
+//POINTER #55 @ $1C7C - STRING #55 @ $7B8C
+
+#W32($1C7C)
+「バッテリー」と併用で効果が上昇。<END>
+//POINTER #56 @ $1D00 - STRING #56 @ $7BB0
+
+#W32($1D00)
+<END>
+//POINTER #57 @ $1D84 - STRING #57 @ $7BB2
+
+#W32($1D84)
+<END>
+//POINTER #58 @ $1E08 - STRING #58 @ $7BB4
+
+#W32($1E08)
+<END>
+//POINTER #59 @ $1E8C - STRING #59 @ $7BB6
+
+#W32($1E8C)
+<END>
+//POINTER #60 @ $1F10 - STRING #60 @ $7BB8
+
+#W32($1F10)
+<END>
+//POINTER #61 @ $1F94 - STRING #61 @ $7BBA
+
+#W32($1F94)
+<END>
+//POINTER #62 @ $2018 - STRING #62 @ $7BBC
+
+#W32($2018)
+<END>
+//POINTER #63 @ $209C - STRING #63 @ $7BBE
+
+#W32($209C)
+<END>
+//POINTER #64 @ $2120 - STRING #64 @ $7BC0
+
+#W32($2120)
+<END>
+//POINTER #65 @ $21A4 - STRING #65 @ $7BC2
+
+#W32($21A4)
+大型になり注入パワーも格段アップ。<END>
+//POINTER #66 @ $2228 - STRING #66 @ $7BE6
+
+#W32($2228)
+ボディを傷めず汚れを洗浄、驚きの水ハジキ効果。<END>
+//POINTER #67 @ $22AC - STRING #67 @ $7C16
+
+#W32($22AC)
+強力かつ長期間の被膜効果と、美しいツヤを体感。<END>
+//POINTER #68 @ $2330 - STRING #68 @ $7C46
+
+#W32($2330)
+高圧噴射で汚れをみるみる弾き飛ばす。<END>
+//POINTER #69 @ $23B4 - STRING #69 @ $7C6C
+
+#W32($23B4)
+洗車した愛車をホコリや油膜から完全ブロック。<END>
+//POINTER #70 @ $2438 - STRING #70 @ $7C9A
+
+#W32($2438)
+<END>
+//POINTER #71 @ $24BC - STRING #71 @ $7C9C
+
+#W32($24BC)
+<END>
+//POINTER #72 @ $2540 - STRING #72 @ $7C9E
+
+#W32($2540)
+<END>
+//POINTER #73 @ $25C4 - STRING #73 @ $7CA0
+
+#W32($25C4)
+<END>
+//POINTER #74 @ $2648 - STRING #74 @ $7CA2
+
+#W32($2648)
+絶妙な座り心地で腰にフィットする高性能座布団。<END>
+//POINTER #75 @ $26CC - STRING #75 @ $7CD2
+
+#W32($26CC)
+天然素材仕様で耐久性、抗菌、消臭効果も抜群。<END>
+//POINTER #76 @ $2750 - STRING #76 @ $7D00
+
+#W32($2750)
+効果が上昇。<END>
+//POINTER #77 @ $27D4 - STRING #77 @ $7D0E
+
+#W32($27D4)
+空気中のホコリや頑固なタバコの臭いを完全除去。<END>
+//POINTER #78 @ $2858 - STRING #78 @ $7D3E
+
+#W32($2858)
+極薄フィルターでホコリの進入をシャットアウト。<END>
+//POINTER #79 @ $28DC - STRING #79 @ $7D6E
+
+#W32($28DC)
+スポーティなデザインで手にジャストフィット。<END>
+//POINTER #80 @ $2960 - STRING #80 @ $7D9C
+
+#W32($2960)
+ペットボトル、３５０ｍｌ缶の水のこぼれを防止。<END>
+//POINTER #81 @ $29E4 - STRING #81 @ $7DCC
+
+#W32($29E4)
+<END>
+//POINTER #82 @ $2A68 - STRING #82 @ $7DCE
+
+#W32($2A68)
+<END>
+//POINTER #83 @ $2AEC - STRING #83 @ $7DD0
+
+#W32($2AEC)
+<END>
+//POINTER #84 @ $2B70 - STRING #84 @ $7DD2
+
+#W32($2B70)
+<END>
+//POINTER #85 @ $2BF4 - STRING #85 @ $7DD4
+
+#W32($2BF4)
+<END>
+//POINTER #86 @ $2C78 - STRING #86 @ $7DD6
+
+#W32($2C78)
+<END>
+//POINTER #87 @ $2CFC - STRING #87 @ $7DD8
+
+#W32($2CFC)
+<END>
+//POINTER #88 @ $2D80 - STRING #88 @ $7DDA
+
+#W32($2D80)
+<END>
+//POINTER #89 @ $2E04 - STRING #89 @ $7DDC
+
+#W32($2E04)
+<END>
+//POINTER #90 @ $2E88 - STRING #90 @ $7DDE
+
+#W32($2E88)
+<END>
+//POINTER #91 @ $2F0C - STRING #91 @ $7DE0
+
+#W32($2F0C)
+<END>
+//POINTER #92 @ $2F90 - STRING #92 @ $7DE2
+
+#W32($2F90)
+<END>
+//POINTER #93 @ $3014 - STRING #93 @ $7DE4
+
+#W32($3014)
+<END>
+//POINTER #94 @ $3098 - STRING #94 @ $7DE6
+
+#W32($3098)
+<END>
+//POINTER #95 @ $311C - STRING #95 @ $7DE8
+
+#W32($311C)
+<END>
+//POINTER #96 @ $31A0 - STRING #96 @ $7DEA
+
+#W32($31A0)
+<END>
+//POINTER #97 @ $3224 - STRING #97 @ $7DEC
+
+#W32($3224)
+<END>
+//POINTER #98 @ $32A8 - STRING #98 @ $7DEE
+
+#W32($32A8)
+<END>
+//POINTER #99 @ $332C - STRING #99 @ $7DF0
+
+#W32($332C)
+<END>
+//POINTER #100 @ $33B0 - STRING #100 @ $7DF2
+
+#W32($33B0)
+職人芸で細部まで再現。<END>
+//POINTER #101 @ $3434 - STRING #101 @ $7E0A
+
+#W32($3434)
+太っ腹のセット売り。<END>
+//POINTER #102 @ $34B8 - STRING #102 @ $7E20
+
+#W32($34B8)
+実車に負けず劣らずチューン可能。<END>
+//POINTER #103 @ $353C - STRING #103 @ $7E42
+
+#W32($353C)
+使用中は他の装備カー用品の効果は失われる。<END>
+//POINTER #104 @ $35C0 - STRING #104 @ $7E6E
+
+#W32($35C0)
+使用中は他の装備カー用品の効果は失われる。<END>
+//POINTER #105 @ $3644 - STRING #105 @ $7E9A
+
+#W32($3644)
+使用中は他の装備カー用品の効果は失われる。<END>
+//POINTER #106 @ $36C8 - STRING #106 @ $7EC6
+
+#W32($36C8)
+<END>
+//POINTER #107 @ $374C - STRING #107 @ $7EC8
+
+#W32($374C)
+<END>
+//POINTER #108 @ $37D0 - STRING #108 @ $7ECA
+
+#W32($37D0)
+<END>
+//POINTER #109 @ $3854 - STRING #109 @ $7ECC
+
+#W32($3854)
+<END>
+//POINTER #110 @ $38D8 - STRING #110 @ $7ECE
+
+#W32($38D8)
+<END>
+//POINTER #111 @ $395C - STRING #111 @ $7ED0
+
+#W32($395C)
+<END>
+//POINTER #112 @ $39E0 - STRING #112 @ $7ED2
+
+#W32($39E0)
+<END>
+//POINTER #113 @ $3A64 - STRING #113 @ $7ED4
+
+#W32($3A64)
+<END>
+//POINTER #114 @ $3AE8 - STRING #114 @ $7ED6
+
+#W32($3AE8)
+<END>

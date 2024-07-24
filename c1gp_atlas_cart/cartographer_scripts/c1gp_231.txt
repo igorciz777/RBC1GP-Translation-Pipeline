@@ -1,0 +1,115 @@
+#GAME NAME:		C1 Racing Battle Grand Prix
+
+//Pointers start later in the file @0x0002B190, unlike most that start at the beginning
+//File contains BBS threads
+//Each thread has its own struct:
+//struct Thread {
+//    int32 text1;
+//    int32 text2;
+//    int32 text3;
+//    int32 text4;
+//    int32 text5;
+//    int32 FF_end?;
+//    int32 *unknown4;
+//    int32 *unknown5;
+//    int32 FFFF_endOfStruct;
+//};
+
+#BLOCK NAME:	231.bin File - Encoded BBS Text 1
+#TYPE:			NORMAL
+#METHOD:		POINTER
+
+#POINTER TABLE START:	$2B190
+#POINTER TABLE STOP:	$35F2F
+#POINTER SIZE:	4
+#POINTER SPACE: 32
+#POINTER ENDIAN: LITTLE
+#ATLAS PTRS: Yes
+
+#TABLE:			c1gp.tbl
+#COMMENTS:		No
+#END BLOCK
+
+#BLOCK NAME:	231.bin File - Encoded BBS Text 2
+#TYPE:			NORMAL
+#METHOD:		POINTER
+
+#POINTER TABLE START:	$2B194
+#POINTER TABLE STOP:	$35F2F
+#POINTER SIZE:	4
+#POINTER SPACE: 32
+#POINTER ENDIAN: LITTLE
+#ATLAS PTRS: Yes
+
+#TABLE:			c1gp.tbl
+#COMMENTS:		No
+#END BLOCK
+
+#BLOCK NAME:	231.bin File - Encoded BBS Text 3
+#TYPE:			NORMAL
+#METHOD:		POINTER
+
+#POINTER TABLE START:	$2B198
+#POINTER TABLE STOP:	$35F2F
+#POINTER SIZE:	4
+#POINTER SPACE: 32
+#POINTER ENDIAN: LITTLE
+#ATLAS PTRS: Yes
+
+#TABLE:			c1gp.tbl
+#COMMENTS:		No
+#END BLOCK
+
+#BLOCK NAME:	231.bin File - Encoded BBS Text 4
+#TYPE:			NORMAL
+#METHOD:		POINTER
+
+#POINTER TABLE START:	$2B19C
+#POINTER TABLE STOP:	$35F2F
+#POINTER SIZE:	4
+#POINTER SPACE: 32
+#POINTER ENDIAN: LITTLE
+#ATLAS PTRS: Yes
+
+#TABLE:			c1gp.tbl
+#COMMENTS:		No
+#END BLOCK
+
+#BLOCK NAME:	231.bin File - Encoded BBS Text 5
+#TYPE:			NORMAL
+#METHOD:		POINTER
+
+#POINTER TABLE START:	$2B1A0
+#POINTER TABLE STOP:	$35F2F
+#POINTER SIZE:	4
+#POINTER SPACE: 32
+#POINTER ENDIAN: LITTLE
+#ATLAS PTRS: Yes
+
+#TABLE:			c1gp.tbl
+#COMMENTS:		No
+#END BLOCK
+
+// Second set of pointers at the end of the file
+// These give threads titles with a struct:
+//struct ThreadTitle {
+//    int32 title;
+//    int32 pointerToThreadPointer;
+//    int32 unknown;
+//    int32 unknown2;
+//};
+
+#BLOCK NAME:	231.bin File - Encoded Titles
+#TYPE:			NORMAL
+#METHOD:		POINTER
+
+#POINTER TABLE START:	$36450
+#POINTER TABLE STOP:	$367B7
+#POINTER SIZE:	4
+#POINTER SPACE: 12
+#POINTER ENDIAN: LITTLE
+#ATLAS PTRS: Yes
+
+#TABLE:			c1gp.tbl
+#COMMENTS:		No
+#END BLOCK

@@ -1,0 +1,8822 @@
+//GAME NAME:		C1 Racing Battle Grand Prix
+
+//BLOCK #000 NAME:		229.bin File - Encoded Block Text 1
+
+//POINTER #0 @ $4 - STRING #0 @ $25D0
+
+#W32($4)
+新車ディーラーで<END>
+//POINTER #1 @ $30 - STRING #1 @ $25E2
+
+#W32($30)
+新車ディーラーで<END>
+//POINTER #2 @ $5C - STRING #2 @ $25F4
+
+#W32($5C)
+新車ディーラーで<END>
+//POINTER #3 @ $88 - STRING #3 @ $2606
+
+#W32($88)
+新車ディーラーで<END>
+//POINTER #4 @ $B4 - STRING #4 @ $2618
+
+#W32($B4)
+新車ディーラーで<END>
+//POINTER #5 @ $E0 - STRING #5 @ $262A
+
+#W32($E0)
+新車ディーラーで<END>
+//POINTER #6 @ $10C - STRING #6 @ $263C
+
+#W32($10C)
+新車ディーラーで<END>
+//POINTER #7 @ $138 - STRING #7 @ $264E
+
+#W32($138)
+新車ディーラーで<END>
+//POINTER #8 @ $164 - STRING #8 @ $2660
+
+#W32($164)
+新車ディーラーで<END>
+//POINTER #9 @ $190 - STRING #9 @ $2672
+
+#W32($190)
+新車ディーラーで<END>
+//POINTER #10 @ $1BC - STRING #10 @ $2684
+
+#W32($1BC)
+新車ディーラーで<END>
+//POINTER #11 @ $1E8 - STRING #11 @ $2696
+
+#W32($1E8)
+新車ディーラーで<END>
+//POINTER #12 @ $214 - STRING #12 @ $26A8
+
+#W32($214)
+新車ディーラーで<END>
+//POINTER #13 @ $240 - STRING #13 @ $26BA
+
+#W32($240)
+新車ディーラーで<END>
+//POINTER #14 @ $26C - STRING #14 @ $26CC
+
+#W32($26C)
+新車ディーラーで<END>
+//POINTER #15 @ $298 - STRING #15 @ $26DE
+
+#W32($298)
+新車ディーラーで<END>
+//POINTER #16 @ $2C4 - STRING #16 @ $26F0
+
+#W32($2C4)
+新車ディーラーで<END>
+//POINTER #17 @ $2F0 - STRING #17 @ $2702
+
+#W32($2F0)
+新車ディーラーで<END>
+//POINTER #18 @ $31C - STRING #18 @ $2714
+
+#W32($31C)
+新車ディーラーで<END>
+//POINTER #19 @ $348 - STRING #19 @ $2726
+
+#W32($348)
+新車ディーラーで<END>
+//POINTER #20 @ $374 - STRING #20 @ $2738
+
+#W32($374)
+新車ディーラーで<END>
+//POINTER #21 @ $3A0 - STRING #21 @ $274A
+
+#W32($3A0)
+新車ディーラーで<END>
+//POINTER #22 @ $3CC - STRING #22 @ $275C
+
+#W32($3CC)
+新車ディーラーで<END>
+//POINTER #23 @ $3F8 - STRING #23 @ $276E
+
+#W32($3F8)
+新車ディーラーで<END>
+//POINTER #24 @ $424 - STRING #24 @ $2780
+
+#W32($424)
+新車ディーラーで<END>
+//POINTER #25 @ $450 - STRING #25 @ $2792
+
+#W32($450)
+新車ディーラーで<END>
+//POINTER #26 @ $47C - STRING #26 @ $27A4
+
+#W32($47C)
+新車ディーラーで<END>
+//POINTER #27 @ $4A8 - STRING #27 @ $27B6
+
+#W32($4A8)
+新車ディーラーで<END>
+//POINTER #28 @ $4D4 - STRING #28 @ $27C8
+
+#W32($4D4)
+新車ディーラーで<END>
+//POINTER #29 @ $500 - STRING #29 @ $27DA
+
+#W32($500)
+新車ディーラーで<END>
+//POINTER #30 @ $52C - STRING #30 @ $27EC
+
+#W32($52C)
+新車ディーラーで<END>
+//POINTER #31 @ $558 - STRING #31 @ $27FE
+
+#W32($558)
+新車ディーラーで<END>
+//POINTER #32 @ $584 - STRING #32 @ $2810
+
+#W32($584)
+新車ディーラーで<END>
+//POINTER #33 @ $5B0 - STRING #33 @ $2822
+
+#W32($5B0)
+新車ディーラーで<END>
+//POINTER #34 @ $5DC - STRING #34 @ $2834
+
+#W32($5DC)
+新車ディーラーで<END>
+//POINTER #35 @ $608 - STRING #35 @ $2846
+
+#W32($608)
+新車ディーラーで<END>
+//POINTER #36 @ $634 - STRING #36 @ $2858
+
+#W32($634)
+新車ディーラーで<END>
+//POINTER #37 @ $660 - STRING #37 @ $286A
+
+#W32($660)
+新車ディーラーで<END>
+//POINTER #38 @ $68C - STRING #38 @ $287C
+
+#W32($68C)
+新車ディーラーで<END>
+//POINTER #39 @ $6B8 - STRING #39 @ $288E
+
+#W32($6B8)
+新車ディーラーで<END>
+//POINTER #40 @ $6E4 - STRING #40 @ $28A0
+
+#W32($6E4)
+新車ディーラーで<END>
+//POINTER #41 @ $710 - STRING #41 @ $28B2
+
+#W32($710)
+新車ディーラーで<END>
+//POINTER #42 @ $73C - STRING #42 @ $28C4
+
+#W32($73C)
+新車ディーラーで<END>
+//POINTER #43 @ $768 - STRING #43 @ $28D6
+
+#W32($768)
+新車ディーラーで<END>
+//POINTER #44 @ $794 - STRING #44 @ $28E8
+
+#W32($794)
+新車ディーラーで<END>
+//POINTER #45 @ $7C0 - STRING #45 @ $28FA
+
+#W32($7C0)
+新車ディーラーで<END>
+//POINTER #46 @ $7EC - STRING #46 @ $290C
+
+#W32($7EC)
+新車ディーラーで<END>
+//POINTER #47 @ $818 - STRING #47 @ $291E
+
+#W32($818)
+新車ディーラーで<END>
+//POINTER #48 @ $844 - STRING #48 @ $2930
+
+#W32($844)
+新車ディーラーで<END>
+//POINTER #49 @ $870 - STRING #49 @ $2942
+
+#W32($870)
+新車ディーラーで<END>
+//POINTER #50 @ $89C - STRING #50 @ $2954
+
+#W32($89C)
+新車ディーラーで<END>
+//POINTER #51 @ $8C8 - STRING #51 @ $2966
+
+#W32($8C8)
+新車ディーラーで<END>
+//POINTER #52 @ $8F4 - STRING #52 @ $2978
+
+#W32($8F4)
+新車ディーラーで<END>
+//POINTER #53 @ $920 - STRING #53 @ $298A
+
+#W32($920)
+新車ディーラーで<END>
+//POINTER #54 @ $94C - STRING #54 @ $299C
+
+#W32($94C)
+新車ディーラーで<END>
+//POINTER #55 @ $978 - STRING #55 @ $29AE
+
+#W32($978)
+新車ディーラーで<END>
+//POINTER #56 @ $9A4 - STRING #56 @ $29C0
+
+#W32($9A4)
+新車ディーラーで<END>
+//POINTER #57 @ $9D0 - STRING #57 @ $29D2
+
+#W32($9D0)
+新車ディーラーで<END>
+//POINTER #58 @ $9FC - STRING #58 @ $29E4
+
+#W32($9FC)
+新車ディーラーで<END>
+//POINTER #59 @ $A28 - STRING #59 @ $29F6
+
+#W32($A28)
+新車ディーラーで<END>
+//POINTER #60 @ $A54 - STRING #60 @ $2A08
+
+#W32($A54)
+新車ディーラーで<END>
+//POINTER #61 @ $A80 - STRING #61 @ $2A1A
+
+#W32($A80)
+新車ディーラーで<END>
+//POINTER #62 @ $AAC - STRING #62 @ $2A2C
+
+#W32($AAC)
+新車ディーラーで<END>
+//POINTER #63 @ $AD8 - STRING #63 @ $2A3E
+
+#W32($AD8)
+新車ディーラーで<END>
+//POINTER #64 @ $B04 - STRING #64 @ $2A50
+
+#W32($B04)
+新車ディーラーで<END>
+//POINTER #65 @ $B30 - STRING #65 @ $2A62
+
+#W32($B30)
+新車ディーラーで<END>
+//POINTER #66 @ $B5C - STRING #66 @ $2A74
+
+#W32($B5C)
+新車ディーラーで<END>
+//POINTER #67 @ $B88 - STRING #67 @ $2A86
+
+#W32($B88)
+新車ディーラーで<END>
+//POINTER #68 @ $BB4 - STRING #68 @ $2A98
+
+#W32($BB4)
+新車ディーラーで<END>
+//POINTER #69 @ $BE0 - STRING #69 @ $2AAA
+
+#W32($BE0)
+新車ディーラーで<END>
+//POINTER #70 @ $C0C - STRING #70 @ $2ABC
+
+#W32($C0C)
+新車ディーラーで<END>
+//POINTER #71 @ $C38 - STRING #71 @ $2ACE
+
+#W32($C38)
+新車ディーラーで<END>
+//POINTER #72 @ $C64 - STRING #72 @ $2AE0
+
+#W32($C64)
+新車ディーラーで<END>
+//POINTER #73 @ $C90 - STRING #73 @ $2AF2
+
+#W32($C90)
+新車ディーラーで<END>
+//POINTER #74 @ $CBC - STRING #74 @ $2B04
+
+#W32($CBC)
+新車ディーラーで<END>
+//POINTER #75 @ $CE8 - STRING #75 @ $2B16
+
+#W32($CE8)
+新車ディーラーで<END>
+//POINTER #76 @ $D14 - STRING #76 @ $2B28
+
+#W32($D14)
+新車ディーラーで<END>
+//POINTER #77 @ $D40 - STRING #77 @ $2B3A
+
+#W32($D40)
+新車ディーラーで<END>
+//POINTER #78 @ $D6C - STRING #78 @ $2B4C
+
+#W32($D6C)
+新車ディーラーで<END>
+//POINTER #79 @ $D98 - STRING #79 @ $2B5E
+
+#W32($D98)
+新車ディーラーで<END>
+//POINTER #80 @ $DC4 - STRING #80 @ $2B70
+
+#W32($DC4)
+新車ディーラーで<END>
+//POINTER #81 @ $DF0 - STRING #81 @ $2B82
+
+#W32($DF0)
+新車ディーラーで<END>
+//POINTER #82 @ $E1C - STRING #82 @ $2B94
+
+#W32($E1C)
+新車ディーラーで<END>
+//POINTER #83 @ $E48 - STRING #83 @ $2BA6
+
+#W32($E48)
+新車ディーラーで<END>
+//POINTER #84 @ $E74 - STRING #84 @ $2BB8
+
+#W32($E74)
+新車ディーラーで<END>
+//POINTER #85 @ $EA0 - STRING #85 @ $2BCA
+
+#W32($EA0)
+新車ディーラーで<END>
+//POINTER #86 @ $ECC - STRING #86 @ $2BDC
+
+#W32($ECC)
+新車ディーラーで<END>
+//POINTER #87 @ $EF8 - STRING #87 @ $2BEE
+
+#W32($EF8)
+新車ディーラーで<END>
+//POINTER #88 @ $F24 - STRING #88 @ $2C00
+
+#W32($F24)
+新車ディーラーで<END>
+//POINTER #89 @ $F50 - STRING #89 @ $2C12
+
+#W32($F50)
+新車ディーラーで<END>
+//POINTER #90 @ $F7C - STRING #90 @ $2C24
+
+#W32($F7C)
+新車ディーラーで<END>
+//POINTER #91 @ $FA8 - STRING #91 @ $2C36
+
+#W32($FA8)
+新車ディーラーで<END>
+//POINTER #92 @ $FD4 - STRING #92 @ $2C48
+
+#W32($FD4)
+新車ディーラーで<END>
+//POINTER #93 @ $1000 - STRING #93 @ $2C5A
+
+#W32($1000)
+新車ディーラーで<END>
+//POINTER #94 @ $102C - STRING #94 @ $2C6C
+
+#W32($102C)
+新車ディーラーで<END>
+//POINTER #95 @ $1058 - STRING #95 @ $2C7E
+
+#W32($1058)
+新車ディーラーで<END>
+//POINTER #96 @ $1084 - STRING #96 @ $2C90
+
+#W32($1084)
+チューニングショップで<END>
+//POINTER #97 @ $10B0 - STRING #97 @ $2CA8
+
+#W32($10B0)
+チューニングショップで<END>
+//POINTER #98 @ $10DC - STRING #98 @ $2CC0
+
+#W32($10DC)
+チューニングショップで<END>
+//POINTER #99 @ $1108 - STRING #99 @ $2CD8
+
+#W32($1108)
+チューニングショップで<END>
+//POINTER #100 @ $1134 - STRING #100 @ $2CF0
+
+#W32($1134)
+チューニングショップで<END>
+//POINTER #101 @ $1160 - STRING #101 @ $2D08
+
+#W32($1160)
+チューニングショップで<END>
+//POINTER #102 @ $118C - STRING #102 @ $2D20
+
+#W32($118C)
+チューニングショップで<END>
+//POINTER #103 @ $11B8 - STRING #103 @ $2D38
+
+#W32($11B8)
+チューニングショップで<END>
+//POINTER #104 @ $11E4 - STRING #104 @ $2D50
+
+#W32($11E4)
+チューニングショップで<END>
+//POINTER #105 @ $1210 - STRING #105 @ $2D68
+
+#W32($1210)
+チューニングショップで<END>
+//POINTER #106 @ $123C - STRING #106 @ $2D80
+
+#W32($123C)
+チューニングショップで<END>
+//POINTER #107 @ $1268 - STRING #107 @ $2D98
+
+#W32($1268)
+チューニングショップで<END>
+//POINTER #108 @ $1294 - STRING #108 @ $2DB0
+
+#W32($1294)
+チューニングショップで<END>
+//POINTER #109 @ $12C0 - STRING #109 @ $2DC8
+
+#W32($12C0)
+チューニングショップで<END>
+//POINTER #110 @ $12EC - STRING #110 @ $2DE0
+
+#W32($12EC)
+チューニングショップで<END>
+//POINTER #111 @ $1318 - STRING #111 @ $2DF8
+
+#W32($1318)
+チューニングショップで<END>
+//POINTER #112 @ $1344 - STRING #112 @ $2E10
+
+#W32($1344)
+チューニングショップで<END>
+//POINTER #113 @ $1370 - STRING #113 @ $2E28
+
+#W32($1370)
+チューニングショップで<END>
+//POINTER #114 @ $139C - STRING #114 @ $2E40
+
+#W32($139C)
+チューニングショップで<END>
+//POINTER #115 @ $13C8 - STRING #115 @ $2E58
+
+#W32($13C8)
+チューニングショップで<END>
+//POINTER #116 @ $13F4 - STRING #116 @ $2E70
+
+#W32($13F4)
+チューニングショップで<END>
+//POINTER #117 @ $1420 - STRING #117 @ $2E88
+
+#W32($1420)
+チューニングショップで<END>
+//POINTER #118 @ $144C - STRING #118 @ $2EA0
+
+#W32($144C)
+チューニングショップで<END>
+//POINTER #119 @ $1478 - STRING #119 @ $2EB8
+
+#W32($1478)
+チューニングショップで<END>
+//POINTER #120 @ $14A4 - STRING #120 @ $2ED0
+
+#W32($14A4)
+チューニングショップで<END>
+//POINTER #121 @ $14D0 - STRING #121 @ $2EE8
+
+#W32($14D0)
+チューニングショップで<END>
+//POINTER #122 @ $14FC - STRING #122 @ $2F00
+
+#W32($14FC)
+チューニングショップで<END>
+//POINTER #123 @ $1528 - STRING #123 @ $2F18
+
+#W32($1528)
+チューニングショップで<END>
+//POINTER #124 @ $1554 - STRING #124 @ $2F30
+
+#W32($1554)
+チューニングショップで<END>
+//POINTER #125 @ $1580 - STRING #125 @ $2F48
+
+#W32($1580)
+スーパーオートバックスで<END>
+//POINTER #126 @ $15AC - STRING #126 @ $2F62
+
+#W32($15AC)
+スーパーオートバックスで<END>
+//POINTER #127 @ $15D8 - STRING #127 @ $2F7C
+
+#W32($15D8)
+スーパーオートバックスで<END>
+//POINTER #128 @ $1604 - STRING #128 @ $2F96
+
+#W32($1604)
+スーパーオートバックスで<END>
+//POINTER #129 @ $1630 - STRING #129 @ $2FB0
+
+#W32($1630)
+スーパーオートバックスで<END>
+//POINTER #130 @ $165C - STRING #130 @ $2FCA
+
+#W32($165C)
+スーパーオートバックスで<END>
+//POINTER #131 @ $1688 - STRING #131 @ $2FE4
+
+#W32($1688)
+スーパーオートバックスで<END>
+//POINTER #132 @ $16B4 - STRING #132 @ $2FFE
+
+#W32($16B4)
+スーパーオートバックスで<END>
+//POINTER #133 @ $16E0 - STRING #133 @ $3018
+
+#W32($16E0)
+スーパーオートバックスで<END>
+//POINTER #134 @ $170C - STRING #134 @ $3032
+
+#W32($170C)
+スーパーオートバックスで<END>
+//POINTER #135 @ $1738 - STRING #135 @ $304C
+
+#W32($1738)
+スーパーオートバックスで<END>
+//POINTER #136 @ $1764 - STRING #136 @ $3066
+
+#W32($1764)
+スーパーオートバックスで<END>
+//POINTER #137 @ $1790 - STRING #137 @ $3080
+
+#W32($1790)
+スーパーオートバックスで<END>
+//POINTER #138 @ $17BC - STRING #138 @ $309A
+
+#W32($17BC)
+スーパーオートバックスで<END>
+//POINTER #139 @ $17E8 - STRING #139 @ $30B4
+
+#W32($17E8)
+スーパーオートバックスで<END>
+//POINTER #140 @ $1814 - STRING #140 @ $30CE
+
+#W32($1814)
+スーパーオートバックスで<END>
+//POINTER #141 @ $1840 - STRING #141 @ $30E8
+
+#W32($1840)
+スーパーオートバックスで<END>
+//POINTER #142 @ $186C - STRING #142 @ $3102
+
+#W32($186C)
+スーパーオートバックスで<END>
+//POINTER #143 @ $1898 - STRING #143 @ $311C
+
+#W32($1898)
+スーパーオートバックスで<END>
+//POINTER #144 @ $18C4 - STRING #144 @ $3136
+
+#W32($18C4)
+スーパーオートバックスで<END>
+//POINTER #145 @ $18F0 - STRING #145 @ $3150
+
+#W32($18F0)
+スーパーオートバックスで<END>
+//POINTER #146 @ $191C - STRING #146 @ $316A
+
+#W32($191C)
+スーパーオートバックスで<END>
+//POINTER #147 @ $1948 - STRING #147 @ $3184
+
+#W32($1948)
+スーパーオートバックスで<END>
+//POINTER #148 @ $1974 - STRING #148 @ $319E
+
+#W32($1974)
+スーパーオートバックスで<END>
+//POINTER #149 @ $19A0 - STRING #149 @ $31B8
+
+#W32($19A0)
+スーパーオートバックスで<END>
+//POINTER #150 @ $19CC - STRING #150 @ $31D2
+
+#W32($19CC)
+スーパーオートバックスで<END>
+//POINTER #151 @ $19F8 - STRING #151 @ $31EC
+
+#W32($19F8)
+スーパーオートバックスで<END>
+//POINTER #152 @ $1A24 - STRING #152 @ $3206
+
+#W32($1A24)
+スーパーオートバックスで<END>
+//POINTER #153 @ $1A50 - STRING #153 @ $3220
+
+#W32($1A50)
+スーパーオートバックスで<END>
+//POINTER #154 @ $1A7C - STRING #154 @ $323A
+
+#W32($1A7C)
+スーパーオートバックスで<END>
+//POINTER #155 @ $1AA8 - STRING #155 @ $3254
+
+#W32($1AA8)
+スーパーオートバックスで<END>
+//POINTER #156 @ $1AD4 - STRING #156 @ $326E
+
+#W32($1AD4)
+スーパーオートバックスで<END>
+//POINTER #157 @ $1B00 - STRING #157 @ $3288
+
+#W32($1B00)
+スーパーオートバックスで<END>
+//POINTER #158 @ $1B2C - STRING #158 @ $32A2
+
+#W32($1B2C)
+スーパーオートバックスで<END>
+//POINTER #159 @ $1B58 - STRING #159 @ $32BC
+
+#W32($1B58)
+スーパーオートバックスで<END>
+//POINTER #160 @ $1B84 - STRING #160 @ $32D6
+
+#W32($1B84)
+スーパーオートバックスで<END>
+//POINTER #161 @ $1BB0 - STRING #161 @ $32F0
+
+#W32($1BB0)
+スーパーオートバックスで<END>
+//POINTER #162 @ $1BDC - STRING #162 @ $330A
+
+#W32($1BDC)
+スーパーオートバックスで<END>
+//POINTER #163 @ $1C08 - STRING #163 @ $3324
+
+#W32($1C08)
+スーパーオートバックスで<END>
+//POINTER #164 @ $1C34 - STRING #164 @ $333E
+
+#W32($1C34)
+スーパーオートバックスで<END>
+//POINTER #165 @ $1C60 - STRING #165 @ $3358
+
+#W32($1C60)
+スーパーオートバックスで<END>
+//POINTER #166 @ $1C8C - STRING #166 @ $3372
+
+#W32($1C8C)
+スーパーオートバックスで<END>
+//POINTER #167 @ $1CB8 - STRING #167 @ $338C
+
+#W32($1CB8)
+スーパーオートバックスで<END>
+//POINTER #168 @ $1CE4 - STRING #168 @ $33A6
+
+#W32($1CE4)
+スーパーオートバックスで<END>
+//POINTER #169 @ $1D10 - STRING #169 @ $33C0
+
+#W32($1D10)
+スーパーオートバックスで<END>
+//POINTER #170 @ $1D3C - STRING #170 @ $33DA
+
+#W32($1D3C)
+スーパーオートバックスで<END>
+//POINTER #171 @ $1D68 - STRING #171 @ $33F4
+
+#W32($1D68)
+スーパーオートバックスで<END>
+//POINTER #172 @ $1D94 - STRING #172 @ $340E
+
+#W32($1D94)
+スーパーオートバックスで<END>
+//POINTER #173 @ $1DC0 - STRING #173 @ $3428
+
+#W32($1DC0)
+スーパーオートバックスで<END>
+//POINTER #174 @ $1DEC - STRING #174 @ $3442
+
+#W32($1DEC)
+スーパーオートバックスで<END>
+//POINTER #175 @ $1E18 - STRING #175 @ $345C
+
+#W32($1E18)
+スーパーオートバックスで<END>
+//POINTER #176 @ $1E44 - STRING #176 @ $3476
+
+#W32($1E44)
+スーパーオートバックスで<END>
+//POINTER #177 @ $1E70 - STRING #177 @ $3490
+
+#W32($1E70)
+スーパーオートバックスで<END>
+//POINTER #178 @ $1E9C - STRING #178 @ $34AA
+
+#W32($1E9C)
+スーパーオートバックスで<END>
+//POINTER #179 @ $1EC8 - STRING #179 @ $34C4
+
+#W32($1EC8)
+スーパーオートバックスで<END>
+//POINTER #180 @ $1EF4 - STRING #180 @ $34DE
+
+#W32($1EF4)
+スーパーオートバックスで<END>
+//POINTER #181 @ $1F20 - STRING #181 @ $34F8
+
+#W32($1F20)
+スーパーオートバックスで<END>
+//POINTER #182 @ $1F4C - STRING #182 @ $3512
+
+#W32($1F4C)
+スーパーオートバックスで<END>
+//POINTER #183 @ $1F78 - STRING #183 @ $352C
+
+#W32($1F78)
+スーパーオートバックスで<END>
+//POINTER #184 @ $1FA4 - STRING #184 @ $3546
+
+#W32($1FA4)
+スーパーオートバックスで<END>
+//POINTER #185 @ $1FD0 - STRING #185 @ $3560
+
+#W32($1FD0)
+スーパーオートバックスで<END>
+//POINTER #186 @ $1FFC - STRING #186 @ $357A
+
+#W32($1FFC)
+スーパーオートバックスで<END>
+//POINTER #187 @ $2028 - STRING #187 @ $3594
+
+#W32($2028)
+スーパーオートバックスで<END>
+//POINTER #188 @ $2054 - STRING #188 @ $35AE
+
+#W32($2054)
+スーパーオートバックスで<END>
+//POINTER #189 @ $2080 - STRING #189 @ $35C8
+
+#W32($2080)
+スーパーオートバックスで<END>
+//POINTER #190 @ $20AC - STRING #190 @ $35E2
+
+#W32($20AC)
+スーパーオートバックスで<END>
+//POINTER #191 @ $20D8 - STRING #191 @ $35FC
+
+#W32($20D8)
+スーパーオートバックスで<END>
+//POINTER #192 @ $2104 - STRING #192 @ $3616
+
+#W32($2104)
+スーパーオートバックスで<END>
+//POINTER #193 @ $2130 - STRING #193 @ $3630
+
+#W32($2130)
+スーパーオートバックスで<END>
+//POINTER #194 @ $215C - STRING #194 @ $364A
+
+#W32($215C)
+スーパーオートバックスで<END>
+//POINTER #195 @ $2188 - STRING #195 @ $3664
+
+#W32($2188)
+スーパーオートバックスで<END>
+//POINTER #196 @ $21B4 - STRING #196 @ $367E
+
+#W32($21B4)
+スーパーオートバックスで<END>
+//POINTER #197 @ $21E0 - STRING #197 @ $3698
+
+#W32($21E0)
+スーパーオートバックスで<END>
+//POINTER #198 @ $220C - STRING #198 @ $36B2
+
+#W32($220C)
+スーパーオートバックスで<END>
+//POINTER #199 @ $2238 - STRING #199 @ $36CC
+
+#W32($2238)
+スーパーオートバックスで<END>
+//POINTER #200 @ $2264 - STRING #200 @ $36E6
+
+#W32($2264)
+スーパーオートバックスで<END>
+//POINTER #201 @ $2290 - STRING #201 @ $3700
+
+#W32($2290)
+スーパーオートバックスで<END>
+//POINTER #202 @ $22BC - STRING #202 @ $371A
+
+#W32($22BC)
+スーパーオートバックスで<END>
+//POINTER #203 @ $22E8 - STRING #203 @ $3734
+
+#W32($22E8)
+スーパーオートバックスで<END>
+//POINTER #204 @ $2314 - STRING #204 @ $374E
+
+#W32($2314)
+スーパーオートバックスで<END>
+//POINTER #205 @ $2340 - STRING #205 @ $3768
+
+#W32($2340)
+スーパーオートバックスで<END>
+//POINTER #206 @ $236C - STRING #206 @ $3782
+
+#W32($236C)
+スーパーオートバックスで<END>
+//POINTER #207 @ $2398 - STRING #207 @ $379C
+
+#W32($2398)
+スーパーオートバックスで<END>
+//POINTER #208 @ $23C4 - STRING #208 @ $37B6
+
+#W32($23C4)
+スーパーオートバックスで<END>
+//POINTER #209 @ $23F0 - STRING #209 @ $37D0
+
+#W32($23F0)
+スーパーオートバックスで<END>
+//POINTER #210 @ $241C - STRING #210 @ $37EA
+
+#W32($241C)
+スーパーオートバックスで<END>
+//POINTER #211 @ $2448 - STRING #211 @ $3804
+
+#W32($2448)
+スーパーオートバックスで<END>
+//POINTER #212 @ $2474 - STRING #212 @ $381E
+
+#W32($2474)
+スーパーオートバックスで<END>
+//POINTER #213 @ $24A0 - STRING #213 @ $3838
+
+#W32($24A0)
+スーパーオートバックスで<END>
+//POINTER #214 @ $24CC - STRING #214 @ $3852
+
+#W32($24CC)
+スーパーオートバックスで<END>
+//POINTER #215 @ $24F8 - STRING #215 @ $386C
+
+#W32($24F8)
+スーパーオートバックスで<END>
+//POINTER #216 @ $2524 - STRING #216 @ $3886
+
+#W32($2524)
+スーパーオートバックスで<END>
+//POINTER #217 @ $2550 - STRING #217 @ $38A0
+
+#W32($2550)
+スーパーオートバックスで<END>
+//POINTER #218 @ $257C - STRING #218 @ $38BA
+
+#W32($257C)
+スーパーオートバックスで<END>
+//POINTER #219 @ $25A8 - STRING #219 @ $38D4
+
+#W32($25A8)
+スーパーオートバックスで<END>
+//BLOCK #001 NAME:		229.bin File - Encoded Block Text 2
+
+//POINTER #0 @ $8 - STRING #0 @ $38EE
+
+#W32($8)
+SKYLINE GT-R VspecⅡ R32<END>
+//POINTER #1 @ $34 - STRING #1 @ $391E
+
+#W32($34)
+SKYLINE GT-R Vspec R33<END>
+//POINTER #2 @ $60 - STRING #2 @ $394C
+
+#W32($60)
+SKYLINE GT-R VspecⅡ R34<END>
+//POINTER #3 @ $8C - STRING #3 @ $397C
+
+#W32($8C)
+Silvia K's S14<END>
+//POINTER #4 @ $B8 - STRING #4 @ $399A
+
+#W32($B8)
+Silvia K's S13<END>
+//POINTER #5 @ $E4 - STRING #5 @ $39B8
+
+#W32($E4)
+SKYLINE COUPE 35<EMPTY>GT<END>
+//POINTER #6 @ $110 - STRING #6 @ $39E0
+
+#W32($110)
+ELGRAND Highway STAR<END>
+//POINTER #7 @ $13C - STRING #7 @ $3A0A
+
+#W32($13C)
+CUBE EX<END>
+//POINTER #8 @ $168 - STRING #8 @ $3A1A
+
+#W32($168)
+LANCER EVOLUTION Ⅷ GSR<END>
+//POINTER #9 @ $194 - STRING #9 @ $3A48
+
+#W32($194)
+LANCER EVOLUTION Ⅶ GSR<END>
+//POINTER #10 @ $1C0 - STRING #10 @ $3A76
+
+#W32($1C0)
+LANCER EVOLUTION Ⅵ GSR<END>
+//POINTER #11 @ $1EC - STRING #11 @ $3AA4
+
+#W32($1EC)
+LANCER EVOLUTION Ⅴ GSR<END>
+//POINTER #12 @ $218 - STRING #12 @ $3AD2
+
+#W32($218)
+FTO GP Version R<END>
+//POINTER #13 @ $244 - STRING #13 @ $3AF4
+
+#W32($244)
+RX-7 Type RZ<END>
+//POINTER #14 @ $270 - STRING #14 @ $3B0E
+
+#W32($270)
+ATENZA SPORT 23Z<END>
+//POINTER #15 @ $29C - STRING #15 @ $3B30
+
+#W32($29C)
+AXELA Sport 23S<END>
+//POINTER #16 @ $2C8 - STRING #16 @ $3B50
+
+#W32($2C8)
+Supra RZ<END>
+//POINTER #17 @ $2F4 - STRING #17 @ $3B62
+
+#W32($2F4)
+CELICA SS-Ⅱ<END>
+//POINTER #18 @ $320 - STRING #18 @ $3B7A
+
+#W32($320)
+CELICA GT-FOUR<END>
+//POINTER #19 @ $34C - STRING #19 @ $3B98
+
+#W32($34C)
+MR-S S EDITION<END>
+//POINTER #20 @ $378 - STRING #20 @ $3BB6
+
+#W32($378)
+CHASER TOURER V<END>
+//POINTER #21 @ $3A4 - STRING #21 @ $3BD6
+
+#W32($3A4)
+MR2 GT<END>
+//POINTER #22 @ $3D0 - STRING #22 @ $3BE4
+
+#W32($3D0)
+MR2 G Super Charger<END>
+//POINTER #23 @ $3FC - STRING #23 @ $3C0C
+
+#W32($3FC)
+ALTEZZA RS2<EMPTY><EMPTY> L EDITION<END>
+//POINTER #24 @ $428 - STRING #24 @ $3C3C
+
+#W32($428)
+NOAH L G Selection<END>
+//POINTER #25 @ $454 - STRING #25 @ $3C62
+
+#W32($454)
+ist 1.5S L edition<END>
+//POINTER #26 @ $480 - STRING #26 @ $3C88
+
+#W32($480)
+WISH 2.<EMPTY>Z<END>
+//POINTER #27 @ $4AC - STRING #27 @ $3C9C
+
+#W32($4AC)
+LEGACY B4 GT<END>
+//POINTER #28 @ $4D8 - STRING #28 @ $3CB6
+
+#W32($4D8)
+IMPREZA WRX STi GDB<END>
+//POINTER #29 @ $504 - STRING #29 @ $3CDE
+
+#W32($504)
+IMPREZA WRX STi GC8<END>
+//POINTER #30 @ $530 - STRING #30 @ $3D06
+
+#W32($530)
+LEGACY WAGON BP5<END>
+//POINTER #31 @ $55C - STRING #31 @ $3D28
+
+#W32($55C)
+IMPREZA WRX STi GDBM<END>
+//POINTER #32 @ $588 - STRING #32 @ $3D52
+
+#W32($588)
+IMPREZA SportsWagon WRX<END>
+//POINTER #33 @ $5B4 - STRING #33 @ $3D82
+
+#W32($5B4)
+WAGON R RR-DI<END>
+//POINTER #34 @ $5E0 - STRING #34 @ $3D9E
+
+#W32($5E0)
+CARRY KA<END>
+//POINTER #35 @ $60C - STRING #35 @ $3DB0
+
+#W32($60C)
+MOVE CUSTOM RS Limited<END>
+//POINTER #36 @ $638 - STRING #36 @ $3DDE
+
+#W32($638)
+BEAT<END>
+//POINTER #37 @ $664 - STRING #37 @ $3DE8
+
+#W32($664)
+CIVIC TYPE R EK9<END>
+//POINTER #38 @ $690 - STRING #38 @ $3E0A
+
+#W32($690)
+CIVIC TYPE R EP3<END>
+//POINTER #39 @ $6BC - STRING #39 @ $3E2C
+
+#W32($6BC)
+INTEGRA TYPE R DC2<END>
+//POINTER #40 @ $6E8 - STRING #40 @ $3E52
+
+#W32($6E8)
+Fit 1.5T<END>
+//POINTER #41 @ $714 - STRING #41 @ $3E64
+
+#W32($714)
+CR-X SiR<END>
+//POINTER #42 @ $740 - STRING #42 @ $3E76
+
+#W32($740)
+ACCORD Euro R CL1<END>
+//POINTER #43 @ $76C - STRING #43 @ $3E9A
+
+#W32($76C)
+ACCORD Euro R CL7<END>
+//POINTER #44 @ $798 - STRING #44 @ $3EBE
+
+#W32($798)
+Stream Absolute<END>
+//POINTER #45 @ $7C4 - STRING #45 @ $3EDE
+
+#W32($7C4)
+Odyssey Absolute<END>
+//POINTER #46 @ $7F0 - STRING #46 @ $3F00
+
+#W32($7F0)
+NSX-R NA1<END>
+//POINTER #47 @ $81C - STRING #47 @ $3F14
+
+#W32($81C)
+NSX type S Zero<END>
+//POINTER #48 @ $848 - STRING #48 @ $3F34
+
+#W32($848)
+NSX-R NA2<END>
+//POINTER #49 @ $874 - STRING #49 @ $3F48
+
+#W32($874)
+LiFE D TURBO<END>
+//POINTER #50 @ $8A0 - STRING #50 @ $3F62
+
+#W32($8A0)
+HKS CT9A TRB-<EMPTY>2<END>
+//POINTER #51 @ $8CC - STRING #51 @ $3F82
+
+#W32($8CC)
+M SPEED BNR34<END>
+//POINTER #52 @ $8F8 - STRING #52 @ $3F9E
+
+#W32($8F8)
+SUNAUTO CYBER EVO<END>
+//POINTER #53 @ $924 - STRING #53 @ $3FC2
+
+#W32($924)
+JUN HYPER LEMON EVO Ⅴ<END>
+//POINTER #54 @ $950 - STRING #54 @ $3FEE
+
+#W32($950)
+JUN SUPER LEMON GDB<END>
+//POINTER #55 @ $97C - STRING #55 @ $4016
+
+#W32($97C)
+RE AMEMIYA super-G<END>
+//POINTER #56 @ $9A8 - STRING #56 @ $403C
+
+#W32($9A8)
+RE AMEMIYA GReddy9<END>
+//POINTER #57 @ $9D4 - STRING #57 @ $4062
+
+#W32($9D4)
+Mine's BNR34 GT-R N1 base<END>
+//POINTER #58 @ $A00 - STRING #58 @ $4096
+
+#W32($A00)
+ALPINE ALTEZZA<END>
+//POINTER #59 @ $A2C - STRING #59 @ $40B4
+
+#W32($A2C)
+Sun Line Auto S15<END>
+//POINTER #60 @ $A58 - STRING #60 @ $40D8
+
+#W32($A58)
+Sequential FireSF15<END>
+//POINTER #61 @ $A84 - STRING #61 @ $4100
+
+#W32($A84)
+MCR BNR34<END>
+//POINTER #62 @ $AB0 - STRING #62 @ $4114
+
+#W32($AB0)
+Ridox Fact JZA8<EMPTY><END>
+//POINTER #63 @ $ADC - STRING #63 @ $4136
+
+#W32($ADC)
+NOB S15 SILVIA<END>
+//POINTER #64 @ $B08 - STRING #64 @ $4154
+
+#W32($B08)
+HKS GENKI IS22<EMPTY>R<END>
+//POINTER #65 @ $B34 - STRING #65 @ $4176
+
+#W32($B34)
+A'PEX D1 PROJECT FD3S<END>
+//POINTER #66 @ $B60 - STRING #66 @ $41A2
+
+#W32($B60)
+BLITZ ER34 D1 SPL<END>
+//POINTER #67 @ $B8C - STRING #67 @ $41C6
+
+#W32($B8C)
+HKS S15 HIPER SILVIA<END>
+//POINTER #68 @ $BB8 - STRING #68 @ $41F0
+
+#W32($BB8)
+C-WEST S2<EMPTY><EMPTY><EMPTY> PROTO TYPE<END>
+//POINTER #69 @ $BE4 - STRING #69 @ $4220
+
+#W32($BE4)
+SAB SUPER STREET RX-8<END>
+//POINTER #70 @ $C10 - STRING #70 @ $424C
+
+#W32($C10)
+RS-R S15<END>
+//POINTER #71 @ $C3C - STRING #71 @ $425E
+
+#W32($C3C)
+GENKI S2<EMPTY><EMPTY><EMPTY><END>
+//POINTER #72 @ $C68 - STRING #72 @ $4276
+
+#W32($C68)
+AQUA NSX NA2<END>
+//POINTER #73 @ $C94 - STRING #73 @ $4290
+
+#W32($C94)
+ALPINE NSX NA2<END>
+//POINTER #74 @ $CC0 - STRING #74 @ $42AE
+
+#W32($CC0)
+AQUA NSX NA2 Version2<END>
+//POINTER #75 @ $CEC - STRING #75 @ $42DA
+
+#W32($CEC)
+DEVIL'S Z<END>
+//POINTER #76 @ $D18 - STRING #76 @ $42EE
+
+#W32($D18)
+JINTEI<END>
+//POINTER #77 @ $D44 - STRING #77 @ $42FC
+
+#W32($D44)
+RED DEVIL<END>
+//POINTER #78 @ $D70 - STRING #78 @ $4310
+
+#W32($D70)
+GENKI ODYSSEY<END>
+//POINTER #79 @ $D9C - STRING #79 @ $432C
+
+#W32($D9C)
+UDON CUSTOM<END>
+//POINTER #80 @ $DC8 - STRING #80 @ $4344
+
+#W32($DC8)
+Ebihata SUPRA<END>
+//POINTER #81 @ $DF4 - STRING #81 @ $4360
+
+#W32($DF4)
+ALTEZZA RACE CAR<END>
+//POINTER #82 @ $E20 - STRING #82 @ $4382
+
+#W32($E20)
+CUBE LIMOUSINE<END>
+//POINTER #83 @ $E4C - STRING #83 @ $43A0
+
+#W32($E4C)
+Z33 Rally Style<END>
+//POINTER #84 @ $E78 - STRING #84 @ $43C0
+
+#W32($E78)
+NA8C DRAG STAR<END>
+//POINTER #85 @ $EA4 - STRING #85 @ $43DE
+
+#W32($EA4)
+R32 GT-R RACE CAR<END>
+//POINTER #86 @ $ED0 - STRING #86 @ $4402
+
+#W32($ED0)
+HYPER CARRY<END>
+//POINTER #87 @ $EFC - STRING #87 @ $441A
+
+#W32($EFC)
+CIVIC RACING<END>
+//POINTER #88 @ $F28 - STRING #88 @ $4434
+
+#W32($F28)
+REV SPEED 18<EMPTY>SX<END>
+//POINTER #89 @ $F54 - STRING #89 @ $4454
+
+#W32($F54)
+OPTION2 S15<END>
+//POINTER #90 @ $F80 - STRING #90 @ $446C
+
+#W32($F80)
+Young Version FD3S<END>
+//POINTER #91 @ $FAC - STRING #91 @ $4492
+
+#W32($FAC)
+Honda Style S2<EMPTY><EMPTY><EMPTY><END>
+//POINTER #92 @ $FD8 - STRING #92 @ $44B6
+
+#W32($FD8)
+OPTION WAGON<END>
+//POINTER #93 @ $1004 - STRING #93 @ $44D0
+
+#W32($1004)
+R32 RACING<END>
+//POINTER #94 @ $1030 - STRING #94 @ $44E6
+
+#W32($1030)
+RX-8 RACING<END>
+//POINTER #95 @ $105C - STRING #95 @ $44FE
+
+#W32($105C)
+SIX STAR MAGAGINE BE5<END>
+//POINTER #96 @ $1088 - STRING #96 @ $452A
+
+#W32($1088)
+エンジン　タイプ２<END>
+//POINTER #97 @ $10B4 - STRING #97 @ $453E
+
+#W32($10B4)
+エンジン　タイプ３<END>
+//POINTER #98 @ $10E0 - STRING #98 @ $4552
+
+#W32($10E0)
+エンジン　タイプ４<END>
+//POINTER #99 @ $110C - STRING #99 @ $4566
+
+#W32($110C)
+エンジン　タイプ５<END>
+//POINTER #100 @ $1138 - STRING #100 @ $457A
+
+#W32($1138)
+吸排気　タイプ２<END>
+//POINTER #101 @ $1164 - STRING #101 @ $458C
+
+#W32($1164)
+吸排気　タイプ３<END>
+//POINTER #102 @ $1190 - STRING #102 @ $459E
+
+#W32($1190)
+コンピュータ　タイプ２<END>
+//POINTER #103 @ $11BC - STRING #103 @ $45B6
+
+#W32($11BC)
+コンピュータ　タイプ３<END>
+//POINTER #104 @ $11E8 - STRING #104 @ $45CE
+
+#W32($11E8)
+コンピュータ　タイプ４<END>
+//POINTER #105 @ $1214 - STRING #105 @ $45E6
+
+#W32($1214)
+コンピュータ　タイプ５<END>
+//POINTER #106 @ $1240 - STRING #106 @ $45FE
+
+#W32($1240)
+冷却　タイプ２<END>
+//POINTER #107 @ $126C - STRING #107 @ $460E
+
+#W32($126C)
+冷却　タイプ３<END>
+//POINTER #108 @ $1298 - STRING #108 @ $461E
+
+#W32($1298)
+エンジン換装<END>
+//POINTER #109 @ $12C4 - STRING #109 @ $462C
+
+#W32($12C4)
+サスペンション　タイプ２<END>
+//POINTER #110 @ $12F0 - STRING #110 @ $4646
+
+#W32($12F0)
+サスペンション　タイプ３<END>
+//POINTER #111 @ $131C - STRING #111 @ $4660
+
+#W32($131C)
+トランスミッション　タイプ２<END>
+//POINTER #112 @ $1348 - STRING #112 @ $467E
+
+#W32($1348)
+トランスミッション　タイプ３<END>
+//POINTER #113 @ $1374 - STRING #113 @ $469C
+
+#W32($1374)
+クラッチ　タイプ２<END>
+//POINTER #114 @ $13A0 - STRING #114 @ $46B0
+
+#W32($13A0)
+クラッチ　タイプ３<END>
+//POINTER #115 @ $13CC - STRING #115 @ $46C4
+
+#W32($13CC)
+ブレーキ　タイプ２<END>
+//POINTER #116 @ $13F8 - STRING #116 @ $46D8
+
+#W32($13F8)
+ブレーキ　タイプ３<END>
+//POINTER #117 @ $1424 - STRING #117 @ $46EC
+
+#W32($1424)
+補強　タイプ２<END>
+//POINTER #118 @ $1450 - STRING #118 @ $46FC
+
+#W32($1450)
+補強　タイプ３<END>
+//POINTER #119 @ $147C - STRING #119 @ $470C
+
+#W32($147C)
+補強　タイプ４<END>
+//POINTER #120 @ $14A8 - STRING #120 @ $471C
+
+#W32($14A8)
+補強　タイプ５<END>
+//POINTER #121 @ $14D4 - STRING #121 @ $472C
+
+#W32($14D4)
+軽量化　タイプ２<END>
+//POINTER #122 @ $1500 - STRING #122 @ $473E
+
+#W32($1500)
+軽量化　タイプ３<END>
+//POINTER #123 @ $152C - STRING #123 @ $4750
+
+#W32($152C)
+軽量化　タイプ４<END>
+//POINTER #124 @ $1558 - STRING #124 @ $4762
+
+#W32($1558)
+軽量化　タイプ５<END>
+//POINTER #125 @ $1584 - STRING #125 @ $4774
+
+#W32($1584)
+公認ヘルメット<END>
+//POINTER #126 @ $15B0 - STRING #126 @ $4784
+
+#W32($15B0)
+レーサーモデルヘルメット<END>
+//POINTER #127 @ $15DC - STRING #127 @ $479E
+
+#W32($15DC)
+公認スーツ<END>
+//POINTER #128 @ $1608 - STRING #128 @ $47AA
+
+#W32($1608)
+レーサーモデルスーツ<END>
+//POINTER #129 @ $1634 - STRING #129 @ $47C0
+
+#W32($1634)
+レーシンググローブ<END>
+//POINTER #130 @ $1660 - STRING #130 @ $47D4
+
+#W32($1660)
+公認グローブ<END>
+//POINTER #131 @ $168C - STRING #131 @ $47E2
+
+#W32($168C)
+レーサーモデルグローブ<END>
+//POINTER #132 @ $16B8 - STRING #132 @ $47FA
+
+#W32($16B8)
+レーシングシューズ<END>
+//POINTER #133 @ $16E4 - STRING #133 @ $480E
+
+#W32($16E4)
+公認シューズ<END>
+//POINTER #134 @ $1710 - STRING #134 @ $481C
+
+#W32($1710)
+レーサーモデルシューズ<END>
+//POINTER #135 @ $173C - STRING #135 @ $4834
+
+#W32($173C)
+セミバケットシート<END>
+//POINTER #136 @ $1768 - STRING #136 @ $4848
+
+#W32($1768)
+フルバケットシート<END>
+//POINTER #137 @ $1794 - STRING #137 @ $485C
+
+#W32($1794)
+カーボン製フルバケットシート<END>
+//POINTER #138 @ $17C0 - STRING #138 @ $487A
+
+#W32($17C0)
+4点式シートベルト<END>
+//POINTER #139 @ $17EC - STRING #139 @ $488E
+
+#W32($17EC)
+４点式クイックリリースタイプ<END>
+//POINTER #140 @ $1818 - STRING #140 @ $48AC
+
+#W32($1818)
+ニッケル製プラグ<END>
+//POINTER #141 @ $1844 - STRING #141 @ $48BE
+
+#W32($1844)
+ゴールド製プラグ<END>
+//POINTER #142 @ $1870 - STRING #142 @ $48D0
+
+#W32($1870)
+プラチナ製プラグ<END>
+//POINTER #143 @ $189C - STRING #143 @ $48E2
+
+#W32($189C)
+ＭＤＩシステム<END>
+//POINTER #144 @ $18C8 - STRING #144 @ $48F2
+
+#W32($18C8)
+高性能ＭＤＩシステム<END>
+//POINTER #145 @ $18F4 - STRING #145 @ $4908
+
+#W32($18F4)
+プラグコード<END>
+//POINTER #146 @ $1920 - STRING #146 @ $4916
+
+#W32($1920)
+高性能プラグコード<END>
+//POINTER #147 @ $194C - STRING #147 @ $492A
+
+#W32($194C)
+チタン製スピンターンノブ<END>
+//POINTER #148 @ $1978 - STRING #148 @ $4944
+
+#W32($1978)
+油圧式サイドブレーキ<END>
+//POINTER #149 @ $19A4 - STRING #149 @ $495A
+
+#W32($19A4)
+スポーツ用インナーシュー<END>
+//POINTER #150 @ $19D0 - STRING #150 @ $4974
+
+#W32($19D0)
+競技用インナーシュー<END>
+//POINTER #151 @ $19FC - STRING #151 @ $498A
+
+#W32($19FC)
+チョークボード<END>
+//POINTER #152 @ $1A28 - STRING #152 @ $499A
+
+#W32($1A28)
+サインボード<END>
+//POINTER #153 @ $1A54 - STRING #153 @ $49A8
+
+#W32($1A54)
+パテ<END>
+//POINTER #154 @ $1A80 - STRING #154 @ $49AE
+
+#W32($1A80)
+補修キット<END>
+//POINTER #155 @ $1AAC - STRING #155 @ $49BA
+
+#W32($1AAC)
+シンプル工具セット<END>
+//POINTER #156 @ $1AD8 - STRING #156 @ $49CE
+
+#W32($1AD8)
+ノーマル工具セット<END>
+//POINTER #157 @ $1B04 - STRING #157 @ $49E2
+
+#W32($1B04)
+デラックス工具セット<END>
+//POINTER #158 @ $1B30 - STRING #158 @ $49F8
+
+#W32($1B30)
+小型ジャッキ<END>
+//POINTER #159 @ $1B5C - STRING #159 @ $4A06
+
+#W32($1B5C)
+ダルマジャッキ<END>
+//POINTER #160 @ $1B88 - STRING #160 @ $4A16
+
+#W32($1B88)
+油圧ジャッキ<END>
+//POINTER #161 @ $1BB4 - STRING #161 @ $4A24
+
+#W32($1BB4)
+小型リジットラック<END>
+//POINTER #162 @ $1BE0 - STRING #162 @ $4A38
+
+#W32($1BE0)
+大型リジットラック<END>
+//POINTER #163 @ $1C0C - STRING #163 @ $4A4C
+
+#W32($1C0C)
+リジットラック・スロープ<END>
+//POINTER #164 @ $1C38 - STRING #164 @ $4A66
+
+#W32($1C38)
+ブレーキクリーナースプレータイプ<END>
+//POINTER #165 @ $1C64 - STRING #165 @ $4A88
+
+#W32($1C64)
+ブレーキクリーナーグリスタイプ<END>
+//POINTER #166 @ $1C90 - STRING #166 @ $4AA8
+
+#W32($1C90)
+ブレーキクリーナーボトルタイプ<END>
+//POINTER #167 @ $1CBC - STRING #167 @ $4AC8
+
+#W32($1CBC)
+ノーマルバッテリー<END>
+//POINTER #168 @ $1CE8 - STRING #168 @ $4ADC
+
+#W32($1CE8)
+ハイパワーバッテリー<END>
+//POINTER #169 @ $1D14 - STRING #169 @ $4AF2
+
+#W32($1D14)
+ドライバッテリー<END>
+//POINTER #170 @ $1D40 - STRING #170 @ $4B04
+
+#W32($1D40)
+鉱物油<END>
+//POINTER #171 @ $1D6C - STRING #171 @ $4B0C
+
+#W32($1D6C)
+部分合成油<END>
+//POINTER #172 @ $1D98 - STRING #172 @ $4B18
+
+#W32($1D98)
+化学合成油<END>
+//POINTER #173 @ $1DC4 - STRING #173 @ $4B24
+
+#W32($1DC4)
+エンジンオイル添加剤<END>
+//POINTER #174 @ $1DF0 - STRING #174 @ $4B3A
+
+#W32($1DF0)
+アーシングケーブル<END>
+//POINTER #175 @ $1E1C - STRING #175 @ $4B4E
+
+#W32($1E1C)
+アーシングキット<END>
+//POINTER #176 @ $1E48 - STRING #176 @ $4B60
+
+#W32($1E48)
+トルマリンシート<END>
+//POINTER #177 @ $1E74 - STRING #177 @ $4B72
+
+#W32($1E74)
+エコプラグ<END>
+//POINTER #178 @ $1EA0 - STRING #178 @ $4B7E
+
+#W32($1EA0)
+エコマグネット<END>
+//POINTER #179 @ $1ECC - STRING #179 @ $4B8E
+
+#W32($1ECC)
+エコストーン<END>
+//POINTER #180 @ $1EF8 - STRING #180 @ $4B9C
+
+#W32($1EF8)
+エコエコ君<END>
+//POINTER #181 @ $1F24 - STRING #181 @ $4BA8
+
+#W32($1F24)
+エンジンクレーン・リフト<END>
+//POINTER #182 @ $1F50 - STRING #182 @ $4BC2
+
+#W32($1F50)
+据え付けエンジンハンガー<END>
+//POINTER #183 @ $1F7C - STRING #183 @ $4BDC
+
+#W32($1F7C)
+手動エアポンプ<END>
+//POINTER #184 @ $1FA8 - STRING #184 @ $4BEC
+
+#W32($1FA8)
+エアコンプレッサー<END>
+//POINTER #185 @ $1FD4 - STRING #185 @ $4C00
+
+#W32($1FD4)
+大型エアコンプレッサー<END>
+//POINTER #186 @ $2000 - STRING #186 @ $4C18
+
+#W32($2000)
+バケツ・シャンプー<END>
+//POINTER #187 @ $202C - STRING #187 @ $4C2C
+
+#W32($202C)
+ワックス<END>
+//POINTER #188 @ $2058 - STRING #188 @ $4C36
+
+#W32($2058)
+高圧洗浄機<END>
+//POINTER #189 @ $2084 - STRING #189 @ $4C42
+
+#W32($2084)
+コート剤<END>
+//POINTER #190 @ $20B0 - STRING #190 @ $4C4C
+
+#W32($20B0)
+業務用ガラスクリーナー<END>
+//POINTER #191 @ $20DC - STRING #191 @ $4C64
+
+#W32($20DC)
+化学イオンガラスクリーナー<END>
+//POINTER #192 @ $2108 - STRING #192 @ $4C80
+
+#W32($2108)
+くもり止め<END>
+//POINTER #193 @ $2134 - STRING #193 @ $4C8C
+
+#W32($2134)
+クッション<END>
+//POINTER #194 @ $2160 - STRING #194 @ $4C98
+
+#W32($2160)
+フロアカーペット<END>
+//POINTER #195 @ $218C - STRING #195 @ $4CAA
+
+#W32($218C)
+マイナスイオン発生器<END>
+//POINTER #196 @ $21B8 - STRING #196 @ $4CC0
+
+#W32($21B8)
+空気清浄機<END>
+//POINTER #197 @ $21E4 - STRING #197 @ $4CCC
+
+#W32($21E4)
+エアコンフィルター<END>
+//POINTER #198 @ $2210 - STRING #198 @ $4CE0
+
+#W32($2210)
+サイドブレーキカバー<END>
+//POINTER #199 @ $223C - STRING #199 @ $4CF6
+
+#W32($223C)
+ドリンクホルダー<END>
+//POINTER #200 @ $2268 - STRING #200 @ $4D08
+
+#W32($2268)
+衝突防止センサー<END>
+//POINTER #201 @ $2294 - STRING #201 @ $4D1A
+
+#W32($2294)
+ノーマルレーダー<END>
+//POINTER #202 @ $22C0 - STRING #202 @ $4D2C
+
+#W32($22C0)
+ＧＰＳレーダー<END>
+//POINTER #203 @ $22EC - STRING #203 @ $4D3C
+
+#W32($22EC)
+芳香剤<END>
+//POINTER #204 @ $2318 - STRING #204 @ $4D44
+
+#W32($2318)
+消臭剤<END>
+//POINTER #205 @ $2344 - STRING #205 @ $4D4C
+
+#W32($2344)
+コインホルダー<END>
+//POINTER #206 @ $2370 - STRING #206 @ $4D5C
+
+#W32($2370)
+アームレスト<END>
+//POINTER #207 @ $239C - STRING #207 @ $4D6A
+
+#W32($239C)
+バックミラーミニサイズ<END>
+//POINTER #208 @ $23C8 - STRING #208 @ $4D82
+
+#W32($23C8)
+バックミラービッグサイズ<END>
+//POINTER #209 @ $23F4 - STRING #209 @ $4D9C
+
+#W32($23F4)
+交通安全お守り<END>
+//POINTER #210 @ $2420 - STRING #210 @ $4DAC
+
+#W32($2420)
+メンタルお守り<END>
+//POINTER #211 @ $244C - STRING #211 @ $4DBC
+
+#W32($244C)
+ドリフトお守り<END>
+//POINTER #212 @ $2478 - STRING #212 @ $4DCC
+
+#W32($2478)
+ペナルティお守り<END>
+//POINTER #213 @ $24A4 - STRING #213 @ $4DDE
+
+#W32($24A4)
+レースクイーンポスター<END>
+//POINTER #214 @ $24D0 - STRING #214 @ $4DF6
+
+#W32($24D0)
+レーサーポスター<END>
+//POINTER #215 @ $24FC - STRING #215 @ $4E08
+
+#W32($24FC)
+車ポスター<END>
+//POINTER #216 @ $2528 - STRING #216 @ $4E14
+
+#W32($2528)
+サーキットコース図<END>
+//POINTER #217 @ $2554 - STRING #217 @ $4E28
+
+#W32($2554)
+模型<END>
+//POINTER #218 @ $2580 - STRING #218 @ $4E2E
+
+#W32($2580)
+模型コレクション<END>
+//POINTER #219 @ $25AC - STRING #219 @ $4E40
+
+#W32($25AC)
+ラジコン<END>
+//BLOCK #002 NAME:		229.bin File - Encoded Block Text 3
+
+//POINTER #0 @ $C - STRING #0 @ $4E4A
+
+#W32($C)
+が発売されました<END>
+//POINTER #1 @ $38 - STRING #1 @ $4E5C
+
+#W32($38)
+が発売されました<END>
+//POINTER #2 @ $64 - STRING #2 @ $4E6E
+
+#W32($64)
+が発売されました<END>
+//POINTER #3 @ $90 - STRING #3 @ $4E80
+
+#W32($90)
+が発売されました<END>
+//POINTER #4 @ $BC - STRING #4 @ $4E92
+
+#W32($BC)
+が発売されました<END>
+//POINTER #5 @ $E8 - STRING #5 @ $4EA4
+
+#W32($E8)
+が発売されました<END>
+//POINTER #6 @ $114 - STRING #6 @ $4EB6
+
+#W32($114)
+が発売されました<END>
+//POINTER #7 @ $140 - STRING #7 @ $4EC8
+
+#W32($140)
+が発売されました<END>
+//POINTER #8 @ $16C - STRING #8 @ $4EDA
+
+#W32($16C)
+が発売されました<END>
+//POINTER #9 @ $198 - STRING #9 @ $4EEC
+
+#W32($198)
+が発売されました<END>
+//POINTER #10 @ $1C4 - STRING #10 @ $4EFE
+
+#W32($1C4)
+が発売されました<END>
+//POINTER #11 @ $1F0 - STRING #11 @ $4F10
+
+#W32($1F0)
+が発売されました<END>
+//POINTER #12 @ $21C - STRING #12 @ $4F22
+
+#W32($21C)
+が発売されました<END>
+//POINTER #13 @ $248 - STRING #13 @ $4F34
+
+#W32($248)
+が発売されました<END>
+//POINTER #14 @ $274 - STRING #14 @ $4F46
+
+#W32($274)
+が発売されました<END>
+//POINTER #15 @ $2A0 - STRING #15 @ $4F58
+
+#W32($2A0)
+が発売されました<END>
+//POINTER #16 @ $2CC - STRING #16 @ $4F6A
+
+#W32($2CC)
+が発売されました<END>
+//POINTER #17 @ $2F8 - STRING #17 @ $4F7C
+
+#W32($2F8)
+が発売されました<END>
+//POINTER #18 @ $324 - STRING #18 @ $4F8E
+
+#W32($324)
+が発売されました<END>
+//POINTER #19 @ $350 - STRING #19 @ $4FA0
+
+#W32($350)
+が発売されました<END>
+//POINTER #20 @ $37C - STRING #20 @ $4FB2
+
+#W32($37C)
+が発売されました<END>
+//POINTER #21 @ $3A8 - STRING #21 @ $4FC4
+
+#W32($3A8)
+が発売されました<END>
+//POINTER #22 @ $3D4 - STRING #22 @ $4FD6
+
+#W32($3D4)
+が発売されました<END>
+//POINTER #23 @ $400 - STRING #23 @ $4FE8
+
+#W32($400)
+が発売されました<END>
+//POINTER #24 @ $42C - STRING #24 @ $4FFA
+
+#W32($42C)
+が発売されました<END>
+//POINTER #25 @ $458 - STRING #25 @ $500C
+
+#W32($458)
+が発売されました<END>
+//POINTER #26 @ $484 - STRING #26 @ $501E
+
+#W32($484)
+が発売されました<END>
+//POINTER #27 @ $4B0 - STRING #27 @ $5030
+
+#W32($4B0)
+が発売されました<END>
+//POINTER #28 @ $4DC - STRING #28 @ $5042
+
+#W32($4DC)
+が発売されました<END>
+//POINTER #29 @ $508 - STRING #29 @ $5054
+
+#W32($508)
+が発売されました<END>
+//POINTER #30 @ $534 - STRING #30 @ $5066
+
+#W32($534)
+が発売されました<END>
+//POINTER #31 @ $560 - STRING #31 @ $5078
+
+#W32($560)
+が発売されました<END>
+//POINTER #32 @ $58C - STRING #32 @ $508A
+
+#W32($58C)
+が発売されました<END>
+//POINTER #33 @ $5B8 - STRING #33 @ $509C
+
+#W32($5B8)
+が発売されました<END>
+//POINTER #34 @ $5E4 - STRING #34 @ $50AE
+
+#W32($5E4)
+が発売されました<END>
+//POINTER #35 @ $610 - STRING #35 @ $50C0
+
+#W32($610)
+が発売されました<END>
+//POINTER #36 @ $63C - STRING #36 @ $50D2
+
+#W32($63C)
+が発売されました<END>
+//POINTER #37 @ $668 - STRING #37 @ $50E4
+
+#W32($668)
+が発売されました<END>
+//POINTER #38 @ $694 - STRING #38 @ $50F6
+
+#W32($694)
+が発売されました<END>
+//POINTER #39 @ $6C0 - STRING #39 @ $5108
+
+#W32($6C0)
+が発売されました<END>
+//POINTER #40 @ $6EC - STRING #40 @ $511A
+
+#W32($6EC)
+が発売されました<END>
+//POINTER #41 @ $718 - STRING #41 @ $512C
+
+#W32($718)
+が発売されました<END>
+//POINTER #42 @ $744 - STRING #42 @ $513E
+
+#W32($744)
+が発売されました<END>
+//POINTER #43 @ $770 - STRING #43 @ $5150
+
+#W32($770)
+が発売されました<END>
+//POINTER #44 @ $79C - STRING #44 @ $5162
+
+#W32($79C)
+が発売されました<END>
+//POINTER #45 @ $7C8 - STRING #45 @ $5174
+
+#W32($7C8)
+が発売されました<END>
+//POINTER #46 @ $7F4 - STRING #46 @ $5186
+
+#W32($7F4)
+が発売されました<END>
+//POINTER #47 @ $820 - STRING #47 @ $5198
+
+#W32($820)
+が発売されました<END>
+//POINTER #48 @ $84C - STRING #48 @ $51AA
+
+#W32($84C)
+が発売されました<END>
+//POINTER #49 @ $878 - STRING #49 @ $51BC
+
+#W32($878)
+が発売されました<END>
+//POINTER #50 @ $8A4 - STRING #50 @ $51CE
+
+#W32($8A4)
+が発売されました<END>
+//POINTER #51 @ $8D0 - STRING #51 @ $51E0
+
+#W32($8D0)
+が発売されました<END>
+//POINTER #52 @ $8FC - STRING #52 @ $51F2
+
+#W32($8FC)
+が発売されました<END>
+//POINTER #53 @ $928 - STRING #53 @ $5204
+
+#W32($928)
+が発売されました<END>
+//POINTER #54 @ $954 - STRING #54 @ $5216
+
+#W32($954)
+が発売されました<END>
+//POINTER #55 @ $980 - STRING #55 @ $5228
+
+#W32($980)
+が発売されました<END>
+//POINTER #56 @ $9AC - STRING #56 @ $523A
+
+#W32($9AC)
+が発売されました<END>
+//POINTER #57 @ $9D8 - STRING #57 @ $524C
+
+#W32($9D8)
+が発売されました<END>
+//POINTER #58 @ $A04 - STRING #58 @ $525E
+
+#W32($A04)
+が発売されました<END>
+//POINTER #59 @ $A30 - STRING #59 @ $5270
+
+#W32($A30)
+が発売されました<END>
+//POINTER #60 @ $A5C - STRING #60 @ $5282
+
+#W32($A5C)
+が発売されました<END>
+//POINTER #61 @ $A88 - STRING #61 @ $5294
+
+#W32($A88)
+が発売されました<END>
+//POINTER #62 @ $AB4 - STRING #62 @ $52A6
+
+#W32($AB4)
+が発売されました<END>
+//POINTER #63 @ $AE0 - STRING #63 @ $52B8
+
+#W32($AE0)
+が発売されました<END>
+//POINTER #64 @ $B0C - STRING #64 @ $52CA
+
+#W32($B0C)
+が発売されました<END>
+//POINTER #65 @ $B38 - STRING #65 @ $52DC
+
+#W32($B38)
+が発売されました<END>
+//POINTER #66 @ $B64 - STRING #66 @ $52EE
+
+#W32($B64)
+が発売されました<END>
+//POINTER #67 @ $B90 - STRING #67 @ $5300
+
+#W32($B90)
+が発売されました<END>
+//POINTER #68 @ $BBC - STRING #68 @ $5312
+
+#W32($BBC)
+が発売されました<END>
+//POINTER #69 @ $BE8 - STRING #69 @ $5324
+
+#W32($BE8)
+が発売されました<END>
+//POINTER #70 @ $C14 - STRING #70 @ $5336
+
+#W32($C14)
+が発売されました<END>
+//POINTER #71 @ $C40 - STRING #71 @ $5348
+
+#W32($C40)
+が発売されました<END>
+//POINTER #72 @ $C6C - STRING #72 @ $535A
+
+#W32($C6C)
+が発売されました<END>
+//POINTER #73 @ $C98 - STRING #73 @ $536C
+
+#W32($C98)
+が発売されました<END>
+//POINTER #74 @ $CC4 - STRING #74 @ $537E
+
+#W32($CC4)
+が発売されました<END>
+//POINTER #75 @ $CF0 - STRING #75 @ $5390
+
+#W32($CF0)
+が発売されました<END>
+//POINTER #76 @ $D1C - STRING #76 @ $53A2
+
+#W32($D1C)
+が発売されました<END>
+//POINTER #77 @ $D48 - STRING #77 @ $53B4
+
+#W32($D48)
+が発売されました<END>
+//POINTER #78 @ $D74 - STRING #78 @ $53C6
+
+#W32($D74)
+が発売されました<END>
+//POINTER #79 @ $DA0 - STRING #79 @ $53D8
+
+#W32($DA0)
+が発売されました<END>
+//POINTER #80 @ $DCC - STRING #80 @ $53EA
+
+#W32($DCC)
+が発売されました<END>
+//POINTER #81 @ $DF8 - STRING #81 @ $53FC
+
+#W32($DF8)
+が発売されました<END>
+//POINTER #82 @ $E24 - STRING #82 @ $540E
+
+#W32($E24)
+が発売されました<END>
+//POINTER #83 @ $E50 - STRING #83 @ $5420
+
+#W32($E50)
+が発売されました<END>
+//POINTER #84 @ $E7C - STRING #84 @ $5432
+
+#W32($E7C)
+が発売されました<END>
+//POINTER #85 @ $EA8 - STRING #85 @ $5444
+
+#W32($EA8)
+が発売されました<END>
+//POINTER #86 @ $ED4 - STRING #86 @ $5456
+
+#W32($ED4)
+が発売されました<END>
+//POINTER #87 @ $F00 - STRING #87 @ $5468
+
+#W32($F00)
+が発売されました<END>
+//POINTER #88 @ $F2C - STRING #88 @ $547A
+
+#W32($F2C)
+が発売されました<END>
+//POINTER #89 @ $F58 - STRING #89 @ $548C
+
+#W32($F58)
+が発売されました<END>
+//POINTER #90 @ $F84 - STRING #90 @ $549E
+
+#W32($F84)
+が発売されました<END>
+//POINTER #91 @ $FB0 - STRING #91 @ $54B0
+
+#W32($FB0)
+が発売されました<END>
+//POINTER #92 @ $FDC - STRING #92 @ $54C2
+
+#W32($FDC)
+が発売されました<END>
+//POINTER #93 @ $1008 - STRING #93 @ $54D4
+
+#W32($1008)
+が発売されました<END>
+//POINTER #94 @ $1034 - STRING #94 @ $54E6
+
+#W32($1034)
+が発売されました<END>
+//POINTER #95 @ $1060 - STRING #95 @ $54F8
+
+#W32($1060)
+が発売されました<END>
+//POINTER #96 @ $108C - STRING #96 @ $550A
+
+#W32($108C)
+が発売されました<END>
+//POINTER #97 @ $10B8 - STRING #97 @ $551C
+
+#W32($10B8)
+が発売されました<END>
+//POINTER #98 @ $10E4 - STRING #98 @ $552E
+
+#W32($10E4)
+が発売されました<END>
+//POINTER #99 @ $1110 - STRING #99 @ $5540
+
+#W32($1110)
+が発売されました<END>
+//POINTER #100 @ $113C - STRING #100 @ $5552
+
+#W32($113C)
+が発売されました<END>
+//POINTER #101 @ $1168 - STRING #101 @ $5564
+
+#W32($1168)
+が発売されました<END>
+//POINTER #102 @ $1194 - STRING #102 @ $5576
+
+#W32($1194)
+が発売されました<END>
+//POINTER #103 @ $11C0 - STRING #103 @ $5588
+
+#W32($11C0)
+が発売されました<END>
+//POINTER #104 @ $11EC - STRING #104 @ $559A
+
+#W32($11EC)
+が発売されました<END>
+//POINTER #105 @ $1218 - STRING #105 @ $55AC
+
+#W32($1218)
+が発売されました<END>
+//POINTER #106 @ $1244 - STRING #106 @ $55BE
+
+#W32($1244)
+が発売されました<END>
+//POINTER #107 @ $1270 - STRING #107 @ $55D0
+
+#W32($1270)
+が発売されました<END>
+//POINTER #108 @ $129C - STRING #108 @ $55E2
+
+#W32($129C)
+が発売されました<END>
+//POINTER #109 @ $12C8 - STRING #109 @ $55F4
+
+#W32($12C8)
+が発売されました<END>
+//POINTER #110 @ $12F4 - STRING #110 @ $5606
+
+#W32($12F4)
+が発売されました<END>
+//POINTER #111 @ $1320 - STRING #111 @ $5618
+
+#W32($1320)
+が発売されました<END>
+//POINTER #112 @ $134C - STRING #112 @ $562A
+
+#W32($134C)
+が発売されました<END>
+//POINTER #113 @ $1378 - STRING #113 @ $563C
+
+#W32($1378)
+が発売されました<END>
+//POINTER #114 @ $13A4 - STRING #114 @ $564E
+
+#W32($13A4)
+が発売されました<END>
+//POINTER #115 @ $13D0 - STRING #115 @ $5660
+
+#W32($13D0)
+が発売されました<END>
+//POINTER #116 @ $13FC - STRING #116 @ $5672
+
+#W32($13FC)
+が発売されました<END>
+//POINTER #117 @ $1428 - STRING #117 @ $5684
+
+#W32($1428)
+が発売されました<END>
+//POINTER #118 @ $1454 - STRING #118 @ $5696
+
+#W32($1454)
+が発売されました<END>
+//POINTER #119 @ $1480 - STRING #119 @ $56A8
+
+#W32($1480)
+が発売されました<END>
+//POINTER #120 @ $14AC - STRING #120 @ $56BA
+
+#W32($14AC)
+が発売されました<END>
+//POINTER #121 @ $14D8 - STRING #121 @ $56CC
+
+#W32($14D8)
+が発売されました<END>
+//POINTER #122 @ $1504 - STRING #122 @ $56DE
+
+#W32($1504)
+が発売されました<END>
+//POINTER #123 @ $1530 - STRING #123 @ $56F0
+
+#W32($1530)
+が発売されました<END>
+//POINTER #124 @ $155C - STRING #124 @ $5702
+
+#W32($155C)
+が発売されました<END>
+//POINTER #125 @ $1588 - STRING #125 @ $5714
+
+#W32($1588)
+が発売されました<END>
+//POINTER #126 @ $15B4 - STRING #126 @ $5726
+
+#W32($15B4)
+が発売されました<END>
+//POINTER #127 @ $15E0 - STRING #127 @ $5738
+
+#W32($15E0)
+が発売されました<END>
+//POINTER #128 @ $160C - STRING #128 @ $574A
+
+#W32($160C)
+が発売されました<END>
+//POINTER #129 @ $1638 - STRING #129 @ $575C
+
+#W32($1638)
+が発売されました<END>
+//POINTER #130 @ $1664 - STRING #130 @ $576E
+
+#W32($1664)
+が発売されました<END>
+//POINTER #131 @ $1690 - STRING #131 @ $5780
+
+#W32($1690)
+が発売されました<END>
+//POINTER #132 @ $16BC - STRING #132 @ $5792
+
+#W32($16BC)
+が発売されました<END>
+//POINTER #133 @ $16E8 - STRING #133 @ $57A4
+
+#W32($16E8)
+が発売されました<END>
+//POINTER #134 @ $1714 - STRING #134 @ $57B6
+
+#W32($1714)
+が発売されました<END>
+//POINTER #135 @ $1740 - STRING #135 @ $57C8
+
+#W32($1740)
+が発売されました<END>
+//POINTER #136 @ $176C - STRING #136 @ $57DA
+
+#W32($176C)
+が発売されました<END>
+//POINTER #137 @ $1798 - STRING #137 @ $57EC
+
+#W32($1798)
+が発売されました<END>
+//POINTER #138 @ $17C4 - STRING #138 @ $57FE
+
+#W32($17C4)
+が発売されました<END>
+//POINTER #139 @ $17F0 - STRING #139 @ $5810
+
+#W32($17F0)
+が発売されました<END>
+//POINTER #140 @ $181C - STRING #140 @ $5822
+
+#W32($181C)
+が発売されました<END>
+//POINTER #141 @ $1848 - STRING #141 @ $5834
+
+#W32($1848)
+が発売されました<END>
+//POINTER #142 @ $1874 - STRING #142 @ $5846
+
+#W32($1874)
+が発売されました<END>
+//POINTER #143 @ $18A0 - STRING #143 @ $5858
+
+#W32($18A0)
+が発売されました<END>
+//POINTER #144 @ $18CC - STRING #144 @ $586A
+
+#W32($18CC)
+が発売されました<END>
+//POINTER #145 @ $18F8 - STRING #145 @ $587C
+
+#W32($18F8)
+が発売されました<END>
+//POINTER #146 @ $1924 - STRING #146 @ $588E
+
+#W32($1924)
+が発売されました<END>
+//POINTER #147 @ $1950 - STRING #147 @ $58A0
+
+#W32($1950)
+が発売されました<END>
+//POINTER #148 @ $197C - STRING #148 @ $58B2
+
+#W32($197C)
+が発売されました<END>
+//POINTER #149 @ $19A8 - STRING #149 @ $58C4
+
+#W32($19A8)
+が発売されました<END>
+//POINTER #150 @ $19D4 - STRING #150 @ $58D6
+
+#W32($19D4)
+が発売されました<END>
+//POINTER #151 @ $1A00 - STRING #151 @ $58E8
+
+#W32($1A00)
+が発売されました<END>
+//POINTER #152 @ $1A2C - STRING #152 @ $58FA
+
+#W32($1A2C)
+が発売されました<END>
+//POINTER #153 @ $1A58 - STRING #153 @ $590C
+
+#W32($1A58)
+が発売されました<END>
+//POINTER #154 @ $1A84 - STRING #154 @ $591E
+
+#W32($1A84)
+が発売されました<END>
+//POINTER #155 @ $1AB0 - STRING #155 @ $5930
+
+#W32($1AB0)
+が発売されました<END>
+//POINTER #156 @ $1ADC - STRING #156 @ $5942
+
+#W32($1ADC)
+が発売されました<END>
+//POINTER #157 @ $1B08 - STRING #157 @ $5954
+
+#W32($1B08)
+が発売されました<END>
+//POINTER #158 @ $1B34 - STRING #158 @ $5966
+
+#W32($1B34)
+が発売されました<END>
+//POINTER #159 @ $1B60 - STRING #159 @ $5978
+
+#W32($1B60)
+が発売されました<END>
+//POINTER #160 @ $1B8C - STRING #160 @ $598A
+
+#W32($1B8C)
+が発売されました<END>
+//POINTER #161 @ $1BB8 - STRING #161 @ $599C
+
+#W32($1BB8)
+が発売されました<END>
+//POINTER #162 @ $1BE4 - STRING #162 @ $59AE
+
+#W32($1BE4)
+が発売されました<END>
+//POINTER #163 @ $1C10 - STRING #163 @ $59C0
+
+#W32($1C10)
+が発売されました<END>
+//POINTER #164 @ $1C3C - STRING #164 @ $59D2
+
+#W32($1C3C)
+が発売されました<END>
+//POINTER #165 @ $1C68 - STRING #165 @ $59E4
+
+#W32($1C68)
+が発売されました<END>
+//POINTER #166 @ $1C94 - STRING #166 @ $59F6
+
+#W32($1C94)
+が発売されました<END>
+//POINTER #167 @ $1CC0 - STRING #167 @ $5A08
+
+#W32($1CC0)
+が発売されました<END>
+//POINTER #168 @ $1CEC - STRING #168 @ $5A1A
+
+#W32($1CEC)
+が発売されました<END>
+//POINTER #169 @ $1D18 - STRING #169 @ $5A2C
+
+#W32($1D18)
+が発売されました<END>
+//POINTER #170 @ $1D44 - STRING #170 @ $5A3E
+
+#W32($1D44)
+が発売されました<END>
+//POINTER #171 @ $1D70 - STRING #171 @ $5A50
+
+#W32($1D70)
+が発売されました<END>
+//POINTER #172 @ $1D9C - STRING #172 @ $5A62
+
+#W32($1D9C)
+が発売されました<END>
+//POINTER #173 @ $1DC8 - STRING #173 @ $5A74
+
+#W32($1DC8)
+が発売されました<END>
+//POINTER #174 @ $1DF4 - STRING #174 @ $5A86
+
+#W32($1DF4)
+が発売されました<END>
+//POINTER #175 @ $1E20 - STRING #175 @ $5A98
+
+#W32($1E20)
+が発売されました<END>
+//POINTER #176 @ $1E4C - STRING #176 @ $5AAA
+
+#W32($1E4C)
+が発売されました<END>
+//POINTER #177 @ $1E78 - STRING #177 @ $5ABC
+
+#W32($1E78)
+が発売されました<END>
+//POINTER #178 @ $1EA4 - STRING #178 @ $5ACE
+
+#W32($1EA4)
+が発売されました<END>
+//POINTER #179 @ $1ED0 - STRING #179 @ $5AE0
+
+#W32($1ED0)
+が発売されました<END>
+//POINTER #180 @ $1EFC - STRING #180 @ $5AF2
+
+#W32($1EFC)
+が発売されました<END>
+//POINTER #181 @ $1F28 - STRING #181 @ $5B04
+
+#W32($1F28)
+が発売されました<END>
+//POINTER #182 @ $1F54 - STRING #182 @ $5B16
+
+#W32($1F54)
+が発売されました<END>
+//POINTER #183 @ $1F80 - STRING #183 @ $5B28
+
+#W32($1F80)
+が発売されました<END>
+//POINTER #184 @ $1FAC - STRING #184 @ $5B3A
+
+#W32($1FAC)
+が発売されました<END>
+//POINTER #185 @ $1FD8 - STRING #185 @ $5B4C
+
+#W32($1FD8)
+が発売されました<END>
+//POINTER #186 @ $2004 - STRING #186 @ $5B5E
+
+#W32($2004)
+が発売されました<END>
+//POINTER #187 @ $2030 - STRING #187 @ $5B70
+
+#W32($2030)
+が発売されました<END>
+//POINTER #188 @ $205C - STRING #188 @ $5B82
+
+#W32($205C)
+が発売されました<END>
+//POINTER #189 @ $2088 - STRING #189 @ $5B94
+
+#W32($2088)
+が発売されました<END>
+//POINTER #190 @ $20B4 - STRING #190 @ $5BA6
+
+#W32($20B4)
+が発売されました<END>
+//POINTER #191 @ $20E0 - STRING #191 @ $5BB8
+
+#W32($20E0)
+が発売されました<END>
+//POINTER #192 @ $210C - STRING #192 @ $5BCA
+
+#W32($210C)
+が発売されました<END>
+//POINTER #193 @ $2138 - STRING #193 @ $5BDC
+
+#W32($2138)
+が発売されました<END>
+//POINTER #194 @ $2164 - STRING #194 @ $5BEE
+
+#W32($2164)
+が発売されました<END>
+//POINTER #195 @ $2190 - STRING #195 @ $5C00
+
+#W32($2190)
+が発売されました<END>
+//POINTER #196 @ $21BC - STRING #196 @ $5C12
+
+#W32($21BC)
+が発売されました<END>
+//POINTER #197 @ $21E8 - STRING #197 @ $5C24
+
+#W32($21E8)
+が発売されました<END>
+//POINTER #198 @ $2214 - STRING #198 @ $5C36
+
+#W32($2214)
+が発売されました<END>
+//POINTER #199 @ $2240 - STRING #199 @ $5C48
+
+#W32($2240)
+が発売されました<END>
+//POINTER #200 @ $226C - STRING #200 @ $5C5A
+
+#W32($226C)
+が発売されました<END>
+//POINTER #201 @ $2298 - STRING #201 @ $5C6C
+
+#W32($2298)
+が発売されました<END>
+//POINTER #202 @ $22C4 - STRING #202 @ $5C7E
+
+#W32($22C4)
+が発売されました<END>
+//POINTER #203 @ $22F0 - STRING #203 @ $5C90
+
+#W32($22F0)
+が発売されました<END>
+//POINTER #204 @ $231C - STRING #204 @ $5CA2
+
+#W32($231C)
+が発売されました<END>
+//POINTER #205 @ $2348 - STRING #205 @ $5CB4
+
+#W32($2348)
+が発売されました<END>
+//POINTER #206 @ $2374 - STRING #206 @ $5CC6
+
+#W32($2374)
+が発売されました<END>
+//POINTER #207 @ $23A0 - STRING #207 @ $5CD8
+
+#W32($23A0)
+が発売されました<END>
+//POINTER #208 @ $23CC - STRING #208 @ $5CEA
+
+#W32($23CC)
+が発売されました<END>
+//POINTER #209 @ $23F8 - STRING #209 @ $5CFC
+
+#W32($23F8)
+が発売されました<END>
+//POINTER #210 @ $2424 - STRING #210 @ $5D0E
+
+#W32($2424)
+が発売されました<END>
+//POINTER #211 @ $2450 - STRING #211 @ $5D20
+
+#W32($2450)
+が発売されました<END>
+//POINTER #212 @ $247C - STRING #212 @ $5D32
+
+#W32($247C)
+が発売されました<END>
+//POINTER #213 @ $24A8 - STRING #213 @ $5D44
+
+#W32($24A8)
+が発売されました<END>
+//POINTER #214 @ $24D4 - STRING #214 @ $5D56
+
+#W32($24D4)
+が発売されました<END>
+//POINTER #215 @ $2500 - STRING #215 @ $5D68
+
+#W32($2500)
+が発売されました<END>
+//POINTER #216 @ $252C - STRING #216 @ $5D7A
+
+#W32($252C)
+が発売されました<END>
+//POINTER #217 @ $2558 - STRING #217 @ $5D8C
+
+#W32($2558)
+が発売されました<END>
+//POINTER #218 @ $2584 - STRING #218 @ $5D9E
+
+#W32($2584)
+が発売されました<END>
+//POINTER #219 @ $25B0 - STRING #219 @ $5DB0
+
+#W32($25B0)
+が発売されました<END>
+//BLOCK #003 NAME:		229.bin File - Encoded Block Text 4
+
+//POINTER #0 @ $10 - STRING #0 @ $5DC2
+
+#W32($10)
+SKYLINE GT-R VspecⅡ R32<END>
+//POINTER #1 @ $3C - STRING #1 @ $5DF2
+
+#W32($3C)
+SKYLINE GT-R Vspec R33<END>
+//POINTER #2 @ $68 - STRING #2 @ $5E20
+
+#W32($68)
+SKYLINE GT-R VspecⅡ R34<END>
+//POINTER #3 @ $94 - STRING #3 @ $5E50
+
+#W32($94)
+Silvia K's S14<END>
+//POINTER #4 @ $C0 - STRING #4 @ $5E6E
+
+#W32($C0)
+Silvia K's S13<END>
+//POINTER #5 @ $EC - STRING #5 @ $5E8C
+
+#W32($EC)
+SKYLINE COUPE 35<EMPTY>GT<END>
+//POINTER #6 @ $118 - STRING #6 @ $5EB4
+
+#W32($118)
+ELGRAND Highway STAR<END>
+//POINTER #7 @ $144 - STRING #7 @ $5EDE
+
+#W32($144)
+CUBE EX<END>
+//POINTER #8 @ $170 - STRING #8 @ $5EEE
+
+#W32($170)
+LANCER EVOLUTION Ⅷ GSR<END>
+//POINTER #9 @ $19C - STRING #9 @ $5F1C
+
+#W32($19C)
+LANCER EVOLUTION Ⅶ GSR<END>
+//POINTER #10 @ $1C8 - STRING #10 @ $5F4A
+
+#W32($1C8)
+LANCER EVOLUTION Ⅵ GSR<END>
+//POINTER #11 @ $1F4 - STRING #11 @ $5F78
+
+#W32($1F4)
+LANCER EVOLUTION Ⅴ GSR<END>
+//POINTER #12 @ $220 - STRING #12 @ $5FA6
+
+#W32($220)
+FTO GP Version R<END>
+//POINTER #13 @ $24C - STRING #13 @ $5FC8
+
+#W32($24C)
+RX-7 Type RZ<END>
+//POINTER #14 @ $278 - STRING #14 @ $5FE2
+
+#W32($278)
+ATENZA SPORT 23Z<END>
+//POINTER #15 @ $2A4 - STRING #15 @ $6004
+
+#W32($2A4)
+AXELA Sport 23S<END>
+//POINTER #16 @ $2D0 - STRING #16 @ $6024
+
+#W32($2D0)
+Supra RZ<END>
+//POINTER #17 @ $2FC - STRING #17 @ $6036
+
+#W32($2FC)
+CELICA SS-Ⅱ SUPER STRUT PACKAGE<END>
+//POINTER #18 @ $328 - STRING #18 @ $6076
+
+#W32($328)
+CELICA GT-FOUR<END>
+//POINTER #19 @ $354 - STRING #19 @ $6094
+
+#W32($354)
+MR-S S EDITION<END>
+//POINTER #20 @ $380 - STRING #20 @ $60B2
+
+#W32($380)
+CHASER TOURER V<END>
+//POINTER #21 @ $3AC - STRING #21 @ $60D2
+
+#W32($3AC)
+MR2 GT<END>
+//POINTER #22 @ $3D8 - STRING #22 @ $60E0
+
+#W32($3D8)
+MR2 G Super Charger<END>
+//POINTER #23 @ $404 - STRING #23 @ $6108
+
+#W32($404)
+ALTEZZA RS2<EMPTY><EMPTY> L EDITION<END>
+//POINTER #24 @ $430 - STRING #24 @ $6138
+
+#W32($430)
+NOAH L G Selection<END>
+//POINTER #25 @ $45C - STRING #25 @ $615E
+
+#W32($45C)
+ist 1.5S L edition<END>
+//POINTER #26 @ $488 - STRING #26 @ $6184
+
+#W32($488)
+WISH 2.<EMPTY>Z<END>
+//POINTER #27 @ $4B4 - STRING #27 @ $6198
+
+#W32($4B4)
+LEGACY B4 GT<END>
+//POINTER #28 @ $4E0 - STRING #28 @ $61B2
+
+#W32($4E0)
+IMPREZA WRX STi GDB<END>
+//POINTER #29 @ $50C - STRING #29 @ $61DA
+
+#W32($50C)
+IMPREZA WRX STi GC8<END>
+//POINTER #30 @ $538 - STRING #30 @ $6202
+
+#W32($538)
+LEGACY WAGON BP5<END>
+//POINTER #31 @ $564 - STRING #31 @ $6224
+
+#W32($564)
+IMPREZA WRX STi GDBM<END>
+//POINTER #32 @ $590 - STRING #32 @ $624E
+
+#W32($590)
+IMPREZA SportsWagon WRX<END>
+//POINTER #33 @ $5BC - STRING #33 @ $627E
+
+#W32($5BC)
+WAGON R RR-DI<END>
+//POINTER #34 @ $5E8 - STRING #34 @ $629A
+
+#W32($5E8)
+CARRY KA<END>
+//POINTER #35 @ $614 - STRING #35 @ $62AC
+
+#W32($614)
+MOVE CUSTOM RS Limited<END>
+//POINTER #36 @ $640 - STRING #36 @ $62DA
+
+#W32($640)
+BEAT<END>
+//POINTER #37 @ $66C - STRING #37 @ $62E4
+
+#W32($66C)
+CIVIC TYPE R EK9<END>
+//POINTER #38 @ $698 - STRING #38 @ $6306
+
+#W32($698)
+CIVIC TYPE R EP3<END>
+//POINTER #39 @ $6C4 - STRING #39 @ $6328
+
+#W32($6C4)
+INTEGRA TYPE R DC2<END>
+//POINTER #40 @ $6F0 - STRING #40 @ $634E
+
+#W32($6F0)
+Fit 1.5T<END>
+//POINTER #41 @ $71C - STRING #41 @ $6360
+
+#W32($71C)
+CR-X SiR<END>
+//POINTER #42 @ $748 - STRING #42 @ $6372
+
+#W32($748)
+ACCORD Euro R CL1<END>
+//POINTER #43 @ $774 - STRING #43 @ $6396
+
+#W32($774)
+ACCORD Euro R CL7<END>
+//POINTER #44 @ $7A0 - STRING #44 @ $63BA
+
+#W32($7A0)
+Stream Absolute<END>
+//POINTER #45 @ $7CC - STRING #45 @ $63DA
+
+#W32($7CC)
+Odyssey Absolute<END>
+//POINTER #46 @ $7F8 - STRING #46 @ $63FC
+
+#W32($7F8)
+NSX-R NA1<END>
+//POINTER #47 @ $824 - STRING #47 @ $6410
+
+#W32($824)
+NSX type S Zero<END>
+//POINTER #48 @ $850 - STRING #48 @ $6430
+
+#W32($850)
+NSX-R NA2<END>
+//POINTER #49 @ $87C - STRING #49 @ $6444
+
+#W32($87C)
+LiFE D TURBO<END>
+//POINTER #50 @ $8A8 - STRING #50 @ $645E
+
+#W32($8A8)
+HKS CT9A TRB-<EMPTY>2<END>
+//POINTER #51 @ $8D4 - STRING #51 @ $647E
+
+#W32($8D4)
+M SPEED BNR34<END>
+//POINTER #52 @ $900 - STRING #52 @ $649A
+
+#W32($900)
+SUNAUTO CYBER EVO<END>
+//POINTER #53 @ $92C - STRING #53 @ $64BE
+
+#W32($92C)
+JUN HYPER LEMON EVO Ⅴ<END>
+//POINTER #54 @ $958 - STRING #54 @ $64EA
+
+#W32($958)
+JUN SUPER LEMON GDB<END>
+//POINTER #55 @ $984 - STRING #55 @ $6512
+
+#W32($984)
+RE AMEMIYA super-G<END>
+//POINTER #56 @ $9B0 - STRING #56 @ $6538
+
+#W32($9B0)
+RE AMEMIYA GReddy9<END>
+//POINTER #57 @ $9DC - STRING #57 @ $655E
+
+#W32($9DC)
+Mine's BNR34 GT-R N1 base<END>
+//POINTER #58 @ $A08 - STRING #58 @ $6592
+
+#W32($A08)
+ALPINE ALTEZZA<END>
+//POINTER #59 @ $A34 - STRING #59 @ $65B0
+
+#W32($A34)
+Sun Line Auto S15<END>
+//POINTER #60 @ $A60 - STRING #60 @ $65D4
+
+#W32($A60)
+Sequential FireSF15<END>
+//POINTER #61 @ $A8C - STRING #61 @ $65FC
+
+#W32($A8C)
+MCR BNR34<END>
+//POINTER #62 @ $AB8 - STRING #62 @ $6610
+
+#W32($AB8)
+Ridox Fact JZA8<EMPTY><END>
+//POINTER #63 @ $AE4 - STRING #63 @ $6632
+
+#W32($AE4)
+NOB S15 SILVIA<END>
+//POINTER #64 @ $B10 - STRING #64 @ $6650
+
+#W32($B10)
+HKS GENKI IS22<EMPTY>R<END>
+//POINTER #65 @ $B3C - STRING #65 @ $6672
+
+#W32($B3C)
+A'PEX D1 PROJECT FD3S<END>
+//POINTER #66 @ $B68 - STRING #66 @ $669E
+
+#W32($B68)
+BLITZ ER34 D1 SPL<END>
+//POINTER #67 @ $B94 - STRING #67 @ $66C2
+
+#W32($B94)
+HKS S15 HIPER SILVIA<END>
+//POINTER #68 @ $BC0 - STRING #68 @ $66EC
+
+#W32($BC0)
+C-WEST S2<EMPTY><EMPTY><EMPTY> PROTO TYPE<END>
+//POINTER #69 @ $BEC - STRING #69 @ $671C
+
+#W32($BEC)
+SAB SUPER STREET RX-8<END>
+//POINTER #70 @ $C18 - STRING #70 @ $6748
+
+#W32($C18)
+RS-R S15<END>
+//POINTER #71 @ $C44 - STRING #71 @ $675A
+
+#W32($C44)
+GENKI S2<EMPTY><EMPTY><EMPTY><END>
+//POINTER #72 @ $C70 - STRING #72 @ $6772
+
+#W32($C70)
+AQUA NSX NA2<END>
+//POINTER #73 @ $C9C - STRING #73 @ $678C
+
+#W32($C9C)
+ALPINE NSX NA2<END>
+//POINTER #74 @ $CC8 - STRING #74 @ $67AA
+
+#W32($CC8)
+AQUA NSX NA2 Version2<END>
+//POINTER #75 @ $CF4 - STRING #75 @ $67D6
+
+#W32($CF4)
+DEVIL'S Z<END>
+//POINTER #76 @ $D20 - STRING #76 @ $67EA
+
+#W32($D20)
+JINTEI<END>
+//POINTER #77 @ $D4C - STRING #77 @ $67F8
+
+#W32($D4C)
+RED DEVIL<END>
+//POINTER #78 @ $D78 - STRING #78 @ $680C
+
+#W32($D78)
+GENKI ODYSSEY<END>
+//POINTER #79 @ $DA4 - STRING #79 @ $6828
+
+#W32($DA4)
+UDON CUSTOM<END>
+//POINTER #80 @ $DD0 - STRING #80 @ $6840
+
+#W32($DD0)
+Ebihata SUPRA<END>
+//POINTER #81 @ $DFC - STRING #81 @ $685C
+
+#W32($DFC)
+ALTEZZA RACE CAR<END>
+//POINTER #82 @ $E28 - STRING #82 @ $687E
+
+#W32($E28)
+CUBE LIMOUSINE<END>
+//POINTER #83 @ $E54 - STRING #83 @ $689C
+
+#W32($E54)
+Z33 Rally Style<END>
+//POINTER #84 @ $E80 - STRING #84 @ $68BC
+
+#W32($E80)
+NA8C DRAG STAR<END>
+//POINTER #85 @ $EAC - STRING #85 @ $68DA
+
+#W32($EAC)
+R32 GT-R RACE CAR<END>
+//POINTER #86 @ $ED8 - STRING #86 @ $68FE
+
+#W32($ED8)
+HYPER CARRY<END>
+//POINTER #87 @ $F04 - STRING #87 @ $6916
+
+#W32($F04)
+CIVIC RACING<END>
+//POINTER #88 @ $F30 - STRING #88 @ $6930
+
+#W32($F30)
+REV SPEED 18<EMPTY>SX<END>
+//POINTER #89 @ $F5C - STRING #89 @ $6950
+
+#W32($F5C)
+OPTION2 S15<END>
+//POINTER #90 @ $F88 - STRING #90 @ $6968
+
+#W32($F88)
+Young Version FD3S<END>
+//POINTER #91 @ $FB4 - STRING #91 @ $698E
+
+#W32($FB4)
+Honda Style S2<EMPTY><EMPTY><EMPTY><END>
+//POINTER #92 @ $FE0 - STRING #92 @ $69B2
+
+#W32($FE0)
+OPTION WAGON<END>
+//POINTER #93 @ $100C - STRING #93 @ $69CC
+
+#W32($100C)
+R32 RACING<END>
+//POINTER #94 @ $1038 - STRING #94 @ $69E2
+
+#W32($1038)
+RX-8 RACING<END>
+//POINTER #95 @ $1064 - STRING #95 @ $69FA
+
+#W32($1064)
+SIX STAR MAGAGINE BE5<END>
+//POINTER #96 @ $1090 - STRING #96 @ $6A26
+
+#W32($1090)
+加速向上！「エンジン　タイプ２」発売<END>
+//POINTER #97 @ $10BC - STRING #97 @ $6A4C
+
+#W32($10BC)
+加速向上！「エンジン　タイプ３」発売<END>
+//POINTER #98 @ $10E8 - STRING #98 @ $6A72
+
+#W32($10E8)
+加速向上！「エンジン　タイプ４」発売<END>
+//POINTER #99 @ $1114 - STRING #99 @ $6A98
+
+#W32($1114)
+加速向上！「エンジン　タイプ５」発売<END>
+//POINTER #100 @ $1140 - STRING #100 @ $6ABE
+
+#W32($1140)
+加速向上！「吸排気　タイプ２」発売<END>
+//POINTER #101 @ $116C - STRING #101 @ $6AE2
+
+#W32($116C)
+加速向上！「吸排気　タイプ３」発売<END>
+//POINTER #102 @ $1198 - STRING #102 @ $6B06
+
+#W32($1198)
+加速向上！「コンピュータ　タイプ２」発売<END>
+//POINTER #103 @ $11C4 - STRING #103 @ $6B30
+
+#W32($11C4)
+加速向上！「コンピュータ　タイプ３」発売<END>
+//POINTER #104 @ $11F0 - STRING #104 @ $6B5A
+
+#W32($11F0)
+加速向上！「コンピュータ　タイプ４」発売<END>
+//POINTER #105 @ $121C - STRING #105 @ $6B84
+
+#W32($121C)
+加速向上！「コンピュータ　タイプ５」発売<END>
+//POINTER #106 @ $1248 - STRING #106 @ $6BAE
+
+#W32($1248)
+加速向上、油温、水温安定！「冷却　タイプ２」発売<END>
+//POINTER #107 @ $1274 - STRING #107 @ $6BE0
+
+#W32($1274)
+加速向上、油温、水温安定！「冷却　タイプ３」発売<END>
+//POINTER #108 @ $12A0 - STRING #108 @ $6C12
+
+#W32($12A0)
+遂に解禁！「エンジン換装」<END>
+//POINTER #109 @ $12CC - STRING #109 @ $6C2E
+
+#W32($12CC)
+走行安定、旋回性向上！<END>
+//POINTER #110 @ $12F8 - STRING #110 @ $6C46
+
+#W32($12F8)
+走行安定、旋回性向上！<END>
+//POINTER #111 @ $1324 - STRING #111 @ $6C5E
+
+#W32($1324)
+加速向上！「トランスミッション　タイプ２」発売<END>
+//POINTER #112 @ $1350 - STRING #112 @ $6C8E
+
+#W32($1350)
+加速向上！「トランスミッション　タイプ３」発売<END>
+//POINTER #113 @ $137C - STRING #113 @ $6CBE
+
+#W32($137C)
+加速向上！「クラッチ　タイプ２」発売<END>
+//POINTER #114 @ $13A8 - STRING #114 @ $6CE4
+
+#W32($13A8)
+加速向上！「クラッチ　タイプ３」発売<END>
+//POINTER #115 @ $13D4 - STRING #115 @ $6D0A
+
+#W32($13D4)
+制動向上！「ブレーキ　タイプ２」発売<END>
+//POINTER #116 @ $1400 - STRING #116 @ $6D30
+
+#W32($1400)
+制動向上！「ブレーキ　タイプ３」発売<END>
+//POINTER #117 @ $142C - STRING #117 @ $6D56
+
+#W32($142C)
+旋回性、走行安定向上！「補強　タイプ２」発売<END>
+//POINTER #118 @ $1458 - STRING #118 @ $6D84
+
+#W32($1458)
+旋回性、走行安定向上！「補強　タイプ３」発売<END>
+//POINTER #119 @ $1484 - STRING #119 @ $6DB2
+
+#W32($1484)
+旋回性、走行安定向上！「補強　タイプ４」発売<END>
+//POINTER #120 @ $14B0 - STRING #120 @ $6DE0
+
+#W32($14B0)
+旋回性、走行安定向上！「補強　タイプ５」発売<END>
+//POINTER #121 @ $14DC - STRING #121 @ $6E0E
+
+#W32($14DC)
+加速、旋回性向上！「軽量化　タイプ２」発売<END>
+//POINTER #122 @ $1508 - STRING #122 @ $6E3A
+
+#W32($1508)
+加速、旋回性向上！「軽量化　タイプ３」発売<END>
+//POINTER #123 @ $1534 - STRING #123 @ $6E66
+
+#W32($1534)
+加速、旋回性向上！「軽量化　タイプ４」発売<END>
+//POINTER #124 @ $1560 - STRING #124 @ $6E92
+
+#W32($1560)
+加速、旋回性向上！「軽量化　タイプ５」発売<END>
+//POINTER #125 @ $158C - STRING #125 @ $6EBE
+
+#W32($158C)
+「公認ヘルメット」発売<END>
+//POINTER #126 @ $15B8 - STRING #126 @ $6ED6
+
+#W32($15B8)
+「レーサーモデルヘルメット」発売<END>
+//POINTER #127 @ $15E4 - STRING #127 @ $6EF8
+
+#W32($15E4)
+「公認スーツ」発売<END>
+//POINTER #128 @ $1610 - STRING #128 @ $6F0C
+
+#W32($1610)
+「レーサーモデルスーツ」発売<END>
+//POINTER #129 @ $163C - STRING #129 @ $6F2A
+
+#W32($163C)
+「レーシンググローブ」発売<END>
+//POINTER #130 @ $1668 - STRING #130 @ $6F46
+
+#W32($1668)
+「公認グローブ」発売<END>
+//POINTER #131 @ $1694 - STRING #131 @ $6F5C
+
+#W32($1694)
+「レーサーモデルグローブ」発売<END>
+//POINTER #132 @ $16C0 - STRING #132 @ $6F7C
+
+#W32($16C0)
+「レーシングシューズ」発売<END>
+//POINTER #133 @ $16EC - STRING #133 @ $6F98
+
+#W32($16EC)
+「公認シューズ」発売<END>
+//POINTER #134 @ $1718 - STRING #134 @ $6FAE
+
+#W32($1718)
+「レーサーモデルシューズ」発売<END>
+//POINTER #135 @ $1744 - STRING #135 @ $6FCE
+
+#W32($1744)
+「セミバケットシート」発売<END>
+//POINTER #136 @ $1770 - STRING #136 @ $6FEA
+
+#W32($1770)
+「フルバケットシート」発売<END>
+//POINTER #137 @ $179C - STRING #137 @ $7006
+
+#W32($179C)
+「カーボン製フルバケットシート」発売<END>
+//POINTER #138 @ $17C8 - STRING #138 @ $702C
+
+#W32($17C8)
+「４点式シートベルト」限定販売<END>
+//POINTER #139 @ $17F4 - STRING #139 @ $704C
+
+#W32($17F4)
+「４点式クイックリリースタイプ」限定販売<END>
+//POINTER #140 @ $1820 - STRING #140 @ $7076
+
+#W32($1820)
+「ニッケル製プラグ」限定販売<END>
+//POINTER #141 @ $184C - STRING #141 @ $7094
+
+#W32($184C)
+「ゴールド製プラグ」限定販売<END>
+//POINTER #142 @ $1878 - STRING #142 @ $70B2
+
+#W32($1878)
+「プラチナ製プラグ」限定販売<END>
+//POINTER #143 @ $18A4 - STRING #143 @ $70D0
+
+#W32($18A4)
+「ＭＤＩシステム」限定販売<END>
+//POINTER #144 @ $18D0 - STRING #144 @ $70EC
+
+#W32($18D0)
+「高性能ＭＤＩシステム」限定販売<END>
+//POINTER #145 @ $18FC - STRING #145 @ $710E
+
+#W32($18FC)
+「プラグコード」限定販売<END>
+//POINTER #146 @ $1928 - STRING #146 @ $7128
+
+#W32($1928)
+「高性能プラグコード」限定販売<END>
+//POINTER #147 @ $1954 - STRING #147 @ $7148
+
+#W32($1954)
+「チタン製スピンターンノブ」発売<END>
+//POINTER #148 @ $1980 - STRING #148 @ $716A
+
+#W32($1980)
+「油圧式サイドブレーキ」限定販売<END>
+//POINTER #149 @ $19AC - STRING #149 @ $718C
+
+#W32($19AC)
+「スポーツ用インナーシュー」発売<END>
+//POINTER #150 @ $19D8 - STRING #150 @ $71AE
+
+#W32($19D8)
+「競技用インナーシュー」発売<END>
+//POINTER #151 @ $1A04 - STRING #151 @ $71CC
+
+#W32($1A04)
+「チョークボード」発売<END>
+//POINTER #152 @ $1A30 - STRING #152 @ $71E4
+
+#W32($1A30)
+「サインボード」発売<END>
+//POINTER #153 @ $1A5C - STRING #153 @ $71FA
+
+#W32($1A5C)
+「パテ」発売<END>
+//POINTER #154 @ $1A88 - STRING #154 @ $7208
+
+#W32($1A88)
+「補修キット」発売<END>
+//POINTER #155 @ $1AB4 - STRING #155 @ $721C
+
+#W32($1AB4)
+「シンプル工具セット」発売<END>
+//POINTER #156 @ $1AE0 - STRING #156 @ $7238
+
+#W32($1AE0)
+「ノーマル工具セット」発売<END>
+//POINTER #157 @ $1B0C - STRING #157 @ $7254
+
+#W32($1B0C)
+「デラックス工具セット」発売<END>
+//POINTER #158 @ $1B38 - STRING #158 @ $7272
+
+#W32($1B38)
+「小型ジャッキ」発売<END>
+//POINTER #159 @ $1B64 - STRING #159 @ $7288
+
+#W32($1B64)
+「ダルマジャッキ」発売<END>
+//POINTER #160 @ $1B90 - STRING #160 @ $72A0
+
+#W32($1B90)
+「油圧ジャッキ」発売<END>
+//POINTER #161 @ $1BBC - STRING #161 @ $72B6
+
+#W32($1BBC)
+「小型リジットラック」限定販売<END>
+//POINTER #162 @ $1BE8 - STRING #162 @ $72D6
+
+#W32($1BE8)
+「大型リジットラック」限定販売<END>
+//POINTER #163 @ $1C14 - STRING #163 @ $72F6
+
+#W32($1C14)
+「リジットラック・スロープ」限定販売<END>
+//POINTER #164 @ $1C40 - STRING #164 @ $731C
+
+#W32($1C40)
+「ブレーキクリーナースプレータイプ」発売<END>
+//POINTER #165 @ $1C6C - STRING #165 @ $7346
+
+#W32($1C6C)
+「ブレーキクリーナーグリスタイプ」発売<END>
+//POINTER #166 @ $1C98 - STRING #166 @ $736E
+
+#W32($1C98)
+「ブレーキクリーナーボトルタイプ」限定販売<END>
+//POINTER #167 @ $1CC4 - STRING #167 @ $739A
+
+#W32($1CC4)
+「ノーマルバッテリー」限定販売<END>
+//POINTER #168 @ $1CF0 - STRING #168 @ $73BA
+
+#W32($1CF0)
+「ハイパワーバッテリー」限定販売<END>
+//POINTER #169 @ $1D1C - STRING #169 @ $73DC
+
+#W32($1D1C)
+「ドライバッテリー」限定販売<END>
+//POINTER #170 @ $1D48 - STRING #170 @ $73FA
+
+#W32($1D48)
+「鉱物油」発売<END>
+//POINTER #171 @ $1D74 - STRING #171 @ $740A
+
+#W32($1D74)
+「部分合成油」発売<END>
+//POINTER #172 @ $1DA0 - STRING #172 @ $741E
+
+#W32($1DA0)
+「化学合成油」発売<END>
+//POINTER #173 @ $1DCC - STRING #173 @ $7432
+
+#W32($1DCC)
+「エンジンオイル添加剤」限定販売<END>
+//POINTER #174 @ $1DF8 - STRING #174 @ $7454
+
+#W32($1DF8)
+「アーシングケーブル」限定販売<END>
+//POINTER #175 @ $1E24 - STRING #175 @ $7474
+
+#W32($1E24)
+「アーシングキット」限定販売<END>
+//POINTER #176 @ $1E50 - STRING #176 @ $7492
+
+#W32($1E50)
+「トルマリンシート」発売<END>
+//POINTER #177 @ $1E7C - STRING #177 @ $74AC
+
+#W32($1E7C)
+「エコプラグ」発売<END>
+//POINTER #178 @ $1EA8 - STRING #178 @ $74C0
+
+#W32($1EA8)
+「エコマグネット」限定販売<END>
+//POINTER #179 @ $1ED4 - STRING #179 @ $74DC
+
+#W32($1ED4)
+「エコストーン」限定販売<END>
+//POINTER #180 @ $1F00 - STRING #180 @ $74F6
+
+#W32($1F00)
+「エコエコ君」限定販売<END>
+//POINTER #181 @ $1F2C - STRING #181 @ $750E
+
+#W32($1F2C)
+「エンジンクレーン・リフト」発売<END>
+//POINTER #182 @ $1F58 - STRING #182 @ $7530
+
+#W32($1F58)
+「据え付けエンジンハンガー」発売<END>
+//POINTER #183 @ $1F84 - STRING #183 @ $7552
+
+#W32($1F84)
+「手動エアポンプ」発売<END>
+//POINTER #184 @ $1FB0 - STRING #184 @ $756A
+
+#W32($1FB0)
+「エアコンプレッサー」発売<END>
+//POINTER #185 @ $1FDC - STRING #185 @ $7586
+
+#W32($1FDC)
+「大型エアコンプレッサー」発売<END>
+//POINTER #186 @ $2008 - STRING #186 @ $75A6
+
+#W32($2008)
+「バケツ・シャンプー」発売<END>
+//POINTER #187 @ $2034 - STRING #187 @ $75C2
+
+#W32($2034)
+「ワックス」発売<END>
+//POINTER #188 @ $2060 - STRING #188 @ $75D4
+
+#W32($2060)
+「高圧洗浄機」発売<END>
+//POINTER #189 @ $208C - STRING #189 @ $75E8
+
+#W32($208C)
+「コート剤」限定販売<END>
+//POINTER #190 @ $20B8 - STRING #190 @ $75FE
+
+#W32($20B8)
+「業務用ガラスクリーナー」発売<END>
+//POINTER #191 @ $20E4 - STRING #191 @ $761E
+
+#W32($20E4)
+「化学イオンガラスクリーナー」発売<END>
+//POINTER #192 @ $2110 - STRING #192 @ $7642
+
+#W32($2110)
+「くもり止め」限定販売<END>
+//POINTER #193 @ $213C - STRING #193 @ $765A
+
+#W32($213C)
+「クッション」発売<END>
+//POINTER #194 @ $2168 - STRING #194 @ $766E
+
+#W32($2168)
+「フロアカーペット」発売<END>
+//POINTER #195 @ $2194 - STRING #195 @ $7688
+
+#W32($2194)
+「マイナスイオン発生器」発売<END>
+//POINTER #196 @ $21C0 - STRING #196 @ $76A6
+
+#W32($21C0)
+「空気清浄機」発売<END>
+//POINTER #197 @ $21EC - STRING #197 @ $76BA
+
+#W32($21EC)
+「エアコンフィルター」限定販売<END>
+//POINTER #198 @ $2218 - STRING #198 @ $76DA
+
+#W32($2218)
+「サイドブレーキカバー」発売<END>
+//POINTER #199 @ $2244 - STRING #199 @ $76F8
+
+#W32($2244)
+「ドリンクホルダー」発売<END>
+//POINTER #200 @ $2270 - STRING #200 @ $7712
+
+#W32($2270)
+「衝突防止センサー」発売<END>
+//POINTER #201 @ $229C - STRING #201 @ $772C
+
+#W32($229C)
+「ノーマルレーダー」発売<END>
+//POINTER #202 @ $22C8 - STRING #202 @ $7746
+
+#W32($22C8)
+「ＧＰＳレーダー」発売<END>
+//POINTER #203 @ $22F4 - STRING #203 @ $775E
+
+#W32($22F4)
+「芳香剤」発売<END>
+//POINTER #204 @ $2320 - STRING #204 @ $776E
+
+#W32($2320)
+「消臭剤」発売<END>
+//POINTER #205 @ $234C - STRING #205 @ $777E
+
+#W32($234C)
+「コインホルダー」発売<END>
+//POINTER #206 @ $2378 - STRING #206 @ $7796
+
+#W32($2378)
+「アームレスト」発売<END>
+//POINTER #207 @ $23A4 - STRING #207 @ $77AC
+
+#W32($23A4)
+「バックミラーミニサイズ」発売<END>
+//POINTER #208 @ $23D0 - STRING #208 @ $77CC
+
+#W32($23D0)
+「バックミラービッグサイズ」発売<END>
+//POINTER #209 @ $23FC - STRING #209 @ $77EE
+
+#W32($23FC)
+「交通安全お守り」発売<END>
+//POINTER #210 @ $2428 - STRING #210 @ $7806
+
+#W32($2428)
+「メンタルお守り」限定販売<END>
+//POINTER #211 @ $2454 - STRING #211 @ $7822
+
+#W32($2454)
+「ドリフトお守り」限定販売<END>
+//POINTER #212 @ $2480 - STRING #212 @ $783E
+
+#W32($2480)
+「ペナルティお守り」限定販売<END>
+//POINTER #213 @ $24AC - STRING #213 @ $785C
+
+#W32($24AC)
+「レースクイーンポスター」発売<END>
+//POINTER #214 @ $24D8 - STRING #214 @ $787C
+
+#W32($24D8)
+「レーサーポスター」発売<END>
+//POINTER #215 @ $2504 - STRING #215 @ $7896
+
+#W32($2504)
+「車ポスター」発売<END>
+//POINTER #216 @ $2530 - STRING #216 @ $78AA
+
+#W32($2530)
+「サーキットコース図」発売<END>
+//POINTER #217 @ $255C - STRING #217 @ $78C6
+
+#W32($255C)
+「模型」発売<END>
+//POINTER #218 @ $2588 - STRING #218 @ $78D4
+
+#W32($2588)
+「模型コレクション」発売<END>
+//POINTER #219 @ $25B4 - STRING #219 @ $78EE
+
+#W32($25B4)
+「ラジコン」発売<END>
+//BLOCK #004 NAME:		229.bin File - Encoded Block Text 5
+
+//POINTER #0 @ $14 - STRING #0 @ $7900
+
+#W32($14)
+　総排気量│２５６８ｃｃ<END>
+//POINTER #1 @ $40 - STRING #1 @ $791A
+
+#W32($40)
+　総排気量│２５６８ｃｃ<END>
+//POINTER #2 @ $6C - STRING #2 @ $7934
+
+#W32($6C)
+　総排気量│２５６８ｃｃ<END>
+//POINTER #3 @ $98 - STRING #3 @ $794E
+
+#W32($98)
+　総排気量│１９９８ｃｃ<END>
+//POINTER #4 @ $C4 - STRING #4 @ $7968
+
+#W32($C4)
+　総排気量│１９９８ｃｃ<END>
+//POINTER #5 @ $F0 - STRING #5 @ $7982
+
+#W32($F0)
+　総排気量│３４９８ｃｃ<END>
+//POINTER #6 @ $11C - STRING #6 @ $799C
+
+#W32($11C)
+　総排気量│３４９８ｃｃ<END>
+//POINTER #7 @ $148 - STRING #7 @ $79B6
+
+#W32($148)
+　総排気量│１３８８ｃｃ<END>
+//POINTER #8 @ $174 - STRING #8 @ $79D0
+
+#W32($174)
+　総排気量│１９９７ｃｃ<END>
+//POINTER #9 @ $1A0 - STRING #9 @ $79EA
+
+#W32($1A0)
+　総排気量│１９９７ｃｃ<END>
+//POINTER #10 @ $1CC - STRING #10 @ $7A04
+
+#W32($1CC)
+　総排気量│１９９７ｃｃ<END>
+//POINTER #11 @ $1F8 - STRING #11 @ $7A1E
+
+#W32($1F8)
+　総排気量│１９９７ｃｃ<END>
+//POINTER #12 @ $224 - STRING #12 @ $7A38
+
+#W32($224)
+　総排気量│１９９８ｃｃ<END>
+//POINTER #13 @ $250 - STRING #13 @ $7A52
+
+#W32($250)
+　総排気量│１３０８ｃｃ<END>
+//POINTER #14 @ $27C - STRING #14 @ $7A6C
+
+#W32($27C)
+　総排気量│２２６０ｃｃ<END>
+//POINTER #15 @ $2A8 - STRING #15 @ $7A86
+
+#W32($2A8)
+　総排気量│２２６０ｃｃ<END>
+//POINTER #16 @ $2D4 - STRING #16 @ $7AA0
+
+#W32($2D4)
+　総排気量│２９９７ｃｃ<END>
+//POINTER #17 @ $300 - STRING #17 @ $7ABA
+
+#W32($300)
+　総排気量│１７９５ｃｃ<END>
+//POINTER #18 @ $32C - STRING #18 @ $7AD4
+
+#W32($32C)
+　総排気量│１９９８ｃｃ<END>
+//POINTER #19 @ $358 - STRING #19 @ $7AEE
+
+#W32($358)
+　総排気量│１７９４ｃｃ<END>
+//POINTER #20 @ $384 - STRING #20 @ $7B08
+
+#W32($384)
+　総排気量│２４９１ｃｃ<END>
+//POINTER #21 @ $3B0 - STRING #21 @ $7B22
+
+#W32($3B0)
+　総排気量│１９９８ｃｃ<END>
+//POINTER #22 @ $3DC - STRING #22 @ $7B3C
+
+#W32($3DC)
+　総排気量│１５８７ｃｃ<END>
+//POINTER #23 @ $408 - STRING #23 @ $7B56
+
+#W32($408)
+　総排気量│１９９８ｃｃ<END>
+//POINTER #24 @ $434 - STRING #24 @ $7B70
+
+#W32($434)
+　総排気量│１９９８ｃｃ<END>
+//POINTER #25 @ $460 - STRING #25 @ $7B8A
+
+#W32($460)
+　総排気量│１４９６ｃｃ<END>
+//POINTER #26 @ $48C - STRING #26 @ $7BA4
+
+#W32($48C)
+　総排気量│１９９８ｃｃ<END>
+//POINTER #27 @ $4B8 - STRING #27 @ $7BBE
+
+#W32($4B8)
+　総排気量│１９９４ｃｃ<END>
+//POINTER #28 @ $4E4 - STRING #28 @ $7BD8
+
+#W32($4E4)
+　総排気量│１９９４ｃｃ<END>
+//POINTER #29 @ $510 - STRING #29 @ $7BF2
+
+#W32($510)
+　総排気量│１９９４ｃｃ<END>
+//POINTER #30 @ $53C - STRING #30 @ $7C0C
+
+#W32($53C)
+　総排気量│１９９４ｃｃ<END>
+//POINTER #31 @ $568 - STRING #31 @ $7C26
+
+#W32($568)
+　総排気量│１９９４ｃｃ<END>
+//POINTER #32 @ $594 - STRING #32 @ $7C40
+
+#W32($594)
+　総排気量│１９９４ｃｃ<END>
+//POINTER #33 @ $5C0 - STRING #33 @ $7C5A
+
+#W32($5C0)
+　総排気量│６５８ｃｃ<END>
+//POINTER #34 @ $5EC - STRING #34 @ $7C72
+
+#W32($5EC)
+　総排気量│６５７ｃｃ<END>
+//POINTER #35 @ $618 - STRING #35 @ $7C8A
+
+#W32($618)
+　総排気量│６５９ｃｃ<END>
+//POINTER #36 @ $644 - STRING #36 @ $7CA2
+
+#W32($644)
+　総排気量│６５６ｃｃ<END>
+//POINTER #37 @ $670 - STRING #37 @ $7CBA
+
+#W32($670)
+　総排気量│１５９５ｃｃ<END>
+//POINTER #38 @ $69C - STRING #38 @ $7CD4
+
+#W32($69C)
+　総排気量│１９９８ｃｃ<END>
+//POINTER #39 @ $6C8 - STRING #39 @ $7CEE
+
+#W32($6C8)
+　総排気量│１７９７ｃｃ<END>
+//POINTER #40 @ $6F4 - STRING #40 @ $7D08
+
+#W32($6F4)
+　総排気量│１４９６ｃｃ<END>
+//POINTER #41 @ $720 - STRING #41 @ $7D22
+
+#W32($720)
+　総排気量│１５９５ｃｃ<END>
+//POINTER #42 @ $74C - STRING #42 @ $7D3C
+
+#W32($74C)
+　総排気量│２１５６ｃｃ<END>
+//POINTER #43 @ $778 - STRING #43 @ $7D56
+
+#W32($778)
+　総排気量│１９９８ｃｃ<END>
+//POINTER #44 @ $7A4 - STRING #44 @ $7D70
+
+#W32($7A4)
+　総排気量│１９９８ｃｃ<END>
+//POINTER #45 @ $7D0 - STRING #45 @ $7D8A
+
+#W32($7D0)
+　総排気量│２３５４ｃｃ<END>
+//POINTER #46 @ $7FC - STRING #46 @ $7DA4
+
+#W32($7FC)
+　総排気量│２９７７ｃｃ<END>
+//POINTER #47 @ $828 - STRING #47 @ $7DBE
+
+#W32($828)
+　総排気量│３１７９ｃｃ<END>
+//POINTER #48 @ $854 - STRING #48 @ $7DD8
+
+#W32($854)
+　総排気量│３１７９ｃｃ<END>
+//POINTER #49 @ $880 - STRING #49 @ $7DF2
+
+#W32($880)
+　総排気量│６５８ｃｃ<END>
+//POINTER #50 @ $8AC - STRING #50 @ $7E0A
+
+#W32($8AC)
+　総排気量│――ｃｃ<END>
+//POINTER #51 @ $8D8 - STRING #51 @ $7E20
+
+#W32($8D8)
+　総排気量│――ｃｃ<END>
+//POINTER #52 @ $904 - STRING #52 @ $7E36
+
+#W32($904)
+　総排気量│――ｃｃ<END>
+//POINTER #53 @ $930 - STRING #53 @ $7E4C
+
+#W32($930)
+　総排気量│――ｃｃ<END>
+//POINTER #54 @ $95C - STRING #54 @ $7E62
+
+#W32($95C)
+　総排気量│――ｃｃ<END>
+//POINTER #55 @ $988 - STRING #55 @ $7E78
+
+#W32($988)
+　総排気量│――ｃｃ<END>
+//POINTER #56 @ $9B4 - STRING #56 @ $7E8E
+
+#W32($9B4)
+　総排気量│――ｃｃ<END>
+//POINTER #57 @ $9E0 - STRING #57 @ $7EA4
+
+#W32($9E0)
+　総排気量│――ｃｃ<END>
+//POINTER #58 @ $A0C - STRING #58 @ $7EBA
+
+#W32($A0C)
+　総排気量│――ｃｃ<END>
+//POINTER #59 @ $A38 - STRING #59 @ $7ED0
+
+#W32($A38)
+　総排気量│――ｃｃ<END>
+//POINTER #60 @ $A64 - STRING #60 @ $7EE6
+
+#W32($A64)
+　総排気量│――ｃｃ<END>
+//POINTER #61 @ $A90 - STRING #61 @ $7EFC
+
+#W32($A90)
+　総排気量│――ｃｃ<END>
+//POINTER #62 @ $ABC - STRING #62 @ $7F12
+
+#W32($ABC)
+　総排気量│――ｃｃ<END>
+//POINTER #63 @ $AE8 - STRING #63 @ $7F28
+
+#W32($AE8)
+　総排気量│――ｃｃ<END>
+//POINTER #64 @ $B14 - STRING #64 @ $7F3E
+
+#W32($B14)
+　総排気量│――ｃｃ<END>
+//POINTER #65 @ $B40 - STRING #65 @ $7F54
+
+#W32($B40)
+　総排気量│――ｃｃ<END>
+//POINTER #66 @ $B6C - STRING #66 @ $7F6A
+
+#W32($B6C)
+　総排気量│――ｃｃ<END>
+//POINTER #67 @ $B98 - STRING #67 @ $7F80
+
+#W32($B98)
+　総排気量│――ｃｃ<END>
+//POINTER #68 @ $BC4 - STRING #68 @ $7F96
+
+#W32($BC4)
+　総排気量│――ｃｃ<END>
+//POINTER #69 @ $BF0 - STRING #69 @ $7FAC
+
+#W32($BF0)
+　総排気量│――ｃｃ<END>
+//POINTER #70 @ $C1C - STRING #70 @ $7FC2
+
+#W32($C1C)
+　総排気量│――ｃｃ<END>
+//POINTER #71 @ $C48 - STRING #71 @ $7FD8
+
+#W32($C48)
+　総排気量│――ｃｃ<END>
+//POINTER #72 @ $C74 - STRING #72 @ $7FEE
+
+#W32($C74)
+　総排気量│――ｃｃ<END>
+//POINTER #73 @ $CA0 - STRING #73 @ $8004
+
+#W32($CA0)
+　総排気量│――ｃｃ<END>
+//POINTER #74 @ $CCC - STRING #74 @ $801A
+
+#W32($CCC)
+　総排気量│――ｃｃ<END>
+//POINTER #75 @ $CF8 - STRING #75 @ $8030
+
+#W32($CF8)
+　総排気量│３７０６ｃｃ<END>
+//POINTER #76 @ $D24 - STRING #76 @ $804A
+
+#W32($D24)
+　総排気量│２７７２ｃｃ<END>
+//POINTER #77 @ $D50 - STRING #77 @ $8064
+
+#W32($D50)
+　総排気量│１３０８ｃｃ<END>
+//POINTER #78 @ $D7C - STRING #78 @ $807E
+
+#W32($D7C)
+　総排気量│２３５４ｃｃ<END>
+//POINTER #79 @ $DA8 - STRING #79 @ $8098
+
+#W32($DA8)
+　総排気量│１６９４ｃｃ<END>
+//POINTER #80 @ $DD4 - STRING #80 @ $80B2
+
+#W32($DD4)
+　総排気量│２９９７ｃｃ<END>
+//POINTER #81 @ $E00 - STRING #81 @ $80CC
+
+#W32($E00)
+　総排気量│２２０２ｃｃ<END>
+//POINTER #82 @ $E2C - STRING #82 @ $80E6
+
+#W32($E2C)
+　総排気量│１５９５ｃｃ<END>
+//POINTER #83 @ $E58 - STRING #83 @ $8100
+
+#W32($E58)
+　総排気量│３４９８ｃｃ<END>
+//POINTER #84 @ $E84 - STRING #84 @ $811A
+
+#W32($E84)
+　総排気量│４３８８ｃｃ<END>
+//POINTER #85 @ $EB0 - STRING #85 @ $8134
+
+#W32($EB0)
+　総排気量│２５６８ｃｃ<END>
+//POINTER #86 @ $EDC - STRING #86 @ $814E
+
+#W32($EDC)
+　総排気量│６５７ｃｃ<END>
+//POINTER #87 @ $F08 - STRING #87 @ $8166
+
+#W32($F08)
+　総排気量│１５９５ｃｃ<END>
+//POINTER #88 @ $F34 - STRING #88 @ $8180
+
+#W32($F34)
+　総排気量│１９９８ｃｃ<END>
+//POINTER #89 @ $F60 - STRING #89 @ $819A
+
+#W32($F60)
+　総排気量│１９９８ｃｃ<END>
+//POINTER #90 @ $F8C - STRING #90 @ $81B4
+
+#W32($F8C)
+　総排気量│１３０８ｃｃ<END>
+//POINTER #91 @ $FB8 - STRING #91 @ $81CE
+
+#W32($FB8)
+　総排気量│１９９７ｃｃ<END>
+//POINTER #92 @ $FE4 - STRING #92 @ $81E8
+
+#W32($FE4)
+　総排気量│２９９４ｃｃ<END>
+//POINTER #93 @ $1010 - STRING #93 @ $8202
+
+#W32($1010)
+　総排気量│２５６８ｃｃ<END>
+//POINTER #94 @ $103C - STRING #94 @ $821C
+
+#W32($103C)
+　総排気量│１３０８ｃｃ<END>
+//POINTER #95 @ $1068 - STRING #95 @ $8236
+
+#W32($1068)
+　総排気量│１９９４ｃｃ<END>
+//POINTER #96 @ $1094 - STRING #96 @ $8250
+
+#W32($1094)
+これまでのエンジンチューニングに加え、レシプロ<END>
+//POINTER #97 @ $10C0 - STRING #97 @ $8280
+
+#W32($10C0)
+これまでのエンジンチューニングに加え、レシプロ<END>
+//POINTER #98 @ $10EC - STRING #98 @ $82B0
+
+#W32($10EC)
+これまでのエンジンチューニングに加え、レシプロ<END>
+//POINTER #99 @ $1118 - STRING #99 @ $82E0
+
+#W32($1118)
+これまでのエンジンチューニングに加え、レシプロ<END>
+//POINTER #100 @ $1144 - STRING #100 @ $8310
+
+#W32($1144)
+タイムを削るために生まれたレーシングマフラーを<END>
+//POINTER #101 @ $1170 - STRING #101 @ $8340
+
+#W32($1170)
+高回転域でのピークパワーとハイレスポンスを最大限<END>
+//POINTER #102 @ $119C - STRING #102 @ $8372
+
+#W32($119C)
+チューンドＲＯＭに交換して、エンジン性能を最大限<END>
+//POINTER #103 @ $11C8 - STRING #103 @ $83A4
+
+#W32($11C8)
+これまでのコンピュータに加え、サブコンピュータを<END>
+//POINTER #104 @ $11F4 - STRING #104 @ $83D6
+
+#W32($11F4)
+フルコンピュータを装着して、点火タイミング、<END>
+//POINTER #105 @ $1220 - STRING #105 @ $8404
+
+#W32($1220)
+車の装着パーツ、仕様に合わせて点火タイミング、<END>
+//POINTER #106 @ $124C - STRING #106 @ $8434
+
+#W32($124C)
+コアを２つに増やし、シングルコアよりも冷却性を<END>
+//POINTER #107 @ $1278 - STRING #107 @ $8464
+
+#W32($1278)
+アルミよりも放熱性が高い銅を素材に使用した３層式<END>
+//POINTER #108 @ $12A4 - STRING #108 @ $8496
+
+#W32($12A4)
+直列、Ｖ型、水平対向型、ロータリーのレース用エン<END>
+//POINTER #109 @ $12D0 - STRING #109 @ $84C8
+
+#W32($12D0)
+「サスペンション　タイプ２」発売<END>
+//POINTER #110 @ $12FC - STRING #110 @ $84EA
+
+#W32($12FC)
+「サスペンション　タイプ３」発売<END>
+//POINTER #111 @ $1328 - STRING #111 @ $850C
+
+#W32($1328)
+これまでのトランスミッションに比べ、<END>
+//POINTER #112 @ $1354 - STRING #112 @ $8532
+
+#W32($1354)
+これまでのトランスミッションに加え、<END>
+//POINTER #113 @ $1380 - STRING #113 @ $8558
+
+#W32($1380)
+慣性重量の軽減とレスポンスの向上を実現した、ハイ<END>
+//POINTER #114 @ $13AC - STRING #114 @ $858A
+
+#W32($13AC)
+伝達トルク容量の高いトリプルプレートクラッチの<END>
+//POINTER #115 @ $13D8 - STRING #115 @ $85BA
+
+#W32($13D8)
+街乗りからハードなストリート走行まで対応する中上<END>
+//POINTER #116 @ $1404 - STRING #116 @ $85EC
+
+#W32($1404)
+大容量のピストンを持つビッグキャリパーキットを<END>
+//POINTER #117 @ $1430 - STRING #117 @ $861C
+
+#W32($1430)
+これまでの補強メニューに加え、ロアアーム支持部を<END>
+//POINTER #118 @ $145C - STRING #118 @ $864E
+
+#W32($145C)
+これまでの補強メニューに加え、ボディに、<END>
+//POINTER #119 @ $1488 - STRING #119 @ $8678
+
+#W32($1488)
+これまでの補強メニューに加え、点溶接で<END>
+//POINTER #120 @ $14B4 - STRING #120 @ $86A0
+
+#W32($14B4)
+これまでの補強メニューに加え、モータースポーツ等<END>
+//POINTER #121 @ $14E0 - STRING #121 @ $86D2
+
+#W32($14E0)
+これまでの軽量化メニューに加え、バッテリーの小型<END>
+//POINTER #122 @ $150C - STRING #122 @ $8704
+
+#W32($150C)
+これまでの軽量化メニューに加え、<END>
+//POINTER #123 @ $1538 - STRING #123 @ $8726
+
+#W32($1538)
+これまでの軽量化メニューに加え、<END>
+//POINTER #124 @ $1564 - STRING #124 @ $8748
+
+#W32($1564)
+これまでの軽量化メニューに加え、<END>
+//POINTER #125 @ $1590 - STRING #125 @ $876A
+
+#W32($1590)
+壁に接触した際のレーシングペナルティを<END>
+//POINTER #126 @ $15BC - STRING #126 @ $8792
+
+#W32($15BC)
+ＤＰの獲得値を増加。<END>
+//POINTER #127 @ $15E8 - STRING #127 @ $87A8
+
+#W32($15E8)
+車に接触した際のペナルティを受けにくくなる。<END>
+//POINTER #128 @ $1614 - STRING #128 @ $87D6
+
+#W32($1614)
+ＤＰの獲得値を増加。<END>
+//POINTER #129 @ $1640 - STRING #129 @ $87EC
+
+#W32($1640)
+相手との距離を離されてもＳＰが減りにくくなる。<END>
+//POINTER #130 @ $166C - STRING #130 @ $881C
+
+#W32($166C)
+車に接触した際のペナルティを受けにくくなる。<END>
+//POINTER #131 @ $1698 - STRING #131 @ $884A
+
+#W32($1698)
+ＤＰの獲得値を増加。<END>
+//POINTER #132 @ $16C4 - STRING #132 @ $8860
+
+#W32($16C4)
+コースアウトした際のＳＰダメージを緩和。<END>
+//POINTER #133 @ $16F0 - STRING #133 @ $888A
+
+#W32($16F0)
+コースアウトによるペナルティを受けにくくなる。<END>
+//POINTER #134 @ $171C - STRING #134 @ $88BA
+
+#W32($171C)
+ＤＰの獲得値を増加。<END>
+//POINTER #135 @ $1748 - STRING #135 @ $88D0
+
+#W32($1748)
+壁に接触した際のＳＰダメージを緩和。<END>
+//POINTER #136 @ $1774 - STRING #136 @ $88F6
+
+#W32($1774)
+ＤＰの獲得値を増加。<END>
+//POINTER #137 @ $17A0 - STRING #137 @ $890C
+
+#W32($17A0)
+壁に接触した際のペナルティを受けにくくなる。<END>
+//POINTER #138 @ $17CC - STRING #138 @ $893A
+
+#W32($17CC)
+壁に接触した際のＳＰダメージを緩和。<END>
+//POINTER #139 @ $17F8 - STRING #139 @ $8960
+
+#W32($17F8)
+壁に接触した際のペナルティを受けにくくなる。<END>
+//POINTER #140 @ $1824 - STRING #140 @ $898E
+
+#W32($1824)
+相手に与えるＳＰダメージを著しく増加させるが、<END>
+//POINTER #141 @ $1850 - STRING #141 @ $89BE
+
+#W32($1850)
+ＤＰの獲得値を増加。<END>
+//POINTER #142 @ $187C - STRING #142 @ $89D4
+
+#W32($187C)
+壁と車に接触した際のペナルティを受けにくくなる。<END>
+//POINTER #143 @ $18A8 - STRING #143 @ $8A06
+
+#W32($18A8)
+相手に与えるＳＰダメージを著しく増加させるが、<END>
+//POINTER #144 @ $18D4 - STRING #144 @ $8A36
+
+#W32($18D4)
+壁に接触した際のペナルティを受けにくくなる。<END>
+//POINTER #145 @ $1900 - STRING #145 @ $8A64
+
+#W32($1900)
+相手に与えるＳＰダメージを著しく増加させるが、<END>
+//POINTER #146 @ $192C - STRING #146 @ $8A94
+
+#W32($192C)
+ＤＰの獲得値を増加。<END>
+//POINTER #147 @ $1958 - STRING #147 @ $8AAA
+
+#W32($1958)
+ＤＰの獲得値を増加。<END>
+//POINTER #148 @ $1984 - STRING #148 @ $8AC0
+
+#W32($1984)
+ＤＰの獲得値を増加。<END>
+//POINTER #149 @ $19B0 - STRING #149 @ $8AD6
+
+#W32($19B0)
+サイドブレーキの温度上昇を緩和。<END>
+//POINTER #150 @ $19DC - STRING #150 @ $8AF8
+
+#W32($19DC)
+サイドブレーキの温度上昇を緩和。<END>
+//POINTER #151 @ $1A08 - STRING #151 @ $8B1A
+
+#W32($1A08)
+ブレーキフェードが一定以上上昇すると<END>
+//POINTER #152 @ $1A34 - STRING #152 @ $8B40
+
+#W32($1A34)
+油温・水温・ブレーキフェードが<END>
+//POINTER #153 @ $1A60 - STRING #153 @ $8B60
+
+#W32($1A60)
+壁や車に接触した際の、<END>
+//POINTER #154 @ $1A8C - STRING #154 @ $8B78
+
+#W32($1A8C)
+壁や車に接触した際の、<END>
+//POINTER #155 @ $1AB8 - STRING #155 @ $8B90
+
+#W32($1AB8)
+壁や車に接触した際の、<END>
+//POINTER #156 @ $1AE4 - STRING #156 @ $8BA8
+
+#W32($1AE4)
+壁や車に接触した際の、<END>
+//POINTER #157 @ $1B10 - STRING #157 @ $8BC0
+
+#W32($1B10)
+壁や車に接触した際の、<END>
+//POINTER #158 @ $1B3C - STRING #158 @ $8BD8
+
+#W32($1B3C)
+ピット作業の時間を短縮。<END>
+//POINTER #159 @ $1B68 - STRING #159 @ $8BF2
+
+#W32($1B68)
+ピット作業の時間を短縮。<END>
+//POINTER #160 @ $1B94 - STRING #160 @ $8C0C
+
+#W32($1B94)
+ピット作業の時間を短縮。<END>
+//POINTER #161 @ $1BC0 - STRING #161 @ $8C26
+
+#W32($1BC0)
+ピット作業の時間を短縮。<END>
+//POINTER #162 @ $1BEC - STRING #162 @ $8C40
+
+#W32($1BEC)
+ピット作業の時間を短縮。<END>
+//POINTER #163 @ $1C18 - STRING #163 @ $8C5A
+
+#W32($1C18)
+ピット作業の時間を短縮。<END>
+//POINTER #164 @ $1C44 - STRING #164 @ $8C74
+
+#W32($1C44)
+ブレーキフェードを緩和。<END>
+//POINTER #165 @ $1C70 - STRING #165 @ $8C8E
+
+#W32($1C70)
+ブレーキフェードを緩和。<END>
+//POINTER #166 @ $1C9C - STRING #166 @ $8CA8
+
+#W32($1C9C)
+ブレーキフェードを緩和。<END>
+//POINTER #167 @ $1CC8 - STRING #167 @ $8CC2
+
+#W32($1CC8)
+走行によるコンディション低下を著しく抑えるが、<END>
+//POINTER #168 @ $1CF4 - STRING #168 @ $8CF2
+
+#W32($1CF4)
+走行によるコンディション低下を著しく抑えるが、<END>
+//POINTER #169 @ $1D20 - STRING #169 @ $8D22
+
+#W32($1D20)
+走行によるコンディション低下を著しく抑えるが、<END>
+//POINTER #170 @ $1D4C - STRING #170 @ $8D52
+
+#W32($1D4C)
+走行によるコンディション低下を抑える。<END>
+//POINTER #171 @ $1D78 - STRING #171 @ $8D7A
+
+#W32($1D78)
+走行によるコンディション低下を抑える。<END>
+//POINTER #172 @ $1DA4 - STRING #172 @ $8DA2
+
+#W32($1DA4)
+走行によるコンディション低下を抑える。<END>
+//POINTER #173 @ $1DD0 - STRING #173 @ $8DCA
+
+#W32($1DD0)
+走行によるコンディション低下を抑える。<END>
+//POINTER #174 @ $1DFC - STRING #174 @ $8DF2
+
+#W32($1DFC)
+走行によるコンディション低下を著しく抑えるが、<END>
+//POINTER #175 @ $1E28 - STRING #175 @ $8E22
+
+#W32($1E28)
+走行によるコンディション低下を著しく抑えるが、<END>
+//POINTER #176 @ $1E54 - STRING #176 @ $8E52
+
+#W32($1E54)
+トルマリンの効果でエンジンルームに使用すれば<END>
+//POINTER #177 @ $1E80 - STRING #177 @ $8E80
+
+#W32($1E80)
+純正プラグと交換するだけで、強力点火補助に加え<END>
+//POINTER #178 @ $1EAC - STRING #178 @ $8EB0
+
+#W32($1EAC)
+燃料ホースに装着するだけで磁石の力で燃料の<END>
+//POINTER #179 @ $1ED8 - STRING #179 @ $8EDC
+
+#W32($1ED8)
+エアクリーナーに装着すればトルマリンの<END>
+//POINTER #180 @ $1F04 - STRING #180 @ $8F04
+
+#W32($1F04)
+これ１つで燃費向上、出力アップ、排ガス抑制、<END>
+//POINTER #181 @ $1F30 - STRING #181 @ $8F32
+
+#W32($1F30)
+レストア費用を減少。<END>
+//POINTER #182 @ $1F5C - STRING #182 @ $8F48
+
+#W32($1F5C)
+レストア費用を減少。<END>
+//POINTER #183 @ $1F88 - STRING #183 @ $8F5E
+
+#W32($1F88)
+タイヤダメージを緩和。<END>
+//POINTER #184 @ $1FB4 - STRING #184 @ $8F76
+
+#W32($1FB4)
+タイヤダメージを緩和。<END>
+//POINTER #185 @ $1FE0 - STRING #185 @ $8F8E
+
+#W32($1FE0)
+タイヤダメージを緩和。<END>
+//POINTER #186 @ $200C - STRING #186 @ $8FA6
+
+#W32($200C)
+車を売却する際の買取価格がアップ。<END>
+//POINTER #187 @ $2038 - STRING #187 @ $8FCA
+
+#W32($2038)
+車を売却する際の買取価格がアップ。<END>
+//POINTER #188 @ $2064 - STRING #188 @ $8FEE
+
+#W32($2064)
+車を売却する際の買取価格がアップ。<END>
+//POINTER #189 @ $2090 - STRING #189 @ $9012
+
+#W32($2090)
+車を売却する際の買取価格がアップ。<END>
+//POINTER #190 @ $20BC - STRING #190 @ $9036
+
+#W32($20BC)
+獲得するＮＰを増加させる。<END>
+//POINTER #191 @ $20E8 - STRING #191 @ $9052
+
+#W32($20E8)
+獲得するＮＰを増加させる。<END>
+//POINTER #192 @ $2114 - STRING #192 @ $906E
+
+#W32($2114)
+雨になる確率を下げる。<END>
+//POINTER #193 @ $2140 - STRING #193 @ $9086
+
+#W32($2140)
+車に接触した際のＳＰダメージを緩和する。<END>
+//POINTER #194 @ $216C - STRING #194 @ $90B0
+
+#W32($216C)
+相手との距離を離されてもＳＰが減りにくくなる。<END>
+//POINTER #195 @ $2198 - STRING #195 @ $90E0
+
+#W32($2198)
+連続バトルの際に、ＳＰの回復量が増加する。<END>
+//POINTER #196 @ $21C4 - STRING #196 @ $910C
+
+#W32($21C4)
+連続バトルの際に、ＳＰの回復量が増加する。<END>
+//POINTER #197 @ $21F0 - STRING #197 @ $9138
+
+#W32($21F0)
+連続バトルの際に、ＳＰの回復量が増加する。<END>
+//POINTER #198 @ $221C - STRING #198 @ $9164
+
+#W32($221C)
+ＤＰの獲得値を増加させる。<END>
+//POINTER #199 @ $2248 - STRING #199 @ $9180
+
+#W32($2248)
+ＤＰバトルでセクションクリア時の<END>
+//POINTER #200 @ $2274 - STRING #200 @ $91A2
+
+#W32($2274)
+あらゆる局面でペナルティを受けにくくなる。<END>
+//POINTER #201 @ $22A0 - STRING #201 @ $91CE
+
+#W32($22A0)
+マップの表示範囲を変更。<END>
+//POINTER #202 @ $22CC - STRING #202 @ $91E8
+
+#W32($22CC)
+マップの表示範囲を変更。<END>
+//POINTER #203 @ $22F8 - STRING #203 @ $9202
+
+#W32($22F8)
+ライバルの感情が変化しやすくなる。<END>
+//POINTER #204 @ $2324 - STRING #204 @ $9226
+
+#W32($2324)
+ライバルの感情が変化しにくくなる。<END>
+//POINTER #205 @ $2350 - STRING #205 @ $924A
+
+#W32($2350)
+バトル参加のたびにＣＰが１０００ずつ増加する。<END>
+//POINTER #206 @ $237C - STRING #206 @ $927A
+
+#W32($237C)
+カー用品を装備する枠が１つ追加される。<END>
+//POINTER #207 @ $23A8 - STRING #207 @ $92A2
+
+#W32($23A8)
+バックミラーを小さいサイズに交換。<END>
+//POINTER #208 @ $23D4 - STRING #208 @ $92C6
+
+#W32($23D4)
+バックミラーを大きいサイズに交換。<END>
+//POINTER #209 @ $2400 - STRING #209 @ $92EA
+
+#W32($2400)
+獲得するＮＰを増加させる。<END>
+//POINTER #210 @ $242C - STRING #210 @ $9306
+
+#W32($242C)
+ＳＰゲージのＭＡＸ値が増加する。<END>
+//POINTER #211 @ $2458 - STRING #211 @ $9328
+
+#W32($2458)
+ＤＰの獲得値を増加させる。<END>
+//POINTER #212 @ $2484 - STRING #212 @ $9344
+
+#W32($2484)
+ピットでのペナルティ回復値を増加させる。<END>
+//POINTER #213 @ $24B0 - STRING #213 @ $936E
+
+#W32($24B0)
+美人ぞろいのポスターでガレージに飾れば<END>
+//POINTER #214 @ $24DC - STRING #214 @ $9396
+
+#W32($24DC)
+世界に数枚しかないＲＢレーサーのポスター。<END>
+//POINTER #215 @ $2508 - STRING #215 @ $93C2
+
+#W32($2508)
+ＧＥＮＫＩデモカーのポスター。<END>
+//POINTER #216 @ $2534 - STRING #216 @ $93E2
+
+#W32($2534)
+所持しておけばコースの研究にも使える<END>
+//POINTER #217 @ $2560 - STRING #217 @ $9408
+
+#W32($2560)
+スポンサードイベントに参加する際に<END>
+//POINTER #218 @ $258C - STRING #218 @ $942C
+
+#W32($258C)
+スポンサードイベントに参加する際に<END>
+//POINTER #219 @ $25B8 - STRING #219 @ $9450
+
+#W32($25B8)
+スポンサードイベントに参加する際に<END>
+//BLOCK #005 NAME:		229.bin File - Encoded Block Text 6
+
+//POINTER #0 @ $18 - STRING #0 @ $9474
+
+#W32($18)
+　最大出力│２８０ＰＳ／６８００ｒｐｍ<END>
+//POINTER #1 @ $44 - STRING #1 @ $949C
+
+#W32($44)
+　最大出力│２８０ＰＳ／６８００ｒｐｍ<END>
+//POINTER #2 @ $70 - STRING #2 @ $94C4
+
+#W32($70)
+　最大出力│２８０ＰＳ／６７００ｒｐｍ<END>
+//POINTER #3 @ $9C - STRING #3 @ $94EC
+
+#W32($9C)
+　最大出力│２２０ＰＳ／６０００ｒｐｍ<END>
+//POINTER #4 @ $C8 - STRING #4 @ $9514
+
+#W32($C8)
+　最大出力│２０５ＰＳ／６０００ｒｐｍ<END>
+//POINTER #5 @ $F4 - STRING #5 @ $953C
+
+#W32($F4)
+　最大出力│２８０ＰＳ／６２００ｒｐｍ<END>
+//POINTER #6 @ $120 - STRING #6 @ $9564
+
+#W32($120)
+　最大出力│２４０ＰＳ／６０００ｒｐｍ<END>
+//POINTER #7 @ $14C - STRING #7 @ $958C
+
+#W32($14C)
+　最大出力│９７ＰＳ／５６００ｒｐｍ<END>
+//POINTER #8 @ $178 - STRING #8 @ $95B2
+
+#W32($178)
+　最大出力│２８０ＰＳ／６５００ｒｐｍ<END>
+//POINTER #9 @ $1A4 - STRING #9 @ $95DA
+
+#W32($1A4)
+　最大出力│２８０ＰＳ／６５００ｒｐｍ<END>
+//POINTER #10 @ $1D0 - STRING #10 @ $9602
+
+#W32($1D0)
+　最大出力│２８０ＰＳ／６５００ｒｐｍ<END>
+//POINTER #11 @ $1FC - STRING #11 @ $962A
+
+#W32($1FC)
+　最大出力│２８０ＰＳ／６５００ｒｐｍ<END>
+//POINTER #12 @ $228 - STRING #12 @ $9652
+
+#W32($228)
+　最大出力│２００ＰＳ／７６００ｒｐｍ<END>
+//POINTER #13 @ $254 - STRING #13 @ $967A
+
+#W32($254)
+　最大出力│２８０ＰＳ／６５００ｒｐｍ<END>
+//POINTER #14 @ $280 - STRING #14 @ $96A2
+
+#W32($280)
+　最大出力│１７８ＰＳ／６５００ｒｐｍ<END>
+//POINTER #15 @ $2AC - STRING #15 @ $96CA
+
+#W32($2AC)
+　最大出力│１７１ＰＳ／６５００ｒｐｍ<END>
+//POINTER #16 @ $2D8 - STRING #16 @ $96F2
+
+#W32($2D8)
+　最大出力│２８０ＰＳ／５６００ｒｐｍ<END>
+//POINTER #17 @ $304 - STRING #17 @ $971A
+
+#W32($304)
+　最大出力│１９０ＰＳ／７６００ｒｐｍ<END>
+//POINTER #18 @ $330 - STRING #18 @ $9742
+
+#W32($330)
+　最大出力│２５５ＰＳ／６０００ｒｐｍ<END>
+//POINTER #19 @ $35C - STRING #19 @ $976A
+
+#W32($35C)
+　最大出力│１４０ＰＳ／６４００ｒｐｍ<END>
+//POINTER #20 @ $388 - STRING #20 @ $9792
+
+#W32($388)
+　最大出力│２８０ＰＳ／６２００ｒｐｍ<END>
+//POINTER #21 @ $3B4 - STRING #21 @ $97BA
+
+#W32($3B4)
+　最大出力│２４５ＰＳ／６０００ｒｐｍ<END>
+//POINTER #22 @ $3E0 - STRING #22 @ $97E2
+
+#W32($3E0)
+　最大出力│１４５ＰＳ／６４００ｒｐｍ<END>
+//POINTER #23 @ $40C - STRING #23 @ $980A
+
+#W32($40C)
+　最大出力│２２０ＰＳ／７６００ｒｐｍ<END>
+//POINTER #24 @ $438 - STRING #24 @ $9832
+
+#W32($438)
+　最大出力│１５５ＰＳ／６５００ｒｐｍ<END>
+//POINTER #25 @ $464 - STRING #25 @ $985A
+
+#W32($464)
+　最大出力│１０８ＰＳ／６０００ｒｐｍ<END>
+//POINTER #26 @ $490 - STRING #26 @ $9882
+
+#W32($490)
+　最大出力│１５５ＰＳ／６２００ｒｐｍ<END>
+//POINTER #27 @ $4BC - STRING #27 @ $98AA
+
+#W32($4BC)
+　最大出力│２８０ＰＳ／６４００ｒｐｍ<END>
+//POINTER #28 @ $4E8 - STRING #28 @ $98D2
+
+#W32($4E8)
+　最大出力│２７９ＰＳ／６４００ｒｐｍ<END>
+//POINTER #29 @ $514 - STRING #29 @ $98FA
+
+#W32($514)
+　最大出力│２８０ＰＳ／６５００ｒｐｍ<END>
+//POINTER #30 @ $540 - STRING #30 @ $9922
+
+#W32($540)
+　最大出力│２７９ＰＳ／６４００ｒｐｍ<END>
+//POINTER #31 @ $56C - STRING #31 @ $994A
+
+#W32($56C)
+　最大出力│２８０ＰＳ／６０００ｒｐｍ<END>
+//POINTER #32 @ $598 - STRING #32 @ $9972
+
+#W32($598)
+　最大出力│２５０ＰＳ／６０００ｒｐｍ<END>
+//POINTER #33 @ $5C4 - STRING #33 @ $999A
+
+#W32($5C4)
+　最大出力│６４ＰＳ／６５００ｒｐｍ<END>
+//POINTER #34 @ $5F0 - STRING #34 @ $99C0
+
+#W32($5F0)
+　最大出力│３８ＰＳ／５５００ｒｐｍ<END>
+//POINTER #35 @ $61C - STRING #35 @ $99E6
+
+#W32($61C)
+　最大出力│６４ＰＳ／６０００ｒｐｍ<END>
+//POINTER #36 @ $648 - STRING #36 @ $9A0C
+
+#W32($648)
+　最大出力│６４ＰＳ／８１００ｒｐｍ<END>
+//POINTER #37 @ $674 - STRING #37 @ $9A32
+
+#W32($674)
+　最大出力│１８５ＰＳ／８２００ｒｐｍ<END>
+//POINTER #38 @ $6A0 - STRING #38 @ $9A5A
+
+#W32($6A0)
+　最大出力│２１５ＰＳ／８０００ｒｐｍ<END>
+//POINTER #39 @ $6CC - STRING #39 @ $9A82
+
+#W32($6CC)
+　最大出力│２００ＰＳ／８０００ｒｐｍ<END>
+//POINTER #40 @ $6F8 - STRING #40 @ $9AAA
+
+#W32($6F8)
+　最大出力│１１０ＰＳ／５８００ｒｐｍ<END>
+//POINTER #41 @ $724 - STRING #41 @ $9AD2
+
+#W32($724)
+　最大出力│１６０ＰＳ／７６００ｒｐｍ<END>
+//POINTER #42 @ $750 - STRING #42 @ $9AFA
+
+#W32($750)
+　最大出力│２２０ＰＳ／７２００ｒｐｍ<END>
+//POINTER #43 @ $77C - STRING #43 @ $9B22
+
+#W32($77C)
+　最大出力│２２０ＰＳ／８０００ｒｐｍ<END>
+//POINTER #44 @ $7A8 - STRING #44 @ $9B4A
+
+#W32($7A8)
+　最大出力│１５６ＰＳ／６３００ｒｐｍ<END>
+//POINTER #45 @ $7D4 - STRING #45 @ $9B72
+
+#W32($7D4)
+　最大出力│２００ＰＳ／６８００ｒｐｍ<END>
+//POINTER #46 @ $800 - STRING #46 @ $9B9A
+
+#W32($800)
+　最大出力│２８０ＰＳ／７３００ｒｐｍ<END>
+//POINTER #47 @ $82C - STRING #47 @ $9BC2
+
+#W32($82C)
+　最大出力│２８０ＰＳ／７３００ｒｐｍ<END>
+//POINTER #48 @ $858 - STRING #48 @ $9BEA
+
+#W32($858)
+　最大出力│２８０ＰＳ／７３００ｒｐｍ<END>
+//POINTER #49 @ $884 - STRING #49 @ $9C12
+
+#W32($884)
+　最大出力│６４ＰＳ／６０００ｒｐｍ<END>
+//POINTER #50 @ $8B0 - STRING #50 @ $9C38
+
+#W32($8B0)
+　最大出力│――ＰＳ／――ｒｐｍ<END>
+//POINTER #51 @ $8DC - STRING #51 @ $9C5A
+
+#W32($8DC)
+　最大出力│――ＰＳ／――ｒｐｍ<END>
+//POINTER #52 @ $908 - STRING #52 @ $9C7C
+
+#W32($908)
+　最大出力│――ＰＳ／――ｒｐｍ<END>
+//POINTER #53 @ $934 - STRING #53 @ $9C9E
+
+#W32($934)
+　最大出力│――ＰＳ／――ｒｐｍ<END>
+//POINTER #54 @ $960 - STRING #54 @ $9CC0
+
+#W32($960)
+　最大出力│――ＰＳ／――ｒｐｍ<END>
+//POINTER #55 @ $98C - STRING #55 @ $9CE2
+
+#W32($98C)
+　最大出力│――ＰＳ／――ｒｐｍ<END>
+//POINTER #56 @ $9B8 - STRING #56 @ $9D04
+
+#W32($9B8)
+　最大出力│――ＰＳ／――ｒｐｍ<END>
+//POINTER #57 @ $9E4 - STRING #57 @ $9D26
+
+#W32($9E4)
+　最大出力│――ＰＳ／――ｒｐｍ<END>
+//POINTER #58 @ $A10 - STRING #58 @ $9D48
+
+#W32($A10)
+　最大出力│――ＰＳ／――ｒｐｍ<END>
+//POINTER #59 @ $A3C - STRING #59 @ $9D6A
+
+#W32($A3C)
+　最大出力│――ＰＳ／――ｒｐｍ<END>
+//POINTER #60 @ $A68 - STRING #60 @ $9D8C
+
+#W32($A68)
+　最大出力│――ＰＳ／――ｒｐｍ<END>
+//POINTER #61 @ $A94 - STRING #61 @ $9DAE
+
+#W32($A94)
+　最大出力│――ＰＳ／――ｒｐｍ<END>
+//POINTER #62 @ $AC0 - STRING #62 @ $9DD0
+
+#W32($AC0)
+　最大出力│――ＰＳ／――ｒｐｍ<END>
+//POINTER #63 @ $AEC - STRING #63 @ $9DF2
+
+#W32($AEC)
+　最大出力│――ＰＳ／――ｒｐｍ<END>
+//POINTER #64 @ $B18 - STRING #64 @ $9E14
+
+#W32($B18)
+　最大出力│――ＰＳ／――ｒｐｍ<END>
+//POINTER #65 @ $B44 - STRING #65 @ $9E36
+
+#W32($B44)
+　最大出力│――ＰＳ／――ｒｐｍ<END>
+//POINTER #66 @ $B70 - STRING #66 @ $9E58
+
+#W32($B70)
+　最大出力│――ＰＳ／――ｒｐｍ<END>
+//POINTER #67 @ $B9C - STRING #67 @ $9E7A
+
+#W32($B9C)
+　最大出力│――ＰＳ／――ｒｐｍ<END>
+//POINTER #68 @ $BC8 - STRING #68 @ $9E9C
+
+#W32($BC8)
+　最大出力│――ＰＳ／――ｒｐｍ<END>
+//POINTER #69 @ $BF4 - STRING #69 @ $9EBE
+
+#W32($BF4)
+　最大出力│――ＰＳ／――ｒｐｍ<END>
+//POINTER #70 @ $C20 - STRING #70 @ $9EE0
+
+#W32($C20)
+　最大出力│――ＰＳ／――ｒｐｍ<END>
+//POINTER #71 @ $C4C - STRING #71 @ $9F02
+
+#W32($C4C)
+　最大出力│――ＰＳ／――ｒｐｍ<END>
+//POINTER #72 @ $C78 - STRING #72 @ $9F24
+
+#W32($C78)
+　最大出力│――ＰＳ／――ｒｐｍ<END>
+//POINTER #73 @ $CA4 - STRING #73 @ $9F46
+
+#W32($CA4)
+　最大出力│――ＰＳ／――ｒｐｍ<END>
+//POINTER #74 @ $CD0 - STRING #74 @ $9F68
+
+#W32($CD0)
+　最大出力│――ＰＳ／――ｒｐｍ<END>
+//POINTER #75 @ $CFC - STRING #75 @ $9F8A
+
+#W32($CFC)
+　最大出力│７００ＰＳ／７６００ｒｐｍ<END>
+//POINTER #76 @ $D28 - STRING #76 @ $9FB2
+
+#W32($D28)
+　最大出力│５９５ＰＳ／６９００ｒｐｍ<END>
+//POINTER #77 @ $D54 - STRING #77 @ $9FDA
+
+#W32($D54)
+　最大出力│４６４ＰＳ／８３００ｒｐｍ<END>
+//POINTER #78 @ $D80 - STRING #78 @ $A002
+
+#W32($D80)
+　最大出力│５００ＰＳ／７２００ｒｐｍ<END>
+//POINTER #79 @ $DAC - STRING #79 @ $A02A
+
+#W32($DAC)
+　最大出力│２７１ＰＳ／９８００ｒｐｍ<END>
+//POINTER #80 @ $DD8 - STRING #80 @ $A052
+
+#W32($DD8)
+　最大出力│４４５ＰＳ／６９００ｒｐｍ<END>
+//POINTER #81 @ $E04 - STRING #81 @ $A07A
+
+#W32($E04)
+　最大出力│３１１ＰＳ／８７００ｒｐｍ<END>
+//POINTER #82 @ $E30 - STRING #82 @ $A0A2
+
+#W32($E30)
+　最大出力│２９２ＰＳ／６２００ｒｐｍ<END>
+//POINTER #83 @ $E5C - STRING #83 @ $A0CA
+
+#W32($E5C)
+　最大出力│３２８ＰＳ／６５００ｒｐｍ<END>
+//POINTER #84 @ $E88 - STRING #84 @ $A0F2
+
+#W32($E88)
+　最大出力│５２５ＰＳ／１０２００ｒｐｍ<END>
+//POINTER #85 @ $EB4 - STRING #85 @ $A11C
+
+#W32($EB4)
+　最大出力│７１９ＰＳ／８８００ｒｐｍ<END>
+//POINTER #86 @ $EE0 - STRING #86 @ $A144
+
+#W32($EE0)
+　最大出力│５１７ＰＳ／８１００ｒｐｍ<END>
+//POINTER #87 @ $F0C - STRING #87 @ $A16C
+
+#W32($F0C)
+　最大出力│３１７ＰＳ／８３００ｒｐｍ<END>
+//POINTER #88 @ $F38 - STRING #88 @ $A194
+
+#W32($F38)
+　最大出力│４６８ＰＳ／７８００ｒｐｍ<END>
+//POINTER #89 @ $F64 - STRING #89 @ $A1BC
+
+#W32($F64)
+　最大出力│４２７ＰＳ／７１００ｒｐｍ<END>
+//POINTER #90 @ $F90 - STRING #90 @ $A1E4
+
+#W32($F90)
+　最大出力│４４６ＰＳ／７６００ｒｐｍ<END>
+//POINTER #91 @ $FBC - STRING #91 @ $A20C
+
+#W32($FBC)
+　最大出力│２６０ＰＳ／８３００ｒｐｍ<END>
+//POINTER #92 @ $FE8 - STRING #92 @ $A234
+
+#W32($FE8)
+　最大出力│２８０ＰＳ／６４００ｒｐｍ<END>
+//POINTER #93 @ $1014 - STRING #93 @ $A25C
+
+#W32($1014)
+　最大出力│６１６ＰＳ／７２００ｒｐｍ<END>
+//POINTER #94 @ $1040 - STRING #94 @ $A284
+
+#W32($1040)
+　最大出力│４６０ＰＳ／８７００ｒｐｍ<END>
+//POINTER #95 @ $106C - STRING #95 @ $A2AC
+
+#W32($106C)
+　最大出力│３７４ＰＳ／６９００ｒｐｍ<END>
+//POINTER #96 @ $1098 - STRING #96 @ $A2D4
+
+#W32($1098)
+ＮＡエンジンはポート研磨及び燃焼室加工、レシプロ<END>
+//POINTER #97 @ $10C4 - STRING #97 @ $A306
+
+#W32($10C4)
+ＮＡエンジンはハイコンプピストン、ヘッド<END>
+//POINTER #98 @ $10F0 - STRING #98 @ $A330
+
+#W32($10F0)
+ＮＡエンジンはカムシャフト及びクランクシャフト、<END>
+//POINTER #99 @ $111C - STRING #99 @ $A362
+
+#W32($111C)
+ＮＡエンジンはボアアップ及びバランス取り、<END>
+//POINTER #100 @ $1148 - STRING #100 @ $A38E
+
+#W32($1148)
+装着。大部分にチタニウムを使用しているため、<END>
+//POINTER #101 @ $1174 - STRING #101 @ $A3BC
+
+#W32($1174)
+に追求したオールチタニウム製ピュアレーシング<END>
+//POINTER #102 @ $11A0 - STRING #102 @ $A3EA
+
+#W32($11A0)
+に引き出している。<END>
+//POINTER #103 @ $11CC - STRING #103 @ $A3FE
+
+#W32($11CC)
+装着することで、点火タイミング、燃調を調整して、<END>
+//POINTER #104 @ $11F8 - STRING #104 @ $A430
+
+#W32($11F8)
+燃調等をこのコンピュータによって制御することで、<END>
+//POINTER #105 @ $1224 - STRING #105 @ $A462
+
+#W32($1224)
+燃調のセッティングを行うことで、エンジン性能を<END>
+//POINTER #106 @ $1250 - STRING #106 @ $A492
+
+#W32($1250)
+高めたラジエーターを装着。放熱性、軽量化に優れる<END>
+//POINTER #107 @ $127C - STRING #107 @ $A4C4
+
+#W32($127C)
+ラジエーターを装着。冷却効果が高く、長時間の<END>
+//POINTER #108 @ $12A8 - STRING #108 @ $A4F2
+
+#W32($12A8)
+ジンに換装する。エンジンチューニングの最終形だ。<END>
+//POINTER #109 @ $12D4 - STRING #109 @ $A524
+
+#W32($12D4)
+これまでのサスペンションに比べ、スプリングレート<END>
+//POINTER #110 @ $1300 - STRING #110 @ $A556
+
+#W32($1300)
+これまでのサスペンションに比べ、さらにスプリング<END>
+//POINTER #111 @ $132C - STRING #111 @ $A588
+
+#W32($132C)
+ミッションマウントを強化品へ交換することにより、<END>
+//POINTER #112 @ $1358 - STRING #112 @ $A5BA
+
+#W32($1358)
+シーケンシャルミッションの装着により、<END>
+//POINTER #113 @ $1384 - STRING #113 @ $A5E2
+
+#W32($1384)
+パワーに対応するツインプレートクラッチを装着。<END>
+//POINTER #114 @ $13B0 - STRING #114 @ $A612
+
+#W32($13B0)
+カーボン製バージョンを装着。<END>
+//POINTER #115 @ $13DC - STRING #115 @ $A630
+
+#W32($13DC)
+級者向けのブレーキパッド／ローターセットを装着。<END>
+//POINTER #116 @ $1408 - STRING #116 @ $A662
+
+#W32($1408)
+装着。剛性、安定性からパッドの面積の大きさまで、<END>
+//POINTER #117 @ $1434 - STRING #117 @ $A694
+
+#W32($1434)
+つなぎ、ボディ剛性を向上している。<END>
+//POINTER #118 @ $1460 - STRING #118 @ $A6B8
+
+#W32($1460)
+固まると堅くなる発泡ウレタンを流し込み、<END>
+//POINTER #119 @ $148C - STRING #119 @ $A6E2
+
+#W32($148C)
+スポット増しを行い、ボディの補強を行っている。<END>
+//POINTER #120 @ $14B8 - STRING #120 @ $A712
+
+#W32($14B8)
+の競技用に設計された高性能ロールバーを装着する<END>
+//POINTER #121 @ $14E4 - STRING #121 @ $A742
+
+#W32($14E4)
+化、使用されているボルト／パイピング等を軽量のも<END>
+//POINTER #122 @ $1510 - STRING #122 @ $A774
+
+#W32($1510)
+ドライバーズシート以外のシート、シートレールを<END>
+//POINTER #123 @ $153C - STRING #123 @ $A7A4
+
+#W32($153C)
+走行に必要のない室内快適装備を取り外し、<END>
+//POINTER #124 @ $1568 - STRING #124 @ $A7CE
+
+#W32($1568)
+トランクのカーボン化やウインドウのアクリル化など<END>
+//POINTER #125 @ $1594 - STRING #125 @ $A800
+
+#W32($1594)
+受けにくくなる。<END>
+//POINTER #126 @ $15C0 - STRING #126 @ $A812
+
+#W32($15C0)
+有名レーサーが使用しているものと同様のデザインが<END>
+//POINTER #127 @ $15EC - STRING #127 @ $A844
+
+#W32($15EC)
+「公認グローブ」と併用すると効果が上昇。<END>
+//POINTER #128 @ $1618 - STRING #128 @ $A86E
+
+#W32($1618)
+「レーサーモデルグローブ」と併用で効果が上昇。<END>
+//POINTER #129 @ $1644 - STRING #129 @ $A89E
+
+#W32($1644)
+「レーシングスーツ」と併用で効果が上昇。<END>
+//POINTER #130 @ $1670 - STRING #130 @ $A8C8
+
+#W32($1670)
+「公認スーツ」と併用で効果が上昇。<END>
+//POINTER #131 @ $169C - STRING #131 @ $A8EC
+
+#W32($169C)
+「レーサーモデルスーツ」と併用で効果が上昇。<END>
+//POINTER #132 @ $16C8 - STRING #132 @ $A91A
+
+#W32($16C8)
+「フロアカーペット」と併用で効果が上昇。<END>
+//POINTER #133 @ $16F4 - STRING #133 @ $A944
+
+#W32($16F4)
+公式レースでも使用可能な本格シューズ。<END>
+//POINTER #134 @ $1720 - STRING #134 @ $A96C
+
+#W32($1720)
+有名レーサーが使用しているものと同様のデザインが<END>
+//POINTER #135 @ $174C - STRING #135 @ $A99E
+
+#W32($174C)
+「4点式シートベルト」と併用で効果が上昇。<END>
+//POINTER #136 @ $1778 - STRING #136 @ $A9CA
+
+#W32($1778)
+完全スポーツ走行向けのバケットシートで、<END>
+//POINTER #137 @ $17A4 - STRING #137 @ $A9F4
+
+#W32($17A4)
+「4点式クイックリリースタイプ」と併用で<END>
+//POINTER #138 @ $17D0 - STRING #138 @ $AA1E
+
+#W32($17D0)
+「セミバケットシート」と併用で効果が上昇。<END>
+//POINTER #139 @ $17FC - STRING #139 @ $AA4A
+
+#W32($17FC)
+「カーボン製フルバケットシート」と併用で<END>
+//POINTER #140 @ $1828 - STRING #140 @ $AA74
+
+#W32($1828)
+自車も壁に接触した際のＳＰダメージが増加する。<END>
+//POINTER #141 @ $1854 - STRING #141 @ $AAA4
+
+#W32($1854)
+エンジンの燃焼室で火花を飛ばして点火をする。<END>
+//POINTER #142 @ $1880 - STRING #142 @ $AAD2
+
+#W32($1880)
+エンジンの燃焼室で火花を飛ばして点火をする。<END>
+//POINTER #143 @ $18AC - STRING #143 @ $AB00
+
+#W32($18AC)
+自車も車に接触した際のＳＰダメージが増加する。<END>
+//POINTER #144 @ $18D8 - STRING #144 @ $AB30
+
+#W32($18D8)
+点火システムの更なる性能の向上を図り<END>
+//POINTER #145 @ $1904 - STRING #145 @ $AB56
+
+#W32($1904)
+自車も車に接触した際のＳＰダメージが増加する。<END>
+//POINTER #146 @ $1930 - STRING #146 @ $AB86
+
+#W32($1930)
+点火システムに強力な高圧電流を与え性能を向上。<END>
+//POINTER #147 @ $195C - STRING #147 @ $ABB6
+
+#W32($195C)
+サイドブレーキの自動ロック機能を解除。<END>
+//POINTER #148 @ $1988 - STRING #148 @ $ABDE
+
+#W32($1988)
+「スピンターンノブ」と併用で効果が上昇。<END>
+//POINTER #149 @ $19B4 - STRING #149 @ $AC08
+
+#W32($19B4)
+「ブレーキクリーナー」と併用で効果が上昇。<END>
+//POINTER #150 @ $19E0 - STRING #150 @ $AC34
+
+#W32($19E0)
+「ブレーキクリーナー」と併用で効果が上昇。<END>
+//POINTER #151 @ $1A0C - STRING #151 @ $AC60
+
+#W32($1A0C)
+警告を表示。<END>
+//POINTER #152 @ $1A38 - STRING #152 @ $AC6E
+
+#W32($1A38)
+一定以上上昇すると警告を表示。<END>
+//POINTER #153 @ $1A64 - STRING #153 @ $AC8E
+
+#W32($1A64)
+車のコンディション低下を緩和。<END>
+//POINTER #154 @ $1A90 - STRING #154 @ $ACAE
+
+#W32($1A90)
+車のコンディション低下を緩和。<END>
+//POINTER #155 @ $1ABC - STRING #155 @ $ACCE
+
+#W32($1ABC)
+車のコンディション低下を緩和。<END>
+//POINTER #156 @ $1AE8 - STRING #156 @ $ACEE
+
+#W32($1AE8)
+車のコンディション低下を緩和。<END>
+//POINTER #157 @ $1B14 - STRING #157 @ $AD0E
+
+#W32($1B14)
+車のコンディション低下を緩和。<END>
+//POINTER #158 @ $1B40 - STRING #158 @ $AD2E
+
+#W32($1B40)
+「リジッドラック」と併用で効果が上昇。<END>
+//POINTER #159 @ $1B6C - STRING #159 @ $AD56
+
+#W32($1B6C)
+「リジッドラック」と併用で効果が上昇。<END>
+//POINTER #160 @ $1B98 - STRING #160 @ $AD7E
+
+#W32($1B98)
+「リジッドラック」と併用で効果が上昇。<END>
+//POINTER #161 @ $1BC4 - STRING #161 @ $ADA6
+
+#W32($1BC4)
+「ジャッキ」と併用で効果が上昇。<END>
+//POINTER #162 @ $1BF0 - STRING #162 @ $ADC8
+
+#W32($1BF0)
+「ジャッキ」と併用で効果が上昇。<END>
+//POINTER #163 @ $1C1C - STRING #163 @ $ADEA
+
+#W32($1C1C)
+「ジャッキ」と併用で効果が上昇。<END>
+//POINTER #164 @ $1C48 - STRING #164 @ $AE0C
+
+#W32($1C48)
+「インナーシュー」と併用で効果が上昇。<END>
+//POINTER #165 @ $1C74 - STRING #165 @ $AE34
+
+#W32($1C74)
+「インナーシュー」と併用で効果が上昇。<END>
+//POINTER #166 @ $1CA0 - STRING #166 @ $AE5C
+
+#W32($1CA0)
+「インナーシュー」と併用で効果が上昇。<END>
+//POINTER #167 @ $1CCC - STRING #167 @ $AE84
+
+#W32($1CCC)
+壁や車に接触した際の低下率は上昇する。<END>
+//POINTER #168 @ $1CF8 - STRING #168 @ $AEAC
+
+#W32($1CF8)
+壁や車に接触した際の低下率は上昇する。<END>
+//POINTER #169 @ $1D24 - STRING #169 @ $AED4
+
+#W32($1D24)
+壁や車に接触した際の低下率は上昇する。<END>
+//POINTER #170 @ $1D50 - STRING #170 @ $AEFC
+
+#W32($1D50)
+「エンジンオイル添加剤」と併用で効果が上昇。<END>
+//POINTER #171 @ $1D7C - STRING #171 @ $AF2A
+
+#W32($1D7C)
+「エンジンオイル添加剤」と併用で効果が上昇。<END>
+//POINTER #172 @ $1DA8 - STRING #172 @ $AF58
+
+#W32($1DA8)
+「エンジンオイル添加剤」と併用で効果が上昇。<END>
+//POINTER #173 @ $1DD4 - STRING #173 @ $AF86
+
+#W32($1DD4)
+「エンジンオイル」と併用で効果が上昇。<END>
+//POINTER #174 @ $1E00 - STRING #174 @ $AFAE
+
+#W32($1E00)
+壁や車に接触した際の低下率は上昇する。<END>
+//POINTER #175 @ $1E2C - STRING #175 @ $AFD6
+
+#W32($1E2C)
+壁や車に接触した際の低下率は上昇する。<END>
+//POINTER #176 @ $1E58 - STRING #176 @ $AFFE
+
+#W32($1E58)
+エンジンの負担を軽減し、燃費を抑えることが<END>
+//POINTER #177 @ $1E84 - STRING #177 @ $B02A
+
+#W32($1E84)
+電動効率も上昇させて燃費の節約にもなる<END>
+//POINTER #178 @ $1EB0 - STRING #178 @ $B052
+
+#W32($1EB0)
+燃焼効率を上昇させ、燃費の節約ができる、<END>
+//POINTER #179 @ $1EDC - STRING #179 @ $B07C
+
+#W32($1EDC)
+数倍の効果を得ることができる、<END>
+//POINTER #180 @ $1F08 - STRING #180 @ $B09C
+
+#W32($1F08)
+温暖化防止とあらゆる効果を合わせ持つ<END>
+//POINTER #181 @ $1F34 - STRING #181 @ $B0C2
+
+#W32($1F34)
+エンジンを移動する際には欠かせないアイテムで、<END>
+//POINTER #182 @ $1F60 - STRING #182 @ $B0F2
+
+#W32($1F60)
+ガレージの一部にクレーンを据え付けることで<END>
+//POINTER #183 @ $1F8C - STRING #183 @ $B11E
+
+#W32($1F8C)
+自転車でもおなじみの手動で空気を注入するので、<END>
+//POINTER #184 @ $1FB8 - STRING #184 @ $B14E
+
+#W32($1FB8)
+電動でタイヤに空気を注入するコンプレッサーで、<END>
+//POINTER #185 @ $1FE4 - STRING #185 @ $B17E
+
+#W32($1FE4)
+電動でタイヤに空気を注入するコンプレッサーで、<END>
+//POINTER #186 @ $2010 - STRING #186 @ $B1AE
+
+#W32($2010)
+「コート剤」と併用で効果が上昇。<END>
+//POINTER #187 @ $203C - STRING #187 @ $B1D0
+
+#W32($203C)
+「コート剤」と併用で効果が上昇。<END>
+//POINTER #188 @ $2068 - STRING #188 @ $B1F2
+
+#W32($2068)
+「コート剤」と併用で効果が上昇。<END>
+//POINTER #189 @ $2094 - STRING #189 @ $B214
+
+#W32($2094)
+「洗車セット」と併用で効果が上昇。<END>
+//POINTER #190 @ $20C0 - STRING #190 @ $B238
+
+#W32($20C0)
+通常のガラスクリーナーの数倍の効果で汚れを分解、<END>
+//POINTER #191 @ $20EC - STRING #191 @ $B26A
+
+#W32($20EC)
+イオンの力で頑固な汚れや油膜も根こそぎ分解、<END>
+//POINTER #192 @ $2118 - STRING #192 @ $B298
+
+#W32($2118)
+１回の使用で長時間の曇り止め効果を<END>
+//POINTER #193 @ $2144 - STRING #193 @ $B2BC
+
+#W32($2144)
+「レーシングメット」と併用で効果が上昇。<END>
+//POINTER #194 @ $2170 - STRING #194 @ $B2E6
+
+#W32($2170)
+「レーシングシューズ」と併用で効果が上昇。<END>
+//POINTER #195 @ $219C - STRING #195 @ $B312
+
+#W32($219C)
+「空気清浄機」「エアコンフィルター」と併用で<END>
+//POINTER #196 @ $21C8 - STRING #196 @ $B340
+
+#W32($21C8)
+「マイナスイオン発生器」と併用で効果が上昇。<END>
+//POINTER #197 @ $21F4 - STRING #197 @ $B36E
+
+#W32($21F4)
+「マイナスイオン発生器」と併用で効果が上昇。<END>
+//POINTER #198 @ $2220 - STRING #198 @ $B39C
+
+#W32($2220)
+「スピンターンノブ」と併用で効果が上昇。<END>
+//POINTER #199 @ $224C - STRING #199 @ $B3C6
+
+#W32($224C)
+獲得ボーナスが増加する。<END>
+//POINTER #200 @ $2278 - STRING #200 @ $B3E0
+
+#W32($2278)
+車や障害物の接近をセンサーが<END>
+//POINTER #201 @ $22A4 - STRING #201 @ $B3FE
+
+#W32($22A4)
+様々なものを探知して、ドライバーに<END>
+//POINTER #202 @ $22D0 - STRING #202 @ $B422
+
+#W32($22D0)
+探知の可能なものの種類が格段に多くなり、<END>
+//POINTER #203 @ $22FC - STRING #203 @ $B44C
+
+#W32($22FC)
+数種類の特殊な香料を調合して出来上がった<END>
+//POINTER #204 @ $2328 - STRING #204 @ $B476
+
+#W32($2328)
+天然成分配合で車内にこもるエアコンやタバコの<END>
+//POINTER #205 @ $2354 - STRING #205 @ $B4A4
+
+#W32($2354)
+小銭を常に何枚かセットしておけば、<END>
+//POINTER #206 @ $2380 - STRING #206 @ $B4C8
+
+#W32($2380)
+ＣＤなどの小物を収納することが可能になるので、<END>
+//POINTER #207 @ $23AC - STRING #207 @ $B4F8
+
+#W32($23AC)
+通常よりも小さなサイズのミラーで、<END>
+//POINTER #208 @ $23D8 - STRING #208 @ $B51C
+
+#W32($23D8)
+通常よりも大きなサイズのミラーで、<END>
+//POINTER #209 @ $2404 - STRING #209 @ $B540
+
+#W32($2404)
+サーキットであっても安全運転は大切。<END>
+//POINTER #210 @ $2430 - STRING #210 @ $B566
+
+#W32($2430)
+レース中の極限状態に耐え切れないことが多い<END>
+//POINTER #211 @ $245C - STRING #211 @ $B592
+
+#W32($245C)
+どうもドリフトに自信がない、というドライバーは<END>
+//POINTER #212 @ $2488 - STRING #212 @ $B5C2
+
+#W32($2488)
+ついついダーティーな走りをしてしまうという<END>
+//POINTER #213 @ $24B4 - STRING #213 @ $B5EE
+
+#W32($24B4)
+一気に華やかになること間違いなし。<END>
+//POINTER #214 @ $24E0 - STRING #214 @ $B612
+
+#W32($24E0)
+非常に貴重なものになりそうなので、<END>
+//POINTER #215 @ $250C - STRING #215 @ $B636
+
+#W32($250C)
+元気ファンのドライバーは、<END>
+//POINTER #216 @ $2538 - STRING #216 @ $B652
+
+#W32($2538)
+マニアックな１枚。<END>
+//POINTER #217 @ $2564 - STRING #217 @ $B666
+
+#W32($2564)
+必要なＮＰが緩和される。<END>
+//POINTER #218 @ $2590 - STRING #218 @ $B680
+
+#W32($2590)
+必要なＮＰが緩和される。<END>
+//POINTER #219 @ $25BC - STRING #219 @ $B69A
+
+#W32($25BC)
+必要なＮＰが緩和される。<END>
+//BLOCK #006 NAME:		229.bin File - Encoded Block Text 7
+
+//POINTER #0 @ $1C - STRING #0 @ $B6B4
+
+#W32($1C)
+最大トルク│３６ｋｇ・ｍ／４４００ｒｐｍ<END>
+//POINTER #1 @ $48 - STRING #1 @ $B6DE
+
+#W32($48)
+最大トルク│３７ｋｇ・ｍ／４４００ｒｐｍ<END>
+//POINTER #2 @ $74 - STRING #2 @ $B708
+
+#W32($74)
+最大トルク│４０ｋｇ・ｍ／４４００ｒｐｍ<END>
+//POINTER #3 @ $A0 - STRING #3 @ $B732
+
+#W32($A0)
+最大トルク│２８ｋｇ・ｍ／４８００ｒｐｍ<END>
+//POINTER #4 @ $CC - STRING #4 @ $B75C
+
+#W32($CC)
+最大トルク│２８ｋｇ・ｍ／４０００ｒｐｍ<END>
+//POINTER #5 @ $F8 - STRING #5 @ $B786
+
+#W32($F8)
+最大トルク│３７ｋｇ・ｍ／４８００ｒｐｍ<END>
+//POINTER #6 @ $124 - STRING #6 @ $B7B0
+
+#W32($124)
+最大トルク│３６ｋｇ・ｍ／３２００ｒｐｍ<END>
+//POINTER #7 @ $150 - STRING #7 @ $B7DA
+
+#W32($150)
+最大トルク│１４ｋｇ・ｍ／３２００ｒｐｍ<END>
+//POINTER #8 @ $17C - STRING #8 @ $B804
+
+#W32($17C)
+最大トルク│３９ｋｇ・ｍ／３６００ｒｐｍ<END>
+//POINTER #9 @ $1A8 - STRING #9 @ $B82E
+
+#W32($1A8)
+最大トルク│３９ｋｇ・ｍ／３６００ｒｐｍ<END>
+//POINTER #10 @ $1D4 - STRING #10 @ $B858
+
+#W32($1D4)
+最大トルク│３８ｋｇ・ｍ／３０００ｒｐｍ<END>
+//POINTER #11 @ $200 - STRING #11 @ $B882
+
+#W32($200)
+最大トルク│３８ｋｇ・ｍ／３０００ｒｐｍ<END>
+//POINTER #12 @ $22C - STRING #12 @ $B8AC
+
+#W32($22C)
+最大トルク│２０ｋｇ・ｍ／６０００ｒｐｍ<END>
+//POINTER #13 @ $258 - STRING #13 @ $B8D6
+
+#W32($258)
+最大トルク│３２ｋｇ・ｍ／５０００ｒｐｍ<END>
+//POINTER #14 @ $284 - STRING #14 @ $B900
+
+#W32($284)
+最大トルク│２１ｋｇ・ｍ／４０００ｒｐｍ<END>
+//POINTER #15 @ $2B0 - STRING #15 @ $B92A
+
+#W32($2B0)
+最大トルク│２１ｋｇ・ｍ／４１００ｒｐｍ<END>
+//POINTER #16 @ $2DC - STRING #16 @ $B954
+
+#W32($2DC)
+最大トルク│４６ｋｇ・ｍ／３６００ｒｐｍ<END>
+//POINTER #17 @ $308 - STRING #17 @ $B97E
+
+#W32($308)
+最大トルク│１８ｋｇ・ｍ／６８００ｒｐｍ<END>
+//POINTER #18 @ $334 - STRING #18 @ $B9A8
+
+#W32($334)
+最大トルク│３１ｋｇ・ｍ／４０００ｒｐｍ<END>
+//POINTER #19 @ $360 - STRING #19 @ $B9D2
+
+#W32($360)
+最大トルク│１７ｋｇ・ｍ／４４００ｒｐｍ<END>
+//POINTER #20 @ $38C - STRING #20 @ $B9FC
+
+#W32($38C)
+最大トルク│３８ｋｇ・ｍ／２４００ｒｐｍ<END>
+//POINTER #21 @ $3B8 - STRING #21 @ $BA26
+
+#W32($3B8)
+最大トルク│３１ｋｇ・ｍ／４０００ｒｐｍ<END>
+//POINTER #22 @ $3E4 - STRING #22 @ $BA50
+
+#W32($3E4)
+最大トルク│１９ｋｇ・ｍ／４４００ｒｐｍ<END>
+//POINTER #23 @ $410 - STRING #23 @ $BA7A
+
+#W32($410)
+最大トルク│２２ｋｇ・ｍ／６４００ｒｐｍ<END>
+//POINTER #24 @ $43C - STRING #24 @ $BAA4
+
+#W32($43C)
+最大トルク│２０ｋｇ・ｍ／４０００ｒｐｍ<END>
+//POINTER #25 @ $468 - STRING #25 @ $BACE
+
+#W32($468)
+最大トルク│１４ｋｇ・ｍ／４２００ｒｐｍ<END>
+//POINTER #26 @ $494 - STRING #26 @ $BAF8
+
+#W32($494)
+最大トルク│１９ｋｇ・ｍ／４０００ｒｐｍ<END>
+//POINTER #27 @ $4C0 - STRING #27 @ $BB22
+
+#W32($4C0)
+最大トルク│３５ｋｇ・ｍ／２４００ｒｐｍ<END>
+//POINTER #28 @ $4EC - STRING #28 @ $BB4C
+
+#W32($4EC)
+最大トルク│３９ｋｇ・ｍ／４４００ｒｐｍ<END>
+//POINTER #29 @ $518 - STRING #29 @ $BB76
+
+#W32($518)
+最大トルク│３６ｋｇ・ｍ／４０００ｒｐｍ<END>
+//POINTER #30 @ $544 - STRING #30 @ $BBA0
+
+#W32($544)
+最大トルク│３５ｋｇ・ｍ／２４００ｒｐｍ<END>
+//POINTER #31 @ $570 - STRING #31 @ $BBCA
+
+#W32($570)
+最大トルク│４０ｋｇ・ｍ／４４００ｒｐｍ<END>
+//POINTER #32 @ $59C - STRING #32 @ $BBF4
+
+#W32($59C)
+最大トルク│３４ｋｇ・ｍ／３６００ｒｐｍ<END>
+//POINTER #33 @ $5C8 - STRING #33 @ $BC1E
+
+#W32($5C8)
+最大トルク│１０ｋｇ・ｍ／３５００ｒｐｍ<END>
+//POINTER #34 @ $5F4 - STRING #34 @ $BC48
+
+#W32($5F4)
+最大トルク│５ｋｇ・ｍ／４０００ｒｐｍ<END>
+//POINTER #35 @ $620 - STRING #35 @ $BC70
+
+#W32($620)
+最大トルク│１０ｋｇ・ｍ／３６００ｒｐｍ<END>
+//POINTER #36 @ $64C - STRING #36 @ $BC9A
+
+#W32($64C)
+最大トルク│６ｋｇ・ｍ／７０００ｒｐｍ<END>
+//POINTER #37 @ $678 - STRING #37 @ $BCC2
+
+#W32($678)
+最大トルク│１６ｋｇ・ｍ／７６００ｒｐｍ<END>
+//POINTER #38 @ $6A4 - STRING #38 @ $BCEC
+
+#W32($6A4)
+最大トルク│２０ｋｇ・ｍ／７０００ｒｐｍ<END>
+//POINTER #39 @ $6D0 - STRING #39 @ $BD16
+
+#W32($6D0)
+最大トルク│１９ｋｇ・ｍ／６２００ｒｐｍ<END>
+//POINTER #40 @ $6FC - STRING #40 @ $BD40
+
+#W32($6FC)
+最大トルク│１４ｋｇ・ｍ／４８００ｒｐｍ<END>
+//POINTER #41 @ $728 - STRING #41 @ $BD6A
+
+#W32($728)
+最大トルク│１５ｋｇ・ｍ／７０００ｒｐｍ<END>
+//POINTER #42 @ $754 - STRING #42 @ $BD94
+
+#W32($754)
+最大トルク│２２ｋｇ・ｍ／６７００ｒｐｍ<END>
+//POINTER #43 @ $780 - STRING #43 @ $BDBE
+
+#W32($780)
+最大トルク│２１ｋｇ・ｍ／６０００ｒｐｍ<END>
+//POINTER #44 @ $7AC - STRING #44 @ $BDE8
+
+#W32($7AC)
+最大トルク│１９ｋｇ・ｍ／４６００ｒｐｍ<END>
+//POINTER #45 @ $7D8 - STRING #45 @ $BE12
+
+#W32($7D8)
+最大トルク│２３ｋｇ・ｍ／４７００ｒｐｍ<END>
+//POINTER #46 @ $804 - STRING #46 @ $BE3C
+
+#W32($804)
+最大トルク│３０ｋｇ・ｍ／５４００ｒｐｍ<END>
+//POINTER #47 @ $830 - STRING #47 @ $BE66
+
+#W32($830)
+最大トルク│３１ｋｇ・ｍ／５３００ｒｐｍ<END>
+//POINTER #48 @ $85C - STRING #48 @ $BE90
+
+#W32($85C)
+最大トルク│３１ｋｇ・ｍ／５３００ｒｐｍ<END>
+//POINTER #49 @ $888 - STRING #49 @ $BEBA
+
+#W32($888)
+最大トルク│９ｋｇ・ｍ／４０００ｒｐｍ<END>
+//POINTER #50 @ $8B4 - STRING #50 @ $BEE2
+
+#W32($8B4)
+最大トルク│――ｋｇ・ｍ／――ｒｐｍ<END>
+//POINTER #51 @ $8E0 - STRING #51 @ $BF08
+
+#W32($8E0)
+最大トルク│――ｋｇ・ｍ／――ｒｐｍ<END>
+//POINTER #52 @ $90C - STRING #52 @ $BF2E
+
+#W32($90C)
+最大トルク│――ｋｇ・ｍ／――ｒｐｍ<END>
+//POINTER #53 @ $938 - STRING #53 @ $BF54
+
+#W32($938)
+最大トルク│――ｋｇ・ｍ／――ｒｐｍ<END>
+//POINTER #54 @ $964 - STRING #54 @ $BF7A
+
+#W32($964)
+最大トルク│――ｋｇ・ｍ／――ｒｐｍ<END>
+//POINTER #55 @ $990 - STRING #55 @ $BFA0
+
+#W32($990)
+最大トルク│――ｋｇ・ｍ／――ｒｐｍ<END>
+//POINTER #56 @ $9BC - STRING #56 @ $BFC6
+
+#W32($9BC)
+最大トルク│――ｋｇ・ｍ／――ｒｐｍ<END>
+//POINTER #57 @ $9E8 - STRING #57 @ $BFEC
+
+#W32($9E8)
+最大トルク│――ｋｇ・ｍ／――ｒｐｍ<END>
+//POINTER #58 @ $A14 - STRING #58 @ $C012
+
+#W32($A14)
+最大トルク│――ｋｇ・ｍ／――ｒｐｍ<END>
+//POINTER #59 @ $A40 - STRING #59 @ $C038
+
+#W32($A40)
+最大トルク│――ｋｇ・ｍ／――ｒｐｍ<END>
+//POINTER #60 @ $A6C - STRING #60 @ $C05E
+
+#W32($A6C)
+最大トルク│――ｋｇ・ｍ／――ｒｐｍ<END>
+//POINTER #61 @ $A98 - STRING #61 @ $C084
+
+#W32($A98)
+最大トルク│――ｋｇ・ｍ／――ｒｐｍ<END>
+//POINTER #62 @ $AC4 - STRING #62 @ $C0AA
+
+#W32($AC4)
+最大トルク│――ｋｇ・ｍ／――ｒｐｍ<END>
+//POINTER #63 @ $AF0 - STRING #63 @ $C0D0
+
+#W32($AF0)
+最大トルク│――ｋｇ・ｍ／――ｒｐｍ<END>
+//POINTER #64 @ $B1C - STRING #64 @ $C0F6
+
+#W32($B1C)
+最大トルク│――ｋｇ・ｍ／――ｒｐｍ<END>
+//POINTER #65 @ $B48 - STRING #65 @ $C11C
+
+#W32($B48)
+最大トルク│――ｋｇ・ｍ／――ｒｐｍ<END>
+//POINTER #66 @ $B74 - STRING #66 @ $C142
+
+#W32($B74)
+最大トルク│――ｋｇ・ｍ／――ｒｐｍ<END>
+//POINTER #67 @ $BA0 - STRING #67 @ $C168
+
+#W32($BA0)
+最大トルク│――ｋｇ・ｍ／――ｒｐｍ<END>
+//POINTER #68 @ $BCC - STRING #68 @ $C18E
+
+#W32($BCC)
+最大トルク│――ｋｇ・ｍ／――ｒｐｍ<END>
+//POINTER #69 @ $BF8 - STRING #69 @ $C1B4
+
+#W32($BF8)
+最大トルク│――ｋｇ・ｍ／――ｒｐｍ<END>
+//POINTER #70 @ $C24 - STRING #70 @ $C1DA
+
+#W32($C24)
+最大トルク│――ｋｇ・ｍ／――ｒｐｍ<END>
+//POINTER #71 @ $C50 - STRING #71 @ $C200
+
+#W32($C50)
+最大トルク│――ｋｇ・ｍ／――ｒｐｍ<END>
+//POINTER #72 @ $C7C - STRING #72 @ $C226
+
+#W32($C7C)
+最大トルク│――ｋｇ・ｍ／――ｒｐｍ<END>
+//POINTER #73 @ $CA8 - STRING #73 @ $C24C
+
+#W32($CA8)
+最大トルク│――ｋｇ・ｍ／――ｒｐｍ<END>
+//POINTER #74 @ $CD4 - STRING #74 @ $C272
+
+#W32($CD4)
+最大トルク│――ｋｇ・ｍ／――ｒｐｍ<END>
+//POINTER #75 @ $D00 - STRING #75 @ $C298
+
+#W32($D00)
+最大トルク│６９ｋｇ・ｍ／６４００ｒｐｍ<END>
+//POINTER #76 @ $D2C - STRING #76 @ $C2C2
+
+#W32($D2C)
+最大トルク│６９ｋｇ・ｍ／４２００ｒｐｍ<END>
+//POINTER #77 @ $D58 - STRING #77 @ $C2EC
+
+#W32($D58)
+最大トルク│４６ｋｇ・ｍ／４３００ｒｐｍ<END>
+//POINTER #78 @ $D84 - STRING #78 @ $C316
+
+#W32($D84)
+最大トルク│６６ｋｇ・ｍ／４８００ｒｐｍ<END>
+//POINTER #79 @ $DB0 - STRING #79 @ $C340
+
+#W32($DB0)
+最大トルク│２２ｋｇ・ｍ／５９００ｒｐｍ<END>
+//POINTER #80 @ $DDC - STRING #80 @ $C36A
+
+#W32($DDC)
+最大トルク│５７ｋｇ・ｍ／３６００ｒｐｍ<END>
+//POINTER #81 @ $E08 - STRING #81 @ $C394
+
+#W32($E08)
+最大トルク│２７ｋｇ・ｍ／６０００ｒｐｍ<END>
+//POINTER #82 @ $E34 - STRING #82 @ $C3BE
+
+#W32($E34)
+最大トルク│３５ｋｇ・ｍ／５０００ｒｐｍ<END>
+//POINTER #83 @ $E60 - STRING #83 @ $C3E8
+
+#W32($E60)
+最大トルク│４１ｋｇ・ｍ／３４００ｒｐｍ<END>
+//POINTER #84 @ $E8C - STRING #84 @ $C412
+
+#W32($E8C)
+最大トルク│３７ｋｇ・ｍ／９０００ｒｐｍ<END>
+//POINTER #85 @ $EB8 - STRING #85 @ $C43C
+
+#W32($EB8)
+最大トルク│５９ｋｇ・ｍ／８３００ｒｐｍ<END>
+//POINTER #86 @ $EE4 - STRING #86 @ $C466
+
+#W32($EE4)
+最大トルク│５３ｋｇ・ｍ／４０００ｒｐｍ<END>
+//POINTER #87 @ $F10 - STRING #87 @ $C490
+
+#W32($F10)
+最大トルク│２８ｋｇ・ｍ／７５００ｒｐｍ<END>
+//POINTER #88 @ $F3C - STRING #88 @ $C4BA
+
+#W32($F3C)
+最大トルク│５２ｋｇ・ｍ／５２００ｒｐｍ<END>
+//POINTER #89 @ $F68 - STRING #89 @ $C4E4
+
+#W32($F68)
+最大トルク│４３ｋｇ・ｍ／４８００ｒｐｍ<END>
+//POINTER #90 @ $F94 - STRING #90 @ $C50E
+
+#W32($F94)
+最大トルク│４６ｋｇ・ｍ／６３００ｒｐｍ<END>
+//POINTER #91 @ $FC0 - STRING #91 @ $C538
+
+#W32($FC0)
+最大トルク│２３ｋｇ・ｍ／７５００ｒｐｍ<END>
+//POINTER #92 @ $FEC - STRING #92 @ $C562
+
+#W32($FEC)
+最大トルク│３９ｋｇ・ｍ／４４００ｒｐｍ<END>
+//POINTER #93 @ $1018 - STRING #93 @ $C58C
+
+#W32($1018)
+最大トルク│６１ｋｇ・ｍ／６９００ｒｐｍ<END>
+//POINTER #94 @ $1044 - STRING #94 @ $C5B6
+
+#W32($1044)
+最大トルク│３８ｋｇ・ｍ／８５００ｒｐｍ<END>
+//POINTER #95 @ $1070 - STRING #95 @ $C5E0
+
+#W32($1070)
+最大トルク│４２ｋｇ・ｍ／５７００ｒｐｍ<END>
+//POINTER #96 @ $109C - STRING #96 @ $C60A
+
+#W32($109C)
+ターボエンジンはブーストアップ、ロータリー<END>
+//POINTER #97 @ $10C8 - STRING #97 @ $C636
+
+#W32($10C8)
+ガスケット交換、レシプロターボエンジンはタービン<END>
+//POINTER #98 @ $10F4 - STRING #98 @ $C668
+
+#W32($10F4)
+コンロッド交換、レシプロターボエンジンはタービン<END>
+//POINTER #99 @ $1120 - STRING #99 @ $C69A
+
+#W32($1120)
+レシプロターボエンジンはボアアップ及びＮＡ<END>
+//POINTER #100 @ $114C - STRING #100 @ $C6C6
+
+#W32($114C)
+軽量化効果が大きく、エンジン本来のパワーから損失<END>
+//POINTER #101 @ $1178 - STRING #101 @ $C6F8
+
+#W32($1178)
+マフラーを装着。フロントパイプもオールチタン製に<END>
+//POINTER #102 @ $11A4 - STRING #102 @ $C72A
+
+#W32($11A4)
+確実に効果を実感できるパーツだけに、<END>
+//POINTER #103 @ $11D0 - STRING #103 @ $C750
+
+#W32($11D0)
+よりエンジン性能を引き出している。<END>
+//POINTER #104 @ $11FC - STRING #104 @ $C774
+
+#W32($11FC)
+エンジン性能を最大限に引き出している。<END>
+//POINTER #105 @ $1228 - STRING #105 @ $C79C
+
+#W32($1228)
+極限まで引き出している。<END>
+//POINTER #106 @ $1254 - STRING #106 @ $C7B6
+
+#W32($1254)
+アルミを使用しており、大容量オイルクーラーは油温<END>
+//POINTER #107 @ $1280 - STRING #107 @ $C7E8
+
+#W32($1280)
+スポーツ走行にも対応できる。<END>
+//POINTER #108 @ $12AC - STRING #108 @ $C806
+
+#W32($12AC)
+様々なトルク特性があり、パワーもそれぞれ異なる。<END>
+//POINTER #109 @ $12D8 - STRING #109 @ $C838
+
+#W32($12D8)
+減衰力がアップしている。ストリート、サーキットを<END>
+//POINTER #110 @ $1304 - STRING #110 @ $C86A
+
+#W32($1304)
+レート、減衰力がアップしている。主にレースに使用<END>
+//POINTER #111 @ $1330 - STRING #111 @ $C89C
+
+#W32($1330)
+駆動系レスポンスが向上している。<END>
+//POINTER #112 @ $135C - STRING #112 @ $C8BE
+
+#W32($135C)
+シフトラグが大幅に改善されている。<END>
+//POINTER #113 @ $1388 - STRING #113 @ $C8E2
+
+#W32($1388)
+これまでのクラッチに比べ、低踏力設計のため軽い<END>
+//POINTER #114 @ $13B4 - STRING #114 @ $C912
+
+#W32($13B4)
+これまでのクラッチに比べ、軽量化できる上に、<END>
+//POINTER #115 @ $13E0 - STRING #115 @ $C940
+
+#W32($13E0)
+ストリートでのスポーツ走行を想定したローター適正<END>
+//POINTER #116 @ $140C - STRING #116 @ $C972
+
+#W32($140C)
+モータースポーツで使用されるものと遜色ないレベル<END>
+//POINTER #117 @ $1438 - STRING #117 @ $C9A4
+
+#W32($1438)
+また、Ｃピラー間をつないでボディのよじれを防ぐ<END>
+//POINTER #118 @ $1464 - STRING #118 @ $C9D4
+
+#W32($1464)
+ネジレ剛性を向上させている。<END>
+//POINTER #119 @ $1490 - STRING #119 @ $C9F2
+
+#W32($1490)
+リベット打ちと違い車重の増加を抑えられる点が<END>
+//POINTER #120 @ $14BC - STRING #120 @ $CA20
+
+#W32($14BC)
+ことで、安全性、ボディ全体の剛性を著しく上昇させ<END>
+//POINTER #121 @ $14E8 - STRING #121 @ $CA52
+
+#W32($14E8)
+のに換装をしてエンジン周りの軽量化を行っている。<END>
+//POINTER #122 @ $1514 - STRING #122 @ $CA84
+
+#W32($1514)
+取り外し軽量化を行っている。<END>
+//POINTER #123 @ $1540 - STRING #123 @ $CAA2
+
+#W32($1540)
+軽量化を行っている。<END>
+//POINTER #124 @ $156C - STRING #124 @ $CAB8
+
+#W32($156C)
+徹底した軽量化を行っている。<END>
+//POINTER #125 @ $1598 - STRING #125 @ $CAD6
+
+#W32($1598)
+公式レースでも使用可能な本格ヘルメット。<END>
+//POINTER #126 @ $15C4 - STRING #126 @ $CB00
+
+#W32($15C4)
+施されたレーサーモデルヘルメット。<END>
+//POINTER #127 @ $15F0 - STRING #127 @ $CB24
+
+#W32($15F0)
+公式レースでも使用可能な本格スーツ。<END>
+//POINTER #128 @ $161C - STRING #128 @ $CB4A
+
+#W32($161C)
+有名レーサーが使用しているものと同様のデザインが<END>
+//POINTER #129 @ $1648 - STRING #129 @ $CB7C
+
+#W32($1648)
+ステアリング操作時の汗による滑りを<END>
+//POINTER #130 @ $1674 - STRING #130 @ $CBA0
+
+#W32($1674)
+公式レースでも使用可能な本格グローブ。<END>
+//POINTER #131 @ $16A0 - STRING #131 @ $CBC8
+
+#W32($16A0)
+有名レーサーが使用しているものと同様のデザインが<END>
+//POINTER #132 @ $16CC - STRING #132 @ $CBFA
+
+#W32($16CC)
+ペダルを踏んだ時のフィーリングが格段に向上し、<END>
+//POINTER #133 @ $16F8 - STRING #133 @ $CC2A
+
+#W32($16F8)
+ペダルを踏んだ時のフィーリングが格段に向上する。<END>
+//POINTER #134 @ $1724 - STRING #134 @ $CC5C
+
+#W32($1724)
+施されたレーサーモデルシューズ。<END>
+//POINTER #135 @ $1750 - STRING #135 @ $CC7E
+
+#W32($1750)
+リクライニング機能を備えており、スポーツ、<END>
+//POINTER #136 @ $177C - STRING #136 @ $CCAA
+
+#W32($177C)
+体をしっかりとシートに固定することが可能。<END>
+//POINTER #137 @ $17A8 - STRING #137 @ $CCD6
+
+#W32($17A8)
+効果が上昇。<END>
+//POINTER #138 @ $17D4 - STRING #138 @ $CCE4
+
+#W32($17D4)
+３インチ幅のベルトは高いホールド性を実現し、<END>
+//POINTER #139 @ $1800 - STRING #139 @ $CD12
+
+#W32($1800)
+効果が上昇。<END>
+//POINTER #140 @ $182C - STRING #140 @ $CD20
+
+#W32($182C)
+エンジンの燃焼室で火花を飛ばして点火をする。<END>
+//POINTER #141 @ $1858 - STRING #141 @ $CD4E
+
+#W32($1858)
+ニッケル製プラグよりも性能面、寿命面で<END>
+//POINTER #142 @ $1884 - STRING #142 @ $CD76
+
+#W32($1884)
+性能、寿命ともに最高級のものに仕上がっている。<END>
+//POINTER #143 @ $18B0 - STRING #143 @ $CDA6
+
+#W32($18B0)
+「プラグコード」と併用で効果が上昇。<END>
+//POINTER #144 @ $18DC - STRING #144 @ $CDCC
+
+#W32($18DC)
+改造・開発された高性能点火システム。<END>
+//POINTER #145 @ $1908 - STRING #145 @ $CDF2
+
+#W32($1908)
+「ＭＤＩシステム」と併用で効果が上昇。<END>
+//POINTER #146 @ $1934 - STRING #146 @ $CE1A
+
+#W32($1934)
+従来品よりもさらに強力な高圧電流を加えることで<END>
+//POINTER #147 @ $1960 - STRING #147 @ $CE4A
+
+#W32($1960)
+アルミ製よりも手触りが滑らかになっているので、<END>
+//POINTER #148 @ $198C - STRING #148 @ $CE7A
+
+#W32($198C)
+通常のサイドブレーキに比べ、格段にフィーリング、<END>
+//POINTER #149 @ $19B8 - STRING #149 @ $CEAC
+
+#W32($19B8)
+スポーツ走行を想定し、特殊素材を使用。<END>
+//POINTER #150 @ $19E4 - STRING #150 @ $CED4
+
+#W32($19E4)
+公式レースを想定し、厳選した特殊素材を使用。<END>
+//POINTER #151 @ $1A10 - STRING #151 @ $CF02
+
+#W32($1A10)
+サイズが大きくなり、よりたくさんの情報を<END>
+//POINTER #152 @ $1A3C - STRING #152 @ $CF2C
+
+#W32($1A3C)
+文字プレートを使用した一級品で、<END>
+//POINTER #153 @ $1A68 - STRING #153 @ $CF4E
+
+#W32($1A68)
+「工具」と併用で効果が上昇。<END>
+//POINTER #154 @ $1A94 - STRING #154 @ $CF6C
+
+#W32($1A94)
+「工具」と併用で効果が上昇。<END>
+//POINTER #155 @ $1AC0 - STRING #155 @ $CF8A
+
+#W32($1AC0)
+「補修用品」と併用で効果が上昇。<END>
+//POINTER #156 @ $1AEC - STRING #156 @ $CFAC
+
+#W32($1AEC)
+「補修用品」と併用で効果が上昇。<END>
+//POINTER #157 @ $1B18 - STRING #157 @ $CFCE
+
+#W32($1B18)
+「補修用品」と併用で効果が上昇。<END>
+//POINTER #158 @ $1B44 - STRING #158 @ $CFF0
+
+#W32($1B44)
+車にも標準装備されている、持ち運びも便利な<END>
+//POINTER #159 @ $1B70 - STRING #159 @ $D01C
+
+#W32($1B70)
+車高が高めの車向きで、見た目は小さいが<END>
+//POINTER #160 @ $1B9C - STRING #160 @ $D044
+
+#W32($1B9C)
+油圧を利用して強力な力を生み出すことが<END>
+//POINTER #161 @ $1BC8 - STRING #161 @ $D06C
+
+#W32($1BC8)
+ジャッキアップした車を支える支持台。<END>
+//POINTER #162 @ $1BF4 - STRING #162 @ $D092
+
+#W32($1BF4)
+ジャッキアップした車を支える支持台。<END>
+//POINTER #163 @ $1C20 - STRING #163 @ $D0B8
+
+#W32($1C20)
+ジャッキアップした車を支える支持台。<END>
+//POINTER #164 @ $1C4C - STRING #164 @ $D0DE
+
+#W32($1C4C)
+汎用的なブレーキクリーナーで、<END>
+//POINTER #165 @ $1C78 - STRING #165 @ $D0FE
+
+#W32($1C78)
+従来品を競技用車両の走行にも通用する効力に<END>
+//POINTER #166 @ $1CA4 - STRING #166 @ $D12A
+
+#W32($1CA4)
+お得なボトルタイプで、１缶で１年は持つ大容量が<END>
+//POINTER #167 @ $1CD0 - STRING #167 @ $D15A
+
+#W32($1CD0)
+「アーシングパーツ」と併用で効果が上昇。<END>
+//POINTER #168 @ $1CFC - STRING #168 @ $D184
+
+#W32($1CFC)
+「アーシングパーツ」と併用で効果が上昇。<END>
+//POINTER #169 @ $1D28 - STRING #169 @ $D1AE
+
+#W32($1D28)
+「アーシングパーツ」と併用で効果が上昇。<END>
+//POINTER #170 @ $1D54 - STRING #170 @ $D1D8
+
+#W32($1D54)
+スタンダードで低コストなエンジンオイルなので、<END>
+//POINTER #171 @ $1D80 - STRING #171 @ $D208
+
+#W32($1D80)
+鉱物油と化学合成油をブレンドしたエンジンオイル。<END>
+//POINTER #172 @ $1DAC - STRING #172 @ $D23A
+
+#W32($1DAC)
+車の性能に合わせて精製されたエンジンオイルなので<END>
+//POINTER #173 @ $1DD8 - STRING #173 @ $D26C
+
+#W32($1DD8)
+エンジンオイルに少量を混入すればオイルの性能を<END>
+//POINTER #174 @ $1E04 - STRING #174 @ $D29C
+
+#W32($1E04)
+「バッテリー」と併用で効果が上昇。<END>
+//POINTER #175 @ $1E30 - STRING #175 @ $D2C0
+
+#W32($1E30)
+「バッテリー」と併用で効果が上昇。<END>
+//POINTER #176 @ $1E5C - STRING #176 @ $D2E4
+
+#W32($1E5C)
+可能になる、とのふれこみなので、興味のある<END>
+//POINTER #177 @ $1E88 - STRING #177 @ $D310
+
+#W32($1E88)
+とのふれこみなので、興味のあるドライバーは<END>
+//POINTER #178 @ $1EB4 - STRING #178 @ $D33C
+
+#W32($1EB4)
+とのふれこみなので、興味のあるドライバーは<END>
+//POINTER #179 @ $1EE0 - STRING #179 @ $D368
+
+#W32($1EE0)
+とのふれこみなので、興味のあるドライバーは<END>
+//POINTER #180 @ $1F0C - STRING #180 @ $D394
+
+#W32($1F0C)
+人にも地球にも優しい燃費向上グッズ、<END>
+//POINTER #181 @ $1F38 - STRING #181 @ $D3BA
+
+#W32($1F38)
+重いエンジンも軽々と持ち上げられる。<END>
+//POINTER #182 @ $1F64 - STRING #182 @ $D3E0
+
+#W32($1F64)
+強力なパワーと安定感を生み出している。<END>
+//POINTER #183 @ $1F90 - STRING #183 @ $D408
+
+#W32($1F90)
+少々大変だが、低コストで済むので<END>
+//POINTER #184 @ $1FBC - STRING #184 @ $D42A
+
+#W32($1FBC)
+楽々と注入できるようになっている。<END>
+//POINTER #185 @ $1FE8 - STRING #185 @ $D44E
+
+#W32($1FE8)
+大型になり注入力を強化している。<END>
+//POINTER #186 @ $2014 - STRING #186 @ $D470
+
+#W32($2014)
+ボディを傷めず汚れを洗浄し、<END>
+//POINTER #187 @ $2040 - STRING #187 @ $D48E
+
+#W32($2040)
+強力かつ長期間の被膜効果によって<END>
+//POINTER #188 @ $206C - STRING #188 @ $D4B0
+
+#W32($206C)
+高圧噴射で汚れを弾き飛ばす優れもので、<END>
+//POINTER #189 @ $2098 - STRING #189 @ $D4D8
+
+#W32($2098)
+洗車を済ませた愛車に使用すれば<END>
+//POINTER #190 @ $20C4 - STRING #190 @ $D4F8
+
+#W32($20C4)
+深夜の通販番組のような効果を得ることができる。<END>
+//POINTER #191 @ $20F0 - STRING #191 @ $D528
+
+#W32($20F0)
+ワイパーだけで汚れが落ちる優れた効果を<END>
+//POINTER #192 @ $211C - STRING #192 @ $D550
+
+#W32($211C)
+発揮してくれる。<END>
+//POINTER #193 @ $2148 - STRING #193 @ $D562
+
+#W32($2148)
+人間工学に基づき設計され、絶妙な座り心地で<END>
+//POINTER #194 @ $2174 - STRING #194 @ $D58E
+
+#W32($2174)
+天然素材を使用し、耐久性、抗菌、消臭効果など<END>
+//POINTER #195 @ $21A0 - STRING #195 @ $D5BC
+
+#W32($21A0)
+効果が上昇。<END>
+//POINTER #196 @ $21CC - STRING #196 @ $D5CA
+
+#W32($21CC)
+活性炭入りフィルターを使用し、<END>
+//POINTER #197 @ $21F8 - STRING #197 @ $D5EA
+
+#W32($21F8)
+極薄の高性能フィルターで外からの花粉や<END>
+//POINTER #198 @ $2224 - STRING #198 @ $D612
+
+#W32($2224)
+スポーティなデザインで手にジャストフィット、<END>
+//POINTER #199 @ $2250 - STRING #199 @ $D640
+
+#W32($2250)
+ペットボトル、３５０ｍｌ缶のどちらにも使用可能で<END>
+//POINTER #200 @ $227C - STRING #200 @ $D672
+
+#W32($227C)
+敏感に察知してくれる。<END>
+//POINTER #201 @ $22A8 - STRING #201 @ $D68A
+
+#W32($22A8)
+知らせてくれる。<END>
+//POINTER #202 @ $22D4 - STRING #202 @ $D69C
+
+#W32($22D4)
+より的確な情報伝達が可能になっている。<END>
+//POINTER #203 @ $2300 - STRING #203 @ $D6C4
+
+#W32($2300)
+これまでにない斬新な香りの芳香剤で、<END>
+//POINTER #204 @ $232C - STRING #204 @ $D6EA
+
+#W32($232C)
+臭いを強力消臭してくれる。<END>
+//POINTER #205 @ $2358 - STRING #205 @ $D706
+
+#W32($2358)
+ちょっとした買い物や料金所でも一安心。<END>
+//POINTER #206 @ $2384 - STRING #206 @ $D72E
+
+#W32($2384)
+荷物をもてあましているドライバーは必見だ。<END>
+//POINTER #207 @ $23B0 - STRING #207 @ $D75A
+
+#W32($23B0)
+小さくなった分前方の視界が広くなっている。<END>
+//POINTER #208 @ $23DC - STRING #208 @ $D786
+
+#W32($23DC)
+後方の確認がしやすくなっている。<END>
+//POINTER #209 @ $2408 - STRING #209 @ $D7A8
+
+#W32($2408)
+お守りを懐に忍ばせておけば何かご利益が<END>
+//POINTER #210 @ $2434 - STRING #210 @ $D7D0
+
+#W32($2434)
+ドライバーはこのお守りに願をかけておくと<END>
+//POINTER #211 @ $2460 - STRING #211 @ $D7FA
+
+#W32($2460)
+このお守りを常に持ち歩いていれば<END>
+//POINTER #212 @ $248C - STRING #212 @ $D81C
+
+#W32($248C)
+ドライバーは、このお守りにお祈りすれば<END>
+//POINTER #213 @ $24B8 - STRING #213 @ $D844
+
+#W32($24B8)
+<END>
+//POINTER #214 @ $24E4 - STRING #214 @ $D846
+
+#W32($24E4)
+買い逃しのないようにしたい。<END>
+//POINTER #215 @ $2510 - STRING #215 @ $D864
+
+#W32($2510)
+買い逃しのないようにしたい。<END>
+//POINTER #216 @ $253C - STRING #216 @ $D882
+
+#W32($253C)
+<END>
+//POINTER #217 @ $2568 - STRING #217 @ $D884
+
+#W32($2568)
+職人芸で細部まで再現された車の模型で<END>
+//POINTER #218 @ $2594 - STRING #218 @ $D8AA
+
+#W32($2594)
+人気の自動車モデルを惜しげもなくセット売りした<END>
+//POINTER #219 @ $25C0 - STRING #219 @ $D8DA
+
+#W32($25C0)
+細部のデザインや挙動まで見事に再現された<END>
+//BLOCK #007 NAME:		229.bin File - Encoded Block Text 8
+
+//POINTER #0 @ $20 - STRING #0 @ $D904
+
+#W32($20)
+　　　重量│１５００ｋｇ<END>
+//POINTER #1 @ $4C - STRING #1 @ $D91E
+
+#W32($4C)
+　　　重量│１５４０ｋｇ<END>
+//POINTER #2 @ $78 - STRING #2 @ $D938
+
+#W32($78)
+　　　重量│１５６０ｋｇ<END>
+//POINTER #3 @ $A4 - STRING #3 @ $D952
+
+#W32($A4)
+　　　重量│１２５０ｋｇ<END>
+//POINTER #4 @ $D0 - STRING #4 @ $D96C
+
+#W32($D0)
+　　　重量│１１５０ｋｇ<END>
+//POINTER #5 @ $FC - STRING #5 @ $D986
+
+#W32($FC)
+　　　重量│１５３０ｋｇ<END>
+//POINTER #6 @ $128 - STRING #6 @ $D9A0
+
+#W32($128)
+　　　重量│２０００ｋｇ<END>
+//POINTER #7 @ $154 - STRING #7 @ $D9BA
+
+#W32($154)
+　　　重量│１０８０ｋｇ<END>
+//POINTER #8 @ $180 - STRING #8 @ $D9D4
+
+#W32($180)
+　　　重量│１４１０ｋｇ<END>
+//POINTER #9 @ $1AC - STRING #9 @ $D9EE
+
+#W32($1AC)
+　　　重量│１４００ｋｇ<END>
+//POINTER #10 @ $1D8 - STRING #10 @ $DA08
+
+#W32($1D8)
+　　　重量│１３６０ｋｇ<END>
+//POINTER #11 @ $204 - STRING #11 @ $DA22
+
+#W32($204)
+　　　重量│１３６０ｋｇ<END>
+//POINTER #12 @ $230 - STRING #12 @ $DA3C
+
+#W32($230)
+　　　重量│１１５０ｋｇ<END>
+//POINTER #13 @ $25C - STRING #13 @ $DA56
+
+#W32($25C)
+　　　重量│１２７０ｋｇ<END>
+//POINTER #14 @ $288 - STRING #14 @ $DA70
+
+#W32($288)
+　　　重量│１３９０ｋｇ<END>
+//POINTER #15 @ $2B4 - STRING #15 @ $DA8A
+
+#W32($2B4)
+　　　重量│１２７０ｋｇ<END>
+//POINTER #16 @ $2E0 - STRING #16 @ $DAA4
+
+#W32($2E0)
+　　　重量│１５１０ｋｇ<END>
+//POINTER #17 @ $30C - STRING #17 @ $DABE
+
+#W32($30C)
+　　　重量│１１４０ｋｇ<END>
+//POINTER #18 @ $338 - STRING #18 @ $DAD8
+
+#W32($338)
+　　　重量│１３９０ｋｇ<END>
+//POINTER #19 @ $364 - STRING #19 @ $DAF2
+
+#W32($364)
+　　　重量│９７０ｋｇ<END>
+//POINTER #20 @ $390 - STRING #20 @ $DB0A
+
+#W32($390)
+　　　重量│１４８０ｋｇ<END>
+//POINTER #21 @ $3BC - STRING #21 @ $DB24
+
+#W32($3BC)
+　　　重量│１２７０ｋｇ<END>
+//POINTER #22 @ $3E8 - STRING #22 @ $DB3E
+
+#W32($3E8)
+　　　重量│１１００ｋｇ<END>
+//POINTER #23 @ $414 - STRING #23 @ $DB58
+
+#W32($414)
+　　　重量│１３８０ｋｇ<END>
+//POINTER #24 @ $440 - STRING #24 @ $DB72
+
+#W32($440)
+　　　重量│１５００ｋｇ<END>
+//POINTER #25 @ $46C - STRING #25 @ $DB8C
+
+#W32($46C)
+　　　重量│１０２０ｋｇ<END>
+//POINTER #26 @ $498 - STRING #26 @ $DBA6
+
+#W32($498)
+　　　重量│１４００ｋｇ<END>
+//POINTER #27 @ $4C4 - STRING #27 @ $DBC0
+
+#W32($4C4)
+　　　重量│１４１０ｋｇ<END>
+//POINTER #28 @ $4F0 - STRING #28 @ $DBDA
+
+#W32($4F0)
+　　　重量│１３１０ｋｇ<END>
+//POINTER #29 @ $51C - STRING #29 @ $DBF4
+
+#W32($51C)
+　　　重量│１２７０ｋｇ<END>
+//POINTER #30 @ $548 - STRING #30 @ $DC0E
+
+#W32($548)
+　　　重量│１４５０ｋｇ<END>
+//POINTER #31 @ $574 - STRING #31 @ $DC28
+
+#W32($574)
+　　　重量│１３５０ｋｇ<END>
+//POINTER #32 @ $5A0 - STRING #32 @ $DC42
+
+#W32($5A0)
+　　　重量│１３８０ｋｇ<END>
+//POINTER #33 @ $5CC - STRING #33 @ $DC5C
+
+#W32($5CC)
+　　　重量│８６０ｋｇ<END>
+//POINTER #34 @ $5F8 - STRING #34 @ $DC74
+
+#W32($5F8)
+　　　重量│６８０ｋｇ<END>
+//POINTER #35 @ $624 - STRING #35 @ $DC8C
+
+#W32($624)
+　　　重量│８７０ｋｇ<END>
+//POINTER #36 @ $650 - STRING #36 @ $DCA4
+
+#W32($650)
+　　　重量│７６０ｋｇ<END>
+//POINTER #37 @ $67C - STRING #37 @ $DCBC
+
+#W32($67C)
+　　　重量│１０７０ｋｇ<END>
+//POINTER #38 @ $6A8 - STRING #38 @ $DCD6
+
+#W32($6A8)
+　　　重量│１１９０ｋｇ<END>
+//POINTER #39 @ $6D4 - STRING #39 @ $DCF0
+
+#W32($6D4)
+　　　重量│１１２０ｋｇ<END>
+//POINTER #40 @ $700 - STRING #40 @ $DD0A
+
+#W32($700)
+　　　重量│１０１０ｋｇ<END>
+//POINTER #41 @ $72C - STRING #41 @ $DD24
+
+#W32($72C)
+　　　重量│９７０ｋｇ<END>
+//POINTER #42 @ $758 - STRING #42 @ $DD3C
+
+#W32($758)
+　　　重量│１３３０ｋｇ<END>
+//POINTER #43 @ $784 - STRING #43 @ $DD56
+
+#W32($784)
+　　　重量│１３９０ｋｇ<END>
+//POINTER #44 @ $7B0 - STRING #44 @ $DD70
+
+#W32($7B0)
+　　　重量│１４７０ｋｇ<END>
+//POINTER #45 @ $7DC - STRING #45 @ $DD8A
+
+#W32($7DC)
+　　　重量│１６４０ｋｇ<END>
+//POINTER #46 @ $808 - STRING #46 @ $DDA4
+
+#W32($808)
+　　　重量│１２３０ｋｇ<END>
+//POINTER #47 @ $834 - STRING #47 @ $DDBE
+
+#W32($834)
+　　　重量│１２７０ｋｇ<END>
+//POINTER #48 @ $860 - STRING #48 @ $DDD8
+
+#W32($860)
+　　　重量│１２７０ｋｇ<END>
+//POINTER #49 @ $88C - STRING #49 @ $DDF2
+
+#W32($88C)
+　　　重量│８７０ｋｇ<END>
+//POINTER #50 @ $8B8 - STRING #50 @ $DE0A
+
+#W32($8B8)
+　　　重量│――ｋｇ<END>
+//POINTER #51 @ $8E4 - STRING #51 @ $DE20
+
+#W32($8E4)
+　　　重量│――ｋｇ<END>
+//POINTER #52 @ $910 - STRING #52 @ $DE36
+
+#W32($910)
+　　　重量│――ｋｇ<END>
+//POINTER #53 @ $93C - STRING #53 @ $DE4C
+
+#W32($93C)
+　　　重量│――ｋｇ<END>
+//POINTER #54 @ $968 - STRING #54 @ $DE62
+
+#W32($968)
+　　　重量│――ｋｇ<END>
+//POINTER #55 @ $994 - STRING #55 @ $DE78
+
+#W32($994)
+　　　重量│――ｋｇ<END>
+//POINTER #56 @ $9C0 - STRING #56 @ $DE8E
+
+#W32($9C0)
+　　　重量│――ｋｇ<END>
+//POINTER #57 @ $9EC - STRING #57 @ $DEA4
+
+#W32($9EC)
+　　　重量│――ｋｇ<END>
+//POINTER #58 @ $A18 - STRING #58 @ $DEBA
+
+#W32($A18)
+　　　重量│――ｋｇ<END>
+//POINTER #59 @ $A44 - STRING #59 @ $DED0
+
+#W32($A44)
+　　　重量│――ｋｇ<END>
+//POINTER #60 @ $A70 - STRING #60 @ $DEE6
+
+#W32($A70)
+　　　重量│――ｋｇ<END>
+//POINTER #61 @ $A9C - STRING #61 @ $DEFC
+
+#W32($A9C)
+　　　重量│――ｋｇ<END>
+//POINTER #62 @ $AC8 - STRING #62 @ $DF12
+
+#W32($AC8)
+　　　重量│――ｋｇ<END>
+//POINTER #63 @ $AF4 - STRING #63 @ $DF28
+
+#W32($AF4)
+　　　重量│――ｋｇ<END>
+//POINTER #64 @ $B20 - STRING #64 @ $DF3E
+
+#W32($B20)
+　　　重量│――ｋｇ<END>
+//POINTER #65 @ $B4C - STRING #65 @ $DF54
+
+#W32($B4C)
+　　　重量│――ｋｇ<END>
+//POINTER #66 @ $B78 - STRING #66 @ $DF6A
+
+#W32($B78)
+　　　重量│――ｋｇ<END>
+//POINTER #67 @ $BA4 - STRING #67 @ $DF80
+
+#W32($BA4)
+　　　重量│――ｋｇ<END>
+//POINTER #68 @ $BD0 - STRING #68 @ $DF96
+
+#W32($BD0)
+　　　重量│――ｋｇ<END>
+//POINTER #69 @ $BFC - STRING #69 @ $DFAC
+
+#W32($BFC)
+　　　重量│――ｋｇ<END>
+//POINTER #70 @ $C28 - STRING #70 @ $DFC2
+
+#W32($C28)
+　　　重量│――ｋｇ<END>
+//POINTER #71 @ $C54 - STRING #71 @ $DFD8
+
+#W32($C54)
+　　　重量│――ｋｇ<END>
+//POINTER #72 @ $C80 - STRING #72 @ $DFEE
+
+#W32($C80)
+　　　重量│――ｋｇ<END>
+//POINTER #73 @ $CAC - STRING #73 @ $E004
+
+#W32($CAC)
+　　　重量│――ｋｇ<END>
+//POINTER #74 @ $CD8 - STRING #74 @ $E01A
+
+#W32($CD8)
+　　　重量│――ｋｇ<END>
+//POINTER #75 @ $D04 - STRING #75 @ $E030
+
+#W32($D04)
+　　　重量│１０５０ｋｇ<END>
+//POINTER #76 @ $D30 - STRING #76 @ $E04A
+
+#W32($D30)
+　　　重量│１１８５ｋｇ<END>
+//POINTER #77 @ $D5C - STRING #77 @ $E064
+
+#W32($D5C)
+　　　重量│１１９０ｋｇ<END>
+//POINTER #78 @ $D88 - STRING #78 @ $E07E
+
+#W32($D88)
+　　　重量│１４００ｋｇ<END>
+//POINTER #79 @ $DB4 - STRING #79 @ $E098
+
+#W32($DB4)
+　　　重量│８６０ｋｇ<END>
+//POINTER #80 @ $DE0 - STRING #80 @ $E0B0
+
+#W32($DE0)
+　　　重量│１２００ｋｇ<END>
+//POINTER #81 @ $E0C - STRING #81 @ $E0CA
+
+#W32($E0C)
+　　　重量│９３５ｋｇ<END>
+//POINTER #82 @ $E38 - STRING #82 @ $E0E2
+
+#W32($E38)
+　　　重量│１４８０ｋｇ<END>
+//POINTER #83 @ $E64 - STRING #83 @ $E0FC
+
+#W32($E64)
+　　　重量│１０７０ｋｇ<END>
+//POINTER #84 @ $E90 - STRING #84 @ $E116
+
+#W32($E90)
+　　　重量│７００ｋｇ<END>
+//POINTER #85 @ $EBC - STRING #85 @ $E12E
+
+#W32($EBC)
+　　　重量│１１６０ｋｇ<END>
+//POINTER #86 @ $EE8 - STRING #86 @ $E148
+
+#W32($EE8)
+　　　重量│１０４５ｋｇ<END>
+//POINTER #87 @ $F14 - STRING #87 @ $E162
+
+#W32($F14)
+　　　重量│１０２５ｋｇ<END>
+//POINTER #88 @ $F40 - STRING #88 @ $E17C
+
+#W32($F40)
+　　　重量│１２４０ｋｇ<END>
+//POINTER #89 @ $F6C - STRING #89 @ $E196
+
+#W32($F6C)
+　　　重量│１２３０ｋｇ<END>
+//POINTER #90 @ $F98 - STRING #90 @ $E1B0
+
+#W32($F98)
+　　　重量│１２７０ｋｇ<END>
+//POINTER #91 @ $FC4 - STRING #91 @ $E1CA
+
+#W32($FC4)
+　　　重量│１２２０ｋｇ<END>
+//POINTER #92 @ $FF0 - STRING #92 @ $E1E4
+
+#W32($FF0)
+　　　重量│１７３０ｋｇ<END>
+//POINTER #93 @ $101C - STRING #93 @ $E1FE
+
+#W32($101C)
+　　　重量│１５００ｋｇ<END>
+//POINTER #94 @ $1048 - STRING #94 @ $E218
+
+#W32($1048)
+　　　重量│１３１０ｋｇ<END>
+//POINTER #95 @ $1074 - STRING #95 @ $E232
+
+#W32($1074)
+　　　重量│１３１０ｋｇ<END>
+//POINTER #96 @ $10A0 - STRING #96 @ $E24C
+
+#W32($10A0)
+エンジンはサイドポート加工を行い、パワーアップを<END>
+//POINTER #97 @ $10CC - STRING #97 @ $E27E
+
+#W32($10CC)
+交換、ロータリーエンジンはブリッジポート加工を<END>
+//POINTER #98 @ $10F8 - STRING #98 @ $E2AE
+
+#W32($10F8)
+キット装着、ロータリーエンジンはペリフェラル<END>
+//POINTER #99 @ $1124 - STRING #99 @ $E2DC
+
+#W32($1124)
+エンジン加工、バランス取り、ロータリーエンジン<END>
+//POINTER #100 @ $1150 - STRING #100 @ $E30C
+
+#W32($1150)
+が少ない。エキマニも排気効率の高いものに交換し、<END>
+//POINTER #101 @ $117C - STRING #101 @ $E33E
+
+#W32($117C)
+変更しパワーと共に軽量化にも大きく貢献している。<END>
+//POINTER #102 @ $11A8 - STRING #102 @ $E370
+
+#W32($11A8)
+ぜひ手に入れておきたいところだ。 <END>
+//POINTER #103 @ $11D4 - STRING #103 @ $E394
+
+#W32($11D4)
+現在の性能に満足していないドライバーは<END>
+//POINTER #104 @ $1200 - STRING #104 @ $E3BC
+
+#W32($1200)
+まだ、コンピュータをチューニングしていない<END>
+//POINTER #105 @ $122C - STRING #105 @ $E3E8
+
+#W32($122C)
+コンピュータの最終形とも言えるこのチューン、<END>
+//POINTER #106 @ $1258 - STRING #106 @ $E416
+
+#W32($1258)
+を安定させ、エンジンを最高の状態に保ってくれる。<END>
+//POINTER #107 @ $1284 - STRING #107 @ $E448
+
+#W32($1284)
+やや重いのが難点だが、冷却の最終形とも言える<END>
+//POINTER #108 @ $12B0 - STRING #108 @ $E476
+
+#W32($12B0)
+遂に解禁されたエンジン換装が、今後のバトルシーン<END>
+//POINTER #109 @ $12DC - STRING #109 @ $E4A8
+
+#W32($12DC)
+問わず使用できる汎用性が魅力だ。<END>
+//POINTER #110 @ $1308 - STRING #110 @ $E4CA
+
+#W32($1308)
+されるサスキットで、ストリートなどの路面の<END>
+//POINTER #111 @ $1334 - STRING #111 @ $E4F6
+
+#W32($1334)
+走りこんでいるドライバーは、購入を検討してみては<END>
+//POINTER #112 @ $1360 - STRING #112 @ $E528
+
+#W32($1360)
+トランスミッションの最終形とも言える<END>
+//POINTER #113 @ $138C - STRING #113 @ $E54E
+
+#W32($138C)
+ペダルワークが可能となっている。<END>
+//POINTER #114 @ $13B8 - STRING #114 @ $E570
+
+#W32($13B8)
+耐磨耗性、耐熱性に優れている。<END>
+//POINTER #115 @ $13E4 - STRING #115 @ $E590
+
+#W32($13E4)
+温度を持つパッドへの交換や、ローター表面に穴空き<END>
+//POINTER #116 @ $1410 - STRING #116 @ $E5C2
+
+#W32($1410)
+を実現している。費用は高価だが、絶対的な制動力を<END>
+//POINTER #117 @ $143C - STRING #117 @ $E5F4
+
+#W32($143C)
+ピラーバーを装着している。<END>
+//POINTER #118 @ $1468 - STRING #118 @ $E610
+
+#W32($1468)
+効果の割に、費用もお手軽で、軽量なので、<END>
+//POINTER #119 @ $1494 - STRING #119 @ $E63A
+
+#W32($1494)
+特徴だ。<END>
+//POINTER #120 @ $14C0 - STRING #120 @ $E644
+
+#W32($14C0)
+ている。<END>
+//POINTER #121 @ $14EC - STRING #121 @ $E64E
+
+#W32($14EC)
+加速、旋回性の向上が見込めるので、コーナーの多い<END>
+//POINTER #122 @ $1518 - STRING #122 @ $E680
+
+#W32($1518)
+さらなる加速、旋回性の向上が見込めるので、<END>
+//POINTER #123 @ $1544 - STRING #123 @ $E6AC
+
+#W32($1544)
+電装系装備は比較的重量があり、大きな軽量化が<END>
+//POINTER #124 @ $1570 - STRING #124 @ $E6DA
+
+#W32($1570)
+軽量化の最終形とも言えるこのチューニング、<END>
+//POINTER #125 @ $159C - STRING #125 @ $E706
+
+#W32($159C)
+サーキットを走るためには必要不可欠なアイテム<END>
+//POINTER #126 @ $15C8 - STRING #126 @ $E734
+
+#W32($15C8)
+ファンには必見のアイテムなので、<END>
+//POINTER #127 @ $15F4 - STRING #127 @ $E756
+
+#W32($15F4)
+万が一の事故の際の耐熱スーツにもなるので、<END>
+//POINTER #128 @ $1620 - STRING #128 @ $E782
+
+#W32($1620)
+施されたレーサーモデルスーツ。<END>
+//POINTER #129 @ $164C - STRING #129 @ $E7A2
+
+#W32($164C)
+防止してくれる。<END>
+//POINTER #130 @ $1678 - STRING #130 @ $E7B4
+
+#W32($1678)
+上位ランクに上がったドライバーは、<END>
+//POINTER #131 @ $16A4 - STRING #131 @ $E7D8
+
+#W32($16A4)
+施されたレーサーモデルグローブ。<END>
+//POINTER #132 @ $16D0 - STRING #132 @ $E7FA
+
+#W32($16D0)
+入門者にも優しいお手軽なシューズになっている。<END>
+//POINTER #133 @ $16FC - STRING #133 @ $E82A
+
+#W32($16FC)
+上位ランクに上がったドライバーは、<END>
+//POINTER #134 @ $1728 - STRING #134 @ $E84E
+
+#W32($1728)
+ファンには必見のアイテムなので<END>
+//POINTER #135 @ $1754 - STRING #135 @ $E86E
+
+#W32($1754)
+一般の両走行で使用することが可能となっている。<END>
+//POINTER #136 @ $1780 - STRING #136 @ $E89E
+
+#W32($1780)
+<END>
+//POINTER #137 @ $17AC - STRING #137 @ $E8A0
+
+#W32($17AC)
+フルバケットシートをカーボン製にすることで<END>
+//POINTER #138 @ $17D8 - STRING #138 @ $E8CC
+
+#W32($17D8)
+大規模なクラッシュにも耐え得る強度を保っている。<END>
+//POINTER #139 @ $1804 - STRING #139 @ $E8FE
+
+#W32($1804)
+ワンタッチボタンで、従来品よりもお手軽な<END>
+//POINTER #140 @ $1830 - STRING #140 @ $E928
+
+#W32($1830)
+標準的な性能で寿命もそこそこなので、<END>
+//POINTER #141 @ $185C - STRING #141 @ $E94E
+
+#W32($185C)
+優れたものとなっているので注目しておきたい。<END>
+//POINTER #142 @ $1888 - STRING #142 @ $E97C
+
+#W32($1888)
+<END>
+//POINTER #143 @ $18B4 - STRING #143 @ $E97E
+
+#W32($18B4)
+従来の点火システムの性能を向上させ、<END>
+//POINTER #144 @ $18E0 - STRING #144 @ $E9A4
+
+#W32($18E0)
+<END>
+//POINTER #145 @ $190C - STRING #145 @ $E9A6
+
+#W32($190C)
+点火システムに高圧電流を加えることで<END>
+//POINTER #146 @ $1938 - STRING #146 @ $E9CC
+
+#W32($1938)
+点火システムの性能を飛躍的に向上させてくれる。<END>
+//POINTER #147 @ $1964 - STRING #147 @ $E9FC
+
+#W32($1964)
+お好みで選ぶのもいいだろう。<END>
+//POINTER #148 @ $1990 - STRING #148 @ $EA1A
+
+#W32($1990)
+コントロール性が向上したものとなっている。<END>
+//POINTER #149 @ $19BC - STRING #149 @ $EA46
+
+#W32($19BC)
+激しい走行にも耐えるフェード性を実現している。<END>
+//POINTER #150 @ $19E8 - STRING #150 @ $EA76
+
+#W32($19E8)
+激しい走行にも耐えるフェード性を実現している。<END>
+//POINTER #151 @ $1A14 - STRING #151 @ $EAA6
+
+#W32($1A14)
+書き込めるようになっている。<END>
+//POINTER #152 @ $1A40 - STRING #152 @ $EAC4
+
+#W32($1A40)
+公式レースに持ち込んでも恥ずかしくない<END>
+//POINTER #153 @ $1A6C - STRING #153 @ $EAEC
+
+#W32($1A6C)
+大小さまざまな傷にも対応し、速乾性、高硬度の<END>
+//POINTER #154 @ $1A98 - STRING #154 @ $EB1A
+
+#W32($1A98)
+応急的なものでなく、本格的な補修が可能なので<END>
+//POINTER #155 @ $1AC4 - STRING #155 @ $EB48
+
+#W32($1AC4)
+必要最低限の工具を揃えた簡易工具セットで<END>
+//POINTER #156 @ $1AF0 - STRING #156 @ $EB72
+
+#W32($1AF0)
+一通りの工具を揃えたスタンダードな工具セットに<END>
+//POINTER #157 @ $1B1C - STRING #157 @ $EBA2
+
+#W32($1B1C)
+多種類の工具を揃え、あらゆる局面に対応可能に<END>
+//POINTER #158 @ $1B48 - STRING #158 @ $EBD0
+
+#W32($1B48)
+小型ジャッキ。<END>
+//POINTER #159 @ $1B74 - STRING #159 @ $EBE0
+
+#W32($1B74)
+十分な強度を発揮してくれる。<END>
+//POINTER #160 @ $1BA0 - STRING #160 @ $EBFE
+
+#W32($1BA0)
+可能となっている。<END>
+//POINTER #161 @ $1BCC - STRING #161 @ $EC12
+
+#W32($1BCC)
+小型だがそれなりの強度を発揮してくれる。<END>
+//POINTER #162 @ $1BF8 - STRING #162 @ $EC3C
+
+#W32($1BF8)
+大型で頑丈になり高い強度を発揮してくれる。<END>
+//POINTER #163 @ $1C24 - STRING #163 @ $EC68
+
+#W32($1C24)
+ジャッキアップを補助するスロープが<END>
+//POINTER #164 @ $1C50 - STRING #164 @ $EC8C
+
+#W32($1C50)
+先細の噴射口は狭い部分にも使用可能となっている。<END>
+//POINTER #165 @ $1C7C - STRING #165 @ $ECBE
+
+#W32($1C7C)
+改良している。<END>
+//POINTER #166 @ $1CA8 - STRING #166 @ $ECCE
+
+#W32($1CA8)
+うれしい。<END>
+//POINTER #167 @ $1CD4 - STRING #167 @ $ECDA
+
+#W32($1CD4)
+性能、寿命ともに標準的でクセがない。<END>
+//POINTER #168 @ $1D00 - STRING #168 @ $ED00
+
+#W32($1D00)
+従来品の性能と寿命を向上させた改良版と<END>
+//POINTER #169 @ $1D2C - STRING #169 @ $ED28
+
+#W32($1D2C)
+完全密閉型のバッテリーで、従来品よりも<END>
+//POINTER #170 @ $1D58 - STRING #170 @ $ED50
+
+#W32($1D58)
+一般的に広く使用されている。<END>
+//POINTER #171 @ $1D84 - STRING #171 @ $ED6E
+
+#W32($1D84)
+性能とコストのバランスが優れたものになっている。<END>
+//POINTER #172 @ $1DB0 - STRING #172 @ $EDA0
+
+#W32($1DB0)
+コストは高いが、申し分ない性能を発揮してくれる。<END>
+//POINTER #173 @ $1DDC - STRING #173 @ $EDD2
+
+#W32($1DDC)
+飛躍的に高め、快適な走行を長く持続してくれる。<END>
+//POINTER #174 @ $1E08 - STRING #174 @ $EE02
+
+#W32($1E08)
+ボディアースからバッテリーに直接接続して<END>
+//POINTER #175 @ $1E34 - STRING #175 @ $EE2C
+
+#W32($1E34)
+本格的なアーシングを目指すドライバー向けの<END>
+//POINTER #176 @ $1E60 - STRING #176 @ $EE58
+
+#W32($1E60)
+ドライバーは試してみてはどうだろうか。<END>
+//POINTER #177 @ $1E8C - STRING #177 @ $EE80
+
+#W32($1E8C)
+試してみてはどうだろうか。<END>
+//POINTER #178 @ $1EB8 - STRING #178 @ $EE9C
+
+#W32($1EB8)
+試してみてはどうだろうか。<END>
+//POINTER #179 @ $1EE4 - STRING #179 @ $EEB8
+
+#W32($1EE4)
+試してみてはどうだろうか。<END>
+//POINTER #180 @ $1F10 - STRING #180 @ $EED4
+
+#W32($1F10)
+とのふれこみなので、興味のあるドライバーは<END>
+//POINTER #181 @ $1F3C - STRING #181 @ $EF00
+
+#W32($1F3C)
+<END>
+//POINTER #182 @ $1F68 - STRING #182 @ $EF02
+
+#W32($1F68)
+<END>
+//POINTER #183 @ $1F94 - STRING #183 @ $EF04
+
+#W32($1F94)
+目には留めておきたい。<END>
+//POINTER #184 @ $1FC0 - STRING #184 @ $EF1C
+
+#W32($1FC0)
+<END>
+//POINTER #185 @ $1FEC - STRING #185 @ $EF1E
+
+#W32($1FEC)
+<END>
+//POINTER #186 @ $2018 - STRING #186 @ $EF20
+
+#W32($2018)
+高い水ハジキ効果を生み出す効果がある。<END>
+//POINTER #187 @ $2044 - STRING #187 @ $EF48
+
+#W32($2044)
+美しいツヤを保ち続けてくれる。<END>
+//POINTER #188 @ $2070 - STRING #188 @ $EF68
+
+#W32($2070)
+コンパクト仕様で持ち運びも簡単なのもうれしい。<END>
+//POINTER #189 @ $209C - STRING #189 @ $EF98
+
+#W32($209C)
+ホコリや油膜の付着を防止してくれる。<END>
+//POINTER #190 @ $20C8 - STRING #190 @ $EFBE
+
+#W32($20C8)
+<END>
+//POINTER #191 @ $20F4 - STRING #191 @ $EFC0
+
+#W32($20F4)
+発揮してくれる。<END>
+//POINTER #192 @ $2120 - STRING #192 @ $EFD2
+
+#W32($2120)
+<END>
+//POINTER #193 @ $214C - STRING #193 @ $EFD4
+
+#W32($214C)
+ドライバーの腰を包み込んでくれる。<END>
+//POINTER #194 @ $2178 - STRING #194 @ $EFF8
+
+#W32($2178)
+どれをとっても申し分ない。<END>
+//POINTER #195 @ $21A4 - STRING #195 @ $F014
+
+#W32($21A4)
+車内にセットしておけばマイナスイオンを放出し、<END>
+//POINTER #196 @ $21D0 - STRING #196 @ $F044
+
+#W32($21D0)
+空気中のホコリやタバコの臭いを完全除去して、<END>
+//POINTER #197 @ $21FC - STRING #197 @ $F072
+
+#W32($21FC)
+ホコリの進入を完全にシャットアウトしてくれる。<END>
+//POINTER #198 @ $2228 - STRING #198 @ $F0A2
+
+#W32($2228)
+サイドブレーキの操作性を著しく向上してくれる。<END>
+//POINTER #199 @ $2254 - STRING #199 @ $F0D2
+
+#W32($2254)
+しっかりとホールドして、横揺れによる水のこぼれを<END>
+//POINTER #200 @ $2280 - STRING #200 @ $F104
+
+#W32($2280)
+<END>
+//POINTER #201 @ $22AC - STRING #201 @ $F106
+
+#W32($22AC)
+<END>
+//POINTER #202 @ $22D8 - STRING #202 @ $F108
+
+#W32($22D8)
+<END>
+//POINTER #203 @ $2304 - STRING #203 @ $F10A
+
+#W32($2304)
+心地よい香りで気分をリラックスさせてくれる。<END>
+//POINTER #204 @ $2330 - STRING #204 @ $F138
+
+#W32($2330)
+<END>
+//POINTER #205 @ $235C - STRING #205 @ $F13A
+
+#W32($235C)
+<END>
+//POINTER #206 @ $2388 - STRING #206 @ $F13C
+
+#W32($2388)
+<END>
+//POINTER #207 @ $23B4 - STRING #207 @ $F13E
+
+#W32($23B4)
+<END>
+//POINTER #208 @ $23E0 - STRING #208 @ $F140
+
+#W32($23E0)
+<END>
+//POINTER #209 @ $240C - STRING #209 @ $F142
+
+#W32($240C)
+あるかもしれない。<END>
+//POINTER #210 @ $2438 - STRING #210 @ $F156
+
+#W32($2438)
+何かご利益があるかもしれない。<END>
+//POINTER #211 @ $2464 - STRING #211 @ $F176
+
+#W32($2464)
+何かご利益があるかもしれない。<END>
+//POINTER #212 @ $2490 - STRING #212 @ $F196
+
+#W32($2490)
+何かご利益があるかもしれない。<END>
+//POINTER #213 @ $24BC - STRING #213 @ $F1B6
+
+#W32($24BC)
+<END>
+//POINTER #214 @ $24E8 - STRING #214 @ $F1B8
+
+#W32($24E8)
+<END>
+//POINTER #215 @ $2514 - STRING #215 @ $F1BA
+
+#W32($2514)
+<END>
+//POINTER #216 @ $2540 - STRING #216 @ $F1BC
+
+#W32($2540)
+<END>
+//POINTER #217 @ $256C - STRING #217 @ $F1BE
+
+#W32($256C)
+ガレージのレイアウトのワンポイントとしても<END>
+//POINTER #218 @ $2598 - STRING #218 @ $F1EA
+
+#W32($2598)
+太っ腹な一品だ。<END>
+//POINTER #219 @ $25C4 - STRING #219 @ $F1FC
+
+#W32($25C4)
+車の設計士も注目の仕上がりの商品だ。<END>
+//BLOCK #008 NAME:		229.bin File - Encoded Block Text 9
+
+//POINTER #0 @ $24 - STRING #0 @ $F222
+
+#W32($24)
+　駆動方式│４ＷＤ<END>
+//POINTER #1 @ $50 - STRING #1 @ $F236
+
+#W32($50)
+　駆動方式│４ＷＤ<END>
+//POINTER #2 @ $7C - STRING #2 @ $F24A
+
+#W32($7C)
+　駆動方式│４ＷＤ<END>
+//POINTER #3 @ $A8 - STRING #3 @ $F25E
+
+#W32($A8)
+　駆動方式│ＦＲ<END>
+//POINTER #4 @ $D4 - STRING #4 @ $F270
+
+#W32($D4)
+　駆動方式│ＦＲ<END>
+//POINTER #5 @ $100 - STRING #5 @ $F282
+
+#W32($100)
+　駆動方式│ＦＲ<END>
+//POINTER #6 @ $12C - STRING #6 @ $F294
+
+#W32($12C)
+　駆動方式│ＦＲ<END>
+//POINTER #7 @ $158 - STRING #7 @ $F2A6
+
+#W32($158)
+　駆動方式│ＦＦ<END>
+//POINTER #8 @ $184 - STRING #8 @ $F2B8
+
+#W32($184)
+　駆動方式│４ＷＤ<END>
+//POINTER #9 @ $1B0 - STRING #9 @ $F2CC
+
+#W32($1B0)
+　駆動方式│４ＷＤ<END>
+//POINTER #10 @ $1DC - STRING #10 @ $F2E0
+
+#W32($1DC)
+　駆動方式│４ＷＤ<END>
+//POINTER #11 @ $208 - STRING #11 @ $F2F4
+
+#W32($208)
+　駆動方式│４ＷＤ<END>
+//POINTER #12 @ $234 - STRING #12 @ $F308
+
+#W32($234)
+　駆動方式│ＦＦ<END>
+//POINTER #13 @ $260 - STRING #13 @ $F31A
+
+#W32($260)
+　駆動方式│ＦＲ<END>
+//POINTER #14 @ $28C - STRING #14 @ $F32C
+
+#W32($28C)
+　駆動方式│ＦＦ<END>
+//POINTER #15 @ $2B8 - STRING #15 @ $F33E
+
+#W32($2B8)
+　駆動方式│ＦＦ<END>
+//POINTER #16 @ $2E4 - STRING #16 @ $F350
+
+#W32($2E4)
+　駆動方式│ＦＲ<END>
+//POINTER #17 @ $310 - STRING #17 @ $F362
+
+#W32($310)
+　駆動方式│ＦＦ<END>
+//POINTER #18 @ $33C - STRING #18 @ $F374
+
+#W32($33C)
+　駆動方式│４ＷＤ<END>
+//POINTER #19 @ $368 - STRING #19 @ $F388
+
+#W32($368)
+　駆動方式│ＭＲ<END>
+//POINTER #20 @ $394 - STRING #20 @ $F39A
+
+#W32($394)
+　駆動方式│ＦＲ<END>
+//POINTER #21 @ $3C0 - STRING #21 @ $F3AC
+
+#W32($3C0)
+　駆動方式│ＭＲ<END>
+//POINTER #22 @ $3EC - STRING #22 @ $F3BE
+
+#W32($3EC)
+　駆動方式│ＭＲ<END>
+//POINTER #23 @ $418 - STRING #23 @ $F3D0
+
+#W32($418)
+　駆動方式│ＦＲ<END>
+//POINTER #24 @ $444 - STRING #24 @ $F3E2
+
+#W32($444)
+　駆動方式│ＦＦ<END>
+//POINTER #25 @ $470 - STRING #25 @ $F3F4
+
+#W32($470)
+　駆動方式│ＦＦ<END>
+//POINTER #26 @ $49C - STRING #26 @ $F406
+
+#W32($49C)
+　駆動方式│ＦＦ<END>
+//POINTER #27 @ $4C8 - STRING #27 @ $F418
+
+#W32($4C8)
+　駆動方式│４ＷＤ<END>
+//POINTER #28 @ $4F4 - STRING #28 @ $F42C
+
+#W32($4F4)
+　駆動方式│４ＷＤ<END>
+//POINTER #29 @ $520 - STRING #29 @ $F440
+
+#W32($520)
+　駆動方式│４ＷＤ<END>
+//POINTER #30 @ $54C - STRING #30 @ $F454
+
+#W32($54C)
+　駆動方式│４ＷＤ<END>
+//POINTER #31 @ $578 - STRING #31 @ $F468
+
+#W32($578)
+　駆動方式│４ＷＤ<END>
+//POINTER #32 @ $5A4 - STRING #32 @ $F47C
+
+#W32($5A4)
+　駆動方式│４ＷＤ<END>
+//POINTER #33 @ $5D0 - STRING #33 @ $F490
+
+#W32($5D0)
+　駆動方式│ＦＦ<END>
+//POINTER #34 @ $5FC - STRING #34 @ $F4A2
+
+#W32($5FC)
+　駆動方式│４ＷＤ<END>
+//POINTER #35 @ $628 - STRING #35 @ $F4B6
+
+#W32($628)
+　駆動方式│ＦＦ<END>
+//POINTER #36 @ $654 - STRING #36 @ $F4C8
+
+#W32($654)
+　駆動方式│ＭＲ<END>
+//POINTER #37 @ $680 - STRING #37 @ $F4DA
+
+#W32($680)
+　駆動方式│ＦＦ<END>
+//POINTER #38 @ $6AC - STRING #38 @ $F4EC
+
+#W32($6AC)
+　駆動方式│ＦＦ<END>
+//POINTER #39 @ $6D8 - STRING #39 @ $F4FE
+
+#W32($6D8)
+　駆動方式│ＦＦ<END>
+//POINTER #40 @ $704 - STRING #40 @ $F510
+
+#W32($704)
+　駆動方式│ＦＦ<END>
+//POINTER #41 @ $730 - STRING #41 @ $F522
+
+#W32($730)
+　駆動方式│ＦＦ<END>
+//POINTER #42 @ $75C - STRING #42 @ $F534
+
+#W32($75C)
+　駆動方式│ＦＦ<END>
+//POINTER #43 @ $788 - STRING #43 @ $F546
+
+#W32($788)
+　駆動方式│ＦＦ<END>
+//POINTER #44 @ $7B4 - STRING #44 @ $F558
+
+#W32($7B4)
+　駆動方式│ＦＦ<END>
+//POINTER #45 @ $7E0 - STRING #45 @ $F56A
+
+#W32($7E0)
+　駆動方式│ＦＦ<END>
+//POINTER #46 @ $80C - STRING #46 @ $F57C
+
+#W32($80C)
+　駆動方式│ＭＲ<END>
+//POINTER #47 @ $838 - STRING #47 @ $F58E
+
+#W32($838)
+　駆動方式│ＭＲ<END>
+//POINTER #48 @ $864 - STRING #48 @ $F5A0
+
+#W32($864)
+　駆動方式│ＭＲ<END>
+//POINTER #49 @ $890 - STRING #49 @ $F5B2
+
+#W32($890)
+　駆動方式│ＦＦ<END>
+//POINTER #50 @ $8BC - STRING #50 @ $F5C4
+
+#W32($8BC)
+　駆動方式│４ＷＤ<END>
+//POINTER #51 @ $8E8 - STRING #51 @ $F5D8
+
+#W32($8E8)
+　駆動方式│４ＷＤ<END>
+//POINTER #52 @ $914 - STRING #52 @ $F5EC
+
+#W32($914)
+　駆動方式│４ＷＤ<END>
+//POINTER #53 @ $940 - STRING #53 @ $F600
+
+#W32($940)
+　駆動方式│４ＷＤ<END>
+//POINTER #54 @ $96C - STRING #54 @ $F614
+
+#W32($96C)
+　駆動方式│４ＷＤ<END>
+//POINTER #55 @ $998 - STRING #55 @ $F628
+
+#W32($998)
+　駆動方式│ＦＲ<END>
+//POINTER #56 @ $9C4 - STRING #56 @ $F63A
+
+#W32($9C4)
+　駆動方式│ＦＲ<END>
+//POINTER #57 @ $9F0 - STRING #57 @ $F64C
+
+#W32($9F0)
+　駆動方式│４ＷＤ<END>
+//POINTER #58 @ $A1C - STRING #58 @ $F660
+
+#W32($A1C)
+　駆動方式│ＦＲ<END>
+//POINTER #59 @ $A48 - STRING #59 @ $F672
+
+#W32($A48)
+　駆動方式│ＦＲ<END>
+//POINTER #60 @ $A74 - STRING #60 @ $F684
+
+#W32($A74)
+　駆動方式│ＦＲ<END>
+//POINTER #61 @ $AA0 - STRING #61 @ $F696
+
+#W32($AA0)
+　駆動方式│４ＷＤ<END>
+//POINTER #62 @ $ACC - STRING #62 @ $F6AA
+
+#W32($ACC)
+　駆動方式│ＦＲ<END>
+//POINTER #63 @ $AF8 - STRING #63 @ $F6BC
+
+#W32($AF8)
+　駆動方式│ＦＲ<END>
+//POINTER #64 @ $B24 - STRING #64 @ $F6CE
+
+#W32($B24)
+　駆動方式│ＦＲ<END>
+//POINTER #65 @ $B50 - STRING #65 @ $F6E0
+
+#W32($B50)
+　駆動方式│ＦＲ<END>
+//POINTER #66 @ $B7C - STRING #66 @ $F6F2
+
+#W32($B7C)
+　駆動方式│ＦＲ<END>
+//POINTER #67 @ $BA8 - STRING #67 @ $F704
+
+#W32($BA8)
+　駆動方式│ＦＲ<END>
+//POINTER #68 @ $BD4 - STRING #68 @ $F716
+
+#W32($BD4)
+　駆動方式│ＦＲ<END>
+//POINTER #69 @ $C00 - STRING #69 @ $F728
+
+#W32($C00)
+　駆動方式│ＦＲ<END>
+//POINTER #70 @ $C2C - STRING #70 @ $F73A
+
+#W32($C2C)
+　駆動方式│ＦＲ<END>
+//POINTER #71 @ $C58 - STRING #71 @ $F74C
+
+#W32($C58)
+　駆動方式│ＦＲ<END>
+//POINTER #72 @ $C84 - STRING #72 @ $F75E
+
+#W32($C84)
+　駆動方式│ＭＲ<END>
+//POINTER #73 @ $CB0 - STRING #73 @ $F770
+
+#W32($CB0)
+　駆動方式│ＭＲ<END>
+//POINTER #74 @ $CDC - STRING #74 @ $F782
+
+#W32($CDC)
+　駆動方式│ＭＲ<END>
+//POINTER #75 @ $D08 - STRING #75 @ $F794
+
+#W32($D08)
+　駆動方式│ＦＲ<END>
+//POINTER #76 @ $D34 - STRING #76 @ $F7A6
+
+#W32($D34)
+　駆動方式│４ＷＤ<END>
+//POINTER #77 @ $D60 - STRING #77 @ $F7BA
+
+#W32($D60)
+　駆動方式│ＦＲ<END>
+//POINTER #78 @ $D8C - STRING #78 @ $F7CC
+
+#W32($D8C)
+　駆動方式│ＦＲ<END>
+//POINTER #79 @ $DB8 - STRING #79 @ $F7DE
+
+#W32($DB8)
+　駆動方式│ＦＲ<END>
+//POINTER #80 @ $DE4 - STRING #80 @ $F7F0
+
+#W32($DE4)
+　駆動方式│ＦＲ<END>
+//POINTER #81 @ $E10 - STRING #81 @ $F802
+
+#W32($E10)
+　駆動方式│ＦＲ<END>
+//POINTER #82 @ $E3C - STRING #82 @ $F814
+
+#W32($E3C)
+　駆動方式│ＦＦ<END>
+//POINTER #83 @ $E68 - STRING #83 @ $F826
+
+#W32($E68)
+　駆動方式│ＦＲ<END>
+//POINTER #84 @ $E94 - STRING #84 @ $F838
+
+#W32($E94)
+　駆動方式│ＦＲ<END>
+//POINTER #85 @ $EC0 - STRING #85 @ $F84A
+
+#W32($EC0)
+　駆動方式│４ＷＤ<END>
+//POINTER #86 @ $EEC - STRING #86 @ $F85E
+
+#W32($EEC)
+　駆動方式│４ＷＤ<END>
+//POINTER #87 @ $F18 - STRING #87 @ $F872
+
+#W32($F18)
+　駆動方式│ＦＦ<END>
+//POINTER #88 @ $F44 - STRING #88 @ $F884
+
+#W32($F44)
+　駆動方式│ＦＲ<END>
+//POINTER #89 @ $F70 - STRING #89 @ $F896
+
+#W32($F70)
+　駆動方式│ＦＲ<END>
+//POINTER #90 @ $F9C - STRING #90 @ $F8A8
+
+#W32($F9C)
+　駆動方式│ＦＲ<END>
+//POINTER #91 @ $FC8 - STRING #91 @ $F8BA
+
+#W32($FC8)
+　駆動方式│ＦＲ<END>
+//POINTER #92 @ $FF4 - STRING #92 @ $F8CC
+
+#W32($FF4)
+　駆動方式│ＦＦ<END>
+//POINTER #93 @ $1020 - STRING #93 @ $F8DE
+
+#W32($1020)
+　駆動方式│４ＷＤ<END>
+//POINTER #94 @ $104C - STRING #94 @ $F8F2
+
+#W32($104C)
+　駆動方式│ＦＲ<END>
+//POINTER #95 @ $1078 - STRING #95 @ $F904
+
+#W32($1078)
+　駆動方式│４ＷＤ<END>
+//POINTER #96 @ $10A4 - STRING #96 @ $F918
+
+#W32($10A4)
+図っている。パワー不足で泣いてるドライバーは、<END>
+//POINTER #97 @ $10D0 - STRING #97 @ $F948
+
+#W32($10D0)
+行い、よりパワーアップを図っている。興味がある<END>
+//POINTER #98 @ $10FC - STRING #98 @ $F978
+
+#W32($10FC)
+ポート加工を行い、さらなるパワーアップを<END>
+//POINTER #99 @ $1128 - STRING #99 @ $F9A2
+
+#W32($1128)
+はビッグタービンキットを装着し、徹底的にパワー<END>
+//POINTER #100 @ $1154 - STRING #100 @ $F9D2
+
+#W32($1154)
+高回転でのトルクアップが見込める。<END>
+//POINTER #101 @ $1180 - STRING #101 @ $F9F6
+
+#W32($1180)
+吸排気の最終形とも言えるこのチューニング、<END>
+//POINTER #102 @ $11AC - STRING #102 @ $FA22
+
+#W32($11AC)
+<END>
+//POINTER #103 @ $11D8 - STRING #103 @ $FA24
+
+#W32($11D8)
+購入を検討してみてはどうだろうか。<END>
+//POINTER #104 @ $1204 - STRING #104 @ $FA48
+
+#W32($1204)
+ドライバーは、この機会に購入してみよう。<END>
+//POINTER #105 @ $1230 - STRING #105 @ $FA72
+
+#W32($1230)
+資金に余裕があるのならば、是非行おう。<END>
+//POINTER #106 @ $125C - STRING #106 @ $FA9A
+
+#W32($125C)
+しっかりと手を入れて、バランスの良いチューニング<END>
+//POINTER #107 @ $1288 - STRING #107 @ $FACC
+
+#W32($1288)
+このチューニング、購入を検討してみる価値は<END>
+//POINTER #108 @ $12B4 - STRING #108 @ $FAF8
+
+#W32($12B4)
+にどのような影響をもたらすのか、これからも注目<END>
+//POINTER #109 @ $12E0 - STRING #109 @ $FB28
+
+#W32($12E0)
+興味を持ったドライバーは、ぜひ利用してみよう。<END>
+//POINTER #110 @ $130C - STRING #110 @ $FB58
+
+#W32($130C)
+ギャップが大きいステージでは挙動が乱れやすいが、<END>
+//POINTER #111 @ $1338 - STRING #111 @ $FB8A
+
+#W32($1338)
+どうだろうか。<END>
+//POINTER #112 @ $1364 - STRING #112 @ $FB9A
+
+#W32($1364)
+このチューニング、資金に余裕があるのなら、<END>
+//POINTER #113 @ $1390 - STRING #113 @ $FBC6
+
+#W32($1390)
+現在の走りには満足していないドライバーは<END>
+//POINTER #114 @ $13BC - STRING #114 @ $FBF0
+
+#W32($13BC)
+クラッチの最終形とも言えるこのチューニング、<END>
+//POINTER #115 @ $13E8 - STRING #115 @ $FC1E
+
+#W32($13E8)
+／スリット加工を施すなど、安定したパッド性能を<END>
+//POINTER #116 @ $1414 - STRING #116 @ $FC4E
+
+#W32($1414)
+手に入れることができるこのチューニング、資金に<END>
+//POINTER #117 @ $1440 - STRING #117 @ $FC7E
+
+#W32($1440)
+エンジンを強化したら、それを受け止めるための<END>
+//POINTER #118 @ $146C - STRING #118 @ $FCAC
+
+#W32($146C)
+興味があるドライバーは試してみよう。<END>
+//POINTER #119 @ $1498 - STRING #119 @ $FCD2
+
+#W32($1498)
+資金に余裕があるのならば、是非行おう。<END>
+//POINTER #120 @ $14C4 - STRING #120 @ $FCFA
+
+#W32($14C4)
+費用も高価で、車重も増加してしまうが、ドライバー<END>
+//POINTER #121 @ $14F0 - STRING #121 @ $FD2C
+
+#W32($14F0)
+サーキットを主戦場とするドライバーは優先的に<END>
+//POINTER #122 @ $151C - STRING #122 @ $FD5A
+
+#W32($151C)
+現在の走りには満足していないドライバーは<END>
+//POINTER #123 @ $1548 - STRING #123 @ $FD84
+
+#W32($1548)
+見込めるので、本気で上を狙っているドライバーには<END>
+//POINTER #124 @ $1574 - STRING #124 @ $FDB6
+
+#W32($1574)
+資金に余裕があるのならば、ぜひ行おう。<END>
+//POINTER #125 @ $15A0 - STRING #125 @ $FDDE
+
+#W32($15A0)
+なので、上位ランクに上がったドライバーは、<END>
+//POINTER #126 @ $15CC - STRING #126 @ $FE0A
+
+#W32($15CC)
+見逃さないようにしたい。<END>
+//POINTER #127 @ $15F8 - STRING #127 @ $FE24
+
+#W32($15F8)
+上位ランクに上がったドライバーは、<END>
+//POINTER #128 @ $1624 - STRING #128 @ $FE48
+
+#W32($1624)
+ファンには必見のアイテムなので、<END>
+//POINTER #129 @ $1650 - STRING #129 @ $FE6A
+
+#W32($1650)
+<END>
+//POINTER #130 @ $167C - STRING #130 @ $FE6C
+
+#W32($167C)
+これを機会に買い換えてみては如何だろうか？<END>
+//POINTER #131 @ $16A8 - STRING #131 @ $FE98
+
+#W32($16A8)
+ファンには必見のアイテムなので、<END>
+//POINTER #132 @ $16D4 - STRING #132 @ $FEBA
+
+#W32($16D4)
+<END>
+//POINTER #133 @ $1700 - STRING #133 @ $FEBC
+
+#W32($1700)
+これを機会に買い換えてみては如何だろうか？<END>
+//POINTER #134 @ $172C - STRING #134 @ $FEE8
+
+#W32($172C)
+見逃すことのないようにしたい。<END>
+//POINTER #135 @ $1758 - STRING #135 @ $FF08
+
+#W32($1758)
+<END>
+//POINTER #136 @ $1784 - STRING #136 @ $FF0A
+
+#W32($1784)
+<END>
+//POINTER #137 @ $17B0 - STRING #137 @ $FF0C
+
+#W32($17B0)
+ホールド感はそのままに大幅軽量化に<END>
+//POINTER #138 @ $17DC - STRING #138 @ $FF30
+
+#W32($17DC)
+<END>
+//POINTER #139 @ $1808 - STRING #139 @ $FF32
+
+#W32($1808)
+ベルトの着脱が可能となっている。<END>
+//POINTER #140 @ $1834 - STRING #140 @ $FF54
+
+#W32($1834)
+気軽に購入できる。<END>
+//POINTER #141 @ $1860 - STRING #141 @ $FF68
+
+#W32($1860)
+<END>
+//POINTER #142 @ $188C - STRING #142 @ $FF6A
+
+#W32($188C)
+<END>
+//POINTER #143 @ $18B8 - STRING #143 @ $FF6C
+
+#W32($18B8)
+開発された新型点火システム。<END>
+//POINTER #144 @ $18E4 - STRING #144 @ $FF8A
+
+#W32($18E4)
+<END>
+//POINTER #145 @ $1910 - STRING #145 @ $FF8C
+
+#W32($1910)
+点火システムの性能を向上させてくれる。<END>
+//POINTER #146 @ $193C - STRING #146 @ $FFB4
+
+#W32($193C)
+<END>
+//POINTER #147 @ $1968 - STRING #147 @ $FFB6
+
+#W32($1968)
+<END>
+//POINTER #148 @ $1994 - STRING #148 @ $FFB8
+
+#W32($1994)
+<END>
+//POINTER #149 @ $19C0 - STRING #149 @ $FFBA
+
+#W32($19C0)
+<END>
+//POINTER #150 @ $19EC - STRING #150 @ $FFBC
+
+#W32($19EC)
+<END>
+//POINTER #151 @ $1A18 - STRING #151 @ $FFBE
+
+#W32($1A18)
+デザインも今風で機能的になっている。<END>
+//POINTER #152 @ $1A44 - STRING #152 @ $FFE4
+
+#W32($1A44)
+一品となっている。<END>
+//POINTER #153 @ $1A70 - STRING #153 @ $FFF8
+
+#W32($1A70)
+優れた効能を期待できる。<END>
+//POINTER #154 @ $1A9C - STRING #154 @ $10012
+
+#W32($1A9C)
+車に傷をつけやすいドライバーは注目だ。<END>
+//POINTER #155 @ $1AC8 - STRING #155 @ $1003A
+
+#W32($1AC8)
+持ち運びも便利になっている。<END>
+//POINTER #156 @ $1AF4 - STRING #156 @ $10058
+
+#W32($1AF4)
+なっている。<END>
+//POINTER #157 @ $1B20 - STRING #157 @ $10066
+
+#W32($1B20)
+なっている。<END>
+//POINTER #158 @ $1B4C - STRING #158 @ $10074
+
+#W32($1B4C)
+<END>
+//POINTER #159 @ $1B78 - STRING #159 @ $10076
+
+#W32($1B78)
+<END>
+//POINTER #160 @ $1BA4 - STRING #160 @ $10078
+
+#W32($1BA4)
+<END>
+//POINTER #161 @ $1BD0 - STRING #161 @ $1007A
+
+#W32($1BD0)
+<END>
+//POINTER #162 @ $1BFC - STRING #162 @ $1007C
+
+#W32($1BFC)
+<END>
+//POINTER #163 @ $1C28 - STRING #163 @ $1007E
+
+#W32($1C28)
+付属しているので、お見逃しなく。<END>
+//POINTER #164 @ $1C54 - STRING #164 @ $100A0
+
+#W32($1C54)
+<END>
+//POINTER #165 @ $1C80 - STRING #165 @ $100A2
+
+#W32($1C80)
+<END>
+//POINTER #166 @ $1CAC - STRING #166 @ $100A4
+
+#W32($1CAC)
+<END>
+//POINTER #167 @ $1CD8 - STRING #167 @ $100A6
+
+#W32($1CD8)
+可もなく不可もないスタンダードな<END>
+//POINTER #168 @ $1D04 - STRING #168 @ $100C8
+
+#W32($1D04)
+なっている。<END>
+//POINTER #169 @ $1D30 - STRING #169 @ $100D6
+
+#W32($1D30)
+軽量かつ長寿命となっている。<END>
+//POINTER #170 @ $1D5C - STRING #170 @ $100F4
+
+#W32($1D5C)
+<END>
+//POINTER #171 @ $1D88 - STRING #171 @ $100F6
+
+#W32($1D88)
+<END>
+//POINTER #172 @ $1DB4 - STRING #172 @ $100F8
+
+#W32($1DB4)
+<END>
+//POINTER #173 @ $1DE0 - STRING #173 @ $100FA
+
+#W32($1DE0)
+<END>
+//POINTER #174 @ $1E0C - STRING #174 @ $100FC
+
+#W32($1E0C)
+抵抗値を減らし、点火効率の向上などを図っている。<END>
+//POINTER #175 @ $1E38 - STRING #175 @ $1012E
+
+#W32($1E38)
+必要なものを揃えたアーシングのセット。<END>
+//POINTER #176 @ $1E64 - STRING #176 @ $10156
+
+#W32($1E64)
+<END>
+//POINTER #177 @ $1E90 - STRING #177 @ $10158
+
+#W32($1E90)
+<END>
+//POINTER #178 @ $1EBC - STRING #178 @ $1015A
+
+#W32($1EBC)
+<END>
+//POINTER #179 @ $1EE8 - STRING #179 @ $1015C
+
+#W32($1EE8)
+<END>
+//POINTER #180 @ $1F14 - STRING #180 @ $1015E
+
+#W32($1F14)
+試してみてはどうだろうか。<END>
+//POINTER #181 @ $1F40 - STRING #181 @ $1017A
+
+#W32($1F40)
+<END>
+//POINTER #182 @ $1F6C - STRING #182 @ $1017C
+
+#W32($1F6C)
+<END>
+//POINTER #183 @ $1F98 - STRING #183 @ $1017E
+
+#W32($1F98)
+<END>
+//POINTER #184 @ $1FC4 - STRING #184 @ $10180
+
+#W32($1FC4)
+<END>
+//POINTER #185 @ $1FF0 - STRING #185 @ $10182
+
+#W32($1FF0)
+<END>
+//POINTER #186 @ $201C - STRING #186 @ $10184
+
+#W32($201C)
+<END>
+//POINTER #187 @ $2048 - STRING #187 @ $10186
+
+#W32($2048)
+<END>
+//POINTER #188 @ $2074 - STRING #188 @ $10188
+
+#W32($2074)
+<END>
+//POINTER #189 @ $20A0 - STRING #189 @ $1018A
+
+#W32($20A0)
+<END>
+//POINTER #190 @ $20CC - STRING #190 @ $1018C
+
+#W32($20CC)
+<END>
+//POINTER #191 @ $20F8 - STRING #191 @ $1018E
+
+#W32($20F8)
+<END>
+//POINTER #192 @ $2124 - STRING #192 @ $10190
+
+#W32($2124)
+<END>
+//POINTER #193 @ $2150 - STRING #193 @ $10192
+
+#W32($2150)
+<END>
+//POINTER #194 @ $217C - STRING #194 @ $10194
+
+#W32($217C)
+<END>
+//POINTER #195 @ $21A8 - STRING #195 @ $10196
+
+#W32($21A8)
+心身ともに疲労したドライバーを癒してくれる。<END>
+//POINTER #196 @ $21D4 - STRING #196 @ $101C4
+
+#W32($21D4)
+新鮮な空気を保ってくれる。<END>
+//POINTER #197 @ $2200 - STRING #197 @ $101E0
+
+#W32($2200)
+<END>
+//POINTER #198 @ $222C - STRING #198 @ $101E2
+
+#W32($222C)
+<END>
+//POINTER #199 @ $2258 - STRING #199 @ $101E4
+
+#W32($2258)
+防止してくれる。<END>
+//POINTER #200 @ $2284 - STRING #200 @ $101F6
+
+#W32($2284)
+<END>
+//POINTER #201 @ $22B0 - STRING #201 @ $101F8
+
+#W32($22B0)
+<END>
+//POINTER #202 @ $22DC - STRING #202 @ $101FA
+
+#W32($22DC)
+<END>
+//POINTER #203 @ $2308 - STRING #203 @ $101FC
+
+#W32($2308)
+<END>
+//POINTER #204 @ $2334 - STRING #204 @ $101FE
+
+#W32($2334)
+<END>
+//POINTER #205 @ $2360 - STRING #205 @ $10200
+
+#W32($2360)
+<END>
+//POINTER #206 @ $238C - STRING #206 @ $10202
+
+#W32($238C)
+<END>
+//POINTER #207 @ $23B8 - STRING #207 @ $10204
+
+#W32($23B8)
+<END>
+//POINTER #208 @ $23E4 - STRING #208 @ $10206
+
+#W32($23E4)
+<END>
+//POINTER #209 @ $2410 - STRING #209 @ $10208
+
+#W32($2410)
+<END>
+//POINTER #210 @ $243C - STRING #210 @ $1020A
+
+#W32($243C)
+<END>
+//POINTER #211 @ $2468 - STRING #211 @ $1020C
+
+#W32($2468)
+<END>
+//POINTER #212 @ $2494 - STRING #212 @ $1020E
+
+#W32($2494)
+<END>
+//POINTER #213 @ $24C0 - STRING #213 @ $10210
+
+#W32($24C0)
+<END>
+//POINTER #214 @ $24EC - STRING #214 @ $10212
+
+#W32($24EC)
+<END>
+//POINTER #215 @ $2518 - STRING #215 @ $10214
+
+#W32($2518)
+<END>
+//POINTER #216 @ $2544 - STRING #216 @ $10216
+
+#W32($2544)
+<END>
+//POINTER #217 @ $2570 - STRING #217 @ $10218
+
+#W32($2570)
+使えそうだ。<END>
+//POINTER #218 @ $259C - STRING #218 @ $10226
+
+#W32($259C)
+<END>
+//POINTER #219 @ $25C8 - STRING #219 @ $10228
+
+#W32($25C8)
+<END>
+//BLOCK #009 NAME:		229.bin File - Encoded Block Text 10
+
+//POINTER #0 @ $28 - STRING #0 @ $1022A
+
+#W32($28)
+　エンジン│Ｌ６　ＴＵＲＢＯ<END>
+//POINTER #1 @ $54 - STRING #1 @ $10248
+
+#W32($54)
+　エンジン│Ｌ６　ＴＵＲＢＯ<END>
+//POINTER #2 @ $80 - STRING #2 @ $10266
+
+#W32($80)
+　エンジン│Ｌ６　ＴＵＲＢＯ<END>
+//POINTER #3 @ $AC - STRING #3 @ $10284
+
+#W32($AC)
+　エンジン│Ｌ４　ＴＵＲＢＯ<END>
+//POINTER #4 @ $D8 - STRING #4 @ $102A2
+
+#W32($D8)
+　エンジン│Ｌ４　ＴＵＲＢＯ<END>
+//POINTER #5 @ $104 - STRING #5 @ $102C0
+
+#W32($104)
+　エンジン│Ｖ６　ＮＡ<END>
+//POINTER #6 @ $130 - STRING #6 @ $102D8
+
+#W32($130)
+　エンジン│Ｖ６　ＮＡ<END>
+//POINTER #7 @ $15C - STRING #7 @ $102F0
+
+#W32($15C)
+　エンジン│Ｌ４　ＮＡ<END>
+//POINTER #8 @ $188 - STRING #8 @ $10308
+
+#W32($188)
+　エンジン│Ｌ４　ＴＵＲＢＯ<END>
+//POINTER #9 @ $1B4 - STRING #9 @ $10326
+
+#W32($1B4)
+　エンジン│Ｌ４　ＴＵＲＢＯ<END>
+//POINTER #10 @ $1E0 - STRING #10 @ $10344
+
+#W32($1E0)
+　エンジン│Ｌ４　ＴＵＲＢＯ<END>
+//POINTER #11 @ $20C - STRING #11 @ $10362
+
+#W32($20C)
+　エンジン│Ｌ４　ＴＵＲＢＯ<END>
+//POINTER #12 @ $238 - STRING #12 @ $10380
+
+#W32($238)
+　エンジン│Ｌ４　ＮＡ<END>
+//POINTER #13 @ $264 - STRING #13 @ $10398
+
+#W32($264)
+　エンジン│ＲＥ　ＴＵＲＢＯ<END>
+//POINTER #14 @ $290 - STRING #14 @ $103B6
+
+#W32($290)
+　エンジン│Ｌ４　ＮＡ<END>
+//POINTER #15 @ $2BC - STRING #15 @ $103CE
+
+#W32($2BC)
+　エンジン│Ｌ４　ＮＡ<END>
+//POINTER #16 @ $2E8 - STRING #16 @ $103E6
+
+#W32($2E8)
+　エンジン│Ｌ６　ＴＵＲＢＯ<END>
+//POINTER #17 @ $314 - STRING #17 @ $10404
+
+#W32($314)
+　エンジン│Ｌ４　ＮＡ<END>
+//POINTER #18 @ $340 - STRING #18 @ $1041C
+
+#W32($340)
+　エンジン│Ｌ４　ＴＵＲＢＯ<END>
+//POINTER #19 @ $36C - STRING #19 @ $1043A
+
+#W32($36C)
+　エンジン│Ｌ４　ＮＡ<END>
+//POINTER #20 @ $398 - STRING #20 @ $10452
+
+#W32($398)
+　エンジン│Ｌ４　ＴＵＲＢＯ<END>
+//POINTER #21 @ $3C4 - STRING #21 @ $10470
+
+#W32($3C4)
+　エンジン│Ｌ４　ＴＵＲＢＯ<END>
+//POINTER #22 @ $3F0 - STRING #22 @ $1048E
+
+#W32($3F0)
+　エンジン│Ｌ４　Ｓ／Ｃ<END>
+//POINTER #23 @ $41C - STRING #23 @ $104A8
+
+#W32($41C)
+　エンジン│Ｌ４　ＮＡ<END>
+//POINTER #24 @ $448 - STRING #24 @ $104C0
+
+#W32($448)
+　エンジン│Ｌ４　ＮＡ<END>
+//POINTER #25 @ $474 - STRING #25 @ $104D8
+
+#W32($474)
+　エンジン│Ｌ４　ＮＡ<END>
+//POINTER #26 @ $4A0 - STRING #26 @ $104F0
+
+#W32($4A0)
+　エンジン│Ｌ４　ＮＡ<END>
+//POINTER #27 @ $4CC - STRING #27 @ $10508
+
+#W32($4CC)
+　エンジン│Ｆ４　ＴＵＲＢＯ<END>
+//POINTER #28 @ $4F8 - STRING #28 @ $10526
+
+#W32($4F8)
+　エンジン│Ｆ４　ＴＵＲＢＯ<END>
+//POINTER #29 @ $524 - STRING #29 @ $10544
+
+#W32($524)
+　エンジン│Ｆ４　ＴＵＲＢＯ<END>
+//POINTER #30 @ $550 - STRING #30 @ $10562
+
+#W32($550)
+　エンジン│Ｆ４　ＴＵＲＢＯ<END>
+//POINTER #31 @ $57C - STRING #31 @ $10580
+
+#W32($57C)
+　エンジン│Ｆ４　ＴＵＲＢＯ<END>
+//POINTER #32 @ $5A8 - STRING #32 @ $1059E
+
+#W32($5A8)
+　エンジン│Ｆ４　ＴＵＲＢＯ<END>
+//POINTER #33 @ $5D4 - STRING #33 @ $105BC
+
+#W32($5D4)
+　エンジン│Ｌ３　ＴＵＲＢＯ<END>
+//POINTER #34 @ $600 - STRING #34 @ $105DA
+
+#W32($600)
+　エンジン│Ｌ３　ＮＡ<END>
+//POINTER #35 @ $62C - STRING #35 @ $105F2
+
+#W32($62C)
+　エンジン│Ｌ３　ＴＵＲＢＯ<END>
+//POINTER #36 @ $658 - STRING #36 @ $10610
+
+#W32($658)
+　エンジン│Ｌ３　ＮＡ<END>
+//POINTER #37 @ $684 - STRING #37 @ $10628
+
+#W32($684)
+　エンジン│Ｌ４　ＮＡ<END>
+//POINTER #38 @ $6B0 - STRING #38 @ $10640
+
+#W32($6B0)
+　エンジン│Ｌ４　ＮＡ<END>
+//POINTER #39 @ $6DC - STRING #39 @ $10658
+
+#W32($6DC)
+　エンジン│Ｌ４　ＮＡ<END>
+//POINTER #40 @ $708 - STRING #40 @ $10670
+
+#W32($708)
+　エンジン│Ｌ４　ＮＡ<END>
+//POINTER #41 @ $734 - STRING #41 @ $10688
+
+#W32($734)
+　エンジン│Ｌ４　ＮＡ<END>
+//POINTER #42 @ $760 - STRING #42 @ $106A0
+
+#W32($760)
+　エンジン│Ｌ４　ＮＡ<END>
+//POINTER #43 @ $78C - STRING #43 @ $106B8
+
+#W32($78C)
+　エンジン│Ｌ４　ＮＡ<END>
+//POINTER #44 @ $7B8 - STRING #44 @ $106D0
+
+#W32($7B8)
+　エンジン│Ｌ４　ＮＡ<END>
+//POINTER #45 @ $7E4 - STRING #45 @ $106E8
+
+#W32($7E4)
+　エンジン│Ｌ４　ＮＡ<END>
+//POINTER #46 @ $810 - STRING #46 @ $10700
+
+#W32($810)
+　エンジン│Ｖ６　ＮＡ<END>
+//POINTER #47 @ $83C - STRING #47 @ $10718
+
+#W32($83C)
+　エンジン│Ｖ６　ＮＡ<END>
+//POINTER #48 @ $868 - STRING #48 @ $10730
+
+#W32($868)
+　エンジン│Ｖ６　ＮＡ<END>
+//POINTER #49 @ $894 - STRING #49 @ $10748
+
+#W32($894)
+　エンジン│Ｌ３　ＴＵＲＢＯ<END>
+//POINTER #50 @ $8C0 - STRING #50 @ $10766
+
+#W32($8C0)
+　エンジン│Ｌ４　ＴＵＲＢＯ<END>
+//POINTER #51 @ $8EC - STRING #51 @ $10784
+
+#W32($8EC)
+　エンジン│Ｌ６　ＴＵＲＢＯ<END>
+//POINTER #52 @ $918 - STRING #52 @ $107A2
+
+#W32($918)
+　エンジン│Ｌ４　ＴＵＲＢＯ<END>
+//POINTER #53 @ $944 - STRING #53 @ $107C0
+
+#W32($944)
+　エンジン│Ｌ４　ＴＵＲＢＯ<END>
+//POINTER #54 @ $970 - STRING #54 @ $107DE
+
+#W32($970)
+　エンジン│Ｆ４　ＴＵＲＢＯ<END>
+//POINTER #55 @ $99C - STRING #55 @ $107FC
+
+#W32($99C)
+　エンジン│ＲＥ　ＴＵＲＢＯ<END>
+//POINTER #56 @ $9C8 - STRING #56 @ $1081A
+
+#W32($9C8)
+　エンジン│ＲＥ　ＴＵＲＢＯ<END>
+//POINTER #57 @ $9F4 - STRING #57 @ $10838
+
+#W32($9F4)
+　エンジン│Ｌ６　ＴＵＲＢＯ<END>
+//POINTER #58 @ $A20 - STRING #58 @ $10856
+
+#W32($A20)
+　エンジン│Ｌ４　ＴＵＲＢＯ<END>
+//POINTER #59 @ $A4C - STRING #59 @ $10874
+
+#W32($A4C)
+　エンジン│Ｌ４　ＴＵＲＢＯ<END>
+//POINTER #60 @ $A78 - STRING #60 @ $10892
+
+#W32($A78)
+　エンジン│Ｌ４　ＴＵＲＢＯ<END>
+//POINTER #61 @ $AA4 - STRING #61 @ $108B0
+
+#W32($AA4)
+　エンジン│Ｌ６　ＴＵＲＢＯ<END>
+//POINTER #62 @ $AD0 - STRING #62 @ $108CE
+
+#W32($AD0)
+　エンジン│Ｌ６　ＴＵＲＢＯ<END>
+//POINTER #63 @ $AFC - STRING #63 @ $108EC
+
+#W32($AFC)
+　エンジン│Ｌ４　ＴＵＲＢＯ<END>
+//POINTER #64 @ $B28 - STRING #64 @ $1090A
+
+#W32($B28)
+　エンジン│Ｌ４　ＴＵＲＢＯ<END>
+//POINTER #65 @ $B54 - STRING #65 @ $10928
+
+#W32($B54)
+　エンジン│ＲＥ　ＴＵＲＢＯ<END>
+//POINTER #66 @ $B80 - STRING #66 @ $10946
+
+#W32($B80)
+　エンジン│Ｌ６　ＴＵＲＢＯ<END>
+//POINTER #67 @ $BAC - STRING #67 @ $10964
+
+#W32($BAC)
+　エンジン│Ｌ４　ＴＵＲＢＯ<END>
+//POINTER #68 @ $BD8 - STRING #68 @ $10982
+
+#W32($BD8)
+　エンジン│Ｌ４　ＮＡ<END>
+//POINTER #69 @ $C04 - STRING #69 @ $1099A
+
+#W32($C04)
+　エンジン│ＲＥ　ＮＡ<END>
+//POINTER #70 @ $C30 - STRING #70 @ $109B2
+
+#W32($C30)
+　エンジン│Ｌ４　ＴＵＲＢＯ<END>
+//POINTER #71 @ $C5C - STRING #71 @ $109D0
+
+#W32($C5C)
+　エンジン│Ｌ４　ＮＡ<END>
+//POINTER #72 @ $C88 - STRING #72 @ $109E8
+
+#W32($C88)
+　エンジン│Ｖ６　ＮＡ<END>
+//POINTER #73 @ $CB4 - STRING #73 @ $10A00
+
+#W32($CB4)
+　エンジン│Ｖ６　ＴＵＲＢＯ<END>
+//POINTER #74 @ $CE0 - STRING #74 @ $10A1E
+
+#W32($CE0)
+　エンジン│Ｖ６　ＮＡ<END>
+//POINTER #75 @ $D0C - STRING #75 @ $10A36
+
+#W32($D0C)
+　エンジン│Ｖ６　ＮＡ<END>
+//POINTER #76 @ $D38 - STRING #76 @ $10A4E
+
+#W32($D38)
+　エンジン│Ｌ６　ＴＵＲＢＯ<END>
+//POINTER #77 @ $D64 - STRING #77 @ $10A6C
+
+#W32($D64)
+　エンジン│ＲＥ　ＮＡ<END>
+//POINTER #78 @ $D90 - STRING #78 @ $10A84
+
+#W32($D90)
+　エンジン│Ｌ４　ＮＡ<END>
+//POINTER #79 @ $DBC - STRING #79 @ $10A9C
+
+#W32($DBC)
+　エンジン│Ｌ４　ＮＡ<END>
+//POINTER #80 @ $DE8 - STRING #80 @ $10AB4
+
+#W32($DE8)
+　エンジン│Ｌ４　ＴＵＲＢＯ<END>
+//POINTER #81 @ $E14 - STRING #81 @ $10AD2
+
+#W32($E14)
+　エンジン│Ｌ４　ＮＡ<END>
+//POINTER #82 @ $E40 - STRING #82 @ $10AEA
+
+#W32($E40)
+　エンジン│Ｌ４　ＮＡ<END>
+//POINTER #83 @ $E6C - STRING #83 @ $10B02
+
+#W32($E6C)
+　エンジン│Ｖ６　ＮＡ<END>
+//POINTER #84 @ $E98 - STRING #84 @ $10B1A
+
+#W32($E98)
+　エンジン│Ｌ４　ＮＡ<END>
+//POINTER #85 @ $EC4 - STRING #85 @ $10B32
+
+#W32($EC4)
+　エンジン│Ｌ６　ＴＵＲＢＯ<END>
+//POINTER #86 @ $EF0 - STRING #86 @ $10B50
+
+#W32($EF0)
+　エンジン│Ｖ８　ＮＡ<END>
+//POINTER #87 @ $F1C - STRING #87 @ $10B68
+
+#W32($F1C)
+　エンジン│Ｌ４　ＮＡ<END>
+//POINTER #88 @ $F48 - STRING #88 @ $10B80
+
+#W32($F48)
+　エンジン│Ｌ４　ＴＵＲＢＯ<END>
+//POINTER #89 @ $F74 - STRING #89 @ $10B9E
+
+#W32($F74)
+　エンジン│Ｌ４　ＴＵＲＢＯ<END>
+//POINTER #90 @ $FA0 - STRING #90 @ $10BBC
+
+#W32($FA0)
+　エンジン│ＲＥ　ＴＵＲＢＯ<END>
+//POINTER #91 @ $FCC - STRING #91 @ $10BDA
+
+#W32($FCC)
+　エンジン│Ｌ４　ＮＡ<END>
+//POINTER #92 @ $FF8 - STRING #92 @ $10BF2
+
+#W32($FF8)
+　エンジン│Ｖ６　ＮＡ<END>
+//POINTER #93 @ $1024 - STRING #93 @ $10C0A
+
+#W32($1024)
+　エンジン│Ｌ６　ＴＵＲＢＯ<END>
+//POINTER #94 @ $1050 - STRING #94 @ $10C28
+
+#W32($1050)
+　エンジン│ＲＥ　ＮＡ<END>
+//POINTER #95 @ $107C - STRING #95 @ $10C40
+
+#W32($107C)
+　エンジン│Ｆ４　ＴＵＲＢＯ<END>
+//POINTER #96 @ $10A8 - STRING #96 @ $10C5E
+
+#W32($10A8)
+見逃さないようにチェックしておこう。<END>
+//POINTER #97 @ $10D4 - STRING #97 @ $10C84
+
+#W32($10D4)
+ドライバーは、ぜひチェックしておこう。<END>
+//POINTER #98 @ $1100 - STRING #98 @ $10CAC
+
+#W32($1100)
+図っている。おおいに期待できそうだ。<END>
+//POINTER #99 @ $112C - STRING #99 @ $10CD2
+
+#W32($112C)
+アップを図っている。効果が気になるところだ。<END>
+//POINTER #100 @ $1158 - STRING #100 @ $10D00
+
+#W32($1158)
+興味のあるドライバーは、さっそく利用してみよう。<END>
+//POINTER #101 @ $1184 - STRING #101 @ $10D32
+
+#W32($1184)
+資金に余裕があるのならば、ぜひ行おう。<END>
+//POINTER #102 @ $11B0 - STRING #102 @ $10D5A
+
+#W32($11B0)
+<END>
+//POINTER #103 @ $11DC - STRING #103 @ $10D5C
+
+#W32($11DC)
+<END>
+//POINTER #104 @ $1208 - STRING #104 @ $10D5E
+
+#W32($1208)
+<END>
+//POINTER #105 @ $1234 - STRING #105 @ $10D60
+
+#W32($1234)
+<END>
+//POINTER #106 @ $1260 - STRING #106 @ $10D62
+
+#W32($1260)
+を行おう。<END>
+//POINTER #107 @ $128C - STRING #107 @ $10D6E
+
+#W32($128C)
+充分ありそうだ。<END>
+//POINTER #108 @ $12B8 - STRING #108 @ $10D80
+
+#W32($12B8)
+していきたい。<END>
+//POINTER #109 @ $12E4 - STRING #109 @ $10D90
+
+#W32($12E4)
+<END>
+//POINTER #110 @ $1310 - STRING #110 @ $10D92
+
+#W32($1310)
+購入を検討してみる価値は充分ありそうだ。<END>
+//POINTER #111 @ $133C - STRING #111 @ $10DBC
+
+#W32($133C)
+<END>
+//POINTER #112 @ $1368 - STRING #112 @ $10DBE
+
+#W32($1368)
+ぜひ行おう。<END>
+//POINTER #113 @ $1394 - STRING #113 @ $10DCC
+
+#W32($1394)
+購入を検討してみてはどうだろうか。<END>
+//POINTER #114 @ $13C0 - STRING #114 @ $10DF0
+
+#W32($13C0)
+資金に余裕があるのならば、ぜひ行おう。<END>
+//POINTER #115 @ $13EC - STRING #115 @ $10E18
+
+#W32($13EC)
+引き出してくれる。お見逃しなく。<END>
+//POINTER #116 @ $1418 - STRING #116 @ $10E3A
+
+#W32($1418)
+余裕があるのならば、ぜひ行おう。<END>
+//POINTER #117 @ $1444 - STRING #117 @ $10E5C
+
+#W32($1444)
+ボディも、しっかり補強しておこう。<END>
+//POINTER #118 @ $1470 - STRING #118 @ $10E80
+
+#W32($1470)
+<END>
+//POINTER #119 @ $149C - STRING #119 @ $10E82
+
+#W32($149C)
+<END>
+//POINTER #120 @ $14C8 - STRING #120 @ $10E84
+
+#W32($14C8)
+の安全を考えるならば、必ず装着しておきたい。<END>
+//POINTER #121 @ $14F4 - STRING #121 @ $10EB2
+
+#W32($14F4)
+行いたいチューニングだ。<END>
+//POINTER #122 @ $1520 - STRING #122 @ $10ECC
+
+#W32($1520)
+購入を検討してみてはどうだろうか。<END>
+//POINTER #123 @ $154C - STRING #123 @ $10EF0
+
+#W32($154C)
+見逃せないチューニングとなりそうだ。<END>
+//POINTER #124 @ $1578 - STRING #124 @ $10F16
+
+#W32($1578)
+<END>
+//POINTER #125 @ $15A4 - STRING #125 @ $10F18
+
+#W32($15A4)
+これを機会に買い換えてみては如何だろうか？<END>
+//POINTER #126 @ $15D0 - STRING #126 @ $10F44
+
+#W32($15D0)
+<END>
+//POINTER #127 @ $15FC - STRING #127 @ $10F46
+
+#W32($15FC)
+これを機会に買い換えてみては如何だろうか？<END>
+//POINTER #128 @ $1628 - STRING #128 @ $10F72
+
+#W32($1628)
+見逃すことのないようにしたい。<END>
+//POINTER #129 @ $1654 - STRING #129 @ $10F92
+
+#W32($1654)
+<END>
+//POINTER #130 @ $1680 - STRING #130 @ $10F94
+
+#W32($1680)
+<END>
+//POINTER #131 @ $16AC - STRING #131 @ $10F96
+
+#W32($16AC)
+見逃すことのないようにしたい。<END>
+//POINTER #132 @ $16D8 - STRING #132 @ $10FB6
+
+#W32($16D8)
+<END>
+//POINTER #133 @ $1704 - STRING #133 @ $10FB8
+
+#W32($1704)
+<END>
+//POINTER #134 @ $1730 - STRING #134 @ $10FBA
+
+#W32($1730)
+<END>
+//POINTER #135 @ $175C - STRING #135 @ $10FBC
+
+#W32($175C)
+<END>
+//POINTER #136 @ $1788 - STRING #136 @ $10FBE
+
+#W32($1788)
+<END>
+//POINTER #137 @ $17B4 - STRING #137 @ $10FC0
+
+#W32($17B4)
+成功しているので注目しておきたい。<END>
+//POINTER #138 @ $17E0 - STRING #138 @ $10FE4
+
+#W32($17E0)
+<END>
+//POINTER #139 @ $180C - STRING #139 @ $10FE6
+
+#W32($180C)
+<END>
+//POINTER #140 @ $1838 - STRING #140 @ $10FE8
+
+#W32($1838)
+<END>
+//POINTER #141 @ $1864 - STRING #141 @ $10FEA
+
+#W32($1864)
+<END>
+//POINTER #142 @ $1890 - STRING #142 @ $10FEC
+
+#W32($1890)
+<END>
+//POINTER #143 @ $18BC - STRING #143 @ $10FEE
+
+#W32($18BC)
+<END>
+//POINTER #144 @ $18E8 - STRING #144 @ $10FF0
+
+#W32($18E8)
+<END>
+//POINTER #145 @ $1914 - STRING #145 @ $10FF2
+
+#W32($1914)
+<END>
+//POINTER #146 @ $1940 - STRING #146 @ $10FF4
+
+#W32($1940)
+<END>
+//POINTER #147 @ $196C - STRING #147 @ $10FF6
+
+#W32($196C)
+<END>
+//POINTER #148 @ $1998 - STRING #148 @ $10FF8
+
+#W32($1998)
+<END>
+//POINTER #149 @ $19C4 - STRING #149 @ $10FFA
+
+#W32($19C4)
+<END>
+//POINTER #150 @ $19F0 - STRING #150 @ $10FFC
+
+#W32($19F0)
+<END>
+//POINTER #151 @ $1A1C - STRING #151 @ $10FFE
+
+#W32($1A1C)
+<END>
+//POINTER #152 @ $1A48 - STRING #152 @ $11000
+
+#W32($1A48)
+<END>
+//POINTER #153 @ $1A74 - STRING #153 @ $11002
+
+#W32($1A74)
+<END>
+//POINTER #154 @ $1AA0 - STRING #154 @ $11004
+
+#W32($1AA0)
+<END>
+//POINTER #155 @ $1ACC - STRING #155 @ $11006
+
+#W32($1ACC)
+<END>
+//POINTER #156 @ $1AF8 - STRING #156 @ $11008
+
+#W32($1AF8)
+<END>
+//POINTER #157 @ $1B24 - STRING #157 @ $1100A
+
+#W32($1B24)
+<END>
+//POINTER #158 @ $1B50 - STRING #158 @ $1100C
+
+#W32($1B50)
+<END>
+//POINTER #159 @ $1B7C - STRING #159 @ $1100E
+
+#W32($1B7C)
+<END>
+//POINTER #160 @ $1BA8 - STRING #160 @ $11010
+
+#W32($1BA8)
+<END>
+//POINTER #161 @ $1BD4 - STRING #161 @ $11012
+
+#W32($1BD4)
+<END>
+//POINTER #162 @ $1C00 - STRING #162 @ $11014
+
+#W32($1C00)
+<END>
+//POINTER #163 @ $1C2C - STRING #163 @ $11016
+
+#W32($1C2C)
+<END>
+//POINTER #164 @ $1C58 - STRING #164 @ $11018
+
+#W32($1C58)
+<END>
+//POINTER #165 @ $1C84 - STRING #165 @ $1101A
+
+#W32($1C84)
+<END>
+//POINTER #166 @ $1CB0 - STRING #166 @ $1101C
+
+#W32($1CB0)
+<END>
+//POINTER #167 @ $1CDC - STRING #167 @ $1101E
+
+#W32($1CDC)
+バッテリーとなっている。<END>
+//POINTER #168 @ $1D08 - STRING #168 @ $11038
+
+#W32($1D08)
+<END>
+//POINTER #169 @ $1D34 - STRING #169 @ $1103A
+
+#W32($1D34)
+<END>
+//POINTER #170 @ $1D60 - STRING #170 @ $1103C
+
+#W32($1D60)
+<END>
+//POINTER #171 @ $1D8C - STRING #171 @ $1103E
+
+#W32($1D8C)
+<END>
+//POINTER #172 @ $1DB8 - STRING #172 @ $11040
+
+#W32($1DB8)
+<END>
+//POINTER #173 @ $1DE4 - STRING #173 @ $11042
+
+#W32($1DE4)
+<END>
+//POINTER #174 @ $1E10 - STRING #174 @ $11044
+
+#W32($1E10)
+<END>
+//POINTER #175 @ $1E3C - STRING #175 @ $11046
+
+#W32($1E3C)
+<END>
+//POINTER #176 @ $1E68 - STRING #176 @ $11048
+
+#W32($1E68)
+<END>
+//POINTER #177 @ $1E94 - STRING #177 @ $1104A
+
+#W32($1E94)
+<END>
+//POINTER #178 @ $1EC0 - STRING #178 @ $1104C
+
+#W32($1EC0)
+<END>
+//POINTER #179 @ $1EEC - STRING #179 @ $1104E
+
+#W32($1EEC)
+<END>
+//POINTER #180 @ $1F18 - STRING #180 @ $11050
+
+#W32($1F18)
+<END>
+//POINTER #181 @ $1F44 - STRING #181 @ $11052
+
+#W32($1F44)
+<END>
+//POINTER #182 @ $1F70 - STRING #182 @ $11054
+
+#W32($1F70)
+<END>
+//POINTER #183 @ $1F9C - STRING #183 @ $11056
+
+#W32($1F9C)
+<END>
+//POINTER #184 @ $1FC8 - STRING #184 @ $11058
+
+#W32($1FC8)
+<END>
+//POINTER #185 @ $1FF4 - STRING #185 @ $1105A
+
+#W32($1FF4)
+<END>
+//POINTER #186 @ $2020 - STRING #186 @ $1105C
+
+#W32($2020)
+<END>
+//POINTER #187 @ $204C - STRING #187 @ $1105E
+
+#W32($204C)
+<END>
+//POINTER #188 @ $2078 - STRING #188 @ $11060
+
+#W32($2078)
+<END>
+//POINTER #189 @ $20A4 - STRING #189 @ $11062
+
+#W32($20A4)
+<END>
+//POINTER #190 @ $20D0 - STRING #190 @ $11064
+
+#W32($20D0)
+<END>
+//POINTER #191 @ $20FC - STRING #191 @ $11066
+
+#W32($20FC)
+<END>
+//POINTER #192 @ $2128 - STRING #192 @ $11068
+
+#W32($2128)
+<END>
+//POINTER #193 @ $2154 - STRING #193 @ $1106A
+
+#W32($2154)
+<END>
+//POINTER #194 @ $2180 - STRING #194 @ $1106C
+
+#W32($2180)
+<END>
+//POINTER #195 @ $21AC - STRING #195 @ $1106E
+
+#W32($21AC)
+<END>
+//POINTER #196 @ $21D8 - STRING #196 @ $11070
+
+#W32($21D8)
+<END>
+//POINTER #197 @ $2204 - STRING #197 @ $11072
+
+#W32($2204)
+<END>
+//POINTER #198 @ $2230 - STRING #198 @ $11074
+
+#W32($2230)
+<END>
+//POINTER #199 @ $225C - STRING #199 @ $11076
+
+#W32($225C)
+<END>
+//POINTER #200 @ $2288 - STRING #200 @ $11078
+
+#W32($2288)
+<END>
+//POINTER #201 @ $22B4 - STRING #201 @ $1107A
+
+#W32($22B4)
+<END>
+//POINTER #202 @ $22E0 - STRING #202 @ $1107C
+
+#W32($22E0)
+<END>
+//POINTER #203 @ $230C - STRING #203 @ $1107E
+
+#W32($230C)
+<END>
+//POINTER #204 @ $2338 - STRING #204 @ $11080
+
+#W32($2338)
+<END>
+//POINTER #205 @ $2364 - STRING #205 @ $11082
+
+#W32($2364)
+<END>
+//POINTER #206 @ $2390 - STRING #206 @ $11084
+
+#W32($2390)
+<END>
+//POINTER #207 @ $23BC - STRING #207 @ $11086
+
+#W32($23BC)
+<END>
+//POINTER #208 @ $23E8 - STRING #208 @ $11088
+
+#W32($23E8)
+<END>
+//POINTER #209 @ $2414 - STRING #209 @ $1108A
+
+#W32($2414)
+<END>
+//POINTER #210 @ $2440 - STRING #210 @ $1108C
+
+#W32($2440)
+<END>
+//POINTER #211 @ $246C - STRING #211 @ $1108E
+
+#W32($246C)
+<END>
+//POINTER #212 @ $2498 - STRING #212 @ $11090
+
+#W32($2498)
+<END>
+//POINTER #213 @ $24C4 - STRING #213 @ $11092
+
+#W32($24C4)
+<END>
+//POINTER #214 @ $24F0 - STRING #214 @ $11094
+
+#W32($24F0)
+<END>
+//POINTER #215 @ $251C - STRING #215 @ $11096
+
+#W32($251C)
+<END>
+//POINTER #216 @ $2548 - STRING #216 @ $11098
+
+#W32($2548)
+<END>
+//POINTER #217 @ $2574 - STRING #217 @ $1109A
+
+#W32($2574)
+<END>
+//POINTER #218 @ $25A0 - STRING #218 @ $1109C
+
+#W32($25A0)
+<END>
+//POINTER #219 @ $25CC - STRING #219 @ $1109E
+
+#W32($25CC)
+<END>

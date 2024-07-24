@@ -1,0 +1,72 @@
+#GAME NAME:		C1 Racing Battle Grand Prix
+
+//file contains item names and description
+//each item has its own struct:
+//struct Item {
+    //int32 namePointer;
+    //char[20] unknown;
+    //int32 effectDescriptionPointer;
+    //int32 combinationDescriptionPointer;
+    //int32 itemDescriptionPointer;
+    //char[96] *unknown;
+//};
+
+#BLOCK NAME:	224.bin File - Item Names block
+#TYPE:			NORMAL
+#METHOD:		POINTER
+
+#POINTER TABLE START:	$0
+#POINTER TABLE STOP:	$3B4C
+#POINTER SIZE:	4
+#POINTER SPACE: 128
+#POINTER ENDIAN: LITTLE
+#ATLAS PTRS: Yes
+
+#TABLE:			c1gp.tbl
+#COMMENTS:		No
+#END BLOCK
+
+#BLOCK NAME:	224.bin File - Item Effect Description block
+#TYPE:			NORMAL
+#METHOD:		POINTER
+
+#POINTER TABLE START:	$18
+#POINTER TABLE STOP:	$3B4C
+#POINTER SIZE:	4
+#POINTER SPACE: 128
+#POINTER ENDIAN: LITTLE
+#ATLAS PTRS: Yes
+
+#TABLE:			c1gp.tbl
+#COMMENTS:		No
+#END BLOCK
+
+#BLOCK NAME:	224.bin File - Item Combination Description block
+#TYPE:			NORMAL
+#METHOD:		POINTER
+
+#POINTER TABLE START:	$1C
+#POINTER TABLE STOP:	$3B4C
+#POINTER SIZE:	4
+#POINTER SPACE: 128
+#POINTER ENDIAN: LITTLE
+#ATLAS PTRS: Yes
+
+#TABLE:			c1gp.tbl
+#COMMENTS:		No
+#END BLOCK
+
+#BLOCK NAME:	224.bin File - Item Description block
+#TYPE:			NORMAL
+#METHOD:		POINTER
+
+#POINTER TABLE START:	$20
+#POINTER TABLE STOP:	$3B4C
+#POINTER SIZE:	4
+#POINTER SPACE: 128
+#POINTER ENDIAN: LITTLE
+#ATLAS PTRS: Yes
+
+#TABLE:			c1gp.tbl
+#COMMENTS:		No
+#END BLOCK

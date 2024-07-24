@@ -1,0 +1,1132 @@
+//GAME NAME:		C1 Racing Battle Grand Prix
+
+//BLOCK #000 NAME:		737.bin File - Encoded Block
+
+#VAR(tbl, TABLE)
+#VAR(tbl2, TABLE)
+#ADDTBL("c1gp.tbl",tbl)
+#ADDTBL("ascii.tbl",tbl2)
+#ACTIVETBL(tbl)
+#JMP($45C)
+
+//POINTER #0 @ $0 - STRING #0 @ $45C
+
+#W32($0)
+走行<END>
+//POINTER #1 @ $4 - STRING #1 @ $462
+
+#W32($4)
+SETTING 1<END>
+//POINTER #2 @ $8 - STRING #2 @ $472
+
+#W32($8)
+SETTING 2<END>
+//POINTER #3 @ $C - STRING #3 @ $482
+
+#W32($C)
+SETTING 3<END>
+//POINTER #4 @ $10 - STRING #4 @ $492
+
+#W32($10)
+BACK TO GARAGE<END>
+//POINTER #5 @ $14 - STRING #5 @ $4A2
+
+#W32($14)
+SETTING ASSIST<END>
+//POINTER #6 @ $18 - STRING #6 @ $4B8
+
+#W32($18)
+TRANSMISSION<END>
+//POINTER #7 @ $1C - STRING #7 @ $4C4
+
+#W32($1C)
+ALIGNMENT<END>
+//POINTER #8 @ $20 - STRING #8 @ $4D2
+
+#W32($20)
+SUSPENSION<END>
+//POINTER #9 @ $24 - STRING #9 @ $4E2
+
+#W32($24)
+OTHER<END>
+//POINTER #10 @ $28 - STRING #10 @ $4EA
+
+#W32($28)
+DIFFERENTIAL<END>
+//POINTER #11 @ $2C - STRING #11 @ $4FE
+
+#W32($2C)
+TIRE CHANGE<END>
+//POINTER #12 @ $30 - STRING #12 @ $50A
+
+#W32($30)
+INCHーUP<END>
+//POINTER #13 @ $34 - STRING #13 @ $518
+
+#W32($34)
+Do you want to keep these settings？<END>
+//POINTER #14 @ $38 - STRING #14 @ $546
+
+#W32($38)
+YES<END>
+//POINTER #15 @ $3C - STRING #15 @ $54E
+
+#W32($3C)
+NO<END>
+//POINTER #16 @ $40 - STRING #16 @ $554
+
+#W32($40)
+ACCELERATION<END>
+//POINTER #17 @ $44 - STRING #17 @ $560
+
+#W32($44)
+TOP SPEED<END>
+//POINTER #18 @ $48 - STRING #18 @ $56C
+
+#W32($48)
+DRIFT<END>
+//POINTER #19 @ $4C - STRING #19 @ $57A
+
+#W32($4C)
+GRIP<END>
+//POINTER #20 @ $50 - STRING #20 @ $588
+
+#W32($50)
+TURNING<END>
+//POINTER #21 @ $54 - STRING #21 @ $594
+
+#W32($54)
+STABILITY<END>
+//POINTER #22 @ $58 - STRING #22 @ $5A4
+
+#W32($58)
+ADJUSTMENTS<END>
+//POINTER #23 @ $5C - STRING #23 @ $5AE
+
+#W32($5C)
+DOWNFORCE<END>
+//POINTER #24 @ $60 - STRING #24 @ $5BE
+
+#W32($60)
+TURBO BOOST<END>
+//POINTER #25 @ $64 - STRING #25 @ $5CE
+
+#W32($64)
+SPRING RATE<END>
+//POINTER #26 @ $68 - STRING #26 @ $5E0
+
+#W32($68)
+DAMPER<END>
+//POINTER #27 @ $6C - STRING #27 @ $5EA
+
+#W32($6C)
+ANTIROLL<END>
+//POINTER #28 @ $70 - STRING #28 @ $5FA
+
+#W32($70)
+TOE<END>
+//POINTER #29 @ $74 - STRING #29 @ $602
+
+#W32($74)
+CAMBER<END>
+//POINTER #30 @ $78 - STRING #30 @ $610
+
+#W32($78)
+BRAKE BALANCE<END>
+//POINTER #31 @ $7C - STRING #31 @ $622
+
+#W32($7C)
+DRIVE BALANCE<END>
+//POINTER #32 @ $80 - STRING #32 @ $634
+
+#W32($80)
+RIDE HEIGHT<END>
+//POINTER #33 @ $84 - STRING #33 @ $63E
+
+#W32($84)
+DEFAULT<END>
+//POINTER #34 @ $88 - STRING #34 @ $648
+
+#W32($88)
+CANCEL<END>
+//POINTER #35 @ $8C - STRING #35 @ $652
+
+#W32($8C)
+OK<END>
+//POINTER #36 @ $90 - STRING #36 @ $658
+
+#W32($90)
+ON<END>
+//POINTER #37 @ $94 - STRING #37 @ $65E
+
+#W32($94)
+OFF<END>
+//POINTER #38 @ $98 - STRING #38 @ $666
+
+#W32($98)
+ACCEL<END>
+//POINTER #39 @ $9C - STRING #39 @ $66C
+
+#W32($9C)
+TOP SPEED<END>
+//POINTER #40 @ $A0 - STRING #40 @ $674
+
+#W32($A0)
+DRIFT<END>
+//POINTER #41 @ $A4 - STRING #41 @ $682
+
+#W32($A4)
+GRIP<END>
+//POINTER #42 @ $A8 - STRING #42 @ $690
+
+#W32($A8)
+TURNING<END>
+//POINTER #43 @ $AC - STRING #43 @ $696
+
+#W32($AC)
+STABILITY<END>
+//POINTER #44 @ $B0 - STRING #44 @ $6A0
+
+#W32($B0)
+OIL TEMP<END>
+//POINTER #45 @ $B4 - STRING #45 @ $6AA
+
+#W32($B4)
+WATER TEMP<END>
+//POINTER #46 @ $B8 - STRING #46 @ $6B4
+
+#W32($B8)
+TRACTION<END>
+//POINTER #47 @ $BC - STRING #47 @ $6C2
+
+#W32($BC)
+DURABILITY<END>
+//POINTER #48 @ $C0 - STRING #48 @ $6CA
+
+#W32($C0)
+WEIGHT<END>
+//POINTER #49 @ $C4 - STRING #49 @ $6D0
+
+#W32($C4)
+調整したセッティングを３種類まで登録することができます。<END>
+//POINTER #50 @ $C8 - STRING #50 @ $70A
+
+#W32($C8)
+セッティングを終了して、ガレージに戻ります。<END>
+//POINTER #51 @ $CC - STRING #51 @ $738
+
+#W32($CC)
+走行に戻ります。<END>
+//POINTER #52 @ $D0 - STRING #52 @ $74A
+
+#W32($D0)
+向上させたい性能を選択すると、調整が必要なセッティング項目が表示されます。<END>
+//POINTER #53 @ $D4 - STRING #53 @ $796
+
+#W32($D4)
+ミッションのセッティングを行います。<END>
+//POINTER #54 @ $D8 - STRING #54 @ $7BC
+
+#W32($D8)
+アライメントのセッティングを行います。<END>
+//POINTER #55 @ $DC - STRING #55 @ $7E4
+
+#W32($DC)
+サスペンションのセッティングを行います。<END>
+//POINTER #56 @ $E0 - STRING #56 @ $80E
+
+#W32($E0)
+ブレーキバランス、ダウンフォース、ドライブバランス、ターボブーストのセッティングを行います。<END>
+//POINTER #57 @ $E4 - STRING #57 @ $86C
+
+#W32($E4)
+ディファレンシャルを選択します。機械式ＬＳＤの装着により、駆動、旋回の特性が変化します。<END>
+//POINTER #58 @ $E8 - STRING #58 @ $8C6
+
+#W32($E8)
+タイヤを交換します。<END>
+//POINTER #59 @ $EC - STRING #59 @ $8DC
+
+#W32($EC)
+インチアップをします。インチアップすることでタイヤの横方向の剛性を上げたり、見た目を変化させたりします。<END>
+//POINTER #60 @ $F0 - STRING #60 @ $946
+
+#W32($F0)
+加速力を向上させます。加速力は上昇しますが、最高速度は低下します。<END>
+//POINTER #61 @ $F4 - STRING #61 @ $98A
+
+#W32($F4)
+最高速を向上させます。最高速度が上昇しますが、加速力は低下します。<END>
+//POINTER #62 @ $F8 - STRING #62 @ $9CE
+
+#W32($F8)
+ドリフト走行の性能を向上させます。ドリフト走行がし易くなりますが、グリップ走行はしにくくなります。<END>
+//POINTER #63 @ $FC - STRING #63 @ $A32
+
+#W32($FC)
+グリップ走行の性能を向上させます。グリップ走行がし易くなりますが、ドリフト走行はしにくくなります。<END>
+//POINTER #64 @ $100 - STRING #64 @ $A96
+
+#W32($100)
+車の旋回性能を向上させます。小回りがきくようになりますが、直進性能は低下します。<END>
+//POINTER #65 @ $104 - STRING #65 @ $AE8
+
+#W32($104)
+車の直進性能を向上させます。まっすぐ走りやすくなりますが、カーブなどで曲がりにくくなります。<END>
+//POINTER #66 @ $108 - STRING #66 @ $B46
+
+#W32($108)
+ギアレシオを調整することで加速力を向上させます。<END>
+//POINTER #67 @ $10C - STRING #67 @ $B78
+
+#W32($10C)
+リアスポイラーの角度を調整することで加速力を向上させます。<END>
+//POINTER #68 @ $110 - STRING #68 @ $BB4
+
+#W32($110)
+ターボブーストを上げることで加速力を向上させます。<END>
+//POINTER #69 @ $114 - STRING #69 @ $BE8
+
+#W32($114)
+ギアレシオを調整することで最高速を向上させます。<END>
+//POINTER #70 @ $118 - STRING #70 @ $C1A
+
+#W32($118)
+リアスポイラーの角度を調整することで最高速を向上させます。<END>
+//POINTER #71 @ $11C - STRING #71 @ $C56
+
+#W32($11C)
+ターボブーストを上げることで最高速を向上させます。<END>
+//POINTER #72 @ $120 - STRING #72 @ $C8A
+
+#W32($120)
+スプリングを調整することでドリフト走行を向上させます。<END>
+//POINTER #73 @ $124 - STRING #73 @ $CC2
+
+#W32($124)
+ダンパーを調整することでドリフト走行を向上させます。<END>
+//POINTER #74 @ $128 - STRING #74 @ $CF8
+
+#W32($128)
+スタビライザーを調整することでドリフト走行を向上させます。<END>
+//POINTER #75 @ $12C - STRING #75 @ $D34
+
+#W32($12C)
+トー角を調整することでドリフト走行を向上させます。<END>
+//POINTER #76 @ $130 - STRING #76 @ $D68
+
+#W32($130)
+キャンバー角を調整することでドリフト走行を向上させます。<END>
+//POINTER #77 @ $134 - STRING #77 @ $DA2
+
+#W32($134)
+リアスポイラーの角度を調整することでドリフト走行を向上させます。<END>
+//POINTER #78 @ $138 - STRING #78 @ $DE4
+
+#W32($138)
+前後のブレーキバランスを調整することでドリフト走行を向上させます。<END>
+//POINTER #79 @ $13C - STRING #79 @ $E28
+
+#W32($13C)
+駆動力配分を調整することでドリフト走行を向上させます。<END>
+//POINTER #80 @ $140 - STRING #80 @ $E60
+
+#W32($140)
+スプリングを調整することでグリップ走行を向上させます。<END>
+//POINTER #81 @ $144 - STRING #81 @ $E98
+
+#W32($144)
+ダンパーを調整することでグリップ走行を向上させます。<END>
+//POINTER #82 @ $148 - STRING #82 @ $ECE
+
+#W32($148)
+スタビライザーを調整することでグリップ走行を向上させます。<END>
+//POINTER #83 @ $14C - STRING #83 @ $F0A
+
+#W32($14C)
+トー角を調整することでグリップ走行を向上させます。<END>
+//POINTER #84 @ $150 - STRING #84 @ $F3E
+
+#W32($150)
+キャンバー角を調整することでグリップ走行を向上させます。<END>
+//POINTER #85 @ $154 - STRING #85 @ $F78
+
+#W32($154)
+リアスポイラーの角度を調整することでグリップ走行を向上させます。<END>
+//POINTER #86 @ $158 - STRING #86 @ $FBA
+
+#W32($158)
+前後のブレーキバランスを調整することでグリップ走行を向上させます。<END>
+//POINTER #87 @ $15C - STRING #87 @ $FFE
+
+#W32($15C)
+駆動力配分を調整することでグリップ走行を向上させます。<END>
+//POINTER #88 @ $160 - STRING #88 @ $1036
+
+#W32($160)
+スプリングを調整することで旋回性を向上させます。<END>
+//POINTER #89 @ $164 - STRING #89 @ $1068
+
+#W32($164)
+ダンパーを調整することで旋回性を向上させます。<END>
+//POINTER #90 @ $168 - STRING #90 @ $1098
+
+#W32($168)
+スタビライザーを調整することで旋回性を向上させます。<END>
+//POINTER #91 @ $16C - STRING #91 @ $10CE
+
+#W32($16C)
+車高を調整することで旋回性を向上させます。<END>
+//POINTER #92 @ $170 - STRING #92 @ $10FA
+
+#W32($170)
+駆動力配分を調整することで旋回性を向上させます。<END>
+//POINTER #93 @ $174 - STRING #93 @ $112C
+
+#W32($174)
+トー角を調整することで旋回性を向上させます。<END>
+//POINTER #94 @ $178 - STRING #94 @ $115A
+
+#W32($178)
+スプリングを調整することで直進安定性を向上させます。<END>
+//POINTER #95 @ $17C - STRING #95 @ $1190
+
+#W32($17C)
+ダンパーを調整することで直進安定性を向上させます。<END>
+//POINTER #96 @ $180 - STRING #96 @ $11C4
+
+#W32($180)
+スタビライザーを調整することで直進安定性を向上させます。<END>
+//POINTER #97 @ $184 - STRING #97 @ $11FE
+
+#W32($184)
+車高を調整することで直進安定性を向上させます。<END>
+//POINTER #98 @ $188 - STRING #98 @ $122E
+
+#W32($188)
+駆動力配分を調整することで直進安定性を向上させます。<END>
+//POINTER #99 @ $18C - STRING #99 @ $1264
+
+#W32($18C)
+トー角を調整することで直進安定性を向上させます。<END>
+//POINTER #100 @ $190 - STRING #100 @ $1296
+
+#W32($190)
+追加調整を選択すると更に詳細な調整が行なえます。<END>
+//POINTER #101 @ $194 - STRING #101 @ $12C8
+
+#W32($194)
+ギアレシオが高いほど加速重視のセッティングに、低いほど最高速重視のセッティングになります。<END>
+//POINTER #102 @ $198 - STRING #102 @ $1324
+
+#W32($198)
+タイヤを上から見た角度を調整します。フロントをＩＮ、リアをＯＵＴ寄りにすると旋回性能が向上し、逆にすると安定性が向上します。<END>
+//POINTER #103 @ $19C - STRING #103 @ $13A2
+
+#W32($19C)
+タイヤを前から見た角度を調整します。ＮＥＧＡＴＩＶＥ寄りにするとコーナリング中に車体がロールした時のグリップが向上します。<END>
+//POINTER #104 @ $1A0 - STRING #104 @ $141E
+
+#W32($1A0)
+スプリングの固さを調整します。ＨＡＲＤ寄りにすると荷重の移動量が減り、車体が安定しますが、凹凸面で跳ねやすくなります。<END>
+//POINTER #105 @ $1A4 - STRING #105 @ $1496
+
+#W32($1A4)
+ダンパーの減衰力を調整します。ＨＡＲＤ寄りにするとスプリングの振動を吸収し易くなりますが、強すぎるとハンドルレスポンスが低下します。<END>
+//POINTER #106 @ $1A8 - STRING #106 @ $151C
+
+#W32($1A8)
+スタビライザーの固さを調整します。ＨＡＲＤ寄りにすると車体のねじれが抑制されコーナリングが安定しますが、挙動がシビアになります。<END>
+//POINTER #107 @ $1AC - STRING #107 @ $159E
+
+#W32($1AC)
+車高を調整します。低くすると重心が下がり、挙動が安定しますが、低すぎるとサスのストローク量が減り、ショックを吸収し難くなります。<END>
+//POINTER #108 @ $1B0 - STRING #108 @ $1620
+
+#W32($1B0)
+前後のブレーキバランスを調整します。フロント寄りにすることでグリップ傾向、リア寄りにすることでドリフト傾向になります。<END>
+//POINTER #109 @ $1B4 - STRING #109 @ $1698
+
+#W32($1B4)
+リアスポイラーの角度を調整し、ダウンフォースを変化させます。角度を上げるとリアグリップ力が増す反面、最高速や加速が低くなります。<END>
+//POINTER #110 @ $1B8 - STRING #110 @ $171A
+
+#W32($1B8)
+駆動力配分を調整し、挙動特性を変化させます。フロント寄りにすることでＦＦ、リア寄りにすることでＦＲに近い挙動になります。<END>
+//POINTER #111 @ $1BC - STRING #111 @ $1794
+
+#W32($1BC)
+ターボブーストを上げることによって最大出力が一時的に上がりますが、熱ダレが発生し易くなります。<END>
+//POINTER #112 @ $1C0 - STRING #112 @ $17F4
+
+#W32($1C0)
+フロントのディファレンシャルを選択します。<END>
+//POINTER #113 @ $1C4 - STRING #113 @ $1820
+
+#W32($1C4)
+リアのディファレンシャルを選択します。<END>
+//POINTER #114 @ $1C8 - STRING #114 @ $1848
+
+#W32($1C8)
+ノーマルデフを装着します。<END>
+//POINTER #115 @ $1CC - STRING #115 @ $1864
+
+#W32($1CC)
+アクセルをＯＮにした時のみ、デフの効果を抑制します。減速時の旋回性を保ちつつ、加速時の駆動力を向上させます。<END>
+//POINTER #116 @ $1D0 - STRING #116 @ $18D2
+
+#W32($1D0)
+アクセルのＯＮ、ＯＦＦ両方の状態でデフの効果を抑制しますが、ＯＦＦの時の抑制力は１ＷＡＹと２ＷＡＹの中間くらいになります。<END>
+//POINTER #117 @ $1D4 - STRING #117 @ $194E
+
+#W32($1D4)
+アクセルのＯＮ、ＯＦＦ両方の状態でデフの効果を抑制します。加速時の駆動力、減速時の安定性は上昇しますが、曲がり難くなります。<END>
+//POINTER #118 @ $1D8 - STRING #118 @ $19CC
+
+#W32($1D8)
+メーカーを選択してください。<END>
+//POINTER #119 @ $1DC - STRING #119 @ $19EA
+
+#W32($1DC)
+ノーマルタイヤを装着します。<END>
+//POINTER #120 @ $1E0 - STRING #120 @ $1A08
+
+#W32($1E0)
+ハイグリップタイヤを装着します。グリップ力が上昇します。ＷＥＴ状態の路面に向いています。<END>
+//POINTER #121 @ $1E4 - STRING #121 @ $1A62
+
+#W32($1E4)
+Ｓタイヤ（ハードコンパウンド）を装着します。ハイグリップタイヤに比べてグリップ力は上昇しますが、寿命は短くなります。<END>
+//POINTER #122 @ $1E8 - STRING #122 @ $1AD8
+
+#W32($1E8)
+Ｓタイヤ（ミディアムコンパウンド）を装着します。Ｓタイヤ（ハード）に比べてグリップ力は上昇しますが、寿命は短くなります。<END>
+//POINTER #123 @ $1EC - STRING #123 @ $1B52
+
+#W32($1EC)
+Ｓタイヤ（ソフトコンパウンド）を装着します。最もグリップ力に優れますが、寿命は最も短くなります。<END>
+//POINTER #124 @ $1F0 - STRING #124 @ $1BB4
+
+#W32($1F0)
+インチアップするサイズを選択してください。<END>
+//POINTER #125 @ $1F4 - STRING #125 @ $1BE0
+
+#W32($1F4)
+加速<END>
+//POINTER #126 @ $1F8 - STRING #126 @ $1BE6
+
+#W32($1F8)
+減速<END>
+//POINTER #127 @ $1FC - STRING #127 @ $1BEC
+
+#W32($1FC)
+リプレイデータをセーブするメモリーカード（ＰＳ２）を選択してください<END>
+//POINTER #128 @ $200 - STRING #128 @ $1C32
+
+#W32($200)
+メモリーカード（ＰＳ２）をチェックしています……<END>
+//POINTER #129 @ $204 - STRING #129 @ $1C64
+
+#W32($204)
+メモリーカード（ＰＳ２）のチェックに失敗しました<END>
+//POINTER #130 @ $208 - STRING #130 @ $1C96
+
+#W32($208)
+メモリーカード差込口１・２にメモリーカード（ＰＳ２）が接続されていません<END>
+//POINTER #131 @ $20C - STRING #131 @ $1CE0
+
+#W32($20C)
+メモリーカード（ＰＳ２）を接続してください<END>
+//POINTER #132 @ $210 - STRING #132 @ $1D0C
+
+#W32($210)
+メモリーカード差込口＃に接続されているメモリーカード（ＰＳ２）は<END>
+//POINTER #133 @ $214 - STRING #133 @ $1D4E
+
+#W32($214)
+フォーマットされていません<END>
+//POINTER #134 @ $218 - STRING #134 @ $1D6A
+
+#W32($218)
+フォーマットしてよろしいですか？<END>
+//POINTER #135 @ $21C - STRING #135 @ $1D8C
+
+#W32($21C)
+メモリーカード差込口＃に接続されているメモリーカード（ＰＳ２）を<END>
+//POINTER #136 @ $220 - STRING #136 @ $1DCE
+
+#W32($220)
+フォーマットしています<END>
+//POINTER #137 @ $224 - STRING #137 @ $1DE6
+
+#W32($224)
+Do not remove the MEMORY CARD（PS2）or controller<END>
+//POINTER #138 @ $228 - STRING #138 @ $1E1E
+
+#W32($228)
+Do not turn off the ”PlayStation 2” console<END>
+//POINTER #139 @ $22C - STRING #139 @ $1E64
+
+#W32($22C)
+フォーマットに失敗しました<END>
+//POINTER #140 @ $230 - STRING #140 @ $1E80
+
+#W32($230)
+もう一度フォーマットしてよろしいですか？<END>
+//POINTER #141 @ $234 - STRING #141 @ $1EAA
+
+#W32($234)
+メモリーカード差込口＃に接続されているメモリーカード（ＰＳ２）の<END>
+//POINTER #142 @ $238 - STRING #142 @ $1EEC
+
+#W32($238)
+空き容量が不足しています<END>
+//POINTER #143 @ $23C - STRING #143 @ $1F06
+
+#W32($23C)
+レーシングバトルのリプレイデータをセーブするには<END>
+//POINTER #144 @ $240 - STRING #144 @ $1F38
+
+#W32($240)
+４３０ＫＢ以上の空き容量が必要です<END>
+//POINTER #145 @ $244 - STRING #145 @ $1F5C
+
+#W32($244)
+メモリーカード差込口＃に接続されているメモリーカード（ＰＳ２）に<END>
+//POINTER #146 @ $248 - STRING #146 @ $1F9E
+
+#W32($248)
+レーシングバトルのリプレイデータを作成してよろしいですか？<END>
+//POINTER #147 @ $24C - STRING #147 @ $1FDA
+
+#W32($24C)
+メモリーカード差込口＃に接続されているメモリーカード（ＰＳ２）には<END>
+//POINTER #148 @ $250 - STRING #148 @ $201E
+
+#W32($250)
+レーシングバトルのリプレイデータが存在します<END>
+//POINTER #149 @ $254 - STRING #149 @ $204C
+
+#W32($254)
+選択した枠にはレーシングバトルの<END>
+//POINTER #150 @ $258 - STRING #150 @ $206E
+
+#W32($258)
+リプレイデータが存在します<END>
+//POINTER #151 @ $25C - STRING #151 @ $208A
+
+#W32($25C)
+上書きしてよろしいですか？<END>
+//POINTER #152 @ $260 - STRING #152 @ $20A6
+
+#W32($260)
+メモリーカード差込口＃に接続されているメモリーカード（ＰＳ２）に<END>
+//POINTER #153 @ $264 - STRING #153 @ $20E8
+
+#W32($264)
+リプレイデータをセーブしています<END>
+//POINTER #154 @ $268 - STRING #154 @ $210A
+
+#W32($268)
+Do not remove the MEMORY CARD（PS2）or controller<END>
+//POINTER #155 @ $26C - STRING #155 @ $2142
+
+#W32($26C)
+Do not turn off the ”PlayStation 2” console<END>
+//POINTER #156 @ $270 - STRING #156 @ $2188
+
+#W32($270)
+リプレイデータ＊＊のセーブに成功しました<END>
+//POINTER #157 @ $274 - STRING #157 @ $21B2
+
+#W32($274)
+セーブに失敗しました<END>
+//POINTER #158 @ $278 - STRING #158 @ $21C8
+
+#W32($278)
+Abandon saving game data？<END>
+//POINTER #159 @ $27C - STRING #159 @ $21EA
+
+#W32($27C)
+メモリーカード差込口＃に接続されているメモリーカード（ＰＳ２）は<END>
+//POINTER #160 @ $280 - STRING #160 @ $222C
+
+#W32($280)
+破損しています<END>
+//POINTER #161 @ $284 - STRING #161 @ $223C
+
+#W32($284)
+MEMORY CARD 1<END>
+//POINTER #162 @ $288 - STRING #162 @ $2258
+
+#W32($288)
+MEMORY CARD 2<END>
+//POINTER #163 @ $28C - STRING #163 @ $2274
+
+#W32($28C)
+新規保存<END>
+//POINTER #164 @ $290 - STRING #164 @ $227E
+
+#W32($290)
+上書き保存<END>
+//POINTER #165 @ $294 - STRING #165 @ $228A
+
+#W32($294)
+SAVE DATA<END>
+//POINTER #166 @ $298 - STRING #166 @ $229E
+
+#W32($298)
+メモリーカード差込口＃に接続されているメモリーカード（ＰＳ２）の<END>
+//POINTER #167 @ $29C - STRING #167 @ $22E0
+
+#W32($29C)
+リプレイデータをチェックしています<END>
+//POINTER #168 @ $2A0 - STRING #168 @ $2304
+
+#W32($2A0)
+Do not remove the MEMORY CARD（PS2）or controller<END>
+//POINTER #169 @ $2A4 - STRING #169 @ $233C
+
+#W32($2A4)
+Do not turn off the ”PlayStation 2” console<END>
+//POINTER #170 @ $2A8 - STRING #170 @ $2382
+
+#W32($2A8)
+チェックに失敗しました<END>
+//POINTER #171 @ $2AC - STRING #171 @ $239A
+
+#W32($2AC)
+チェックを終了してよろしいですか？<END>
+//POINTER #172 @ $2B0 - STRING #172 @ $23BE
+
+#W32($2B0)
+Abandon saving game data？<END>
+//POINTER #173 @ $2B4 - STRING #173 @ $23E0
+
+#W32($2B4)
+メモリーカード差込口＃に接続されている<END>
+//POINTER #174 @ $2B8 - STRING #174 @ $2408
+
+#W32($2B8)
+メモリーカード（ＰＳ２）に<END>
+//POINTER #175 @ $2BC - STRING #175 @ $2424
+
+#W32($2BC)
+リプレイデータをセーブしています<END>
+//POINTER #176 @ $2C0 - STRING #176 @ $2446
+
+#W32($2C0)
+本体の電源オフやリセット、メモリーカード（ＰＳ２）<END>
+//POINTER #177 @ $2C4 - STRING #177 @ $247A
+
+#W32($2C4)
+やコントローラの抜き差しは行わないでください<END>
+//POINTER #178 @ $2C8 - STRING #178 @ $24A8
+
+#W32($2C8)
+Checking memory card （8MB）（for Playstation 2）<END>
+//POINTER #179 @ $2CC - STRING #179 @ $2504
+
+#W32($2CC)
+in MEMORY CARD slot 1 and 2。 Do not remove<END>
+//POINTER #180 @ $2D0 - STRING #180 @ $255A
+
+#W32($2D0)
+memory card （8MB）（for Playstation 2）、 controller、<END>
+//POINTER #181 @ $2D4 - STRING #181 @ $25BE
+
+#W32($2D4)
+or reset／switch off the console。<END>
+//POINTER #182 @ $2D8 - STRING #182 @ $2600
+
+#W32($2D8)
+メモリーカード差込口＃に接続されているメモリーカード（ＰＳ２）を<END>
+//POINTER #183 @ $2DC - STRING #183 @ $2642
+
+#W32($2DC)
+チェックしています<END>
+//POINTER #184 @ $2E0 - STRING #184 @ $2656
+
+#W32($2E0)
+Do not remove the MEMORY CARD（PS2）or controller<END>
+//POINTER #185 @ $2E4 - STRING #185 @ $268E
+
+#W32($2E4)
+Do not turn off the ”PlayStation 2” console<END>
+//POINTER #186 @ $2E8 - STRING #186 @ $26D4
+
+#W32($2E8)
+メモリーカード差込口＃に接続されているメモリーカード（ＰＳ２）の中にある<END>
+//POINTER #187 @ $2EC - STRING #187 @ $271E
+
+#W32($2EC)
+レーシングバトルのリプレイデータは破損しています<END>
+
+//BLOCK #001 NAME:		737.bin File - ASCII Block
+
+#ACTIVETBL(tbl2)
+
+//POINTER #0 @ $2F0 - STRING #0 @ $2778
+
+#W32($2F0)
+SETTING DATA<END>
+//POINTER #1 @ $2F4 - STRING #1 @ $2788
+
+#W32($2F4)
+SETTING 1<END>
+//POINTER #2 @ $2F8 - STRING #2 @ $2794
+
+#W32($2F8)
+COURSE SETTING<END>
+//POINTER #3 @ $2FC - STRING #3 @ $27A4
+
+#W32($2FC)
+5ZIGEN<END>
+//POINTER #4 @ $300 - STRING #4 @ $27AC
+
+#W32($300)
+ARC<END>
+//POINTER #5 @ $304 - STRING #5 @ $27B0
+
+#W32($304)
+Biot<END>
+//POINTER #6 @ $308 - STRING #6 @ $27B8
+
+#W32($308)
+GAB<END>
+//POINTER #7 @ $30C - STRING #7 @ $27BC
+
+#W32($30C)
+GP SPORTS<END>
+//POINTER #8 @ $310 - STRING #8 @ $27C8
+
+#W32($310)
+HKS<END>
+//POINTER #9 @ $314 - STRING #9 @ $27CC
+
+#W32($314)
+JIC<END>
+//POINTER #10 @ $318 - STRING #10 @ $27D0
+
+#W32($318)
+JUN<END>
+//POINTER #11 @ $31C - STRING #11 @ $27D4
+
+#W32($31C)
+OS GIKEN<END>
+//POINTER #12 @ $320 - STRING #12 @ $27E0
+
+#W32($320)
+RE Amemiya<END>
+//POINTER #13 @ $324 - STRING #13 @ $27EC
+
+#W32($324)
+RS-R<END>
+//POINTER #14 @ $328 - STRING #14 @ $27F4
+
+#W32($328)
+STI<END>
+//POINTER #15 @ $32C - STRING #15 @ $27F8
+
+#W32($32C)
+SUZUKI SPORTS<END>
+//POINTER #16 @ $330 - STRING #16 @ $2808
+
+#W32($330)
+TRD<END>
+//POINTER #17 @ $334 - STRING #17 @ $280C
+
+#W32($334)
+A'PEXi<END>
+//POINTER #18 @ $338 - STRING #18 @ $2814
+
+#W32($338)
+ESSENTIAL<END>
+//POINTER #19 @ $33C - STRING #19 @ $2820
+
+#W32($33C)
+ENDLESS<END>
+//POINTER #20 @ $340 - STRING #20 @ $2828
+
+#W32($340)
+OHLINS<END>
+//POINTER #21 @ $344 - STRING #21 @ $2830
+
+#W32($344)
+OKUYAMA<END>
+//POINTER #22 @ $348 - STRING #22 @ $2838
+
+#W32($348)
+Ogura Racing Clutch<END>
+//POINTER #23 @ $34C - STRING #23 @ $284C
+
+#W32($34C)
+KAAZ<END>
+//POINTER #24 @ $350 - STRING #24 @ $2854
+
+#W32($350)
+SILK ROAD<END>
+//POINTER #25 @ $354 - STRING #25 @ $2860
+
+#W32($354)
+COOL MAX<END>
+//POINTER #26 @ $358 - STRING #26 @ $286C
+
+#W32($358)
+CUSCO<END>
+//POINTER #27 @ $35C - STRING #27 @ $2874
+
+#W32($35C)
+RAYS(GramLights)<END>
+//POINTER #28 @ $360 - STRING #28 @ $2888
+
+#W32($360)
+QUANTUM<END>
+//POINTER #29 @ $364 - STRING #29 @ $2890
+
+#W32($364)
+KENSTYLE<END>
+//POINTER #30 @ $368 - STRING #30 @ $289C
+
+#W32($368)
+SARD<END>
+//POINTER #31 @ $36C - STRING #31 @ $28A4
+
+#W32($36C)
+Sequential<END>
+//POINTER #32 @ $370 - STRING #32 @ $28B0
+
+#W32($370)
+ZEAL<END>
+//POINTER #33 @ $374 - STRING #33 @ $28B8
+
+#W32($374)
+SiGNAL<END>
+//POINTER #34 @ $378 - STRING #34 @ $28C0
+
+#W32($378)
+SYMS<END>
+//POINTER #35 @ $37C - STRING #35 @ $28C8
+
+#W32($37C)
+superAUTOBACS<END>
+//POINTER #36 @ $380 - STRING #36 @ $28D8
+
+#W32($380)
+tanabe<END>
+//POINTER #37 @ $384 - STRING #37 @ $28E0
+
+#W32($384)
+TEIN<END>
+//POINTER #38 @ $388 - STRING #38 @ $28E8
+
+#W32($388)
+Techno PRO Spirit<END>
+//POINTER #39 @ $38C - STRING #39 @ $28FC
+
+#W32($38C)
+TRUST<END>
+//POINTER #40 @ $390 - STRING #40 @ $2904
+
+#W32($390)
+KNIGHT SPORTS<END>
+//POINTER #41 @ $394 - STRING #41 @ $2914
+
+#W32($394)
+NISMO<END>
+//POINTER #42 @ $398 - STRING #42 @ $291C
+
+#W32($398)
+NOPRO<END>
+//POINTER #43 @ $39C - STRING #43 @ $2924
+
+#W32($39C)
+BUDDY CLUB<END>
+//POINTER #44 @ $3A0 - STRING #44 @ $2930
+
+#W32($3A0)
+FUJITA ENGINEERING<END>
+//POINTER #45 @ $3A4 - STRING #45 @ $2944
+
+#W32($3A4)
+FUJITSUBO<END>
+//POINTER #46 @ $3A8 - STRING #46 @ $2950
+
+#W32($3A8)
+BLITZ<END>
+//POINTER #47 @ $3AC - STRING #47 @ $2958
+
+#W32($3AC)
+project Mu<END>
+//POINTER #48 @ $3B0 - STRING #48 @ $2964
+
+#W32($3B0)
+PRODRIVE<END>
+//POINTER #49 @ $3B4 - STRING #49 @ $2970
+
+#W32($3B4)
+Prof<END>
+//POINTER #50 @ $3B8 - STRING #50 @ $2978
+
+#W32($3B8)
+POTENZA<END>
+//POINTER #51 @ $3BC - STRING #51 @ $2980
+
+#W32($3BC)
+Mine's<END>
+//POINTER #52 @ $3C0 - STRING #52 @ $2988
+
+#W32($3C0)
+MAXIM WORKS<END>
+//POINTER #53 @ $3C4 - STRING #53 @ $2994
+
+#W32($3C4)
+MAZDASPEED<END>
+//POINTER #54 @ $3C8 - STRING #54 @ $29A0
+
+#W32($3C8)
+MoTeC<END>
+//POINTER #55 @ $3CC - STRING #55 @ $29A8
+
+#W32($3CC)
+monster<END>
+//POINTER #56 @ $3D0 - STRING #56 @ $29B0
+
+#W32($3D0)
+RALLIART<END>
+//POINTER #57 @ $3D4 - STRING #57 @ $29BC
+
+#W32($3D4)
+RACING GEAR<END>
+//POINTER #58 @ $3D8 - STRING #58 @ $29C8
+
+#W32($3D8)
+KAKIMOTO RACING<END>
+//POINTER #59 @ $3DC - STRING #59 @ $29D8
+
+#W32($3DC)
+Kei Office<END>
+//POINTER #60 @ $3E0 - STRING #60 @ $29E4
+
+#W32($3E0)
+MUGEN<END>
+//POINTER #61 @ $3E4 - STRING #61 @ $29EC
+
+#W32($3E4)
+Defi<END>
+//POINTER #62 @ $3E8 - STRING #62 @ $29F4
+
+#W32($3E8)
+pivot<END>
+//POINTER #63 @ $3EC - STRING #63 @ $29FC
+
+#W32($3EC)
+STACK<END>
+//POINTER #64 @ $3F0 - STRING #64 @ $2A04
+
+#W32($3F0)
+G;FLAP<END>
+//POINTER #65 @ $3F4 - STRING #65 @ $2A0C
+
+#W32($3F4)
+GRP<END>
+//POINTER #66 @ $3F8 - STRING #66 @ $2A10
+
+#W32($3F8)
+ROUTE KS<END>
+//POINTER #67 @ $3FC - STRING #67 @ $2A1C
+
+#W32($3FC)
+YOKOHAMA<END>
+//POINTER #68 @ $400 - STRING #68 @ $2A28
+
+#W32($400)
+ENKEI<END>
+//POINTER #69 @ $404 - STRING #69 @ $2A30
+
+#W32($404)
+HART<END>
+//POINTER #70 @ $408 - STRING #70 @ $2A38
+
+#W32($408)
+RAYS(VOLK RACING)<END>
+//POINTER #71 @ $40C - STRING #71 @ $2A4C
+
+#W32($40C)
+BIM<END>
+//POINTER #72 @ $410 - STRING #72 @ $2A50
+
+#W32($410)
+SPARCO<END>
+//POINTER #73 @ $414 - STRING #73 @ $2A58
+
+#W32($414)
+WATANABE<END>
+//POINTER #74 @ $418 - STRING #74 @ $2A64
+
+#W32($418)
+SPEEDLINE<END>
+//POINTER #75 @ $41C - STRING #75 @ $2A70
+
+#W32($41C)
+Lehrmeister<END>
+//POINTER #76 @ $420 - STRING #76 @ $2A7C
+
+#W32($420)
+WORK<END>
+//POINTER #77 @ $424 - STRING #77 @ $2A84
+
+#W32($424)
+ADVAN<END>
+//POINTER #78 @ $428 - STRING #78 @ $2A8C
+
+#W32($428)
+RIDOX<END>
+//POINTER #79 @ $42C - STRING #79 @ $2A94
+
+#W32($42C)
+NOB<END>
+//POINTER #80 @ $430 - STRING #80 @ $2A98
+
+#W32($430)
+MCR<END>
+//POINTER #81 @ $434 - STRING #81 @ $2A9C
+
+#W32($434)
+Garage HRS<END>
+//POINTER #82 @ $438 - STRING #82 @ $2AA8
+
+#W32($438)
+M SPEED<END>
+//POINTER #83 @ $43C - STRING #83 @ $2AB0
+
+#W32($43C)
+ALPINE<END>
+//POINTER #84 @ $440 - STRING #84 @ $2AB8
+
+#W32($440)
+Sun Line Auto<END>
+//POINTER #85 @ $444 - STRING #85 @ $2AC8
+
+#W32($444)
+C-WEST<END>
+//POINTER #86 @ $448 - STRING #86 @ $2AD0
+
+#W32($448)
+AQUA<END>
+//POINTER #87 @ $44C - STRING #87 @ $2AD8
+
+#W32($44C)
+SA CHIBA NAGANUMA<END>
+//POINTER #88 @ $450 - STRING #88 @ $2AEC
+
+#W32($450)
+SUNAUTO<END>
+//POINTER #89 @ $454 - STRING #89 @ $2AF4
+
+#W32($454)
+CyberEvo<END>
+//POINTER #90 @ $458 - STRING #90 @ $2B00
+
+#W32($458)
+R MAGIC<END>

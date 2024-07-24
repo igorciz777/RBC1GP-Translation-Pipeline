@@ -1,0 +1,54 @@
+224.txt:
+    #VAR(tbl, TABLE)
+    #ADDTBL("c1gp.tbl",tbl)
+    #ACTIVETBL(tbl)
+    #JMP($4E54)
+
+227.txt:
+    #VAR(tbl, TABLE)
+    #ADDTBL("c1gp.tbl",tbl)
+    #ACTIVETBL(tbl)
+    #JMP($5B0)
+
+228.txt encoded block:
+    #VAR(tbl, TABLE)
+    #ADDTBL("c1gp.tbl",tbl)
+    #ACTIVETBL(tbl)
+    #JMP($1660)
+
+228.txt ascii block:
+    #VAR(tbl2, TABLE)
+    #ADDTBL("ascii.tbl",tbl2)
+    #ACTIVETBL(tbl2)
+
+229.txt:
+    #VAR(tbl, TABLE)
+    #ADDTBL("c1gp.tbl",tbl)
+    #ACTIVETBL(tbl)
+    #JMP($25D0)
+
+230.txt:
+    #VAR(tbl, TABLE)
+    #ADDTBL("c1gp.tbl",tbl)
+    #ACTIVETBL(tbl)
+    #JMP($15A8)
+
+231.txt Blocks 0-4:
+    #VAR(tbl, TABLE)
+    #ADDTBL("c1gp.tbl",tbl)
+    #ACTIVETBL(tbl)
+    #JMP($10)
+
+231.txt Block 5:
+    #JMP($35F3C)
+
+737.txt encoded block:
+    #VAR(tbl, TABLE)
+    #ADDTBL("c1gp.tbl",tbl)
+    #ACTIVETBL(tbl)
+    #JMP($45C)
+
+737.txt ascii block:
+    #VAR(tbl2, TABLE)
+    #ADDTBL("ascii.tbl",tbl2)
+    #ACTIVETBL(tbl2)
