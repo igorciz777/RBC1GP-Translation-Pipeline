@@ -2,14 +2,19 @@
 
 //BLOCK #000 NAME:		227.bin File - Encoded Block
 
+ #VAR(tbl, TABLE)
+#ADDTBL("c1gp.tbl",tbl)
+#ACTIVETBL(tbl)
+#JMP($5B0)
+
 //POINTER #0 @ $0 - STRING #0 @ $5B0
 
 #W32($0)
-レーシングバトルの世界へようこそ！　まずは、あなたの拠点となるガレージを選んでください。<END>
+Welcome to the world of RACING BATTLE！ First、choose your garage type．<END>
 //POINTER #1 @ $4 - STRING #1 @ $60A
 
 #W32($4)
-ガレージが決まったら、次は車を購入しましょう。新車ディーラー、中古車ディーラーのどちらからも購入することができます。<END>
+Next step is to purchase a car．You can buy one from the NEW／USED CAR DEALER．<END>
 //POINTER #2 @ $8 - STRING #2 @ $680
 
 #W32($8)
@@ -1181,7 +1186,7 @@
 //POINTER #294 @ $498 - STRING #294 @ $4D9C
 
 #W32($498)
-ブレーキアシストをＯＮにすると、ステアリング操作とブレーキ操作のアシスト機能が有効になります。<END>
+When you turn on Brake Assist、 the steering and braking assist will be enabled．<END>
 //POINTER #295 @ $49C - STRING #295 @ $4DFC
 
 #W32($49C)
@@ -1201,7 +1206,7 @@
 //POINTER #299 @ $4AC - STRING #299 @ $4E82
 
 #W32($4AC)
-シフトアシストをＯＮにすると、ギアチェンジは自動で行われます。<END>
+When you turn on Shift Assist、gear changes will become automatic．<END>
 //POINTER #300 @ $4B0 - STRING #300 @ $4EC2
 
 #W32($4B0)
@@ -1233,7 +1238,7 @@
 //POINTER #307 @ $4CC - STRING #307 @ $4FF4
 
 #W32($4CC)
-ベストラインをＯＮにすると、レース中に理想の走行ラインが表示されます。<END>
+When you turn on Best Line、 an ideal driving line will be displayed on the road．<END>
 //POINTER #308 @ $4D0 - STRING #308 @ $503C
 
 #W32($4D0)

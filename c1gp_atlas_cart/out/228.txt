@@ -1160,15 +1160,15 @@ NORMAL<END>
 //POINTER #287 @ $47C - STRING #287 @ $261A
 
 #W32($47C)
-ガレージ選択<END>
+GARAGE SELECT<END>
 //POINTER #288 @ $480 - STRING #288 @ $2628
 
 #W32($480)
-搭乗車購入<END>
+BUY CAR<END>
 //POINTER #289 @ $484 - STRING #289 @ $2634
 
 #W32($484)
-名前<END>
+NAME<END>
 //POINTER #290 @ $488 - STRING #290 @ $263A
 
 #W32($488)
@@ -2896,11 +2896,11 @@ HOOD<END>
 //POINTER #721 @ $B44 - STRING #721 @ $3FB6
 
 #W32($B44)
-このガレージにしますか？<END>
+Choose this garage？<END>
 //POINTER #722 @ $B48 - STRING #722 @ $3FD0
 
 #W32($B48)
-この設定にしますか<END>
+Confirm settings？<END>
 //POINTER #723 @ $B4C - STRING #723 @ $3FE4
 
 #W32($B4C)
@@ -3272,7 +3272,7 @@ Switch to this car？<END>
 //POINTER #815 @ $CBC - STRING #815 @ $4EC0
 
 #W32($CBC)
-本日の販売車両<END>
+TODAY'S FOR SALE<END>
 //POINTER #816 @ $CC0 - STRING #816 @ $4ED0
 
 #W32($CC0)
@@ -3280,7 +3280,7 @@ Switch to this car？<END>
 //POINTER #817 @ $CC4 - STRING #817 @ $4EDE
 
 #W32($CC4)
-車両選択<END>
+CARS<END>
 //POINTER #818 @ $CC8 - STRING #818 @ $4EE8
 
 #W32($CC8)
@@ -3288,7 +3288,7 @@ Switch to this car？<END>
 //POINTER #819 @ $CCC - STRING #819 @ $4F04
 
 #W32($CCC)
-売却可能な車両を所持していません<END>
+NO AVAILABLE CARS TO SELL<END>
 //POINTER #820 @ $CD0 - STRING #820 @ $4F26
 
 #W32($CD0)
