@@ -2,6 +2,21 @@
 ### All necessary info is in the [repository's Wiki](https://github.com/igorciz777/RBC1GP-Translation-Pipeline/wiki)
 ### Any translations released by me (have only done work on menus so far) are at [Releases](https://github.com/igorciz777/RBC1GP-Translation-Pipeline/releases)
 ---
+## Translation status
+not real calculated %, just a guess :D
+| File | Translated |
+| ---- | ----------- |
+| `210.bin` |   0% |
+| `211.bin` |   0% |
+| `212.bin` |   0% |
+| `224.bin` |   0% |
+| `227.bin` |   5% |
+| `228.bin` |  50% |
+| `229.bin` |   0% |
+| `230.bin` |   0% |
+| `231.bin` |   0% |
+| `737.bin` |  30% |
+---
 ### Tools that made this possible
 - [GUTArchiveTools](https://github.com/igorciz777/GUTArchiveTools)
 - [Cartographer](https://www.romhacking.net/utilities/647/)
