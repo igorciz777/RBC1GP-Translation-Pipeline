@@ -16,6 +16,9 @@ not real calculated %, just a guess :D
 | `230.bin` |   0% |
 | `231.bin` |   0% |
 | `737.bin` |  30% |
+| `Textures` |   0% |
+| `Cutscenes` |   0% |
+| `Executable` |  90% |
 ---
 ### Tools that made this possible
 - [GUTArchiveTools](https://github.com/igorciz777/GUTArchiveTools)
