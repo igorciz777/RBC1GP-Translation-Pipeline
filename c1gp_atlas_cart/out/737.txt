@@ -640,11 +640,11 @@ Do not turn off the ”PlayStation 2” console<END>
 //POINTER #157 @ $274 - STRING #157 @ $21B2
 
 #W32($274)
-セーブに失敗しました<END>
+Failed to save<END>
 //POINTER #158 @ $278 - STRING #158 @ $21C8
 
 #W32($278)
-Abandon saving game data？<END>
+Abandon saving Game Data？<END>
 //POINTER #159 @ $27C - STRING #159 @ $21EA
 
 #W32($27C)
@@ -700,7 +700,7 @@ Do not turn off the ”PlayStation 2” console<END>
 //POINTER #172 @ $2B0 - STRING #172 @ $23BE
 
 #W32($2B0)
-Abandon saving game data？<END>
+Abandon saving Game Data？<END>
 //POINTER #173 @ $2B4 - STRING #173 @ $23E0
 
 #W32($2B4)
