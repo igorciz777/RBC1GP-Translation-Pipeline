@@ -7,7 +7,7 @@ comment=part of github.com/igorciz777/RBC1GP-Translation-Pipeline
 //Also changes the character spacing to fit the new text
 
 //alphanumeric character spacing
-patch=1,EE,0029E5F4,byte,08 //0A
+patch=1,EE,0029E5F4,word,24030008 //0A 00 03 24
 
 //'new game' text, only "new" fits
 patch=1,EE,005135E0,word,000E0017 //BD 01 D7 01 
@@ -293,3 +293,29 @@ patch=1,EE,0051BE0C,word,0014000C //46 08 56 01
 //'prize money', shortened to CP (game currency)
 patch=1,EE,0050B9F0,word,0019000C //61 08 75 05
 patch=1,EE,005160F0,word,0019000C //61 08 75 05
+
+//bbs categories word length fix
+patch=1,EE,0037D834,word,24030006 //05 00 03 24
+//patch=1,EE,0037D89C,word,24030008 //07 00 03 24
+patch=1,EE,0037D8C8,word,24040004 //03 00 04 24
+patch=1,EE,0037D9B4,word,24030006 //05 00 03 24
+
+//bbs event
+patch=1,EE,0050C9A0,word,001F000E //96 01 CB 01 
+patch=1,EE,0050C9A4,word,0017000E //E5 01 BA 01 
+patch=1,EE,0050C9A8,word,FFFF001D //FF FF 00 00 
+
+//bbs custom 
+patch=1,EE,0050C9B0,word,001E000C //9D 01 AB 01 
+patch=1,EE,0050C9B4,word,001D001C //B1 01 D0 01 
+patch=1,EE,0050C9B8,word,00160018 //96 01 AC 01
+
+//bbs field
+patch=1,EE,0050C9C0,word,0012000F //C7 01 95 01 
+patch=1,EE,0050C9C4,word,0015000E //5A 00 DD 01 
+patch=1,EE,0050C9C8,word,FFFF000D //BB 01 FF FF
+
+//bbs free, hardcoded to 3 letters so i went with OT (for off-topic)
+patch=1,EE,0050C9D0,word,001D0018 //11 07 14 01 
+patch=1,EE,0050C9D4,word,0000FFFF //25 0A FF FF
+patch=1,EE,0050C9D8,word,0000FFFF //00 00 00 00
