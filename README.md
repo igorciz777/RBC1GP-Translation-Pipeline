@@ -1,8 +1,4 @@
 # RBC1GP-Translation-Pipeline
-> [!WARNING]
-> Currently there is an issue with the translated files being too big, overlapping eachother.
-> 
-> Working on a potential fix inside GUT Archive Tools!
 ### All necessary info is in the [repository's Wiki](https://github.com/igorciz777/RBC1GP-Translation-Pipeline/wiki)
 ### Any translations released by me (have only done work on menus so far) are at [Releases](https://github.com/igorciz777/RBC1GP-Translation-Pipeline/releases)
 ---
