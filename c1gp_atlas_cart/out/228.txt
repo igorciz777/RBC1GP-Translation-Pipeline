@@ -1652,7 +1652,7 @@ REAR<END>
 //POINTER #410 @ $668 - STRING #410 @ $2C1E
 
 #W32($668)
-やり直し<END>
+REDO<END>
 //POINTER #411 @ $66C - STRING #411 @ $2C28
 
 #W32($66C)
@@ -1760,7 +1760,7 @@ SYMBOL<END>
 //POINTER #437 @ $6D4 - STRING #437 @ $2DAE
 
 #W32($6D4)
-BACK<END>
+BKSP<END>
 //POINTER #438 @ $6D8 - STRING #438 @ $2DB8
 
 #W32($6D8)
@@ -1772,7 +1772,7 @@ OK<END>
 //POINTER #440 @ $6E0 - STRING #440 @ $2DCC
 
 #W32($6E0)
-登録<END>
+SAVE<END>
 //POINTER #441 @ $6E4 - STRING #441 @ $2DD2
 
 #W32($6E4)
@@ -2700,7 +2700,7 @@ CAPTURE SIZE<END>
 //POINTER #672 @ $A80 - STRING #672 @ $3A24
 
 #W32($A80)
-Demo movie<END>
+Intro movie<END>
 //POINTER #673 @ $A84 - STRING #673 @ $3A32
 
 #W32($A84)
@@ -2768,27 +2768,27 @@ Ending 2<END>
 //POINTER #689 @ $AC4 - STRING #689 @ $3B60
 
 #W32($AC4)
-★ユウウツな天使 introduction<END>
+★Gloomy Angel introduction<END>
 //POINTER #690 @ $AC8 - STRING #690 @ $3B76
 
 #W32($AC8)
-★ブラッドハウンド introduction<END>
+★Blood Hound introduction<END>
 //POINTER #691 @ $ACC - STRING #691 @ $3B8E
 
 #W32($ACC)
-★裏切りのジャックナイフ introduction<END>
+★Betrayal Jackknife introduction<END>
 //POINTER #692 @ $AD0 - STRING #692 @ $3BAC
 
 #W32($AD0)
-★スティールハート introduction<END>
+★Steel Heart introduction<END>
 //POINTER #693 @ $AD4 - STRING #693 @ $3BC4
 
 #W32($AD4)
-★イナズマシフトの拓也 introduction<END>
+★Lightning Shift Takuya introduction<END>
 //POINTER #694 @ $AD8 - STRING #694 @ $3BE0
 
 #W32($AD8)
-★首都高番長 introduction<END>
+★Shutokou Bancho introduction<END>
 //POINTER #695 @ $ADC - STRING #695 @ $3BF2
 
 #W32($ADC)
@@ -2796,23 +2796,23 @@ Ending 2<END>
 //POINTER #696 @ $AE0 - STRING #696 @ $3C00
 
 #W32($AE0)
-★嘆きのプルート introduction<END>
+★Wailing Pluto introduction<END>
 //POINTER #697 @ $AE4 - STRING #697 @ $3C16
 
 #W32($AE4)
-★オリマブ introduction<END>
+★Orimabu introduction<END>
 //POINTER #698 @ $AE8 - STRING #698 @ $3C26
 
 #W32($AE8)
-Ｃ１ＧＰ／ＳＰライバル introduction<END>
+C1GP SP Rivals introduction<END>
 //POINTER #699 @ $AEC - STRING #699 @ $3C42
 
 #W32($AEC)
-Ｃ１ＧＰ／ＤＰライバル introduction<END>
+C1GP DP Rivals introduction<END>
 //POINTER #700 @ $AF0 - STRING #700 @ $3C5E
 
 #W32($AF0)
-Ｃ１ＧＰ／ＲＰライバル introduction<END>
+C1GP RP Rivals  introduction<END>
 //POINTER #701 @ $AF4 - STRING #701 @ $3C7A
 
 #W32($AF4)
@@ -3124,11 +3124,11 @@ MEMORY CARD（PS2）at MEMORY CARD Slot ＃？<END>
 //POINTER #778 @ $C28 - STRING #778 @ $4866
 
 #W32($C28)
-The RACING BATTLE Paint Data in MEMORY CARD（PS2）<END>
+The RACING BATTLE Paint Data in MEMORY CARD（PS2）connected<END>
 //POINTER #779 @ $C2C - STRING #779 @ $48B0
 
 #W32($C2C)
-at MEMORY CARD Slot ＃ is corrupted．<END>
+to MEMORY CARD Slot ＃ is corrupted．<END>
 //POINTER #780 @ $C30 - STRING #780 @ $48E2
 
 #W32($C30)
@@ -3332,23 +3332,23 @@ This item is already selected．<END>
 //POINTER #830 @ $CF8 - STRING #830 @ $508E
 
 #W32($CF8)
-同タイプのカー用品が選択されています<END>
+Item of same type is already equiped．<END>
 //POINTER #831 @ $CFC - STRING #831 @ $50B4
 
 #W32($CFC)
-装備するカー用品を登録できます<END>
+Pick an item you want to equip．<END>
 //POINTER #832 @ $D00 - STRING #832 @ $50D4
 
 #W32($D00)
-レースに持って行きたいカー用品を<END>
+Select the equipment that you want<END>
 //POINTER #833 @ $D04 - STRING #833 @ $50F6
 
 #W32($D04)
-選択してください<END>
+to bring to a race．<END>
 //POINTER #834 @ $D08 - STRING #834 @ $5108
 
 #W32($D08)
-空きスロットが足りません<END>
+Not enough free slots<END>
 //POINTER #835 @ $D0C - STRING #835 @ $5122
 
 #W32($D0C)
@@ -3724,7 +3724,7 @@ Abandon saving Game Data？<END>
 //POINTER #928 @ $E80 - STRING #928 @ $631E
 
 #W32($E80)
-SubーGarage Data is saved to MEMORY CARD（PS2）<END>
+Saving SubーGarage Data to MEMORY CARD（PS2）<END>
 //POINTER #929 @ $E84 - STRING #929 @ $6360
 
 #W32($E84)
@@ -3968,11 +3968,11 @@ Saving Game Data does not save SubーGarage Data<END>
 //POINTER #989 @ $F74 - STRING #989 @ $6F90
 
 #W32($F74)
-Continue to use previus SubーGarage Data with a new MEMORY CARD（PS2）<END>
+To use SubーGarage Data on a new MEMORY CARD（PS2）<END>
 //POINTER #990 @ $F78 - STRING #990 @ $6FD8
 
 #W32($F78)
-To save it、please save in the garage in Quest Mode<END>
+save it inside garage in Quest Mode<END>
 //POINTER #991 @ $F7C - STRING #991 @ $7020
 
 #W32($F7C)
@@ -4060,51 +4060,51 @@ Save Game Data？<END>
 //POINTER #1012 @ $FD0 - STRING #1012 @ $7326
 
 #W32($FD0)
-メモリーカード差込口＃に接続されている<END>
+RACING BATTLE Game Data in MEMORY CARD（PS2）<END>
 //POINTER #1013 @ $FD4 - STRING #1013 @ $734E
 
 #W32($FD4)
-メモリーカード（ＰＳ２）の中にある<END>
+connected to MEMORY CARD Slot ＃<END>
 //POINTER #1014 @ $FD8 - STRING #1014 @ $7372
 
 #W32($FD8)
-レーシングバトルのゲームデータは破損しています<END>
+is corrupted．<END>
 //POINTER #1015 @ $FDC - STRING #1015 @ $73A2
 
 #W32($FDC)
-メモリーカード差込口＃に接続されているメモリーカー<END>
+Loading Game Data from MEMORY CARD（PS2）<END>
 //POINTER #1016 @ $FE0 - STRING #1016 @ $73D6
 
 #W32($FE0)
-ド（ＰＳ２）からゲームデータをロードしています<END>
+connected to MEMORY CARD Slot ＃<END>
 //POINTER #1017 @ $FE4 - STRING #1017 @ $7406
 
 #W32($FE4)
-本体の電源オフやリセット<END>
+Do not remove or insert the MEMORY CARD（PS2）<END>
 //POINTER #1018 @ $FE8 - STRING #1018 @ $7420
 
 #W32($FE8)
-メモリーカード（ＰＳ２）やコントローラの<END>
+Do not remove the controller<END>
 //POINTER #1019 @ $FEC - STRING #1019 @ $744A
 
 #W32($FEC)
-抜き差しは行わないでください<END>
+Do not turn off the ”PlayStation 2” console<END>
 //POINTER #1020 @ $FF0 - STRING #1020 @ $7468
 
 #W32($FF0)
-メモリーカード差込口＃に接続されているメモリーカード（ＰＳ２）の中にある<END>
+GARAGE CAR not found in RACING BATTLE Game Data<END>
 //POINTER #1021 @ $FF4 - STRING #1021 @ $74B2
 
 #W32($FF4)
-レーシングバトルのゲームデータにはガレージ車がありません<END>
+in MEMORY CARD（PS2）connected to MEMORY CARD Slot ＃<END>
 //POINTER #1022 @ $FF8 - STRING #1022 @ $74EC
 
 #W32($FF8)
-メモリーカード差込口＃に接続されているメモリーカード（ＰＳ２）の中にある<END>
+PASSWORD CAR not found in RACING BATTLE Game Data<END>
 //POINTER #1023 @ $FFC - STRING #1023 @ $7536
 
 #W32($FFC)
-レーシングバトルのゲームデータにはパスワード車がありません<END>
+in MEMORY CARD（PS2）connected to MEMORY CARD Slot ＃<END>
 //POINTER #1024 @ $1000 - STRING #1024 @ $7572
 
 #W32($1000)
@@ -4132,11 +4132,11 @@ has no RACING BATTLE Replay Data．<END>
 //POINTER #1030 @ $1018 - STRING #1030 @ $7694
 
 #W32($1018)
-メモリーカード差込口＃に接続されているメモリーカード（ＰＳ２）の<END>
+Checking Replay Data of MEMORY CARD（PS2）<END>
 //POINTER #1031 @ $101C - STRING #1031 @ $76D6
 
 #W32($101C)
-リプレイデータをチェックしています<END>
+connected to MEMORY CARD Slot ＃<END>
 //POINTER #1032 @ $1020 - STRING #1032 @ $76FA
 
 #W32($1020)
@@ -4148,75 +4148,75 @@ Do not turn off the ”PlayStation 2” console<END>
 //POINTER #1034 @ $1028 - STRING #1034 @ $7778
 
 #W32($1028)
-メモリーカード差込口＃に<END>
+MEMORY CARD（PS2）is not connected to<END>
 //POINTER #1035 @ $102C - STRING #1035 @ $7792
 
 #W32($102C)
-メモリーカード（ＰＳ２）が接続されていません<END>
+MEMORY CARD Slot ＃<END>
 //POINTER #1036 @ $1030 - STRING #1036 @ $77C0
 
 #W32($1030)
-メモリーカード（ＰＳ２）を接続してください<END>
+Please connect a MEMORY CARD（PS2）<END>
 //POINTER #1037 @ $1034 - STRING #1037 @ $77EC
 
 #W32($1034)
-メモリーカード差込口＃に接続されている<END>
+to MEMORY CARD Slot ＃<END>
 //POINTER #1038 @ $1038 - STRING #1038 @ $7814
 
 #W32($1038)
-メモリーカード（ＰＳ２）には<END>
+No RACING BATTLE Replay Data exists on the<END>
 //POINTER #1039 @ $103C - STRING #1039 @ $7832
 
 #W32($103C)
-レーシングバトルのリプレイデータが存在しません<END>
+MEMORY CARD（PS2）connected to<END>
 //POINTER #1040 @ $1040 - STRING #1040 @ $7862
 
 #W32($1040)
-メモリーカード差込口＃に接続されている<END>
+MEMORY CARD Slot ＃<END>
 //POINTER #1041 @ $1044 - STRING #1041 @ $788A
 
 #W32($1044)
-メモリーカード（ＰＳ２）の中にある<END>
+Replay Data ＃＃ in<END>
 //POINTER #1042 @ $1048 - STRING #1042 @ $78AE
 
 #W32($1048)
-リプレイデータ＃＃は破損しています<END>
+MEMORY CARD（PS2）is corrupted．<END>
 //POINTER #1043 @ $104C - STRING #1043 @ $78D2
 
 #W32($104C)
-メモリーカード差込口＃に接続されている<END>
+Loading Replay Data from <END>
 //POINTER #1044 @ $1050 - STRING #1044 @ $78FA
 
 #W32($1050)
-メモリーカード（ＰＳ２）から<END>
+MEMORY CARD（PS2）connected<END>
 //POINTER #1045 @ $1054 - STRING #1045 @ $7918
 
 #W32($1054)
-リプレイデータをロードしています<END>
+to MEMORY CARD Slot ＃<END>
 //POINTER #1046 @ $1058 - STRING #1046 @ $793A
 
 #W32($1058)
-本体の電源オフやリセット、メモリーカード（ＰＳ２）<END>
+Do not remove the MEMORY CARD（PS2）or controller<END>
 //POINTER #1047 @ $105C - STRING #1047 @ $796E
 
 #W32($105C)
-やコントローラの抜き差しは行わないでください<END>
+Do not turn off the ”PlayStation 2” console<END>
 //POINTER #1048 @ $1060 - STRING #1048 @ $799C
 
 #W32($1060)
-メモリーカード差込口＃に接続されている<END>
+Are you sure you want to load <END>
 //POINTER #1049 @ $1064 - STRING #1049 @ $79C4
 
 #W32($1064)
-メモリーカード（ＰＳ２）から<END>
+RACING BATTLE Replay Data<END>
 //POINTER #1050 @ $1068 - STRING #1050 @ $79E2
 
 #W32($1068)
-レーシングバトルのリプレイデータを<END>
+Are you sure you want to load<END>
 //POINTER #1051 @ $106C - STRING #1051 @ $7A06
 
 #W32($106C)
-ロードしてよろしいですか？<END>
+RACING BATTLE Replay Data？<END>
 //POINTER #1052 @ $1070 - STRING #1052 @ $7A22
 
 #W32($1070)

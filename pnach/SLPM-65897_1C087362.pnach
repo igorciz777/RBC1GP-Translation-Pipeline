@@ -407,4 +407,25 @@ patch=1,EE,004AD0AC,word,00180000 //00 00 9C 01
 patch=1,EE,004AD0B0,word,000A001F //5A 00 C2 01 
 patch=1,EE,004AD0B4,word,FFFF0015 //DD 01 FF FF
 
-//
+//slot
+patch=1,EE,004EB150,word,0015001C //AB 01 DF 01
+patch=1,EE,004EB154,word,001D0018 //B5 01 BA 01
+patch=1,EE,004EB158,word,FFFF0000 //00 00 FF FF
+
+//replay data 
+patch=1,EE,00561510,word,000E001B //DC 01 C9 01
+patch=1,EE,00561514,word,00150019 //DE 01 96 01
+patch=1,EE,00561518,word,0022000A //B9 01 5A 00
+patch=1,EE,0056151C,word,00D20113 //B1 01 D2 00
+
+//replay data 2
+patch=1,EE,00512550,word,000E001B //DC 01 C9 01
+patch=1,EE,00512554,word,00150019 //DE 01 96 01
+patch=1,EE,00512558,word,0022000A //B9 01 5A 00
+patch=1,EE,0051255C,word,00D20113 //B1 01 D2 00
+
+//save data, cant find it used ingame
+//patch=1,EE,005617C8,word, //B9 01 5A 00 
+//patch=1,EE,005617CC,word, //B1 01 AD 01 
+//patch=1,EE,005617D0,word, //5A 00 C8 01 
+//patch=1,EE,005617D4,word, //FF FF 00 00
