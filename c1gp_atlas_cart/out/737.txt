@@ -12,7 +12,7 @@
 //POINTER #0 @ $0 - STRING #0 @ $45C
 
 #W32($0)
-走行<END>
+RUN<END>
 //POINTER #1 @ $4 - STRING #1 @ $462
 
 #W32($4)
@@ -64,7 +64,7 @@ INCHーUP<END>
 //POINTER #13 @ $34 - STRING #13 @ $518
 
 #W32($34)
-Do you want to keep these settings？<END>
+Set this setting as current？<END>
 //POINTER #14 @ $38 - STRING #14 @ $546
 
 #W32($38)
@@ -612,19 +612,19 @@ Do not turn off the ”PlayStation 2” console<END>
 //POINTER #150 @ $258 - STRING #150 @ $206E
 
 #W32($258)
-リプレイデータが存在します<END>
+Replay Data exists．<END>
 //POINTER #151 @ $25C - STRING #151 @ $208A
 
 #W32($25C)
-上書きしてよろしいですか？<END>
+Are you sure you want to overwrite？<END>
 //POINTER #152 @ $260 - STRING #152 @ $20A6
 
 #W32($260)
-メモリーカード差込口＃に接続されているメモリーカード（ＰＳ２）に<END>
+Saving Replay Data to MEMORY CARD（PS2）connected<END>
 //POINTER #153 @ $264 - STRING #153 @ $20E8
 
 #W32($264)
-リプレイデータをセーブしています<END>
+to the MEMORY CARD Slot ＃<END>
 //POINTER #154 @ $268 - STRING #154 @ $210A
 
 #W32($268)
@@ -636,7 +636,7 @@ Do not turn off the ”PlayStation 2” console<END>
 //POINTER #156 @ $270 - STRING #156 @ $2188
 
 #W32($270)
-リプレイデータ＊＊のセーブに成功しました<END>
+Replay Data ＊＊ has been successfully saved<END>
 //POINTER #157 @ $274 - STRING #157 @ $21B2
 
 #W32($274)
@@ -648,27 +648,27 @@ Abandon saving Game Data？<END>
 //POINTER #159 @ $27C - STRING #159 @ $21EA
 
 #W32($27C)
-メモリーカード差込口＃に接続されているメモリーカード（ＰＳ２）は<END>
+MEMORY CARD（PS2）connected to<END>
 //POINTER #160 @ $280 - STRING #160 @ $222C
 
 #W32($280)
-破損しています<END>
+MEMORY CARD Slot ＃ is damaged．<END>
 //POINTER #161 @ $284 - STRING #161 @ $223C
 
 #W32($284)
-MEMORY CARD 1<END>
+CARD1<END>
 //POINTER #162 @ $288 - STRING #162 @ $2258
 
 #W32($288)
-MEMORY CARD 2<END>
+CARD2<END>
 //POINTER #163 @ $28C - STRING #163 @ $2274
 
 #W32($28C)
-新規保存<END>
+NEW<END>
 //POINTER #164 @ $290 - STRING #164 @ $227E
 
 #W32($290)
-上書き保存<END>
+OVERWRITE<END>
 //POINTER #165 @ $294 - STRING #165 @ $228A
 
 #W32($294)
@@ -676,11 +676,11 @@ SAVE DATA<END>
 //POINTER #166 @ $298 - STRING #166 @ $229E
 
 #W32($298)
-メモリーカード差込口＃に接続されているメモリーカード（ＰＳ２）の<END>
+Checking Replay Data in MEMORY CARD（PS2）connected<END>
 //POINTER #167 @ $29C - STRING #167 @ $22E0
 
 #W32($29C)
-リプレイデータをチェックしています<END>
+to MEMORY CARD Slot ＃<END>
 //POINTER #168 @ $2A0 - STRING #168 @ $2304
 
 #W32($2A0)

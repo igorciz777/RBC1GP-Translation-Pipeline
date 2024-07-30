@@ -2,6 +2,11 @@
 
 //BLOCK #000 NAME:		229.bin File - Encoded Block Text 1
 
+#VAR(tbl, TABLE)
+#ADDTBL("c1gp.tbl",tbl)
+#ACTIVETBL(tbl)
+#JMP($25D0)
+
 //POINTER #0 @ $4 - STRING #0 @ $25D0
 
 #W32($4)

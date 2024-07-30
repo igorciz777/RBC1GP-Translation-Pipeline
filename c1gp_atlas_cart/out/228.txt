@@ -432,43 +432,43 @@ SELL<END>
 //POINTER #105 @ $1A4 - STRING #105 @ $1B5A
 
 #W32($1A4)
-SHUTOKOーOUTER<END>
+SHUTOKOーOUTER　<END>
 //POINTER #106 @ $1A8 - STRING #106 @ $1B72
 
 #W32($1A8)
-TSUKUBA CIRCUIT<END>
+TSUKUBA CIRCUIT　<END>
 //POINTER #107 @ $1AC - STRING #107 @ $1B82
 
 #W32($1AC)
-SUZUKA EAST CIRCUIT<END>
+SUZUKA EAST CIRCUIT　<END>
 //POINTER #108 @ $1B0 - STRING #108 @ $1B98
 
 #W32($1B0)
-OSAKAーKANJO CIRCUIT<END>
+OSAKAーKANJO CIRCUIT　<END>
 //POINTER #109 @ $1B4 - STRING #109 @ $1BAC
 
 #W32($1B4)
-TI CIRCUIT AIDA<END>
+TI CIRCUIT AIDA　<END>
 //POINTER #110 @ $1B8 - STRING #110 @ $1BC0
 
 #W32($1B8)
-SUZUKA WEST CIRCUIT<END>
+SUZUKA WEST CIRCUIT　<END>
 //POINTER #111 @ $1BC - STRING #111 @ $1BD6
 
 #W32($1BC)
-SHUTOKOーINNER<END>
+SHUTOKOーINNER　<END>
 //POINTER #112 @ $1C0 - STRING #112 @ $1BEE
 
 #W32($1C0)
-NIKKO CIRCUIT<END>
+NIKKO CIRCUIT　<END>
 //POINTER #113 @ $1C4 - STRING #113 @ $1BFE
 
 #W32($1C4)
-SUZUKA CIRCUIT<END>
+SUZUKA CIRCUIT　<END>
 //POINTER #114 @ $1C8 - STRING #114 @ $1C0E
 
 #W32($1C8)
-OVAL CIRCUIT<END>
+OVAL CIRCUIT　<END>
 //POINTER #115 @ $1CC - STRING #115 @ $1C22
 
 #W32($1CC)
@@ -488,7 +488,7 @@ RAIN（WET）<END>
 //POINTER #119 @ $1DC - STRING #119 @ $1C64
 
 #W32($1DC)
-EQUIPMENT ＃<END>
+PACK ＃<END>
 //POINTER #120 @ $1E0 - STRING #120 @ $1C72
 
 #W32($1E0)
@@ -512,11 +512,11 @@ OWNED ITEMS<END>
 //POINTER #125 @ $1F4 - STRING #125 @ $1CA4
 
 #W32($1F4)
-GENERIC<END>
+MISC<END>
 //POINTER #126 @ $1F8 - STRING #126 @ $1CAA
 
 #W32($1F8)
-EXPLANATION<END>
+INFO<END>
 //POINTER #127 @ $1FC - STRING #127 @ $1CB0
 
 #W32($1FC)
@@ -1172,23 +1172,23 @@ NAME<END>
 //POINTER #290 @ $488 - STRING #290 @ $263A
 
 #W32($488)
-ドライバー歴<END>
+EXPERIENCE<END>
 //POINTER #291 @ $48C - STRING #291 @ $2648
 
 #W32($48C)
-職業<END>
+JOB<END>
 //POINTER #292 @ $490 - STRING #292 @ $264E
 
 #W32($490)
-モットー<END>
+MOTTO<END>
 //POINTER #293 @ $494 - STRING #293 @ $2658
 
 #W32($494)
-本拠地<END>
+TRACK<END>
 //POINTER #294 @ $498 - STRING #294 @ $2660
 
 #W32($498)
-対戦成績<END>
+WIN STATS<END>
 //POINTER #295 @ $49C - STRING #295 @ $266A
 
 #W32($49C)
@@ -1200,15 +1200,15 @@ L<END>
 //POINTER #297 @ $4A4 - STRING #297 @ $2672
 
 #W32($4A4)
-年<END>
+YEARS<END>
 //POINTER #298 @ $4A8 - STRING #298 @ $2676
 
 #W32($4A8)
-ヶ月<END>
+MONTH<END>
 //POINTER #299 @ $4AC - STRING #299 @ $267C
 
 #W32($4AC)
-選手プロフィール<END>
+DRIVER'S PROFILE<END>
 //POINTER #300 @ $4B0 - STRING #300 @ $268E
 
 #W32($4B0)
@@ -1248,7 +1248,7 @@ SETTING SET<END>
 //POINTER #309 @ $4D4 - STRING #309 @ $26F4
 
 #W32($4D4)
-ITEM SET<END>
+EQUIPMENT SET<END>
 //POINTER #310 @ $4D8 - STRING #310 @ $26FE
 
 #W32($4D8)
@@ -1280,15 +1280,15 @@ SETTING 3<END>
 //POINTER #317 @ $4F4 - STRING #317 @ $2762
 
 #W32($4F4)
-EQUIPMENT A<END>
+PACK A<END>
 //POINTER #318 @ $4F8 - STRING #318 @ $2770
 
 #W32($4F8)
-EQUIPMENT B<END>
+PACK B<END>
 //POINTER #319 @ $4FC - STRING #319 @ $277E
 
 #W32($4FC)
-EQUIPMENT C<END>
+PACK C<END>
 //POINTER #320 @ $500 - STRING #320 @ $278C
 
 #W32($500)
@@ -1308,39 +1308,39 @@ OK<END>
 //POINTER #324 @ $510 - STRING #324 @ $27AA
 
 #W32($510)
-NAME：<END>
+NAME　　：<END>
 //POINTER #325 @ $514 - STRING #325 @ $27B6
 
 #W32($514)
-キャリア：<END>
+CAREER　：<END>
 //POINTER #326 @ $518 - STRING #326 @ $27C2
 
 #W32($518)
-職業　　：<END>
+JOB　　 ：<END>
 //POINTER #327 @ $51C - STRING #327 @ $27CE
 
 #W32($51C)
-モットー：<END>
+MOTTO　 ：<END>
 //POINTER #328 @ $520 - STRING #328 @ $27DA
 
 #W32($520)
-本拠地　：<END>
+TRACK 　：<END>
 //POINTER #329 @ $524 - STRING #329 @ $27E6
 
 #W32($524)
-対戦成績：<END>
+　W／L：<END>
 //POINTER #330 @ $528 - STRING #330 @ $27F2
 
 #W32($528)
-搭乗車　：<END>
+CAR  　：<END>
 //POINTER #331 @ $52C - STRING #331 @ $27FE
 
 #W32($52C)
-年<END>
+ YEARS<END>
 //POINTER #332 @ $530 - STRING #332 @ $2802
 
 #W32($530)
-ヶ月<END>
+ MONTHS<END>
 //POINTER #333 @ $534 - STRING #333 @ $2808
 
 #W32($534)
@@ -1352,7 +1352,7 @@ L <END>
 //POINTER #335 @ $53C - STRING #335 @ $2810
 
 #W32($53C)
-チーム　：<END>
+TEAM　　：<END>
 //POINTER #336 @ $540 - STRING #336 @ $281C
 
 #W32($540)
@@ -1416,19 +1416,19 @@ TIRE CHANGE<END>
 //POINTER #351 @ $57C - STRING #351 @ $290E
 
 #W32($57C)
-ランキング<END>
+RANKING<END>
 //POINTER #352 @ $580 - STRING #352 @ $291A
 
 #W32($580)
-ランクＣ<END>
+RANK C<END>
 //POINTER #353 @ $584 - STRING #353 @ $2924
 
 #W32($584)
-ランクＢ<END>
+RANK B<END>
 //POINTER #354 @ $588 - STRING #354 @ $292E
 
 #W32($588)
-ランクＡ<END>
+RANK A<END>
 //POINTER #355 @ $58C - STRING #355 @ $2938
 
 #W32($58C)
@@ -1480,7 +1480,7 @@ REAR<END>
 //POINTER #367 @ $5BC - STRING #367 @ $29AE
 
 #W32($5BC)
-やり直し<END>
+REDO<END>
 //POINTER #368 @ $5C0 - STRING #368 @ $29B8
 
 #W32($5C0)
@@ -1904,7 +1904,7 @@ GARAGE CAR 3<END>
 //POINTER #473 @ $764 - STRING #473 @ $2FA8
 
 #W32($764)
-CAR VALUE<END>
+CARS VALUATION<END>
 //POINTER #474 @ $768 - STRING #474 @ $2FB6
 
 #W32($768)
@@ -2104,55 +2104,55 @@ PRIZE BRAND<END>
 //POINTER #523 @ $82C - STRING #523 @ $31FA
 
 #W32($82C)
-小型キャビネット<END>
+SMALL CABINET<END>
 //POINTER #524 @ $830 - STRING #524 @ $320C
 
 #W32($830)
-中型キャビネット<END>
+MEDIUM CABINET<END>
 //POINTER #525 @ $834 - STRING #525 @ $321E
 
 #W32($834)
-大型キャビネット<END>
+BIG CABINET<END>
 //POINTER #526 @ $838 - STRING #526 @ $3230
 
 #W32($838)
-ＴＹＰＥ１<END>
+TYPE１<END>
 //POINTER #527 @ $83C - STRING #527 @ $323C
 
 #W32($83C)
-ＴＹＰＥ１＋<END>
+TYPE１＋<END>
 //POINTER #528 @ $840 - STRING #528 @ $324A
 
 #W32($840)
-ＴＹＰＥ２<END>
+TYPE２<END>
 //POINTER #529 @ $844 - STRING #529 @ $3256
 
 #W32($844)
-ＴＹＰＥ２＋<END>
+TYPE２＋<END>
 //POINTER #530 @ $848 - STRING #530 @ $3264
 
 #W32($848)
-ＴＹＰＥ３<END>
+TYPE３<END>
 //POINTER #531 @ $84C - STRING #531 @ $3270
 
 #W32($84C)
-ＴＹＰＥ３＋<END>
+TYPE３＋<END>
 //POINTER #532 @ $850 - STRING #532 @ $327E
 
 #W32($850)
-ＴＹＰＥ４<END>
+TYPE４<END>
 //POINTER #533 @ $854 - STRING #533 @ $328A
 
 #W32($854)
-ＴＹＰＥ４＋<END>
+TYPE４＋<END>
 //POINTER #534 @ $858 - STRING #534 @ $3298
 
 #W32($858)
-ＴＹＰＥ５<END>
+TYPE５<END>
 //POINTER #535 @ $85C - STRING #535 @ $32A4
 
 #W32($85C)
-ＴＹＰＥ５＋<END>
+TYPE５＋<END>
 //POINTER #536 @ $860 - STRING #536 @ $32B2
 
 #W32($860)
@@ -2172,7 +2172,7 @@ CONDITION<END>
 //POINTER #540 @ $870 - STRING #540 @ $3302
 
 #W32($870)
-１・２<END>
+1／2<END>
 //POINTER #541 @ $874 - STRING #541 @ $330A
 
 #W32($874)
@@ -2184,39 +2184,39 @@ MEMORY CARD 2<END>
 //POINTER #543 @ $87C - STRING #543 @ $3342
 
 #W32($87C)
-本日<END>
+TODAY<END>
 //POINTER #544 @ $880 - STRING #544 @ $3348
 
 #W32($880)
-２日目<END>
+2nd DAY<END>
 //POINTER #545 @ $884 - STRING #545 @ $3350
 
 #W32($884)
-３日目<END>
+3rd DAY<END>
 //POINTER #546 @ $888 - STRING #546 @ $3358
 
 #W32($888)
-４日目<END>
+4th DAY<END>
 //POINTER #547 @ $88C - STRING #547 @ $3360
 
 #W32($88C)
-５日目<END>
+5th DAY<END>
 //POINTER #548 @ $890 - STRING #548 @ $3368
 
 #W32($890)
-６日目<END>
+6th DAY<END>
 //POINTER #549 @ $894 - STRING #549 @ $3370
 
 #W32($894)
-７日目<END>
+7th DAY<END>
 //POINTER #550 @ $898 - STRING #550 @ $3378
 
 #W32($898)
-８日目<END>
+8th DAY<END>
 //POINTER #551 @ $89C - STRING #551 @ $3380
 
 #W32($89C)
-９日目<END>
+9th DAY<END>
 //POINTER #552 @ $8A0 - STRING #552 @ $3388
 
 #W32($8A0)
@@ -2272,7 +2272,7 @@ MR ONLY<END>
 //POINTER #565 @ $8D4 - STRING #565 @ $347E
 
 #W32($8D4)
-＜TODAY'S SPECIAL EVENT＞<END>
+〈TODAY'S SPECIAL EVENTS〉 <END>
 //POINTER #566 @ $8D8 - STRING #566 @ $349C
 
 #W32($8D8)
@@ -2324,7 +2324,7 @@ TSUKUBA<END>
 //POINTER #578 @ $908 - STRING #578 @ $3580
 
 #W32($908)
-ＴＩ<END>
+TI<END>
 //POINTER #579 @ $90C - STRING #579 @ $3586
 
 #W32($90C)
@@ -2364,23 +2364,23 @@ EVENTS<END>
 //POINTER #588 @ $930 - STRING #588 @ $35DE
 
 #W32($930)
-イベント会場<END>
+EVENT TRACK<END>
 //POINTER #589 @ $934 - STRING #589 @ $35EC
 
 #W32($934)
-試合形式<END>
+TYPE<END>
 //POINTER #590 @ $938 - STRING #590 @ $35F6
 
 #W32($938)
-参加資格<END>
+REQUIREMENT<END>
 //POINTER #591 @ $93C - STRING #591 @ $3600
 
 #W32($93C)
-登録料<END>
+ENTRY FEE<END>
 //POINTER #592 @ $940 - STRING #592 @ $3608
 
 #W32($940)
-RULES<END>
+REGULATIONS<END>
 //POINTER #593 @ $944 - STRING #593 @ $361A
 
 #W32($944)
@@ -2404,31 +2404,31 @@ DP ATTACK<END>
 //POINTER #598 @ $958 - STRING #598 @ $3658
 
 #W32($958)
-ＲＢ公認走行会<END>
+RB OFFICIAL TRACK DAY<END>
 //POINTER #599 @ $95C - STRING #599 @ $3668
 
 #W32($95C)
-ＲＢ公認ドリフト大会<END>
+RB OFFICIAL DRIFT COMPETITION<END>
 //POINTER #600 @ $960 - STRING #600 @ $367E
 
 #W32($960)
-ＲＢ公認レース<END>
+RB OFFICIAL RACE<END>
 //POINTER #601 @ $964 - STRING #601 @ $368E
 
 #W32($964)
-ランクＣ<END>
+RANK C<END>
 //POINTER #602 @ $968 - STRING #602 @ $3698
 
 #W32($968)
-ランクＢ<END>
+RANK B<END>
 //POINTER #603 @ $96C - STRING #603 @ $36A2
 
 #W32($96C)
-ランクＡ<END>
+RANK A<END>
 //POINTER #604 @ $970 - STRING #604 @ $36AC
 
 #W32($970)
-制限無し<END>
+NO RESTRICTIONS<END>
 //POINTER #605 @ $974 - STRING #605 @ $36B6
 
 #W32($974)
@@ -2696,203 +2696,203 @@ STICKER 4<END>
 //POINTER #671 @ $A7C - STRING #671 @ $3A18
 
 #W32($A7C)
-撮影サイズ<END>
+CAPTURE SIZE<END>
 //POINTER #672 @ $A80 - STRING #672 @ $3A24
 
 #W32($A80)
-デモムービー<END>
+Demo movie<END>
 //POINTER #673 @ $A84 - STRING #673 @ $3A32
 
 #W32($A84)
-プロモーション<END>
+Promotion<END>
 //POINTER #674 @ $A88 - STRING #674 @ $3A42
 
 #W32($A88)
-サーキット講習会<END>
+Circuit training<END>
 //POINTER #675 @ $A8C - STRING #675 @ $3A54
 
 #W32($A8C)
-ＳＰバトルとは<END>
+SP Battle introduction<END>
 //POINTER #676 @ $A90 - STRING #676 @ $3A64
 
 #W32($A90)
-ＲＰバトルとは<END>
+RP Battle introduction<END>
 //POINTER #677 @ $A94 - STRING #677 @ $3A74
 
 #W32($A94)
-ＤＰバトルとは<END>
+DP Battle introduction<END>
 //POINTER #678 @ $A98 - STRING #678 @ $3A84
 
 #W32($A98)
-ツインドリフトについて<END>
+Twin Drift introduction<END>
 //POINTER #679 @ $A9C - STRING #679 @ $3A9C
 
 #W32($A9C)
-オープニング<END>
+Opening<END>
 //POINTER #680 @ $AA0 - STRING #680 @ $3AAA
 
 #W32($AA0)
-ランクＣライセンス獲得<END>
+Rank C License<END>
 //POINTER #681 @ $AA4 - STRING #681 @ $3AC2
 
 #W32($AA4)
-ランクＢライセンス獲得<END>
+Rank B License<END>
 //POINTER #682 @ $AA8 - STRING #682 @ $3ADA
 
 #W32($AA8)
-ランクＡライセンス獲得<END>
+Rank A License<END>
 //POINTER #683 @ $AAC - STRING #683 @ $3AF2
 
 #W32($AAC)
-Ｃ１ＧＰ挑戦権獲得<END>
+C1GP Challenge Unlocked<END>
 //POINTER #684 @ $AB0 - STRING #684 @ $3B06
 
 #W32($AB0)
-Ｃ１ＧＰ／ＳＰ制覇<END>
+C1GP SP Complete<END>
 //POINTER #685 @ $AB4 - STRING #685 @ $3B1A
 
 #W32($AB4)
-Ｃ１ＧＰ／ＤＰ制覇<END>
+C1GP DP Complete<END>
 //POINTER #686 @ $AB8 - STRING #686 @ $3B2E
 
 #W32($AB8)
-Ｃ１ＧＰ／ＲＰ制覇<END>
+C1GP RP Complete<END>
 //POINTER #687 @ $ABC - STRING #687 @ $3B42
 
 #W32($ABC)
-エンディング<END>
+Ending<END>
 //POINTER #688 @ $AC0 - STRING #688 @ $3B50
 
 #W32($AC0)
-エンディング２<END>
+Ending 2<END>
 //POINTER #689 @ $AC4 - STRING #689 @ $3B60
 
 #W32($AC4)
-★ユウウツな天使登場<END>
+★ユウウツな天使 introduction<END>
 //POINTER #690 @ $AC8 - STRING #690 @ $3B76
 
 #W32($AC8)
-★ブラッドハウンド登場<END>
+★ブラッドハウンド introduction<END>
 //POINTER #691 @ $ACC - STRING #691 @ $3B8E
 
 #W32($ACC)
-★裏切りのジャックナイフ登場<END>
+★裏切りのジャックナイフ introduction<END>
 //POINTER #692 @ $AD0 - STRING #692 @ $3BAC
 
 #W32($AD0)
-★スティールハート登場<END>
+★スティールハート introduction<END>
 //POINTER #693 @ $AD4 - STRING #693 @ $3BC4
 
 #W32($AD4)
-★イナズマシフトの拓也登場<END>
+★イナズマシフトの拓也 introduction<END>
 //POINTER #694 @ $AD8 - STRING #694 @ $3BE0
 
 #W32($AD8)
-★首都高番長登場<END>
+★首都高番長 introduction<END>
 //POINTER #695 @ $ADC - STRING #695 @ $3BF2
 
 #W32($ADC)
-★ＮＯＢ登場<END>
+★ＮＯＢ introduction<END>
 //POINTER #696 @ $AE0 - STRING #696 @ $3C00
 
 #W32($AE0)
-★嘆きのプルート登場<END>
+★嘆きのプルート introduction<END>
 //POINTER #697 @ $AE4 - STRING #697 @ $3C16
 
 #W32($AE4)
-★オリマブ登場<END>
+★オリマブ introduction<END>
 //POINTER #698 @ $AE8 - STRING #698 @ $3C26
 
 #W32($AE8)
-Ｃ１ＧＰ／ＳＰライバル登場<END>
+Ｃ１ＧＰ／ＳＰライバル introduction<END>
 //POINTER #699 @ $AEC - STRING #699 @ $3C42
 
 #W32($AEC)
-Ｃ１ＧＰ／ＤＰライバル登場<END>
+Ｃ１ＧＰ／ＤＰライバル introduction<END>
 //POINTER #700 @ $AF0 - STRING #700 @ $3C5E
 
 #W32($AF0)
-Ｃ１ＧＰ／ＲＰライバル登場<END>
+Ｃ１ＧＰ／ＲＰライバル introduction<END>
 //POINTER #701 @ $AF4 - STRING #701 @ $3C7A
 
 #W32($AF4)
-ＵＮＫＮＯＷＮ登場<END>
+ＵＮＫＮＯＷＮ introduction<END>
 //POINTER #702 @ $AF8 - STRING #702 @ $3C8E
 
 #W32($AF8)
-ライバル制覇達成率７０％<END>
+７０％ of Rivals beaten<END>
 //POINTER #703 @ $AFC - STRING #703 @ $3CA8
 
 #W32($AFC)
-ライバル制覇達成率８０％<END>
+８０％ of Rivals beaten<END>
 //POINTER #704 @ $B00 - STRING #704 @ $3CC2
 
 #W32($B00)
-ライバル制覇達成率９０％<END>
+９０％ of Rivals beaten<END>
 //POINTER #705 @ $B04 - STRING #705 @ $3CDC
 
 #W32($B04)
-ライバル制覇達成率１００％<END>
+１００％ of Rivals beaten<END>
 //POINTER #706 @ $B08 - STRING #706 @ $3CF8
 
 #W32($B08)
-ワンダラー制覇達成率７０％<END>
+７０％ of Wanderers beaten<END>
 //POINTER #707 @ $B0C - STRING #707 @ $3D14
 
 #W32($B0C)
-ワンダラー制覇達成率８０％<END>
+８０％ of Wanderers beaten<END>
 //POINTER #708 @ $B10 - STRING #708 @ $3D30
 
 #W32($B10)
-ワンダラー制覇達成率９０％<END>
+９０％ of Wanderers beaten<END>
 //POINTER #709 @ $B14 - STRING #709 @ $3D4C
 
 #W32($B14)
-ワンダラー制覇達成率１００％<END>
+１００％ of Wanderers beaten<END>
 //POINTER #710 @ $B18 - STRING #710 @ $3D6A
 
 #W32($B18)
-メモリーカード差込口１・２にメモリーカード（ＰＳ２）が接続されていません<END>
+MEMORY CARD（PS2）is not connected to MEMORY CARD Slot 1 or 2 <END>
 //POINTER #711 @ $B1C - STRING #711 @ $3DB4
 
 #W32($B1C)
-レーシングバトルのゲームデータをセーブするには<END>
+Can't save RACING BATTLE Game Data．<END>
 //POINTER #712 @ $B20 - STRING #712 @ $3DE4
 
 #W32($B20)
-４６０ＫＢ以上の空き容量が必要です<END>
+At least ４６０ＫＢ of free space is required <END>
 //POINTER #713 @ $B24 - STRING #713 @ $3E08
 
 #W32($B24)
-このままゲームを開始してよろしいですか？<END>
+Start the game anyway？<END>
 //POINTER #714 @ $B28 - STRING #714 @ $3E32
 
 #W32($B28)
-メモリーカード差込口＃＃＃に接続されているメモリーカード（ＰＳ２）の<END>
+Insufficient free space on the MEMORY CARD（PS2）<END>
 //POINTER #715 @ $B2C - STRING #715 @ $3E78
 
 #W32($B2C)
-空き容量が不足しています<END>
+connected to MEMORY CARD Slot ＃＃＃．<END>
 //POINTER #716 @ $B30 - STRING #716 @ $3E92
 
 #W32($B30)
-メモリーカード差込口＃に接続されているメモリーカード（ＰＳ２）の中にある<END>
+MEMORY CARD（PS2）connected to MEMORY CARD Slot ＃<END>
 //POINTER #717 @ $B34 - STRING #717 @ $3EDC
 
 #W32($B34)
-レーシングバトルのゲームデータは破損しています<END>
+has corrupted RACING BATTLE Game Data．<END>
 //POINTER #718 @ $B38 - STRING #718 @ $3F0C
 
 #W32($B38)
-メモリーカード差込口＃に接続されているメモリーカード（ＰＳ２）の中にある<END>
+Failed to load RACING BATTLE Game Data from the<END>
 //POINTER #719 @ $B3C - STRING #719 @ $3F56
 
 #W32($B3C)
-レーシングバトルのゲームデータのロードに失敗しました<END>
+MEMORY CARD（PS2）connected to MEMORY CARD Slot ＃<END>
 //POINTER #720 @ $B40 - STRING #720 @ $3F8C
 
 #W32($B40)
-このままゲームを開始してよろしいですか？<END>
+Start the game anyway？<END>
 //POINTER #721 @ $B44 - STRING #721 @ $3FB6
 
 #W32($B44)
@@ -2908,35 +2908,35 @@ Enter selected event？<END>
 //POINTER #724 @ $B50 - STRING #724 @ $4006
 
 #W32($B50)
-ＣＰが足りません<END>
+Not enough CP<END>
 //POINTER #725 @ $B54 - STRING #725 @ $4018
 
 #W32($B54)
-ＮＰが足りません<END>
+Not enough NP<END>
 //POINTER #726 @ $B58 - STRING #726 @ $402A
 
 #W32($B58)
-レギュレーションに違反しています<END>
+Regulations not met<END>
 //POINTER #727 @ $B5C - STRING #727 @ $404C
 
 #W32($B5C)
-イベントをクリアしても賞品は貰えません<END>
+No prize will be awarded as<END>
 //POINTER #728 @ $B60 - STRING #728 @ $4074
 
 #W32($B60)
-同タイプのパーツを所有しています<END>
+you already own the part．<END>
 //POINTER #729 @ $B64 - STRING #729 @ $4096
 
 #W32($B64)
-イベントに参加しますか？<END>
+Enter event anyway？<END>
 //POINTER #730 @ $B68 - STRING #730 @ $40B0
 
 #W32($B68)
-ガレージに格納スペースがないため<END>
+No prize will be awarded as<END>
 //POINTER #731 @ $B6C - STRING #731 @ $40D2
 
 #W32($B6C)
-イベントをクリアしても賞品は貰えません<END>
+there is no storage space in your garage．<END>
 //POINTER #732 @ $B70 - STRING #732 @ $40FA
 
 #W32($B70)
@@ -2980,7 +2980,7 @@ Do you want to equip this part？<END>
 //POINTER #742 @ $B98 - STRING #742 @ $4276
 
 #W32($B98)
-ＣＰが足りません<END>
+Not enough CP<END>
 //POINTER #743 @ $B9C - STRING #743 @ $4288
 
 #W32($B9C)
@@ -2992,27 +2992,27 @@ No recommended parts available<END>
 //POINTER #745 @ $BA4 - STRING #745 @ $42CC
 
 #W32($BA4)
-セッティング「ターボブースト」が調整可能になりました<END>
+The ”Turbo Boost” setting is now adjustable．<END>
 //POINTER #746 @ $BA8 - STRING #746 @ $4302
 
 #W32($BA8)
-セッティング「アライメント」「サスペンション」が調整可能になりました<END>
+The ”Suspension” and ”Alignment” settings are now adjustable．<END>
 //POINTER #747 @ $BAC - STRING #747 @ $4348
 
 #W32($BAC)
-セッティング「ミッション」が調整可能になりました<END>
+The ”Transmission” setting is now adjustable．<END>
 //POINTER #748 @ $BB0 - STRING #748 @ $437A
 
 #W32($BB0)
-セッティング「ブレーキバランス」が調整可能になりました<END>
+The ”Brake Balance” setting is now adjustable．<END>
 //POINTER #749 @ $BB4 - STRING #749 @ $43B2
 
 #W32($BB4)
-セッティング「ドライブバランス」が調整可能になりました<END>
+The ”Drive Balance” setting is now adjustable．<END>
 //POINTER #750 @ $BB8 - STRING #750 @ $43EA
 
 #W32($BB8)
-セッティング「ダウンフォース」が調整可能になりました<END>
+The ”Downforce” setting is now adjustable．<END>
 //POINTER #751 @ $BBC - STRING #751 @ $4420
 
 #W32($BBC)
@@ -3044,11 +3044,11 @@ Place the meter<END>
 //POINTER #758 @ $BD8 - STRING #758 @ $4504
 
 #W32($BD8)
-メーターを消しますか？<END>
+Turn off the meter？<END>
 //POINTER #759 @ $BDC - STRING #759 @ $451C
 
 #W32($BDC)
-配置位置が正しくありません<END>
+Incorrect position<END>
 //POINTER #760 @ $BE0 - STRING #760 @ $4538
 
 #W32($BE0)
@@ -3056,35 +3056,35 @@ Change the color？<END>
 //POINTER #761 @ $BE4 - STRING #761 @ $454E
 
 #W32($BE4)
-編集するオリジナルステッカー枠を選択してください<END>
+Select an ORIGINAL STICKER frame to edit<END>
 //POINTER #762 @ $BE8 - STRING #762 @ $4580
 
 #W32($BE8)
-このステッカーをセットしますか？<END>
+Set this sticker？<END>
 //POINTER #763 @ $BEC - STRING #763 @ $45A2
 
 #W32($BEC)
-このステッカーを削除しますか？<END>
+Remove this sticker？<END>
 //POINTER #764 @ $BF0 - STRING #764 @ $45C2
 
 #W32($BF0)
-エンブレム設定が解除されました<END>
+Emblem has been removed<END>
 //POINTER #765 @ $BF4 - STRING #765 @ $45E2
 
 #W32($BF4)
-このステッカーをエンブレムに設定しますか？<END>
+Set sticker as emblem？<END>
 //POINTER #766 @ $BF8 - STRING #766 @ $460E
 
 #W32($BF8)
-エンブレム設定を解除しますか？<END>
+Remove current emblem？<END>
 //POINTER #767 @ $BFC - STRING #767 @ $462E
 
 #W32($BFC)
-横長ステッカーはエンブレムに設定できません<END>
+Horizontal stickers can't be used as emblems<END>
 //POINTER #768 @ $C00 - STRING #768 @ $465A
 
 #W32($C00)
-デフォルトに戻しますか？<END>
+Return to default？<END>
 //POINTER #769 @ $C04 - STRING #769 @ $4674
 
 #W32($C04)
@@ -3240,27 +3240,27 @@ Exit saving Game Data？<END>
 //POINTER #807 @ $C9C - STRING #807 @ $4DEA
 
 #W32($C9C)
-この金額でレストアをしますか？<END>
+Restore？<END>
 //POINTER #808 @ $CA0 - STRING #808 @ $4E0A
 
 #W32($CA0)
-これ以上レストアできません<END>
+Cannot restore more<END>
 //POINTER #809 @ $CA4 - STRING #809 @ $4E26
 
 #W32($CA4)
-購入しますか？<END>
+Buy？<END>
 //POINTER #810 @ $CA8 - STRING #810 @ $4E36
 
 #W32($CA8)
-現在使用中のデザインです<END>
+Current design in use<END>
 //POINTER #811 @ $CAC - STRING #811 @ $4E50
 
 #W32($CAC)
-該当する車種がありません<END>
+No applicable car model<END>
 //POINTER #812 @ $CB0 - STRING #812 @ $4E6A
 
 #W32($CB0)
-ガレージに格納スペースがありません<END>
+Garage has no storage space<END>
 //POINTER #813 @ $CB4 - STRING #813 @ $4E8E
 
 #W32($CB4)
@@ -3276,7 +3276,7 @@ TODAY'S FOR SALE<END>
 //POINTER #816 @ $CC0 - STRING #816 @ $4ED0
 
 #W32($CC0)
-売却可能車両<END>
+AVAILABLE TO SELL<END>
 //POINTER #817 @ $CC4 - STRING #817 @ $4EDE
 
 #W32($CC4)
@@ -3284,7 +3284,7 @@ CARS<END>
 //POINTER #818 @ $CC8 - STRING #818 @ $4EE8
 
 #W32($CC8)
-本日の販売車両はありません<END>
+NOTHING FOR SALE TODAY<END>
 //POINTER #819 @ $CCC - STRING #819 @ $4F04
 
 #W32($CCC)
@@ -3296,39 +3296,39 @@ Sell this car？<END>
 //POINTER #821 @ $CD4 - STRING #821 @ $4F3E
 
 #W32($CD4)
-搭乗中の車は、売却できません<END>
+The car currently in use cannot be sold．<END>
 //POINTER #822 @ $CD8 - STRING #822 @ $4F5C
 
 #W32($CD8)
-この内容でセッティングを決定しますか？<END>
+Confirm these settings？<END>
 //POINTER #823 @ $CDC - STRING #823 @ $4F84
 
 #W32($CDC)
-このセッティングを標準にしますか？<END>
+Set these settings as current？<END>
 //POINTER #824 @ $CE0 - STRING #824 @ $4FA8
 
 #W32($CE0)
-レースイベントに持っていくカー用品を装備します。<END>
+Take CAR GOODS in packs to race events．<END>
 //POINTER #825 @ $CE4 - STRING #825 @ $4FDA
 
 #W32($CE4)
-カー用品は装備パックＡ・Ｂ・Ｃの３種類の<END>
+CAR GOODS can be categorized and equiped into<END>
 //POINTER #826 @ $CE8 - STRING #826 @ $5004
 
 #W32($CE8)
-パックに分類して装備が可能です。<END>
+three different packs： PACK A、B or C<END>
 //POINTER #827 @ $CEC - STRING #827 @ $5026
 
 #W32($CEC)
-この装備パックを標準にしますか？<END>
+Equip this pack？<END>
 //POINTER #828 @ $CF0 - STRING #828 @ $5048
 
 #W32($CF0)
-選択したカー用品を装備しますか？<END>
+Select this item？<END>
 //POINTER #829 @ $CF4 - STRING #829 @ $506A
 
 #W32($CF4)
-このカー用品は既に選択されています<END>
+This item is already selected．<END>
 //POINTER #830 @ $CF8 - STRING #830 @ $508E
 
 #W32($CF8)
@@ -3360,91 +3360,91 @@ Switch to this car？<END>
 //POINTER #837 @ $D14 - STRING #837 @ $5146
 
 #W32($D14)
-メモリーカード（ＰＳ２）をチェックしています……<END>
+Checking MEMORY CARD（PS2）……<END>
 //POINTER #838 @ $D18 - STRING #838 @ $5178
 
 #W32($D18)
-メモリーカード（ＰＳ２）のチェックに失敗しました<END>
+MEMORY CARD（PS2）check failed．<END>
 //POINTER #839 @ $D1C - STRING #839 @ $51AA
 
 #W32($D1C)
-メモリーカード差込口１・２にメモリーカード（ＰＳ２）が接続されていません<END>
+No MEMORY CARD（PS2）in MEMORY CARD Slot 1 and 2<END>
 //POINTER #840 @ $D20 - STRING #840 @ $51F4
 
 #W32($D20)
-「レーシングバトル」ではメモリーカード（ＰＳ２）が必要です<END>
+”RACING BATTLE” requires a MEMORY CARD（PS2）<END>
 //POINTER #841 @ $D24 - STRING #841 @ $5230
 
 #W32($D24)
-メモリーカード（ＰＳ２）を接続してください<END>
+Please connect a MEMORY CARD（PS2）<END>
 //POINTER #842 @ $D28 - STRING #842 @ $525C
 
 #W32($D28)
-サブガレージデータをロードするメモリーカード（ＰＳ２）を選択してください<END>
+Select the MEMORY CARD（PS2）to load SubーGarage Data．<END>
 //POINTER #843 @ $D2C - STRING #843 @ $52A6
 
 #W32($D2C)
-メモリーカード差込口＃に接続されているメモリーカード（ＰＳ２）には<END>
+MEMORY CARD（PS2）connected to MEMORY CARD Slot ＃<END>
 //POINTER #844 @ $D30 - STRING #844 @ $52EA
 
 #W32($D30)
-レーシングバトルのサブガレージデータが存在しません<END>
+has no RACING BATTLE SubーGarage Data<END>
 //POINTER #845 @ $D34 - STRING #845 @ $531E
 
 #W32($D34)
-新しいサブガレージデータを作成すると、<END>
+When new SubーGarage Data is created、<END>
 //POINTER #846 @ $D38 - STRING #846 @ $5346
 
 #W32($D38)
-以前作成したサブガレージデータは使用できなくなります<END>
+previously created SubーGarage Data will no longer exist．<END>
 //POINTER #847 @ $D3C - STRING #847 @ $537C
 
 #W32($D3C)
-メモリーカード差込口＃に接続されているメモリーカード（ＰＳ２）に<END>
+Create new SubーGarage Data on MEMORY CARD（PS2）connected<END>
 //POINTER #848 @ $D40 - STRING #848 @ $53BE
 
 #W32($D40)
-サブガレージデータを新規作成して、ガレージ移動を行いますか？<END>
+to MEMORY CARD Slot ＃ and perform a garage move？<END>
 //POINTER #849 @ $D44 - STRING #849 @ $53FC
 
 #W32($D44)
-メモリーカード差込口＃に接続されているメモリーカード（ＰＳ２）の中にある<END>
+RACING BATTLE SubーGarage Data on MEMORY CARD（PS2）connected<END>
 //POINTER #850 @ $D48 - STRING #850 @ $5446
 
 #W32($D48)
-レーシングバトルのサブガレージデータは破損しています<END>
+to MEMORY CARD Slot ＃ is corrupted．<END>
 //POINTER #851 @ $D4C - STRING #851 @ $547C
 
 #W32($D4C)
-メモリーカード差込口＃に接続されているメモリーカード（ＰＳ２）の中にある<END>
+SubーGarage Data in the MEMORY CARD（PS2）connected to MEMORY CARD Slot ＃<END>
 //POINTER #852 @ $D50 - STRING #852 @ $54C6
 
 #W32($D50)
-サブガレージデータは、このゲームデータでは使用できません<END>
+cannot be used with current Game Data．<END>
 //POINTER #853 @ $D54 - STRING #853 @ $5500
 
 #W32($D54)
-新しいサブガレージデータを作成すると、<END>
+When new SubーGarage Data is created、<END>
 //POINTER #854 @ $D58 - STRING #854 @ $5528
 
 #W32($D58)
-以前作成したサブガレージデータは使用できなくなります<END>
+previously created SubーGarage Data will no longer exist．<END>
 //POINTER #855 @ $D5C - STRING #855 @ $555E
 
 #W32($D5C)
-メモリーカード差込口＃に接続されているメモリーカード（ＰＳ２）の中にある<END>
+SubーGarage Data in the MEMORY CARD（PS2）connected to MEMORY CARD Slot ＃<END>
 //POINTER #856 @ $D60 - STRING #856 @ $55A8
 
 #W32($D60)
-サブガレージデータは、このゲームデータでは使用できません<END>
+cannot be used with current Game Data．<END>
 //POINTER #857 @ $D64 - STRING #857 @ $55E2
 
 #W32($D64)
-メモリーカード差込口＃に接続されているメモリーカード（ＰＳ２）の中にある<END>
+Checking the SubーGarage Data in the MEMORY CARD（PS2）<END>
 //POINTER #858 @ $D68 - STRING #858 @ $562C
 
 #W32($D68)
-サブガレージデータをチェックしています<END>
+connected to MEMORY CARD Slot ＃<END>
 //POINTER #859 @ $D6C - STRING #859 @ $5654
 
 #W32($D6C)
@@ -3460,7 +3460,7 @@ MEMORY CARD（PS2）at MEMORY CARD Slot ＃<END>
 //POINTER #862 @ $D78 - STRING #862 @ $5716
 
 #W32($D78)
-サブガレージデータをロードしています<END>
+Loading SubーGarage Data．<END>
 //POINTER #863 @ $D7C - STRING #863 @ $573C
 
 #W32($D7C)
@@ -3480,79 +3480,79 @@ Abandon loading Game Data？<END>
 //POINTER #867 @ $D8C - STRING #867 @ $57F2
 
 #W32($D8C)
-メインガレージのガレージ車をサブガレージに移動させます<END>
+Move garage cars from Main Garage to SubーGarage<END>
 //POINTER #868 @ $D90 - STRING #868 @ $582A
 
 #W32($D90)
-移動させたい車を選択してください<END>
+Select the car you want to move．<END>
 //POINTER #869 @ $D94 - STRING #869 @ $584C
 
 #W32($D94)
-ＮＯ　ＤＡＴＡを選ぶと<END>
+Select ＮＯ　ＤＡＴＡ to move the car from<END>
 //POINTER #870 @ $D98 - STRING #870 @ $5864
 
 #W32($D98)
-サブガレージからメインガレージへの車の移動が可能です<END>
+SubーGarage to Main Garage<END>
 //POINTER #871 @ $D9C - STRING #871 @ $589A
 
 #W32($D9C)
-（現在サブガレージに＃＃台格納しています）<END>
+（＃＃ cars stored in the SubーGarage）<END>
 //POINTER #872 @ $DA0 - STRING #872 @ $58C6
 
 #W32($DA0)
-メインガレージに移動させたい車を選択してください<END>
+Select the car to move to Main Garage．<END>
 //POINTER #873 @ $DA4 - STRING #873 @ $58F8
 
 #W32($DA4)
-ガレージ車の移動先を選択してください<END>
+Please select where to move your garage car<END>
 //POINTER #874 @ $DA8 - STRING #874 @ $591E
 
 #W32($DA8)
-車をメインガレージに移動しますか？<END>
+Move car to Main Garage？<END>
 //POINTER #875 @ $DAC - STRING #875 @ $5942
 
 #W32($DAC)
-車をサブガレージに移動しますか？<END>
+Move car to SubーGarage？<END>
 //POINTER #876 @ $DB0 - STRING #876 @ $5964
 
 #W32($DB0)
-車の入れ替えを行いますか？<END>
+Replace your car？<END>
 //POINTER #877 @ $DB4 - STRING #877 @ $5980
 
 #W32($DB4)
-ガレージに戻ります<END>
+Going back to garage．<END>
 //POINTER #878 @ $DB8 - STRING #878 @ $5994
 
 #W32($DB8)
-セーブしてよろしいですか？<END>
+Do you want to save？<END>
 //POINTER #879 @ $DBC - STRING #879 @ $59B0
 
 #W32($DBC)
-セーブを行わないとガレージ移動はキャンセルされます<END>
+Abandoning the save will cancel the Garage Move<END>
 //POINTER #880 @ $DC0 - STRING #880 @ $59E4
 
 #W32($DC0)
-よろしいですか？<END>
+Are you sure you want to cancel？<END>
 //POINTER #881 @ $DC4 - STRING #881 @ $59F6
 
 #W32($DC4)
-サブガレージにデータが存在しません<END>
+No data exists in the SubーGarage<END>
 //POINTER #882 @ $DC8 - STRING #882 @ $5A1A
 
 #W32($DC8)
-Select the MEMORY CARD（PS2） to save the Game Data<END>
+Select the MEMORY CARD（PS2）to save the Game Data<END>
 //POINTER #883 @ $DCC - STRING #883 @ $5A5E
 
 #W32($DCC)
-メモリーカード差込口＃に接続されているメモリーカード（ＰＳ２）は<END>
+MEMORY CARD（PS2）connected to MEMORY CARD Slot ＃<END>
 //POINTER #884 @ $DD0 - STRING #884 @ $5AA0
 
 #W32($DD0)
-フォーマットされていません<END>
+is not formatted．<END>
 //POINTER #885 @ $DD4 - STRING #885 @ $5ABC
 
 #W32($DD4)
-フォーマットしてよろしいですか？<END>
+Are you sure you want to format？<END>
 //POINTER #886 @ $DD8 - STRING #886 @ $5ADE
 
 #W32($DD8)
@@ -3560,87 +3560,87 @@ Abandon saving Game Data？<END>
 //POINTER #887 @ $DDC - STRING #887 @ $5B00
 
 #W32($DDC)
-メモリーカード差込口＃に接続されているメモリーカード（ＰＳ２）の<END>
+Insufficient free space on the MEMORY CARD（PS2）<END>
 //POINTER #888 @ $DE0 - STRING #888 @ $5B42
 
 #W32($DE0)
-空き容量が不足しています<END>
+connected to MEMORY CARD Slot ＃<END>
 //POINTER #889 @ $DE4 - STRING #889 @ $5B5C
 
 #W32($DE4)
-レーシングバトルのゲームデータをセーブするには<END>
+You must have at least ４６０ＫＢ of free space to<END>
 //POINTER #890 @ $DE8 - STRING #890 @ $5B8C
 
 #W32($DE8)
-４６０ＫＢ以上の空き容量が必要です<END>
+save the RACING BATTLE Game Data．<END>
 //POINTER #891 @ $DEC - STRING #891 @ $5BB0
 
 #W32($DEC)
-メモリーカード差込口＃に接続されているメモリーカード（ＰＳ２）に<END>
+Create RACING BATTLE Game Data on the<END>
 //POINTER #892 @ $DF0 - STRING #892 @ $5BF2
 
 #W32($DF0)
-レーシングバトルのゲームデータを作成してよろしいですか？<END>
+MEMORY CARD（PS2）connected to MEMORY CARD Slot ＃？<END>
 //POINTER #893 @ $DF4 - STRING #893 @ $5C2C
 
 #W32($DF4)
-メモリーカード差込口＃に接続されているメモリーカード（ＰＳ２）には<END>
+The MEMORY CARD（PS2）connected to the MEMORY CARD Slot ＃<END>
 //POINTER #894 @ $DF8 - STRING #894 @ $5C70
 
 #W32($DF8)
-レーシングバトルのゲームデータが存在します<END>
+contains RACING BATTLE Game Data．<END>
 //POINTER #895 @ $DFC - STRING #895 @ $5C9C
 
 #W32($DFC)
-上書きしてよろしいですか？<END>
+Are you sure you want to overwrite？<END>
 //POINTER #896 @ $E00 - STRING #896 @ $5CB8
 
 #W32($E00)
-サブガレージデータをセーブするメモリーカード（ＰＳ２）を選択してください<END>
+Select the MEMORY CARD（PS2）to save the SubーGarage Data<END>
 //POINTER #897 @ $E04 - STRING #897 @ $5D02
 
 #W32($E04)
-メモリーカード差込口＃に接続されているメモリーカード（ＰＳ２）の<END>
+Insufficient free space on the MEMORY CARD（PS2）<END>
 //POINTER #898 @ $E08 - STRING #898 @ $5D44
 
 #W32($E08)
-空き容量が不足しています<END>
+connected to MEMORY CARD Slot ＃<END>
 //POINTER #899 @ $E0C - STRING #899 @ $5D5E
 
 #W32($E0C)
-レーシングバトルのサブガレージデータをセーブするには<END>
+You must have at least ２０４０ＫＢ of free space to<END>
 //POINTER #900 @ $E10 - STRING #900 @ $5D94
 
 #W32($E10)
-２０４０ＫＢ以上の空き容量が必要です<END>
+save the RACING BATTLE SubーGarage Data．<END>
 //POINTER #901 @ $E14 - STRING #901 @ $5DBA
 
 #W32($E14)
-メモリーカード差込口＃に接続されているメモリーカード（ＰＳ２）に<END>
+Are you sure you want to create RACING BATTLE SubーGarage Data<END>
 //POINTER #902 @ $E18 - STRING #902 @ $5DFC
 
 #W32($E18)
-レーシングバトルのサブガレージデータを作成してよろしいですか？<END>
+on the MEMORY CARD（PS2）connected to the MEMORY CARD Slot ＃？<END>
 //POINTER #903 @ $E1C - STRING #903 @ $5E3C
 
 #W32($E1C)
-メモリーカード差込口＃に接続されているメモリーカード（ＰＳ２）には<END>
+The MEMORY CARD（PS2）connected to the MEMORY CARD Slot ＃<END>
 //POINTER #904 @ $E20 - STRING #904 @ $5E80
 
 #W32($E20)
-レーシングバトルのサブガレージデータが存在します<END>
+contains RACING BATTLE SubーGarage Data．<END>
 //POINTER #905 @ $E24 - STRING #905 @ $5EB2
 
 #W32($E24)
-上書きしてよろしいですか？<END>
+Are you sure you want to overwrite？<END>
 //POINTER #906 @ $E28 - STRING #906 @ $5ECE
 
 #W32($E28)
-メモリーカード差込口＃に接続されているメモリーカード（ＰＳ２）を<END>
+Formatting the MEMORY CARD（PS2）connected to<END>
 //POINTER #907 @ $E2C - STRING #907 @ $5F10
 
 #W32($E2C)
-フォーマットしています<END>
+the MEMORY CARD Slot ＃<END>
 //POINTER #908 @ $E30 - STRING #908 @ $5F28
 
 #W32($E30)
@@ -3652,19 +3652,19 @@ Do not turn off the ”PlayStation 2” console<END>
 //POINTER #910 @ $E38 - STRING #910 @ $5FA6
 
 #W32($E38)
-フォーマットに失敗しました<END>
+Formatting failed．<END>
 //POINTER #911 @ $E3C - STRING #911 @ $5FC2
 
 #W32($E3C)
-もう一度フォーマットしてよろしいですか？<END>
+Format again？<END>
 //POINTER #912 @ $E40 - STRING #912 @ $5FEC
 
 #W32($E40)
-メモリーカード差込口＃に接続されているメモリーカード（ＰＳ２）に<END>
+Creating Game Data on MEMORY CARD（PS2）<END>
 //POINTER #913 @ $E44 - STRING #913 @ $602E
 
 #W32($E44)
-ゲームデータを作成しています<END>
+connected to MEMORY CARD Slot ＃<END>
 //POINTER #914 @ $E48 - STRING #914 @ $604C
 
 #W32($E48)
@@ -3676,15 +3676,15 @@ Do not turn off the ”PlayStation 2” console<END>
 //POINTER #916 @ $E50 - STRING #916 @ $60CA
 
 #W32($E50)
-ゲームデータの作成に失敗しました<END>
+Failed to create Game Data．<END>
 //POINTER #917 @ $E54 - STRING #917 @ $60EC
 
 #W32($E54)
-メモリーカード差込口＃に接続されているメモリーカード（ＰＳ２）に<END>
+Saving Game Data to MEMORY CARD（PS2）<END>
 //POINTER #918 @ $E58 - STRING #918 @ $612E
 
 #W32($E58)
-ゲームデータをセーブしています<END>
+connected to MEMORY CARD Slot ＃<END>
 //POINTER #919 @ $E5C - STRING #919 @ $614E
 
 #W32($E5C)
@@ -3696,15 +3696,15 @@ Do not turn off the ”PlayStation 2” console<END>
 //POINTER #921 @ $E64 - STRING #921 @ $61CC
 
 #W32($E64)
-ゲームデータのセーブに失敗しました<END>
+Failed to save Game Data．<END>
 //POINTER #922 @ $E68 - STRING #922 @ $61F0
 
 #W32($E68)
-メモリーカード差込口＃に接続されているメモリーカード（ＰＳ２）に<END>
+Creating SubーGarage Data on MEMORY CARD（PS2）<END>
 //POINTER #923 @ $E6C - STRING #923 @ $6232
 
 #W32($E6C)
-サブガレージデータを作成しています<END>
+connected to MEMORY CARD Slot ＃<END>
 //POINTER #924 @ $E70 - STRING #924 @ $6256
 
 #W32($E70)
@@ -3716,7 +3716,7 @@ Do not turn off the ”PlayStation 2” console<END>
 //POINTER #926 @ $E78 - STRING #926 @ $62D4
 
 #W32($E78)
-サブガレージデータの作成に失敗しました<END>
+Failed creating SubーGarage Data．<END>
 //POINTER #927 @ $E7C - STRING #927 @ $62FC
 
 #W32($E7C)
@@ -3724,11 +3724,11 @@ Abandon saving Game Data？<END>
 //POINTER #928 @ $E80 - STRING #928 @ $631E
 
 #W32($E80)
-メモリーカード差込口＃に接続されているメモリーカード（ＰＳ２）に<END>
+SubーGarage Data is saved to MEMORY CARD（PS2）<END>
 //POINTER #929 @ $E84 - STRING #929 @ $6360
 
 #W32($E84)
-サブガレージデータをセーブしています<END>
+connected to MEMORY CARD Slot ＃<END>
 //POINTER #930 @ $E88 - STRING #930 @ $6386
 
 #W32($E88)
@@ -3740,7 +3740,7 @@ Do not turn off the ”PlayStation 2” console<END>
 //POINTER #932 @ $E90 - STRING #932 @ $6404
 
 #W32($E90)
-サブガレージデータのセーブに失敗しました<END>
+Failed to save SubーGarage Data．<END>
 //POINTER #933 @ $E94 - STRING #933 @ $642E
 
 #W32($E94)
@@ -3748,59 +3748,59 @@ Saved successfully<END>
 //POINTER #934 @ $E98 - STRING #934 @ $6444
 
 #W32($E98)
-ゲームデータ及びサブガレージデータをセーブするメモリーカード（ＰＳ２）を<END>
+Select the MEMORY CARD（PS2）where the<END>
 //POINTER #935 @ $E9C - STRING #935 @ $648E
 
 #W32($E9C)
-選択してください<END>
+RACING BATTLE Game Data and SubーGarage Data will be saved．<END>
 //POINTER #936 @ $EA0 - STRING #936 @ $64A0
 
 #W32($EA0)
-レーシングバトルのゲームデータ及びサブガレージデータをセーブするには<END>
+You must have at least ２５００ＫＢ of free space to<END>
 //POINTER #937 @ $EA4 - STRING #937 @ $64E6
 
 #W32($EA4)
-２５００ＫＢ以上の空き容量が必要です<END>
+save RACING BATTLE Game Data and SubーGarage Data．<END>
 //POINTER #938 @ $EA8 - STRING #938 @ $650C
 
 #W32($EA8)
-メモリーカード差込口＃に接続されているメモリーカード（ＰＳ２）に<END>
+Create RACING BATTLE Game Data and SubーGarage Data on<END>
 //POINTER #939 @ $EAC - STRING #939 @ $654E
 
 #W32($EAC)
-レーシングバトルのゲームデータ及びサブガレージデータを作成してよろしいですか？<END>
+MEMORY CARD（PS2）connected to the MEMORY CARD Slot ＃<END>？<END>
 //POINTER #940 @ $EB0 - STRING #940 @ $659E
 
 #W32($EB0)
-メモリーカード差込口＃に接続されているメモリーカード（ＰＳ２）に<END>
+The MEMORY CARD（PS2）connected to the MEMORY CARD Slot ＃<END>
 //POINTER #941 @ $EB4 - STRING #941 @ $65E0
 
 #W32($EB4)
-レーシングバトルのゲームデータが存在します<END>
+contains RACING BATTLE Game Data．Are you sure you want<END>
 //POINTER #942 @ $EB8 - STRING #942 @ $660C
 
 #W32($EB8)
-ゲームデータの上書き及びサブガレージデータの作成をしてよろしいですか？<END>
+to overwrite Game Data and create SubーGarage Data？<END>
 //POINTER #943 @ $EBC - STRING #943 @ $6654
 
 #W32($EBC)
-メモリーカード差込口＃に接続されているメモリーカード（ＰＳ２）には<END>
+The MEMORY CARD（PS2）connected to the MEMORY CARD Slot ＃<END>
 //POINTER #944 @ $EC0 - STRING #944 @ $6698
 
 #W32($EC0)
-レーシングバトルのゲームデータ及びサブガレージデータが存在します<END>
+contains RACING BATTLE Game Data and SubーGarage Data<END>
 //POINTER #945 @ $EC4 - STRING #945 @ $66DA
 
 #W32($EC4)
-上書きしてよろしいですか？<END>
+Are you sure you want to overwrite？<END>
 //POINTER #946 @ $EC8 - STRING #946 @ $66F6
 
 #W32($EC8)
-添付データを見ますか？<END>
+See attached data？<END>
 //POINTER #947 @ $ECC - STRING #947 @ $670E
 
 #W32($ECC)
-このムービーを再生しますか？<END>
+Play this movie？<END>
 //POINTER #948 @ $ED0 - STRING #948 @ $672C
 
 #W32($ED0)
@@ -3812,63 +3812,63 @@ Save Game Data？<END>
 //POINTER #950 @ $ED8 - STRING #950 @ $676C
 
 #W32($ED8)
-リプレイデータをセーブするメモリーカード（ＰＳ２）を選択してください<END>
+Select the MEMORY CARD（PS2）to save the Replay Data<END>
 //POINTER #951 @ $EDC - STRING #951 @ $67B2
 
 #W32($EDC)
-レーシングバトルのリプレイデータをセーブするには<END>
+You must have at least ４３０ＫＢ of free space<END>
 //POINTER #952 @ $EE0 - STRING #952 @ $67E4
 
 #W32($EE0)
-４３０ＫＢ以上の空き容量が必要です<END>
+to save RACING BATTLE Replay Data<END>
 //POINTER #953 @ $EE4 - STRING #953 @ $6808
 
 #W32($EE4)
-リプレイデータをセーブする枠を選択してください<END>
+Select a slot to save Replay Data<END>
 //POINTER #954 @ $EE8 - STRING #954 @ $6838
 
 #W32($EE8)
-メモリーカード差込口＃に接続されているメモリーカード（ＰＳ２）には<END>
+The MEMORY CARD（PS2）connected to the MEMORY CARD Slot ＃<END>
 //POINTER #955 @ $EEC - STRING #955 @ $687C
 
 #W32($EEC)
-レーシングバトルのリプレイデータが存在します<END>
+contains RACING BATTLE Replay Data<END>
 //POINTER #956 @ $EF0 - STRING #956 @ $68AA
 
 #W32($EF0)
-メモリーカード差込口＃に接続されているメモリーカード（ＰＳ２）に<END>
+Create RACING BATTLE Replay Data on the<END>
 //POINTER #957 @ $EF4 - STRING #957 @ $68EC
 
 #W32($EF4)
-レーシングバトルのリプレイデータを作成してよろしいですか？<END>
+MEMORY CARD（PS2）connected to the MEMORY CARD Slot ＃？<END>
 //POINTER #958 @ $EF8 - STRING #958 @ $6928
 
 #W32($EF8)
-選択した枠にはレーシングバトルの<END>
+RACING BATTLE Replay Data exists in<END>
 //POINTER #959 @ $EFC - STRING #959 @ $694A
 
 #W32($EFC)
-リプレイデータが存在します<END>
+the selected slot．<END>
 //POINTER #960 @ $F00 - STRING #960 @ $6966
 
 #W32($F00)
-メモリーカード差込口＃に接続されている<END>
+Saving Replay Data to the<END>
 //POINTER #961 @ $F04 - STRING #961 @ $698E
 
 #W32($F04)
-メモリーカード（ＰＳ２）に<END>
+MEMORY CARD（PS2）connected to<END>
 //POINTER #962 @ $F08 - STRING #962 @ $69AA
 
 #W32($F08)
-リプレイデータをセーブしています<END>
+MEMORY CARD Slot ＃<END>
 //POINTER #963 @ $F0C - STRING #963 @ $69CC
 
 #W32($F0C)
-本体の電源オフやリセット、メモリーカード（ＰＳ２）<END>
+Do not remove the MEMORY CARD（PS2）or controller<END>
 //POINTER #964 @ $F10 - STRING #964 @ $6A00
 
 #W32($F10)
-やコントローラの抜き差しは行わないでください<END>
+Do not turn off the ”PlayStation 2” console<END>
 //POINTER #965 @ $F14 - STRING #965 @ $6A2E
 
 #W32($F14)
@@ -3912,19 +3912,19 @@ Select the MEMORY CARD（PS2）to load Game Data<END>
 //POINTER #975 @ $F3C - STRING #975 @ $6CB4
 
 #W32($F3C)
-メモリーカード差込口＃に接続されているメモリーカード（ＰＳ２）には<END>
+No RACING BATTLE Game Data exists on the<END>
 //POINTER #976 @ $F40 - STRING #976 @ $6CF8
 
 #W32($F40)
-レーシングバトルのゲームデータが存在しません<END>
+MEMORY CARD（PS2）connected to MEMORY CARD Slot ＃<END>
 //POINTER #977 @ $F44 - STRING #977 @ $6D26
 
 #W32($F44)
-メモリーカード差込口＃に接続されているメモリーカード（ＰＳ２）の中にある<END>
+RACING BATTLE Game Data in MEMORY CARD（PS2）connected<END>
 //POINTER #978 @ $F48 - STRING #978 @ $6D70
 
 #W32($F48)
-レーシングバトルのゲームデータは破損しています<END>
+to MEMORY CARD Slot ＃ is corrupted<END>
 //POINTER #979 @ $F4C - STRING #979 @ $6DA0
 
 #W32($F4C)
@@ -3960,19 +3960,19 @@ Abandon loading Game Data？<END>
 //POINTER #987 @ $F6C - STRING #987 @ $6F3A
 
 #W32($F6C)
-ロードが終了しました<END>
+Loading finished．<END>
 //POINTER #988 @ $F70 - STRING #988 @ $6F50
 
 #W32($F70)
-ゲームデータのセーブでは、サブガレージデータはセーブされません<END>
+Saving Game Data does not save SubーGarage Data<END>
 //POINTER #989 @ $F74 - STRING #989 @ $6F90
 
 #W32($F74)
-新しいメモリーカード（ＰＳ２）で、以前作成したサブガレージデータを継続<END>
+Continue to use previus SubーGarage Data with a new MEMORY CARD（PS2）<END>
 //POINTER #990 @ $F78 - STRING #990 @ $6FD8
 
 #W32($F78)
-して使用する場合、クエストモードのガレージ移動でセーブを行ってください<END>
+To save it、please save in the garage in Quest Mode<END>
 //POINTER #991 @ $F7C - STRING #991 @ $7020
 
 #W32($F7C)
@@ -3980,27 +3980,27 @@ Abandon entering password？<END>
 //POINTER #992 @ $F80 - STRING #992 @ $7040
 
 #W32($F80)
-パスワード車をセーブする枠を選択してください<END>
+Select a slot to save the Password Car<END>
 //POINTER #993 @ $F84 - STRING #993 @ $706E
 
 #W32($F84)
-上書きしてよろしいですか？<END>
+Are you sure you want to overwrite？<END>
 //POINTER #994 @ $F88 - STRING #994 @ $708A
 
 #W32($F88)
-登録を行わないと入力したパスワードはキャンセルされます<END>
+If you do not register、 the entered password will be canceled<END>
 //POINTER #995 @ $F8C - STRING #995 @ $70C2
 
 #W32($F8C)
-オプションに戻りますか？<END>
+Return to OPTIONS？<END>
 //POINTER #996 @ $F90 - STRING #996 @ $70DC
 
 #W32($F90)
-セーブせずに戻りますか？<END>
+Return without saving？<END>
 //POINTER #997 @ $F94 - STRING #997 @ $70F6
 
 #W32($F94)
-パスワード車を登録しました<END>
+Password Car registered<END>
 //POINTER #998 @ $F98 - STRING #998 @ $7112
 
 #W32($F98)
@@ -4008,27 +4008,27 @@ Save Game Data？<END>
 //POINTER #999 @ $F9C - STRING #999 @ $7132
 
 #W32($F9C)
-ゲームデータをセーブするメモリーカード（ＰＳ２）を選択してください<END>
+Select the MEMORY CARD（PS2）to save Game Data<END>
 //POINTER #1000 @ $FA0 - STRING #1000 @ $7176
 
 #W32($FA0)
-パスワード車をセーブする枠を選択してください<END>
+Select a slot to save the Password Car<END>
 //POINTER #1001 @ $FA4 - STRING #1001 @ $71A4
 
 #W32($FA4)
-メモリーカード差込口＃に接続されているメモリーカード（ＰＳ２）には<END>
+The MEMORY CARD（PS2）connected to the MEMORY CARD Slot ＃<END>
 //POINTER #1002 @ $FA8 - STRING #1002 @ $71E8
 
 #W32($FA8)
-レーシングバトルのゲームデータが存在します<END>
+contains RACING BATTLE Game Data<END>
 //POINTER #1003 @ $FAC - STRING #1003 @ $7214
 
 #W32($FAC)
-上書きしてよろしいですか？<END>
+Are you sure you want to overwrite？<END>
 //POINTER #1004 @ $FB0 - STRING #1004 @ $7230
 
 #W32($FB0)
-ゲームデータをセーブしています<END>
+Saved Game Data．<END>
 //POINTER #1005 @ $FB4 - STRING #1005 @ $7250
 
 #W32($FB4)
@@ -4044,11 +4044,11 @@ Choose this car？<END>
 //POINTER #1008 @ $FC0 - STRING #1008 @ $72A4
 
 #W32($FC0)
-サブガレージデータをロードしています<END>
+Loading SubーGarage Data．<END>
 //POINTER #1009 @ $FC4 - STRING #1009 @ $72CA
 
 #W32($FC4)
-この記録を消去しますか？<END>
+Remove this record？<END>
 //POINTER #1010 @ $FC8 - STRING #1010 @ $72E4
 
 #W32($FC8)
@@ -4108,11 +4108,11 @@ Save Game Data？<END>
 //POINTER #1024 @ $1000 - STRING #1024 @ $7572
 
 #W32($1000)
-ＨＯＭＥに戻りますか？<END>
+Return to HOME？<END>
 //POINTER #1025 @ $1004 - STRING #1025 @ $758A
 
 #W32($1004)
-ＨＯＭＥに戻りますか？<END>
+Return to HOME？<END>
 //POINTER #1026 @ $1008 - STRING #1026 @ $75A2
 
 #W32($1008)
@@ -5633,7 +5633,7 @@ COLOR SELECT<END>
 //POINTER #351 @ $15F0 - STRING #351 @ $8978
 
 #W32($15F0)
-NEW CARDEALER<END>
+NEW CAR DEALER<END>
 //POINTER #352 @ $15F4 - STRING #352 @ $8988
 
 #W32($15F4)
