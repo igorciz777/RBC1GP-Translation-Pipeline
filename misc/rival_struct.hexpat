@@ -11,7 +11,8 @@ struct RivalData{
     char unknwn_blk1[280];  // 0x10
 	char unknwn_blk2[32];  // 0x128
     char unknwn_blk3[204];  // 0x148
-    char nickname[106];  // 0x214
+    char nickname[26];  // 0x214
+    char unknwn_blk4[80];
 	u16 unknwn6;  // 0x27e
 	char name[26];
     char occupation[34];
