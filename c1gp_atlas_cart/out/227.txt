@@ -66,23 +66,23 @@ Next step is to purchase a car．You can buy one from the NEW／USED CAR DEALER�
 //POINTER #14 @ $38 - STRING #14 @ $8C0
 
 #W32($38)
-ノーマルタイヤを装着します。<END>
+Installs normal tires．<END>
 //POINTER #15 @ $3C - STRING #15 @ $8DE
 
 #W32($3C)
-ハイグリップタイヤを装着します。グリップ力が上昇します。ＷＥＴ状態の路面に向いています。<END>
+Installs highーgrip tires．Suitable for wet conditions．<END>
 //POINTER #16 @ $40 - STRING #16 @ $938
 
 #W32($40)
-Ｓタイヤ（ハードコンパウンド）を装着します。ハイグリップタイヤに比べてグリップ力は上昇しますが、寿命は短くなります。<END>
+Installs hard compound S tires．Increased grip but less durability compared to HG tires．<END>
 //POINTER #17 @ $44 - STRING #17 @ $9AE
 
 #W32($44)
-Ｓタイヤ（ミディアムコンパウンド）を装着します。Ｓタイヤ（ハード）に比べてグリップ力は上昇しますが、寿命は短くなります。<END>
+Installs medium compound S tires．Increased grip but less durability compared to SH tires．<END>
 //POINTER #18 @ $48 - STRING #18 @ $A28
 
 #W32($48)
-Ｓタイヤ（ソフトコンパウンド）を装着します。最もグリップ力に優れますが、寿命は最も短くなります。<END>
+Installs soft compound S tires．They provide best grip、but have the worst durability．<END>
 //POINTER #19 @ $4C - STRING #19 @ $A8A
 
 #W32($4C)
@@ -238,31 +238,31 @@ Next step is to purchase a car．You can buy one from the NEW／USED CAR DEALER�
 //POINTER #57 @ $E4 - STRING #57 @ $1438
 
 #W32($E4)
-ディファレンシャルを選択します。機械式ＬＳＤの装着により、駆動、旋回の特性が変化します。<END>
+Set up the differential．Installing a mechanical LSD will change the driving and cornering characteristics．<END>
 //POINTER #58 @ $E8 - STRING #58 @ $1492
 
 #W32($E8)
-フロントのディファレンシャルを選択します。機械式ＬＳＤの装着により、駆動、旋回の特性が変化します。<END>
+Set up the front differential．Installing a mechanical LSD will change the driving and cornering characteristics．<END>
 //POINTER #59 @ $EC - STRING #59 @ $14F6
 
 #W32($EC)
-リアのディファレンシャルを選択します。機械式ＬＳＤの装着により、駆動、旋回の特性が変化します。<END>
+Set up the rear differential．Installing a mechanical LSD will change the driving and cornering characteristics．<END>
 //POINTER #60 @ $F0 - STRING #60 @ $1556
 
 #W32($F0)
-ノーマルデフを装着します。<END>
+Installs the normal differential．<END>
 //POINTER #61 @ $F4 - STRING #61 @ $1572
 
 #W32($F4)
-アクセルをＯＮにした時のみ、デフの効果を抑制します。減速時の旋回性を保ちつつ、加速時の駆動力を向上させます。<END>
+The differential effect is suppressed only when the accelerator is ON． This maintains cornering performance during deceleration while improving traction during acceleration．<END>
 //POINTER #62 @ $F8 - STRING #62 @ $15E0
 
 #W32($F8)
-アクセルのＯＮ、ＯＦＦ両方の状態でデフの効果を抑制しますが、ＯＦＦの時の抑制力は１ＷＡＹと２ＷＡＹの中間くらいになります。<END>
+The differential effect is suppressed in both the ON and OFF states of the accelerator．On OFF state the supression force is between the one of a 1 WAY and a 2 WAY LSD．<END>
 //POINTER #63 @ $FC - STRING #63 @ $165C
 
 #W32($FC)
-アクセルのＯＮ、ＯＦＦ両方の状態でデフの効果を抑制します。加速時の駆動力、減速時の安定性は上昇しますが、曲がり難くなります。<END>
+The differential effect is suppressed in both the ON and OFF states of the accelerator．This increases traction during acceleration and stability during deceleration、 but makes turning more difficult．<END>
 //POINTER #64 @ $100 - STRING #64 @ $16DA
 
 #W32($100)
@@ -338,11 +338,11 @@ Next step is to purchase a car．You can buy one from the NEW／USED CAR DEALER�
 //POINTER #82 @ $148 - STRING #82 @ $1B64
 
 #W32($148)
-インチアップをします。インチアップすることでタイヤの横方向の剛性を上げたり、見た目を変化させたりします。<END>
+”InchーUp” the rim size．Increasing the inch size enhances lateral rigidity of the tires and changes the appearence．<END>
 //POINTER #83 @ $14C - STRING #83 @ $1BCE
 
 #W32($14C)
-インチアップするサイズを選択してください。<END>
+Select a size for the ”InchーUp”．<END>
 //POINTER #84 @ $150 - STRING #84 @ $1BFA
 
 #W32($150)
@@ -874,7 +874,7 @@ Next step is to purchase a car．You can buy one from the NEW／USED CAR DEALER�
 //POINTER #216 @ $360 - STRING #216 @ $3928
 
 #W32($360)
-調整したセッティングを３種類まで登録することができます。<END>
+Up to three sets of adjusted settings can be saved．<END>
 //POINTER #217 @ $364 - STRING #217 @ $3962
 
 #W32($364)
@@ -898,11 +898,11 @@ Next step is to purchase a car．You can buy one from the NEW／USED CAR DEALER�
 //POINTER #222 @ $378 - STRING #222 @ $3B42
 
 #W32($378)
-セッティングを終了して、ガレージに戻ります。<END>
+Finish setting up and return to garage．<END>
 //POINTER #223 @ $37C - STRING #223 @ $3B70
 
 #W32($37C)
-向上させたい性能を選択すると、調整が必要なセッティング項目が表示されます。<END>
+Select the category that you want to improve on and the related settings will be displayed．<END>
 //POINTER #224 @ $380 - STRING #224 @ $3BBC
 
 #W32($380)
@@ -914,19 +914,19 @@ Next step is to purchase a car．You can buy one from the NEW／USED CAR DEALER�
 //POINTER #226 @ $388 - STRING #226 @ $3C44
 
 #W32($388)
-ドリフト走行の性能を向上させます。ドリフト走行がし易くなりますが、グリップ走行はしにくくなります。<END>
+Improves drift performance．Drifting becomes easier but the grip is decreased．<END>
 //POINTER #227 @ $38C - STRING #227 @ $3CA8
 
 #W32($38C)
-グリップ走行の性能を向上させます。グリップ走行がし易くなりますが、ドリフト走行はしにくくなります。<END>
+Improves grip performance．Provides more grip but it is harder to drift．<END>
 //POINTER #228 @ $390 - STRING #228 @ $3D0C
 
 #W32($390)
-車の旋回性能を向上させます。小回りがきくようになりますが、直進性能は低下します。<END>
+Improves turning performance．Car is more maneuverable in turns but instable on straights．<END>
 //POINTER #229 @ $394 - STRING #229 @ $3D5E
 
 #W32($394)
-車の直進性能を向上させます。まっすぐ走りやすくなりますが、カーブなどで曲がりにくくなります。<END>
+Improves straight driving stability．Car is more stable on straights but it is harder to turn in corners．<END>
 //POINTER #230 @ $398 - STRING #230 @ $3DBC
 
 #W32($398)
@@ -934,15 +934,15 @@ Next step is to purchase a car．You can buy one from the NEW／USED CAR DEALER�
 //POINTER #231 @ $39C - STRING #231 @ $3E2E
 
 #W32($39C)
-ミッションのセッティングを行います。<END>
+Set up the transmission．<END>
 //POINTER #232 @ $3A0 - STRING #232 @ $3E54
 
 #W32($3A0)
-ギアレシオが高いほど加速重視のセッティングに、低いほど最高速重視のセッティングになります。<END>
+The higher the gear ratio、the better the acceleration．The lower the gear ratio、the better the top speed．<END>
 //POINTER #233 @ $3A4 - STRING #233 @ $3EB0
 
 #W32($3A4)
-アライメントのセッティングを行います。<END>
+Set up the alignment．<END>
 //POINTER #234 @ $3A8 - STRING #234 @ $3ED8
 
 #W32($3A8)
@@ -954,11 +954,11 @@ Next step is to purchase a car．You can buy one from the NEW／USED CAR DEALER�
 //POINTER #236 @ $3B0 - STRING #236 @ $3FBE
 
 #W32($3B0)
-サスペンションのセッティングを行います。<END>
+Set up the suspension．<END>
 //POINTER #237 @ $3B4 - STRING #237 @ $3FE8
 
 #W32($3B4)
-スプリングの固さを調整します。ＨＡＲＤ寄りにすると荷重の移動量が減り、車体が安定しますが、凹凸面で跳ねやすくなります。<END>
+Adjusts the spring rates．Setting it to HARD will reduce the amount of load transfer and stabilize the vehicle、but it will cause it to bounce on an uneven surface．<END>
 //POINTER #238 @ $3B8 - STRING #238 @ $4060
 
 #W32($3B8)
@@ -966,11 +966,11 @@ Next step is to purchase a car．You can buy one from the NEW／USED CAR DEALER�
 //POINTER #239 @ $3BC - STRING #239 @ $40E2
 
 #W32($3BC)
-スタビライザーの固さを調整します。ＨＡＲＤ寄りにすると車体のねじれが抑制されコーナリングが安定しますが、挙動がシビアになります。<END>
+Adjusts the firmness of the antiroll bar．Setting it to HARD will reduce body roll and stabilize cornering、but the handling will become more sensitive．<END>
 //POINTER #240 @ $3C0 - STRING #240 @ $4164
 
 #W32($3C0)
-車高を調整します。低くすると重心が下がり、挙動が安定しますが、低すぎるとサスのストローク量が減り、ショックを吸収し難くなります。<END>
+Adjusts the ride height．Lowering the height will lower the center of mass and stabilize the car、but lowering it too much will reduce suspension travel and may cause the suspension to bottom out．<END>
 //POINTER #241 @ $3C4 - STRING #241 @ $41E6
 
 #W32($3C4)
@@ -978,23 +978,23 @@ Next step is to purchase a car．You can buy one from the NEW／USED CAR DEALER�
 //POINTER #242 @ $3C8 - STRING #242 @ $4244
 
 #W32($3C8)
-前後のブレーキバランスを調整します。フロント寄りにすることでグリップ傾向、リア寄りにすることでドリフト傾向になります。<END>
+Adjusts the brake balance．Setting it closer to the front will cause more understeer and closer to the rear will cause oversteer．<END>
 //POINTER #243 @ $3CC - STRING #243 @ $42BC
 
 #W32($3CC)
-リアスポイラーの角度を調整し、ダウンフォースを変化させます。角度を上げるとリアグリップ力が増す反面、最高速や加速が低くなります。<END>
+Adjusts the rear spoiler angle．With increased angle the downforce is higher、increasing rear grip but lowering top speed and acceleration．<END>
 //POINTER #244 @ $3D0 - STRING #244 @ $433E
 
 #W32($3D0)
-駆動力配分を調整し、挙動特性を変化させます。フロント寄りにすることでＦＦ、リア寄りにすることでＦＲに近い挙動になります。<END>
+Adjusts the drivetrain power balance．Setting it closer to the FRONT gives the car FWD characteristics、while closer to the REAR is like RWD．<END>
 //POINTER #245 @ $3D4 - STRING #245 @ $43B8
 
 #W32($3D4)
-ターボブーストを上げることによって最大出力が一時的に上がりますが、熱ダレが発生し易くなります。<END>
+Increasing turbo boost will increase the maximum power output、but it will make it easier to overheat the engine．<END>
 //POINTER #246 @ $3D8 - STRING #246 @ $4418
 
 #W32($3D8)
-タイヤを交換します。<END>
+Replace tires．<END>
 //POINTER #247 @ $3DC - STRING #247 @ $442E
 
 #W32($3DC)

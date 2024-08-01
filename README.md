@@ -15,7 +15,7 @@ not real calculated %, just a guess :D
 | `229.bin` |   0% |
 | `230.bin` |   0% |
 | `231.bin` |   0% |
-| `737.bin` |  30% |
+| `737.bin` | 100% |
 | `Textures` |   1% |
 | `Cutscenes` |   0% |
 | `Executable` |  90% |
