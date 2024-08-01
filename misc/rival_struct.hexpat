@@ -1,20 +1,26 @@
 //imhex c1gp rival pattern
 
 struct RivalData{
-    u24 idx;
-    u32 something;
-    u32 something2;
-    u8 zero1;
-    u8 weirdCarValue; //sometimes changes rims size sometimes color
-    char zero2[11];
-    u8 carBodyId;
-    char unknown[507];
-    char nickname[24];
-    char unknown2[84];
-    char name[26];
-    char job[34];
-    char bio1[232];
-    char dialog1[132];
+    u16 rival_id; // 0x0
+    u16 unknwn1;  // 0x2
+    u8 unknwn2;  // 0x4
+    u24 unknwn3;  // 0x5
+	u32 unknwn4;
+    u8 car_value;  //0xC
+    u24 unknwn5; 
+    char unknwn_blk1[280];  // 0x10
+	char unknwn_blk2[32];  // 0x128
+    char unknwn_blk3[204];  // 0x148
+    char nickname[106];  // 0x214
+	u16 unknwn6;  // 0x27e
+	char name[26];
+    char occupation[34];
+	char motto[34];
+    char profile_bio_1[66];
+    char profile_bio_2[66];
+    char profile_bio_3[66];
+    char dialog_1_line_1[66];
+    char dialog_1_line_2[66];
     char dialog2[48];
     char dialog3[48];
     char dialog4[48];

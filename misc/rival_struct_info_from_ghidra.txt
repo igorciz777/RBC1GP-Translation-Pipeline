@@ -1,0 +1,27 @@
+Offsets to different struct fields found in Ghidra from decompiled eeMemory.bin file (PCSX2 Save State)
+
+0x00746fa4 - address, points to the start of rivals structs, which is rival id for Racing Guy No. 1
+0x578 - size of one rival struct, 1400 in decimal
+
+struct fields are referenced by an offset in this way: rival_structs_start_pointer + rival_id * 0x578(size) + 0x214(offset for a field)
+in that example its a reference to the nickname of rival numbered by rival_id
+
+field offsets:
+0x0(nothing) - id
+0x2 - unknown, usually 0x00
+0x4 - some rival type setting, used in an if to check if its lesser than 0
+0x5 - some rival type setting, used in an if to check if its equal to 0, 1 or 2
+0xC - controlls the rival's car chassis and wheel size in some wacky way
+0x10 - unknown
+0x128 - unknown
+0x148 - unknown
+0x214 - nickname
+0x27e - some number before full name, unknown use
+0x280 - full name
+0x29a - occupation
+0x2bc - motto
+0x2de - profile bio 1
+0x320 - profile bio 2
+0x362 - profile bio 3
+0x3a4 - dialog 1 line 1
+0x3e6 - dialog 1 line 2
