@@ -429,3 +429,25 @@ patch=1,EE,0051255C,word,00D20113 //B1 01 D2 00
 //patch=1,EE,005617CC,word, //B1 01 AD 01 
 //patch=1,EE,005617D0,word, //5A 00 C8 01 
 //patch=1,EE,005617D4,word, //FF FF 00 00
+
+//not won:0 sp battle not won:0 (meaning, rivals not won against left at all and sp battle only rivals)
+patch=1,EE,004BFAD0,word,0012001B //4B 0D 24 08 
+patch=1,EE,004BFAD4,word,0045001F //FD 0D 45 00 
+patch=1,EE,004BFAD8,word,011400D2 //D2 00 14 01 
+patch=1,EE,004BFADC,word,001C0114 //EE 00 EB 00 
+patch=1,EE,004BFAE0,word,01130019 //C2 01 BA 01 
+patch=1,EE,004BFAE4,word,00170018 //DD 01 4B 0D 
+patch=1,EE,004BFAE8,word,00220015 //24 08 FD 0D 
+patch=1,EE,004BFAEC,word,00D20045 //45 00 D2 00
+
+//same as above but shown at post race results pause menu
+patch=1,EE,004AC3D0,word,0012001B //4B 0D 24 08
+patch=1,EE,004AC3D4,word,0045001F //FD 0D 45 00
+patch=1,EE,004AC3D8,word,011400D2 //D2 00 14 01
+patch=1,EE,004AC3DC,word,001C0114 //EE 00 EB 00
+patch=1,EE,004AC3E0,word,01130019 //C2 01 BA 01
+patch=1,EE,004AC3E4,word,00170018 //DD 01 4B 0D
+patch=1,EE,004AC3E8,word,00220015 //24 08 FD 0D
+patch=1,EE,004AC3EC,word,00D20045 //45 00 D2 00
+
+
