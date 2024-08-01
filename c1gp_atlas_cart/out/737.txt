@@ -208,355 +208,355 @@ WEIGHT<END>
 //POINTER #49 @ $C4 - STRING #49 @ $6D0
 
 #W32($C4)
-調整したセッティングを３種類まで登録することができます。<END>
+Up to three sets of adjusted settings can be saved．<END>
 //POINTER #50 @ $C8 - STRING #50 @ $70A
 
 #W32($C8)
-セッティングを終了して、ガレージに戻ります。<END>
+Finish setting up and return to garage．<END>
 //POINTER #51 @ $CC - STRING #51 @ $738
 
 #W32($CC)
-走行に戻ります。<END>
+Enters the course．<END>
 //POINTER #52 @ $D0 - STRING #52 @ $74A
 
 #W32($D0)
-向上させたい性能を選択すると、調整が必要なセッティング項目が表示されます。<END>
+Select the category that you want to improve on and the related settings will be displayed．<END>
 //POINTER #53 @ $D4 - STRING #53 @ $796
 
 #W32($D4)
-ミッションのセッティングを行います。<END>
+Set up the transmission．<END>
 //POINTER #54 @ $D8 - STRING #54 @ $7BC
 
 #W32($D8)
-アライメントのセッティングを行います。<END>
+Set up the alignment．<END>
 //POINTER #55 @ $DC - STRING #55 @ $7E4
 
 #W32($DC)
-サスペンションのセッティングを行います。<END>
+Set up the suspension．<END>
 //POINTER #56 @ $E0 - STRING #56 @ $80E
 
 #W32($E0)
-ブレーキバランス、ダウンフォース、ドライブバランス、ターボブーストのセッティングを行います。<END>
+Set up the brake balance、 downforce、 drive balance and turbo boost．<END>
 //POINTER #57 @ $E4 - STRING #57 @ $86C
 
 #W32($E4)
-ディファレンシャルを選択します。機械式ＬＳＤの装着により、駆動、旋回の特性が変化します。<END>
+Set up the differential．Installing a mechanical LSD will change the driving and cornering characteristics．<END>
 //POINTER #58 @ $E8 - STRING #58 @ $8C6
 
 #W32($E8)
-タイヤを交換します。<END>
+Replace tires．<END>
 //POINTER #59 @ $EC - STRING #59 @ $8DC
 
 #W32($EC)
-インチアップをします。インチアップすることでタイヤの横方向の剛性を上げたり、見た目を変化させたりします。<END>
+”InchーUp” the rim size．Increasing the inch size enhances lateral rigidity of the tires and changes the appearence．<END>
 //POINTER #60 @ $F0 - STRING #60 @ $946
 
 #W32($F0)
-加速力を向上させます。加速力は上昇しますが、最高速度は低下します。<END>
+Increases acceleration．Increasing acceleration will decrease the top speed．<END>
 //POINTER #61 @ $F4 - STRING #61 @ $98A
 
 #W32($F4)
-最高速を向上させます。最高速度が上昇しますが、加速力は低下します。<END>
+Increases top speed．Increasing top speed will decrease acceleration．<END>
 //POINTER #62 @ $F8 - STRING #62 @ $9CE
 
 #W32($F8)
-ドリフト走行の性能を向上させます。ドリフト走行がし易くなりますが、グリップ走行はしにくくなります。<END>
+Improves drift performance．Drifting becomes easier but the grip is decreased．<END>
 //POINTER #63 @ $FC - STRING #63 @ $A32
 
 #W32($FC)
-グリップ走行の性能を向上させます。グリップ走行がし易くなりますが、ドリフト走行はしにくくなります。<END>
+Improves grip performance．Provides more grip but it is harder to drift．<END>
 //POINTER #64 @ $100 - STRING #64 @ $A96
 
 #W32($100)
-車の旋回性能を向上させます。小回りがきくようになりますが、直進性能は低下します。<END>
+Improves turning performance．Car is more maneuverable in turns but instable on straights．<END>
 //POINTER #65 @ $104 - STRING #65 @ $AE8
 
 #W32($104)
-車の直進性能を向上させます。まっすぐ走りやすくなりますが、カーブなどで曲がりにくくなります。<END>
+Improves straight driving stability．Car is more stable on straights but it is harder to turn in corners．<END>
 //POINTER #66 @ $108 - STRING #66 @ $B46
 
 #W32($108)
-ギアレシオを調整することで加速力を向上させます。<END>
+Adjusting the gear ratio improves acceleration．<END>
 //POINTER #67 @ $10C - STRING #67 @ $B78
 
 #W32($10C)
-リアスポイラーの角度を調整することで加速力を向上させます。<END>
+Adjusting the rear spoiler angle improves acceleration．<END>
 //POINTER #68 @ $110 - STRING #68 @ $BB4
 
 #W32($110)
-ターボブーストを上げることで加速力を向上させます。<END>
+Increasing turbo boost improves acceleration．<END>
 //POINTER #69 @ $114 - STRING #69 @ $BE8
 
 #W32($114)
-ギアレシオを調整することで最高速を向上させます。<END>
+Adjusting the gear ratio improves top speed．<END>
 //POINTER #70 @ $118 - STRING #70 @ $C1A
 
 #W32($118)
-リアスポイラーの角度を調整することで最高速を向上させます。<END>
+Adjusting the rear spoiler angle improves top speed．<END>
 //POINTER #71 @ $11C - STRING #71 @ $C56
 
 #W32($11C)
-ターボブーストを上げることで最高速を向上させます。<END>
+Increasing turbo boost improves top speed．<END>
 //POINTER #72 @ $120 - STRING #72 @ $C8A
 
 #W32($120)
-スプリングを調整することでドリフト走行を向上させます。<END>
+Adjusting spring rate improves drift performance．<END>
 //POINTER #73 @ $124 - STRING #73 @ $CC2
 
 #W32($124)
-ダンパーを調整することでドリフト走行を向上させます。<END>
+Adjusting the damper improves drift performance．<END>
 //POINTER #74 @ $128 - STRING #74 @ $CF8
 
 #W32($128)
-スタビライザーを調整することでドリフト走行を向上させます。<END>
+Adjusting the antiroll stabilizer improves drift performance．<END>
 //POINTER #75 @ $12C - STRING #75 @ $D34
 
 #W32($12C)
-トー角を調整することでドリフト走行を向上させます。<END>
+Adjusting toe angle improves drift performance．<END>
 //POINTER #76 @ $130 - STRING #76 @ $D68
 
 #W32($130)
-キャンバー角を調整することでドリフト走行を向上させます。<END>
+Adjusting camber angle improves drift performance．<END>
 //POINTER #77 @ $134 - STRING #77 @ $DA2
 
 #W32($134)
-リアスポイラーの角度を調整することでドリフト走行を向上させます。<END>
+Adjusting the rear spoiler angle improves drift performance．<END>
 //POINTER #78 @ $138 - STRING #78 @ $DE4
 
 #W32($138)
-前後のブレーキバランスを調整することでドリフト走行を向上させます。<END>
+Adjusting the brake balance improves drift performance．<END>
 //POINTER #79 @ $13C - STRING #79 @ $E28
 
 #W32($13C)
-駆動力配分を調整することでドリフト走行を向上させます。<END>
+Adjusting the drivetrain power balance improves drift performance．<END>
 //POINTER #80 @ $140 - STRING #80 @ $E60
 
 #W32($140)
-スプリングを調整することでグリップ走行を向上させます。<END>
+Adjusting spring rate improves grip．<END>
 //POINTER #81 @ $144 - STRING #81 @ $E98
 
 #W32($144)
-ダンパーを調整することでグリップ走行を向上させます。<END>
+Adjusting spring rate improves grip．<END>
 //POINTER #82 @ $148 - STRING #82 @ $ECE
 
 #W32($148)
-スタビライザーを調整することでグリップ走行を向上させます。<END>
+Adjusting the antiroll stabilizer improves grip．<END>
 //POINTER #83 @ $14C - STRING #83 @ $F0A
 
 #W32($14C)
-トー角を調整することでグリップ走行を向上させます。<END>
+Adjusting toe angle improves grip．<END>
 //POINTER #84 @ $150 - STRING #84 @ $F3E
 
 #W32($150)
-キャンバー角を調整することでグリップ走行を向上させます。<END>
+Adjusting camber angle improves grip．<END>
 //POINTER #85 @ $154 - STRING #85 @ $F78
 
 #W32($154)
-リアスポイラーの角度を調整することでグリップ走行を向上させます。<END>
+Adjusting the rear spoiler angle improves grip．<END>
 //POINTER #86 @ $158 - STRING #86 @ $FBA
 
 #W32($158)
-前後のブレーキバランスを調整することでグリップ走行を向上させます。<END>
+Adjusting the brake balance improves grip．<END>
 //POINTER #87 @ $15C - STRING #87 @ $FFE
 
 #W32($15C)
-駆動力配分を調整することでグリップ走行を向上させます。<END>
+Adjusting the drivetrain power balance improves grip．<END>
 //POINTER #88 @ $160 - STRING #88 @ $1036
 
 #W32($160)
-スプリングを調整することで旋回性を向上させます。<END>
+Adjusting spring rate improves turning ability．<END>
 //POINTER #89 @ $164 - STRING #89 @ $1068
 
 #W32($164)
-ダンパーを調整することで旋回性を向上させます。<END>
+Adjusting the damper improves turning ability．<END>
 //POINTER #90 @ $168 - STRING #90 @ $1098
 
 #W32($168)
-スタビライザーを調整することで旋回性を向上させます。<END>
+Adjusting the antiroll stabilizer improves turning ability．<END>
 //POINTER #91 @ $16C - STRING #91 @ $10CE
 
 #W32($16C)
-車高を調整することで旋回性を向上させます。<END>
+Adjusting the ride height improves turning ability．<END>
 //POINTER #92 @ $170 - STRING #92 @ $10FA
 
 #W32($170)
-駆動力配分を調整することで旋回性を向上させます。<END>
+Adjusting the drivetrain power balance improves turning ability．<END>
 //POINTER #93 @ $174 - STRING #93 @ $112C
 
 #W32($174)
-トー角を調整することで旋回性を向上させます。<END>
+Adjusting toe angle improves turning ability．<END>
 //POINTER #94 @ $178 - STRING #94 @ $115A
 
 #W32($178)
-スプリングを調整することで直進安定性を向上させます。<END>
+Adjusting spring rate improves straightーline stability．<END>
 //POINTER #95 @ $17C - STRING #95 @ $1190
 
 #W32($17C)
-ダンパーを調整することで直進安定性を向上させます。<END>
+Adjusting the damper improves straightーline stability．<END>
 //POINTER #96 @ $180 - STRING #96 @ $11C4
 
 #W32($180)
-スタビライザーを調整することで直進安定性を向上させます。<END>
+Adjusting the antiroll stabilizer improves straightーline stability．<END>
 //POINTER #97 @ $184 - STRING #97 @ $11FE
 
 #W32($184)
-車高を調整することで直進安定性を向上させます。<END>
+Adjusting the ride height improves straightーline stability．<END>
 //POINTER #98 @ $188 - STRING #98 @ $122E
 
 #W32($188)
-駆動力配分を調整することで直進安定性を向上させます。<END>
+Adjusting the drivetrain power balance improves straightーline stability．<END>
 //POINTER #99 @ $18C - STRING #99 @ $1264
 
 #W32($18C)
-トー角を調整することで直進安定性を向上させます。<END>
+Adjusting toe angle improves straightーline stability．<END>
 //POINTER #100 @ $190 - STRING #100 @ $1296
 
 #W32($190)
-追加調整を選択すると更に詳細な調整が行なえます。<END>
+Select ADJUSTMENTS for more specific adjustments．<END>
 //POINTER #101 @ $194 - STRING #101 @ $12C8
 
 #W32($194)
-ギアレシオが高いほど加速重視のセッティングに、低いほど最高速重視のセッティングになります。<END>
+The higher the gear ratio、the better the acceleration．The lower the gear ratio、the better the top speed．<END>
 //POINTER #102 @ $198 - STRING #102 @ $1324
 
 #W32($198)
-タイヤを上から見た角度を調整します。フロントをＩＮ、リアをＯＵＴ寄りにすると旋回性能が向上し、逆にすると安定性が向上します。<END>
+Adjusts the angle of the tires looking from above．Moving the front towards IN and the rear towards OUT will improve the turning ability．Vice versa will improve the straightーline stability．<END>
 //POINTER #103 @ $19C - STRING #103 @ $13A2
 
 #W32($19C)
-タイヤを前から見た角度を調整します。ＮＥＧＡＴＩＶＥ寄りにするとコーナリング中に車体がロールした時のグリップが向上します。<END>
+Adjusts the angle of the tires looking from the front．Setting it closer to a NEGATIVE angle will improve grip when cornering．<END>
 //POINTER #104 @ $1A0 - STRING #104 @ $141E
 
 #W32($1A0)
-スプリングの固さを調整します。ＨＡＲＤ寄りにすると荷重の移動量が減り、車体が安定しますが、凹凸面で跳ねやすくなります。<END>
+Adjusts the spring rates．Setting it to HARD will reduce the amount of load transfer and stabilize the vehicle、but it will cause it to bounce on an uneven surface．<END>
 //POINTER #105 @ $1A4 - STRING #105 @ $1496
 
 #W32($1A4)
-ダンパーの減衰力を調整します。ＨＡＲＤ寄りにするとスプリングの振動を吸収し易くなりますが、強すぎるとハンドルレスポンスが低下します。<END>
+Adjusts the force of the damper．Setting it to HARD will absorb the spring vibration more easily、but if set too hard the steering response will be reduced．<END>
 //POINTER #106 @ $1A8 - STRING #106 @ $151C
 
 #W32($1A8)
-スタビライザーの固さを調整します。ＨＡＲＤ寄りにすると車体のねじれが抑制されコーナリングが安定しますが、挙動がシビアになります。<END>
+Adjusts the firmness of the antiroll bar．Setting it to HARD will reduce body roll and stabilize cornering、but the handling will become more sensitive．<END>
 //POINTER #107 @ $1AC - STRING #107 @ $159E
 
 #W32($1AC)
-車高を調整します。低くすると重心が下がり、挙動が安定しますが、低すぎるとサスのストローク量が減り、ショックを吸収し難くなります。<END>
+Adjusts the ride height．Lowering the height will lower the center of mass and stabilize the car、but lowering it too much will reduce suspension travel and may cause the suspension to bottom out．<END>
 //POINTER #108 @ $1B0 - STRING #108 @ $1620
 
 #W32($1B0)
-前後のブレーキバランスを調整します。フロント寄りにすることでグリップ傾向、リア寄りにすることでドリフト傾向になります。<END>
+Adjusts the brake balance．Setting it closer to the front will cause more understeer and closer to the rear will cause oversteer．<END>
 //POINTER #109 @ $1B4 - STRING #109 @ $1698
 
 #W32($1B4)
-リアスポイラーの角度を調整し、ダウンフォースを変化させます。角度を上げるとリアグリップ力が増す反面、最高速や加速が低くなります。<END>
+Adjusts the rear spoiler angle．With increased angle the downforce is higher、increasing rear grip but lowering top speed and acceleration．<END>
 //POINTER #110 @ $1B8 - STRING #110 @ $171A
 
 #W32($1B8)
-駆動力配分を調整し、挙動特性を変化させます。フロント寄りにすることでＦＦ、リア寄りにすることでＦＲに近い挙動になります。<END>
+Adjusts the drivetrain power balance．Setting it closer to the FRONT gives the car FWD characteristics、while closer to the REAR is like RWD．<END>
 //POINTER #111 @ $1BC - STRING #111 @ $1794
 
 #W32($1BC)
-ターボブーストを上げることによって最大出力が一時的に上がりますが、熱ダレが発生し易くなります。<END>
+Increasing turbo boost will increase the maximum power output、but it will make it easier to overheat the engine．<END>
 //POINTER #112 @ $1C0 - STRING #112 @ $17F4
 
 #W32($1C0)
-フロントのディファレンシャルを選択します。<END>
+Selects the front differential．<END>
 //POINTER #113 @ $1C4 - STRING #113 @ $1820
 
 #W32($1C4)
-リアのディファレンシャルを選択します。<END>
+Selects the rear differential．<END>
 //POINTER #114 @ $1C8 - STRING #114 @ $1848
 
 #W32($1C8)
-ノーマルデフを装着します。<END>
+Installs the normal differential．<END>
 //POINTER #115 @ $1CC - STRING #115 @ $1864
 
 #W32($1CC)
-アクセルをＯＮにした時のみ、デフの効果を抑制します。減速時の旋回性を保ちつつ、加速時の駆動力を向上させます。<END>
+The differential effect is suppressed only when the accelerator is ON． This maintains cornering performance during deceleration while improving traction during acceleration．<END>
 //POINTER #116 @ $1D0 - STRING #116 @ $18D2
 
 #W32($1D0)
-アクセルのＯＮ、ＯＦＦ両方の状態でデフの効果を抑制しますが、ＯＦＦの時の抑制力は１ＷＡＹと２ＷＡＹの中間くらいになります。<END>
+The differential effect is suppressed in both the ON and OFF states of the accelerator．On OFF state the supression force is between the one of a 1 WAY and a 2 WAY LSD．<END>
 //POINTER #117 @ $1D4 - STRING #117 @ $194E
 
 #W32($1D4)
-アクセルのＯＮ、ＯＦＦ両方の状態でデフの効果を抑制します。加速時の駆動力、減速時の安定性は上昇しますが、曲がり難くなります。<END>
+The differential effect is suppressed in both the ON and OFF states of the accelerator．This increases traction during acceleration and stability during deceleration、 but makes turning more difficult．<END>
 //POINTER #118 @ $1D8 - STRING #118 @ $19CC
 
 #W32($1D8)
-メーカーを選択してください。<END>
+Select the manufacturer．<END>
 //POINTER #119 @ $1DC - STRING #119 @ $19EA
 
 #W32($1DC)
-ノーマルタイヤを装着します。<END>
+Installs normal tires．<END>
 //POINTER #120 @ $1E0 - STRING #120 @ $1A08
 
 #W32($1E0)
-ハイグリップタイヤを装着します。グリップ力が上昇します。ＷＥＴ状態の路面に向いています。<END>
+Installs highーgrip tires．Suitable for wet conditions．<END>
 //POINTER #121 @ $1E4 - STRING #121 @ $1A62
 
 #W32($1E4)
-Ｓタイヤ（ハードコンパウンド）を装着します。ハイグリップタイヤに比べてグリップ力は上昇しますが、寿命は短くなります。<END>
+Installs hard compound S tires．Increased grip but less durability compared to HG tires．<END>
 //POINTER #122 @ $1E8 - STRING #122 @ $1AD8
 
 #W32($1E8)
-Ｓタイヤ（ミディアムコンパウンド）を装着します。Ｓタイヤ（ハード）に比べてグリップ力は上昇しますが、寿命は短くなります。<END>
+Installs medium compound S tires．Increased grip but less durability compared to SH tires．<END>
 //POINTER #123 @ $1EC - STRING #123 @ $1B52
 
 #W32($1EC)
-Ｓタイヤ（ソフトコンパウンド）を装着します。最もグリップ力に優れますが、寿命は最も短くなります。<END>
+Installs soft compound S tires．They provide best grip、but have the worst durability．<END>
 //POINTER #124 @ $1F0 - STRING #124 @ $1BB4
 
 #W32($1F0)
-インチアップするサイズを選択してください。<END>
+Select a size for the ”InchーUp”．<END>
 //POINTER #125 @ $1F4 - STRING #125 @ $1BE0
 
 #W32($1F4)
-加速<END>
+ACCEL<END>
 //POINTER #126 @ $1F8 - STRING #126 @ $1BE6
 
 #W32($1F8)
-減速<END>
+DECEL<END>
 //POINTER #127 @ $1FC - STRING #127 @ $1BEC
 
 #W32($1FC)
-リプレイデータをセーブするメモリーカード（ＰＳ２）を選択してください<END>
+Select the MEMORY CARD（PS2）to save Replay Data．<END>
 //POINTER #128 @ $200 - STRING #128 @ $1C32
 
 #W32($200)
-メモリーカード（ＰＳ２）をチェックしています……<END>
+Checking MEMORY CARD（PS2）……<END>
 //POINTER #129 @ $204 - STRING #129 @ $1C64
 
 #W32($204)
-メモリーカード（ＰＳ２）のチェックに失敗しました<END>
+MEMORY CARD（PS2）check failed．<END>
 //POINTER #130 @ $208 - STRING #130 @ $1C96
 
 #W32($208)
-メモリーカード差込口１・２にメモリーカード（ＰＳ２）が接続されていません<END>
+No MEMORY CARD（PS2）in MEMORY CARD Slot 1 and 2<END>
 //POINTER #131 @ $20C - STRING #131 @ $1CE0
 
 #W32($20C)
-メモリーカード（ＰＳ２）を接続してください<END>
+Please connect a MEMORY CARD（PS2）<END>
 //POINTER #132 @ $210 - STRING #132 @ $1D0C
 
 #W32($210)
-メモリーカード差込口＃に接続されているメモリーカード（ＰＳ２）は<END>
+MEMORY CARD（PS2）connected to MEMORY CARD Slot ＃<END>
 //POINTER #133 @ $214 - STRING #133 @ $1D4E
 
 #W32($214)
-フォーマットされていません<END>
+is not formatted．<END>
 //POINTER #134 @ $218 - STRING #134 @ $1D6A
 
 #W32($218)
-フォーマットしてよろしいですか？<END>
+Are you sure you want to format？<END>
 //POINTER #135 @ $21C - STRING #135 @ $1D8C
 
 #W32($21C)
-メモリーカード差込口＃に接続されているメモリーカード（ＰＳ２）を<END>
+Formatting the MEMORY CARD（PS2）connected to<END>
 //POINTER #136 @ $220 - STRING #136 @ $1DCE
 
 #W32($220)
-フォーマットしています<END>
+the MEMORY CARD Slot ＃<END>
 //POINTER #137 @ $224 - STRING #137 @ $1DE6
 
 #W32($224)
@@ -568,51 +568,51 @@ Do not turn off the ”PlayStation 2” console<END>
 //POINTER #139 @ $22C - STRING #139 @ $1E64
 
 #W32($22C)
-フォーマットに失敗しました<END>
+Formatting failed．<END>
 //POINTER #140 @ $230 - STRING #140 @ $1E80
 
 #W32($230)
-もう一度フォーマットしてよろしいですか？<END>
+Format again？<END>
 //POINTER #141 @ $234 - STRING #141 @ $1EAA
 
 #W32($234)
-メモリーカード差込口＃に接続されているメモリーカード（ＰＳ２）の<END>
+Insufficient free space on the MEMORY CARD（PS2）<END>
 //POINTER #142 @ $238 - STRING #142 @ $1EEC
 
 #W32($238)
-空き容量が不足しています<END>
+connected to MEMORY CARD Slot ＃．<END>
 //POINTER #143 @ $23C - STRING #143 @ $1F06
 
 #W32($23C)
-レーシングバトルのリプレイデータをセーブするには<END>
+You must have at least ４３０ＫＢ of free space<END>
 //POINTER #144 @ $240 - STRING #144 @ $1F38
 
 #W32($240)
-４３０ＫＢ以上の空き容量が必要です<END>
+to save RACING BATTLE Replay Data<END>
 //POINTER #145 @ $244 - STRING #145 @ $1F5C
 
 #W32($244)
-メモリーカード差込口＃に接続されているメモリーカード（ＰＳ２）に<END>
+Create RACING BATTLE Replay Data on the<END>
 //POINTER #146 @ $248 - STRING #146 @ $1F9E
 
 #W32($248)
-レーシングバトルのリプレイデータを作成してよろしいですか？<END>
+MEMORY CARD（PS2）connected to the MEMORY CARD Slot ＃？<END>
 //POINTER #147 @ $24C - STRING #147 @ $1FDA
 
 #W32($24C)
-メモリーカード差込口＃に接続されているメモリーカード（ＰＳ２）には<END>
+The MEMORY CARD（PS2）connected to the MEMORY CARD Slot ＃<END>
 //POINTER #148 @ $250 - STRING #148 @ $201E
 
 #W32($250)
-レーシングバトルのリプレイデータが存在します<END>
+contains RACING BATTLE Replay Data<END>
 //POINTER #149 @ $254 - STRING #149 @ $204C
 
 #W32($254)
-選択した枠にはレーシングバトルの<END>
+RACING BATTLE Replay Data exists<END>
 //POINTER #150 @ $258 - STRING #150 @ $206E
 
 #W32($258)
-Replay Data exists．<END>
+in the selected slot．<END>
 //POINTER #151 @ $25C - STRING #151 @ $208A
 
 #W32($25C)
@@ -692,11 +692,11 @@ Do not turn off the ”PlayStation 2” console<END>
 //POINTER #170 @ $2A8 - STRING #170 @ $2382
 
 #W32($2A8)
-チェックに失敗しました<END>
+Check failed．<END>
 //POINTER #171 @ $2AC - STRING #171 @ $239A
 
 #W32($2AC)
-チェックを終了してよろしいですか？<END>
+Finish the check？<END>
 //POINTER #172 @ $2B0 - STRING #172 @ $23BE
 
 #W32($2B0)
@@ -704,23 +704,23 @@ Abandon saving Game Data？<END>
 //POINTER #173 @ $2B4 - STRING #173 @ $23E0
 
 #W32($2B4)
-メモリーカード差込口＃に接続されている<END>
+Saving Replay Data to the<END>
 //POINTER #174 @ $2B8 - STRING #174 @ $2408
 
 #W32($2B8)
-メモリーカード（ＰＳ２）に<END>
+MEMORY CARD（PS2）connected to<END>
 //POINTER #175 @ $2BC - STRING #175 @ $2424
 
 #W32($2BC)
-リプレイデータをセーブしています<END>
+MEMORY CARD Slot ＃<END>
 //POINTER #176 @ $2C0 - STRING #176 @ $2446
 
 #W32($2C0)
-本体の電源オフやリセット、メモリーカード（ＰＳ２）<END>
+Do not remove the MEMORY CARD（PS2）or controller<END>
 //POINTER #177 @ $2C4 - STRING #177 @ $247A
 
 #W32($2C4)
-やコントローラの抜き差しは行わないでください<END>
+Do not turn off the ”PlayStation 2” console<END>
 //POINTER #178 @ $2C8 - STRING #178 @ $24A8
 
 #W32($2C8)
@@ -740,11 +740,11 @@ or reset／switch off the console。<END>
 //POINTER #182 @ $2D8 - STRING #182 @ $2600
 
 #W32($2D8)
-メモリーカード差込口＃に接続されているメモリーカード（ＰＳ２）を<END>
+Checking MEMORY CARD（PS2）connected to<END>
 //POINTER #183 @ $2DC - STRING #183 @ $2642
 
 #W32($2DC)
-チェックしています<END>
+MEMORY CARD Slot ＃．<END>
 //POINTER #184 @ $2E0 - STRING #184 @ $2656
 
 #W32($2E0)
@@ -756,11 +756,11 @@ Do not turn off the ”PlayStation 2” console<END>
 //POINTER #186 @ $2E8 - STRING #186 @ $26D4
 
 #W32($2E8)
-メモリーカード差込口＃に接続されているメモリーカード（ＰＳ２）の中にある<END>
+RACING BATTLE Replay Data in MEMORY CARD（PS2）connected<END>
 //POINTER #187 @ $2EC - STRING #187 @ $271E
 
 #W32($2EC)
-レーシングバトルのリプレイデータは破損しています<END>
+to MEMORY CARD Slot ＃ is corrupted<END>
 
 //BLOCK #001 NAME:		737.bin File - ASCII Block
 
