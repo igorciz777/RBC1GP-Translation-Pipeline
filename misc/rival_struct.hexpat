@@ -10,24 +10,26 @@ struct RivalData{
     u24 unknwn5; 
     char unknwn_blk1[280];  // 0x10
 	char unknwn_blk2[32];  // 0x128
-    char unknwn_blk3[204];  // 0x148
+    char unknwn_blk3[144];  // 0x148
+    u8 sticker_id;
+    char unknwn_blk4[59];  // 0x1d8
     char nickname[26];  // 0x214
-    char unknwn_blk4[80];
+    char unknwn_blk5[80];
 	u16 unknwn6;  // 0x27e
-	char name[26];
-    char occupation[34];
-	char motto[34];
-    char profile_bio_1[66];
-    char profile_bio_2[66];
-    char profile_bio_3[66];
-    char dialog_1_line_1[66];
-    char dialog_1_line_2[66];
+	char name[26];  // 0x280
+    char occupation[34];  // 0x29a
+	char motto[34];  // 0x2bc
+    char profile_bio_1[66];  // 0x2de
+    char profile_bio_2[66];  // 0x320
+    char profile_bio_3[66];  // 0x362
+    char profile_bio_4[66];  // 0x3a4
+    char profile_bio_5[66];  // 0x3e6
+    char dialog1[48];
     char dialog2[48];
     char dialog3[48];
     char dialog4[48];
     char dialog5[48];
     char dialog6[48];
-    char dialog7[48];
     char dialogShort1[24];
     char dialogShort2[24];
     };
