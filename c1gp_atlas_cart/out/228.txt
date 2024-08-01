@@ -3480,23 +3480,23 @@ Abandon loading Game Data？<END>
 //POINTER #867 @ $D8C - STRING #867 @ $57F2
 
 #W32($D8C)
-Move garage cars from Main Garage to SubーGarage<END>
+Select a car to move it from the<END>
 //POINTER #868 @ $D90 - STRING #868 @ $582A
 
 #W32($D90)
-Select the car you want to move．<END>
+Main Garage to the SubーGarage．<END>
 //POINTER #869 @ $D94 - STRING #869 @ $584C
 
 #W32($D94)
-Select ＮＯ　ＤＡＴＡ to move the car from<END>
+Select ”NO DATA” to move the car from the<END>
 //POINTER #870 @ $D98 - STRING #870 @ $5864
 
 #W32($D98)
-SubーGarage to Main Garage<END>
+SubーGarage to the Main Garage<END>
 //POINTER #871 @ $D9C - STRING #871 @ $589A
 
 #W32($D9C)
-（＃＃ cars stored in the SubーGarage）<END>
+（There are ＃＃ cars stored in the SubーGarage）<END>
 //POINTER #872 @ $DA0 - STRING #872 @ $58C6
 
 #W32($DA0)
