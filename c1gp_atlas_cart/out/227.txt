@@ -254,15 +254,15 @@ Installs the normal differential．<END>
 //POINTER #61 @ $F4 - STRING #61 @ $1572
 
 #W32($F4)
-The differential effect is suppressed only when the accelerator is ON． This maintains cornering performance during deceleration while improving traction during acceleration．<END>
+The differential effect is suppressed only when the accelerator is ON．<END>
 //POINTER #62 @ $F8 - STRING #62 @ $15E0
 
 #W32($F8)
-The differential effect is suppressed in both the ON and OFF states of the accelerator．On OFF state the supression force is between the one of a 1 WAY and a 2 WAY LSD．<END>
+The differential effect is suppressed in both the ON and OFF states of the accelerator．<END>
 //POINTER #63 @ $FC - STRING #63 @ $165C
 
 #W32($FC)
-The differential effect is suppressed in both the ON and OFF states of the accelerator．This increases traction during acceleration and stability during deceleration、 but makes turning more difficult．<END>
+The differential effect is suppressed in both the ON and OFF states of the accelerator．<END>
 //POINTER #64 @ $100 - STRING #64 @ $16DA
 
 #W32($100)
@@ -958,7 +958,7 @@ Set up the suspension．<END>
 //POINTER #237 @ $3B4 - STRING #237 @ $3FE8
 
 #W32($3B4)
-Adjusts the spring rates．Setting it to HARD will reduce the amount of load transfer and stabilize the vehicle、but it will cause it to bounce on an uneven surface．<END>
+Adjusts the spring rates．Setting it to HARD will reduce the amount of load transfer and stabilize the vehicle．<END>
 //POINTER #238 @ $3B8 - STRING #238 @ $4060
 
 #W32($3B8)
@@ -966,11 +966,11 @@ Adjusts the spring rates．Setting it to HARD will reduce the amount of load tra
 //POINTER #239 @ $3BC - STRING #239 @ $40E2
 
 #W32($3BC)
-Adjusts the firmness of the antiroll bar．Setting it to HARD will reduce body roll and stabilize cornering、but the handling will become more sensitive．<END>
+Adjusts the firmness of the antiroll bar．Setting it to HARD will reduce body roll and stabilize cornering．<END>
 //POINTER #240 @ $3C0 - STRING #240 @ $4164
 
 #W32($3C0)
-Adjusts the ride height．Lowering the height will lower the center of mass and stabilize the car、but lowering it too much will reduce suspension travel and may cause the suspension to bottom out．<END>
+Adjusts the ride height．Lowering the height will lower the center of mass and stabilize the car．<END>
 //POINTER #241 @ $3C4 - STRING #241 @ $41E6
 
 #W32($3C4)
@@ -978,15 +978,15 @@ Adjusts the ride height．Lowering the height will lower the center of mass and 
 //POINTER #242 @ $3C8 - STRING #242 @ $4244
 
 #W32($3C8)
-Adjusts the brake balance．Setting it closer to the front will cause more understeer and closer to the rear will cause oversteer．<END>
+Adjusts the brake balance．Setting it closer to front causes understeer while closer to rear causes oversteer．<END>
 //POINTER #243 @ $3CC - STRING #243 @ $42BC
 
 #W32($3CC)
-Adjusts the rear spoiler angle．With increased angle the downforce is higher、increasing rear grip but lowering top speed and acceleration．<END>
+Adjusts the rear spoiler angle．With increased angle the downforce is higher、increasing rear grip．<END>
 //POINTER #244 @ $3D0 - STRING #244 @ $433E
 
 #W32($3D0)
-Adjusts the drivetrain power balance．Setting it closer to the FRONT gives the car FWD characteristics、while closer to the REAR is like RWD．<END>
+Adjusts the drivetrain power balance．Setting it closer to the FRONT gives the car FWD characteristics and vice versa．<END>
 //POINTER #245 @ $3D4 - STRING #245 @ $43B8
 
 #W32($3D4)

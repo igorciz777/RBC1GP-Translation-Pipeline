@@ -420,7 +420,7 @@ The higher the gear ratio、the better the acceleration．The lower the gear rat
 //POINTER #102 @ $198 - STRING #102 @ $1324
 
 #W32($198)
-Adjusts the angle of the tires looking from above．Moving the front towards IN and the rear towards OUT will improve the turning ability．Vice versa will improve the straightーline stability．<END>
+Adjusts the angle of the tires looking from above．Moving the front towards IN and the rear towards OUT improves turning．<END>
 //POINTER #103 @ $19C - STRING #103 @ $13A2
 
 #W32($19C)
@@ -428,31 +428,31 @@ Adjusts the angle of the tires looking from the front．Setting it closer to a N
 //POINTER #104 @ $1A0 - STRING #104 @ $141E
 
 #W32($1A0)
-Adjusts the spring rates．Setting it to HARD will reduce the amount of load transfer and stabilize the vehicle、but it will cause it to bounce on an uneven surface．<END>
+Adjusts the spring rates．Setting it to HARD will reduce the amount of load transfer and stabilize the vehicle．<END>
 //POINTER #105 @ $1A4 - STRING #105 @ $1496
 
 #W32($1A4)
-Adjusts the force of the damper．Setting it to HARD will absorb the spring vibration more easily、but if set too hard the steering response will be reduced．<END>
+Adjusts the force of the damper．Setting it to HARD will absorb the spring vibration more easily．<END>
 //POINTER #106 @ $1A8 - STRING #106 @ $151C
 
 #W32($1A8)
-Adjusts the firmness of the antiroll bar．Setting it to HARD will reduce body roll and stabilize cornering、but the handling will become more sensitive．<END>
+Adjusts the firmness of the antiroll bar．Setting it to HARD will reduce body roll and stabilize cornering．<END>
 //POINTER #107 @ $1AC - STRING #107 @ $159E
 
 #W32($1AC)
-Adjusts the ride height．Lowering the height will lower the center of mass and stabilize the car、but lowering it too much will reduce suspension travel and may cause the suspension to bottom out．<END>
+Adjusts the ride height．Lowering the height will lower the center of mass and stabilize the car．<END>
 //POINTER #108 @ $1B0 - STRING #108 @ $1620
 
 #W32($1B0)
-Adjusts the brake balance．Setting it closer to the front will cause more understeer and closer to the rear will cause oversteer．<END>
+Adjusts the brake balance．Setting it closer to front causes understeer while closer to rear causes oversteer．<END>
 //POINTER #109 @ $1B4 - STRING #109 @ $1698
 
 #W32($1B4)
-Adjusts the rear spoiler angle．With increased angle the downforce is higher、increasing rear grip but lowering top speed and acceleration．<END>
+Adjusts the rear spoiler angle．With increased angle the downforce is higher、increasing rear grip．<END>
 //POINTER #110 @ $1B8 - STRING #110 @ $171A
 
 #W32($1B8)
-Adjusts the drivetrain power balance．Setting it closer to the FRONT gives the car FWD characteristics、while closer to the REAR is like RWD．<END>
+Adjusts the drivetrain power balance．Setting it closer to the FRONT gives the car FWD characteristics and vice versa．<END>
 //POINTER #111 @ $1BC - STRING #111 @ $1794
 
 #W32($1BC)
@@ -472,15 +472,15 @@ Installs the normal differential．<END>
 //POINTER #115 @ $1CC - STRING #115 @ $1864
 
 #W32($1CC)
-The differential effect is suppressed only when the accelerator is ON． This maintains cornering performance during deceleration while improving traction during acceleration．<END>
+The differential effect is suppressed only when the accelerator is ON．<END>
 //POINTER #116 @ $1D0 - STRING #116 @ $18D2
 
 #W32($1D0)
-The differential effect is suppressed in both the ON and OFF states of the accelerator．On OFF state the supression force is between the one of a 1 WAY and a 2 WAY LSD．<END>
+The differential effect is suppressed in both the ON and OFF states of the accelerator．<END>
 //POINTER #117 @ $1D4 - STRING #117 @ $194E
 
 #W32($1D4)
-The differential effect is suppressed in both the ON and OFF states of the accelerator．This increases traction during acceleration and stability during deceleration、 but makes turning more difficult．<END>
+The differential effect is suppressed in both the ON and OFF states of the accelerator．<END>
 //POINTER #118 @ $1D8 - STRING #118 @ $19CC
 
 #W32($1D8)
