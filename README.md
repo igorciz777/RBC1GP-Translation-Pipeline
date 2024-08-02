@@ -28,4 +28,5 @@ not real calculated %, just a guess :D
 - [ImHex](https://github.com/WerWolv/ImHex)
 - [bgrep](https://github.com/nneonneo/bgrep)
 - [PCSX2](https://github.com/PCSX2/pcsx2)
-
+- [PSS Plex](https://www.zophar.net/utilities/ps2util/pss-plex.html)
+- [ffmpeg](https://www.ffmpeg.org/)
