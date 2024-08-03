@@ -18,51 +18,51 @@ Next step is to purchase a car．You can buy one from the NEW／USED CAR DEALER�
 //POINTER #2 @ $8 - STRING #2 @ $680
 
 #W32($8)
-アシストの設定を選択してください。この設定はオプションでいつでも変更可能です。<END>
+Select ASSISTS setting．This setting can optionally be changed at any time．<END>
 //POINTER #3 @ $C - STRING #3 @ $6D0
 
 #W32($C)
-トピックスでは、注目のイベント情報が表示されます。<END>
+TOPICS displays information on featured events．<END>
 //POINTER #4 @ $10 - STRING #4 @ $704
 
 #W32($10)
-ＲＢ公認イベントに参加してＣＰやＮＰを獲得します。<END>
+Earn CP and NP points by participating in Official RACING BATTLE events．<END>
 //POINTER #5 @ $14 - STRING #5 @ $738
 
 #W32($14)
-イベントに参加するフィールドを選択してください。<END>
+Select the FIELD you want to participate in．<END>
 //POINTER #6 @ $18 - STRING #6 @ $76A
 
 #W32($18)
-参加するイベントを選択してください。<END>
+Select the event you want to participate in．<END>
 //POINTER #7 @ $1C - STRING #7 @ $790
 
 #W32($1C)
-サーキットに入りイベントを開始します。<END>
+Enter the circuit and start the event．<END>
 //POINTER #8 @ $20 - STRING #8 @ $7B8
 
 #W32($20)
-バトルを申し込むライバルを選択してください。<END>
+Select the rival you want to battle against．<END>
 //POINTER #9 @ $24 - STRING #9 @ $7E6
 
 #W32($24)
-閲覧するライバルを選択してください。<END>
+View the rivals participating in this event．<END>
 //POINTER #10 @ $28 - STRING #10 @ $80C
 
 #W32($28)
-コメント、プロフィールを非表示にします。<END>
+Hides the comment and profile info．<END>
 //POINTER #11 @ $2C - STRING #11 @ $836
 
 #W32($2C)
-ライバルのコメントを聞きます。<END>
+View your rival's comment．<END>
 //POINTER #12 @ $30 - STRING #12 @ $856
 
 #W32($30)
-ライバルのプロフィールを閲覧します。<END>
+View your rival's profile．<END>
 //POINTER #13 @ $34 - STRING #13 @ $87C
 
 #W32($34)
-タイヤの交換をします。変更したタイヤはセッティングに反映されます。<END>
+Tire change．The changed tires will be applied to your current car setting．<END>
 //POINTER #14 @ $38 - STRING #14 @ $8C0
 
 #W32($38)
@@ -86,155 +86,155 @@ Installs soft compound S tires．They provide best grip、but have the worst dur
 //POINTER #19 @ $4C - STRING #19 @ $A8A
 
 #W32($4C)
-セッティングを登録した３種類から選択します。<END>
+Select from three saved sets of settings．<END>
 //POINTER #20 @ $50 - STRING #20 @ $AB8
 
 #W32($50)
-使用するセッティングを選択してください。<END>
+Select the set of settings you want to use．<END>
 //POINTER #21 @ $54 - STRING #21 @ $AE2
 
 #W32($54)
-カー用品を登録した３種類から選択します。<END>
+Select from three saved packs of car items．<END>
 //POINTER #22 @ $58 - STRING #22 @ $B0C
 
 #W32($58)
-使用する装備パックを選択してください。<END>
+Select the pack of items you want to equip．<END>
 //POINTER #23 @ $5C - STRING #23 @ $B34
 
 #W32($5C)
-シフトアシストのＯＮ、ＯＦＦを選択します。<END>
+Turn the Shift Assist ON or OFF．<END>
 //POINTER #24 @ $60 - STRING #24 @ $B60
 
 #W32($60)
-シフトアシストを有効にします。ギアチェンジは自動で行われます。<END>
+Enables automatic gear change．<END>
 //POINTER #25 @ $64 - STRING #25 @ $BA0
 
 #W32($64)
-シフトアシストを無効にします。ギアチェンジは手動で行われます。<END>
+Enables manual gear change．<END>
 //POINTER #26 @ $68 - STRING #26 @ $BE0
 
 #W32($68)
-イベントを終了してホームに戻ります。<END>
+End the event and return home．<END>
 //POINTER #27 @ $6C - STRING #27 @ $C06
 
 #W32($6C)
-なし<END>
+None．<END>
 //POINTER #28 @ $70 - STRING #28 @ $C0C
 
 #W32($70)
-スペシャルイベントに参加します。参加するには指定された値以上のＮＰが必要になります。<END>
+Enter a Special Event．Your amount of NP points needs to be above the required number．<END>
 //POINTER #29 @ $74 - STRING #29 @ $C62
 
 #W32($74)
-イベントに参加せずに、次の日に進めます。<END>
+Proceed to the next day without participating in any events．<END>
 //POINTER #30 @ $78 - STRING #30 @ $C8C
 
 #W32($78)
-ショップで買い物をします。ショップにはチューニングショップ、スーパーオートバックス、新車ディーラー、中古車ディーラーがあります。<END>
+Shop in different stores．This includes a TUNING SHOP、SUPER AUTOBACS、NEW CAR DEALER and the USED CAR DEALER．<END>
 //POINTER #31 @ $7C - STRING #31 @ $D0E
 
 #W32($7C)
-チューニングパーツを購入します。チューニングパーツを装着すると車の性能が上昇し、ゲームを有利に進めることができます。<END>
+Buy tuning parts．Improve the performance of your car to get an advantage．<END>
 //POINTER #32 @ $80 - STRING #32 @ $D84
 
 #W32($80)
-ショップおすすめのチューニングパーツを紹介します。<END>
+Tuning shop's recommended parts．<END>
 //POINTER #33 @ $84 - STRING #33 @ $DB8
 
 #W32($84)
-バランスよくチューニングします。<END>
+Balanced tuning．<END>
 //POINTER #34 @ $88 - STRING #34 @ $DDA
 
 #W32($88)
-スピード重視でチューニングします。<END>
+Speed oriented tuning．<END>
 //POINTER #35 @ $8C - STRING #35 @ $DFE
 
 #W32($8C)
-ハンドリング重視でチューニングします。<END>
+Handling oriented tuning．<END>
 //POINTER #36 @ $90 - STRING #36 @ $E26
 
 #W32($90)
-パワー系のチューニングをします。出力、トルクが上昇します。<END>
+Power related tuning．Increases power and torque．<END>
 //POINTER #37 @ $94 - STRING #37 @ $E62
 
 #W32($94)
-メカニカルチューンなどエンジンのチューニングをします。エンジン性能全体が上昇します。<END>
+Engine tuning．Increases overall engine performance．<END>
 //POINTER #38 @ $98 - STRING #38 @ $EB8
 
 #W32($98)
-ＲＯＭ交換などコンピュータのチューニングをします。エンジン性能を最大限に発揮させ、出力が上昇します。<END>
+ECU tuning such as ROM replacement．Increases engine performance．<END>
 //POINTER #39 @ $9C - STRING #39 @ $F1E
 
 #W32($9C)
-マフラー交換などの吸排気系のチューニングをします。吸排気抵抗を減少させることにより、出力が上昇します。<END>
+Intake／exhaust tuning such as muffler replacement．Increases power output．<END>
 //POINTER #40 @ $A0 - STRING #40 @ $F86
 
 #W32($A0)
-ラジエーター交換などの冷却系のチューニングをします。チューニングにより発熱の増えたエンジンを冷やし安定した力を発揮させます。<END>
+Cooling system tuning such as radiator replacement．Increases engine cooling．<END>
 //POINTER #41 @ $A4 - STRING #41 @ $1004
 
 #W32($A4)
-ナイトロシステムを搭載します。ナイトロシステムを搭載することにより、一定時間パワーアップすることが可能になります。<END>
+Nitrous system installation．Increases power for a limited time．<END>
 //POINTER #42 @ $A8 - STRING #42 @ $1078
 
 #W32($A8)
-チューンドエンジンに換装します。特性の異なるエンジンに換装することが可能です。<END>
+Engine swap．Converts to a tuned engine with different characteristic．<END>
 //POINTER #43 @ $AC - STRING #43 @ $10C8
 
 #W32($AC)
-換装するエンジンの吸気方式を選択してください。<END>
+Select the intake type of the engine you want to install．<END>
 //POINTER #44 @ $B0 - STRING #44 @ $10F8
 
 #W32($B0)
-直列４気筒チューンドエンジンに換装します。<END>
+Install a tuned inline 4ーcylinder engine．<END>
 //POINTER #45 @ $B4 - STRING #45 @ $1124
 
 #W32($B4)
-直列６気筒チューンドエンジンに換装します。<END>
+Install a tuned inline 6ーcylinder engine．<END>
 //POINTER #46 @ $B8 - STRING #46 @ $1150
 
 #W32($B8)
-Ｖ型６気筒チューンドエンジンに換装します。<END>
+Install a tuned V6 engine．<END>
 //POINTER #47 @ $BC - STRING #47 @ $117C
 
 #W32($BC)
-Ｖ型８気筒チューンドエンジンに換装します。<END>
+Install a tuned V8 engine．<END>
 //POINTER #48 @ $C0 - STRING #48 @ $11A8
 
 #W32($C0)
-ロータリーチューンドエンジンに換装します。<END>
+Install a tuned rotary engine．<END>
 //POINTER #49 @ $C4 - STRING #49 @ $11D4
 
 #W32($C4)
-水平対向４気筒チューンドエンジンに換装します。<END>
+Install a tuned 4ーcylinder boxer engine．<END>
 //POINTER #50 @ $C8 - STRING #50 @ $1204
 
 #W32($C8)
-水平対向６気筒チューンドエンジンに換装します。<END>
+Install a tuned 6ーcylinder boxer engine．<END>
 //POINTER #51 @ $CC - STRING #51 @ $1234
 
 #W32($CC)
-パワートレイン系のチューニングをします。パワーチューニングにより上昇した出力を確実に伝えるようにするのが主な目的です。<END>
+Powertrain related tuning．Ensures that the increased power is reliably transmitted．<END>
 //POINTER #52 @ $D0 - STRING #52 @ $12AC
 
 #W32($D0)
-サスペンションをチューニングします。アライメント、サスペンションのセッティングが可能になります。<END>
+Suspension tuning．Makes alignment and suspension adjustments available．<END>
 //POINTER #53 @ $D4 - STRING #53 @ $130E
 
 #W32($D4)
-トランスミッションをチューニングします。ミッションのセッティングが可能になります。<END>
+Transmission tuning．Makes gear ratio adjustments available．<END>
 //POINTER #54 @ $D8 - STRING #54 @ $1362
 
 #W32($D8)
-トランスミッションをチューニングします。<END>
+Transmission tuning．<END>
 //POINTER #55 @ $DC - STRING #55 @ $138C
 
 #W32($DC)
-クラッチをチューニングします。エンジンからの出力を確実に伝えることができるようになります。<END>
+Clutch tuning．Makes transmission of power output from the engine more reliable．<END>
 //POINTER #56 @ $E0 - STRING #56 @ $13E8
 
 #W32($E0)
-ブレーキをチューニングします。ブレーキバランスのセッティングが可能になります。<END>
+Brakes tuning．Makes brake balance adjustments available．<END>
 //POINTER #57 @ $E4 - STRING #57 @ $1438
 
 #W32($E4)
@@ -266,79 +266,79 @@ The differential effect is suppressed in both the ON and OFF states of the accel
 //POINTER #64 @ $100 - STRING #64 @ $16DA
 
 #W32($100)
-購入するパーツのメーカーを選択してください。<END>
+Select the manufacturer of the part you wish to buy．<END>
 //POINTER #65 @ $104 - STRING #65 @ $1708
 
 #W32($104)
-タイロッドを交換します。タイヤの切れ角が増し、旋回性が上昇します。<END>
+Replace the tieーrods．This will increase the steering angle and improve cornering．<END>
 //POINTER #66 @ $108 - STRING #66 @ $174C
 
 #W32($108)
-ボディ系のチューニングをします。<END>
+Car body related tuning．<END>
 //POINTER #67 @ $10C - STRING #67 @ $176E
 
 #W32($10C)
-剛性を上げるチューニングをします。剛性を上げることによりハンドリング特性が良くなります。<END>
+Rigidity tuning．Reinforcing the car chassis improves handling characteristic．<END>
 //POINTER #68 @ $110 - STRING #68 @ $17C8
 
 #W32($110)
-軽量化をします。軽量化することにより素早いコーナリングや加速が可能となります。<END>
+Weight reduction．Reduced weight improves cornering and acceleration．<END>
 //POINTER #69 @ $114 - STRING #69 @ $1818
 
 #W32($114)
-クリア塗装のカーボン素材製パーツを選択します。ただし、貼り付けたステッカー、ボディペイントの内容は表示されなくなります。<END>
+Select clear coated carbon parts．Stickers and body paint will no longer be applied．<END>
 //POINTER #70 @ $118 - STRING #70 @ $1892
 
 #W32($118)
-カラー塗装のカーボン素材製パーツを選択します。<END>
+Select color painted carbon parts．<END>
 //POINTER #71 @ $11C - STRING #71 @ $18C2
 
 #W32($11C)
-タイヤ／ホイールを交換します。<END>
+Replace the tires or wheels．<END>
 //POINTER #72 @ $120 - STRING #72 @ $18E2
 
 #W32($120)
-タイヤを購入します。<END>
+Buy a set of tires．<END>
 //POINTER #73 @ $124 - STRING #73 @ $18F8
 
 #W32($124)
-ハイグリップタイヤを購入します。グリップ力が上昇します。ＷＥＴ状態の路面に向いています。<END>
+Buy a set of high grip tires．They increase grip and are suited for wet conditions．<END>
 //POINTER #74 @ $128 - STRING #74 @ $1952
 
 #W32($128)
-Ｓタイヤ（ハードコンパウンド）を購入します。ハイグリップタイヤに比べてグリップ力は上昇しますが、寿命は短くなります。<END>
+Buy a set of hard compound S tires．They have better grip compared to HG tires、but worse have durability．<END>
 //POINTER #75 @ $12C - STRING #75 @ $19C8
 
 #W32($12C)
-Ｓタイヤ（ミディアムコンパウンド）を購入します。Ｓタイヤ（ハード）に比べてグリップ力は上昇しますが、寿命は短くなります。<END>
+Buy a set of medium compound S tires．They have better grip compared to S（H） tires、but have worse durability．<END>
 //POINTER #76 @ $130 - STRING #76 @ $1A42
 
 #W32($130)
-Ｓタイヤ（ソフトコンパウンド）を購入します。最もグリップ力に優れますが、寿命は最も短くなります。<END>
+Buy a set of soft compound S tires．They have the best grip but the worst durability．<END>
 //POINTER #77 @ $134 - STRING #77 @ $1AA4
 
 #W32($134)
-購入したタイヤを装着します。<END>
+Install the set of tires you bought．<END>
 //POINTER #78 @ $138 - STRING #78 @ $1AC2
 
 #W32($138)
-ホイールを購入します。インチアップが可能になります。<END>
+Buy a set of wheels．Makes the ”InchーUp” adjustment available．<END>
 //POINTER #79 @ $13C - STRING #79 @ $1AF8
 
 #W32($13C)
-購入するホイールを選択してください。<END>
+Select the set of wheels you want to buy．<END>
 //POINTER #80 @ $140 - STRING #80 @ $1B1E
 
 #W32($140)
-購入したホイールを装着します。<END>
+Install the set of wheels you bought．<END>
 //POINTER #81 @ $144 - STRING #81 @ $1B3E
 
 #W32($144)
-装着するホイールを選択してください。<END>
+Select the wheels you want to mount．<END>
 //POINTER #82 @ $148 - STRING #82 @ $1B64
 
 #W32($148)
-”InchーUp” the rim size．Increasing the inch size enhances lateral rigidity of the tires and changes the appearence．<END>
+”InchーUp” the wheel size．Increasing the inch size enhances lateral rigidity of the tires and changes the appearence．<END>
 //POINTER #83 @ $14C - STRING #83 @ $1BCE
 
 #W32($14C)
@@ -346,391 +346,391 @@ Select a size for the ”InchーUp”．<END>
 //POINTER #84 @ $150 - STRING #84 @ $1BFA
 
 #W32($150)
-エアロパーツを購入します。<END>
+Buy aero body parts．<END>
 //POINTER #85 @ $154 - STRING #85 @ $1C16
 
 #W32($154)
-フロントバンパーを購入します。<END>
+Buy a front bumper．<END>
 //POINTER #86 @ $158 - STRING #86 @ $1C36
 
 #W32($158)
-リアバンパーを購入します。<END>
+Buy a rear bumper．<END>
 //POINTER #87 @ $15C - STRING #87 @ $1C52
 
 #W32($15C)
-荷台を積み換えます。<END>
+The cargo bed is reloaded．<END>
 //POINTER #88 @ $160 - STRING #88 @ $1C68
 
 #W32($160)
-ボンネットを購入します。<END>
+Buy a hood．<END>
 //POINTER #89 @ $164 - STRING #89 @ $1C82
 
 #W32($164)
-クリア塗装のカーボン素材製パーツを選択します。ただし、貼り付けたステッカー、ボディペイントの内容は表示されなくなります。<END>
+Select clear coated carbon parts．Stickers and body paint will no longer be applied．<END>
 //POINTER #90 @ $168 - STRING #90 @ $1CFC
 
 #W32($168)
-カラー塗装のカーボン素材製パーツを選択します。<END>
+Select color painted carbon parts．<END>
 //POINTER #91 @ $16C - STRING #91 @ $1D2C
 
 #W32($16C)
-サイドスカートを購入します。<END>
+Buy side skirts．<END>
 //POINTER #92 @ $170 - STRING #92 @ $1D4A
 
 #W32($170)
-リアスポイラーを購入します。ダウンフォースのセッティングが可能になります。<END>
+Buy a rear spoiler．Makes the downforce adjustment available．<END>
 //POINTER #93 @ $174 - STRING #93 @ $1D96
 
 #W32($174)
-ミラーを購入します。<END>
+Buy mirrors．<END>
 //POINTER #94 @ $178 - STRING #94 @ $1DAC
 
 #W32($178)
-ドレスアップを行います。<END>
+Tune your car's look．<END>
 //POINTER #95 @ $17C - STRING #95 @ $1DC6
 
 #W32($17C)
-フロントライトを変更します。<END>
+Changes the front lights．<END>
 //POINTER #96 @ $180 - STRING #96 @ $1DE4
 
 #W32($180)
-フロントライトのデザインを変更します。<END>
+Changes the front lights design．<END>
 //POINTER #97 @ $184 - STRING #97 @ $1E0C
 
 #W32($184)
-フロントライトのカラーを変更します。<END>
+Changes the front lights color．<END>
 //POINTER #98 @ $188 - STRING #98 @ $1E32
 
 #W32($188)
-テールライトのデザインを変更します。<END>
+Changes the tail lights．<END>
 //POINTER #99 @ $18C - STRING #99 @ $1E58
 
 #W32($18C)
-ホーンを交換します。Ｌ３ボタンを押すと試聴できます。<END>
+Changes the horn sound．Press the L3 button to play the sound．<END>
 //POINTER #100 @ $190 - STRING #100 @ $1E8E
 
 #W32($190)
-メーターを増設または交換します。<END>
+Add or replace gauges．<END>
 //POINTER #101 @ $194 - STRING #101 @ $1EB0
 
 #W32($194)
-タコメーターを増設します。<END>
+Add a tachometer．<END>
 //POINTER #102 @ $198 - STRING #102 @ $1ECC
 
 #W32($198)
-ブースト計を増設します。<END>
+Add a boost meter．<END>
 //POINTER #103 @ $19C - STRING #103 @ $1EE6
 
 #W32($19C)
-水温計を増設します。<END>
+Add a water temperature gauge．<END>
 //POINTER #104 @ $1A0 - STRING #104 @ $1EFC
 
 #W32($1A0)
-油温計を増設します。<END>
+Add an oil temperature gauge．<END>
 //POINTER #105 @ $1A4 - STRING #105 @ $1F12
 
 #W32($1A4)
-スピード、回転、油温、水温計が全て入っているオールインワンメーターに交換します。<END>
+Replace gauges with an allーinーone meter．It includes speed、RPM、water and oil temperature．<END>
 //POINTER #106 @ $1A8 - STRING #106 @ $1F64
 
 #W32($1A8)
-メーター配置を行います。<END>
+Places the gauge．<END>
 //POINTER #107 @ $1AC - STRING #107 @ $1F7E
 
 #W32($1AC)
-タコメーターを配置します。<END>
+Places the tachometer．<END>
 //POINTER #108 @ $1B0 - STRING #108 @ $1F9A
 
 #W32($1B0)
-ブースト計を配置します。<END>
+Places the boost meter．<END>
 //POINTER #109 @ $1B4 - STRING #109 @ $1FB4
 
 #W32($1B4)
-水温計を配置します。<END>
+Places the water temperature gauge．<END>
 //POINTER #110 @ $1B8 - STRING #110 @ $1FCA
 
 #W32($1B8)
-油温計を配置します。<END>
+Places the oil temperature gauge．<END>
 //POINTER #111 @ $1BC - STRING #111 @ $1FE0
 
 #W32($1BC)
-マップを配置します。<END>
+Places the map radar．<END>
 //POINTER #112 @ $1C0 - STRING #112 @ $1FF6
 
 #W32($1C0)
-メーター配置を初期状態に戻します。<END>
+Returns the gauge placement to default．<END>
 //POINTER #113 @ $1C4 - STRING #113 @ $201A
 
 #W32($1C4)
-フロントのナンバープレートのＯＮ、ＯＦＦを選択します。<END>
+Take off or put on the front license plate．<END>
 //POINTER #114 @ $1C8 - STRING #114 @ $2052
 
 #W32($1C8)
-フロントのナンバープレートを取り付けます。<END>
+Install the front license plate．<END>
 //POINTER #115 @ $1CC - STRING #115 @ $207E
 
 #W32($1CC)
-フロントのナンバープレートを取り外します。<END>
+Remove the front license plate．<END>
 //POINTER #116 @ $1D0 - STRING #116 @ $20AA
 
 #W32($1D0)
-車体の色を変更します。<END>
+Changes the car body color．<END>
 //POINTER #117 @ $1D4 - STRING #117 @ $20C2
 
 #W32($1D4)
-車体の色を変更します。Ｌ３ボタンを押すと、メタリックのＯＮ、ＯＦＦを選択できます。<END>
+Change the car body color．Press the L3 button to turn the metallic color ON or OFF．<END>
 //POINTER #118 @ $1D8 - STRING #118 @ $2116
 
 #W32($1D8)
-ロールバーの色を変更します。<END>
+Change the roll bar color．<END>
 //POINTER #119 @ $1DC - STRING #119 @ $2134
 
 #W32($1DC)
-ステッカーの貼付けやエンブレムの表示設定をします。<END>
+Sets up the stickers to be applied and the emblem to be displayed．<END>
 //POINTER #120 @ $1E0 - STRING #120 @ $2168
 
 #W32($1E0)
-メーカーステッカーの貼付けを行います。<END>
+Attach the manufacturer stickers．<END>
 //POINTER #121 @ $1E4 - STRING #121 @ $2190
 
 #W32($1E4)
-ステッカーを貼り付ける場所を選択してください。場所によって貼り付けられるステッカーのバリエーションに違いがあります。<END>
+Select the sticker's placement．There are different sticker variations depending on the position．<END>
 //POINTER #122 @ $1E8 - STRING #122 @ $2206
 
 #W32($1E8)
-貼り付けるメーカーステッカーを選択してください。<END>
+Select the manufacturer sticker you want to apply．<END>
 //POINTER #123 @ $1EC - STRING #123 @ $2238
 
 #W32($1EC)
-オリジナルステッカーを４枚までセットします。セットしたステッカーは、ボディペイントで車への貼り付けやエディットが可能です。<END>
+Set up to four original stickers．These stickers can be applied or edited in the BODY PAINT option．<END>
 //POINTER #124 @ $1F0 - STRING #124 @ $22B4
 
 #W32($1F0)
-新規にオリジナルステッカーをセットします。<END>
+Set a new original sticker．<END>
 //POINTER #125 @ $1F4 - STRING #125 @ $22E0
 
 #W32($1F4)
-セットしたオリジナルステッカーを削除し、新規にステッカーをセットします。<END>
+Delete the sticker and set a new one．<END>
 //POINTER #126 @ $1F8 - STRING #126 @ $232A
 
 #W32($1F8)
-セットしたオリジナルステッカーを削除します。<END>
+Delete the sticker．<END>
 //POINTER #127 @ $1FC - STRING #127 @ $2358
 
 #W32($1FC)
-通常のオリジナルステッカーから選択します。<END>
+Select from the standard original stickers．<END>
 //POINTER #128 @ $200 - STRING #128 @ $2384
 
 #W32($200)
-ガレージに置いてある車にセットしたオリジナルステッカーから選択します。<END>
+Select from the set of stickers set on your GARAGE CAR．<END>
 //POINTER #129 @ $204 - STRING #129 @ $23CC
 
 #W32($204)
-セットするオリジナルステッカーを選択してください。<END>
+Select the original sticker you want to set．<END>
 //POINTER #130 @ $208 - STRING #130 @ $2400
 
 #W32($208)
-レース画面中にエンブレムとして表示するステッカーを設定します。<END>
+Selects a sticker to be displayed as an emblem during a race．<END>
 //POINTER #131 @ $20C - STRING #131 @ $2440
 
 #W32($20C)
-エンブレムとして表示するステッカーを選択してください。現在設定されているステッカーを選択すると、設定か解除されます。<END>
+Selects a sticker to be displayed as an emblem．Selecting a sticker will either set or remove it．<END>
 //POINTER #132 @ $210 - STRING #132 @ $24B6
 
 #W32($210)
-所有しているステッカーを確認します。<END>
+View the stickers you own．<END>
 //POINTER #133 @ $214 - STRING #133 @ $24DC
 
 #W32($214)
-メーカーステッカーのリストです。ドレスアップのステッカーで貼り付けが可能です。ボディペイントでエディットはできません。<END>
+Manufacturer stickers．Editing is not allowed in the BODY PAINT option．<END>
 //POINTER #134 @ $218 - STRING #134 @ $2554
 
 #W32($218)
-オリジナルステッカーのリストです。オリジナルステッカーは、ボディペイントで自由な位置に貼り付けられるほか、エディットも可能です。<END>
+Original stickers．Editing is allowed in the BODY PAINT option．<END>
 //POINTER #135 @ $21C - STRING #135 @ $25D6
 
 #W32($21C)
-現在搭乗している車にセットしたステッカーのリストです。<END>
+List of stickers set on your current GARAGE CAR．<END>
 //POINTER #136 @ $220 - STRING #136 @ $260E
 
 #W32($220)
-ガレージに置いてある車にセットしたステッカーのリストです。<END>
+List of stickers set on other cars．<END>
 //POINTER #137 @ $224 - STRING #137 @ $264A
 
 #W32($224)
-車に自由にペイントを施します。<END>
+Paint your car freely．<END>
 //POINTER #138 @ $228 - STRING #138 @ $266A
 
 #W32($228)
-選択しているテクスチャーの場所を車モデル上で確認します。<END>
+View the selected texture on the car model in 3D．<END>
 //POINTER #139 @ $22C - STRING #139 @ $26A4
 
 #W32($22C)
-テクスチャーの選択を行います。<END>
+Select a texture to edit．<END>
 //POINTER #140 @ $230 - STRING #140 @ $26C4
 
 #W32($230)
-ステッカー枠で選択中のステッカーをテクスチャーに貼り付けます。貼り付けたステッカーは矢印カーソルで好きな位置に移動したり、拡大、縮小、回転処理などを行なえます。<END>
+Paste the selected sticker onto the texture．The sticker can be moved、scaled、rotated、etc．using the cursor．<END>
 //POINTER #141 @ $234 - STRING #141 @ $2766
 
 #W32($234)
-車に貼り付けているステッカーをはがします。複数貼られている場合は、点線で囲まれているステッカーをはがします。<END>
+Remove the selected sticker from the car．<END>
 //POINTER #142 @ $238 - STRING #142 @ $27D4
 
 #W32($238)
-車に貼り付けているステッカーの表示優先順を変更します。複数貼られている場合は、点線で囲まれているステッカーの表示の優先順位が高くなります。<END>
+Change the display layer of the selected sticker．<END>
 //POINTER #143 @ $23C - STRING #143 @ $2860
 
 #W32($23C)
-車に貼り付けているステッカーの左右を反転します。複数貼られている場合は、点線で囲まれているステッカーを左右反転します。<END>
+Flip the selected sticker horizontally．<END>
 //POINTER #144 @ $240 - STRING #144 @ $28D8
 
 #W32($240)
-車に貼り付けているステッカーの上下を反転します。複数貼られている場合は、点線で囲まれているステッカーを上下反転します。<END>
+Flip the selected sticker vertically．<END>
 //POINTER #145 @ $244 - STRING #145 @ $2950
 
 #W32($244)
-モデルを拡大します。<END>
+Zooms in on the model．<END>
 //POINTER #146 @ $248 - STRING #146 @ $2966
 
 #W32($248)
-モデルを縮小します。<END>
+Zooms out on the model．<END>
 //POINTER #147 @ $24C - STRING #147 @ $297C
 
 #W32($24C)
-モデルを左に回転します。<END>
+Rotates the model to the left．<END>
 //POINTER #148 @ $250 - STRING #148 @ $2996
 
 #W32($250)
-モデルを右に回転します。<END>
+Rotates the model to the right．<END>
 //POINTER #149 @ $254 - STRING #149 @ $29B0
 
 #W32($254)
-モデルを手前に回転します。<END>
+Rotates the model to the front．<END>
 //POINTER #150 @ $258 - STRING #150 @ $29CC
 
 #W32($258)
-モデルを奥に回転します。<END>
+Rotates the model to the back．<END>
 //POINTER #151 @ $25C - STRING #151 @ $29E6
 
 #W32($25C)
-モデル自動回転のＯＮ、ＯＦＦを切り替えます。<END>
+Turns the model autoーrotation ON or OFF．<END>
 //POINTER #152 @ $260 - STRING #152 @ $2A14
 
 #W32($260)
-ペイント画面に戻ります。<END>
+Return to BODY PAINT．<END>
 //POINTER #153 @ $264 - STRING #153 @ $2A2E
 
 #W32($264)
-カラーパレットの色を編集します。カラーパレットの最上段は透明色となります。<END>
+Edit colors in the color pallete．The color on the top row is transparent．<END>
 //POINTER #154 @ $268 - STRING #154 @ $2A7A
 
 #W32($268)
-ペンの種類をドット、ライン、ボックス、サークルから選択します。<END>
+Select the pen type from dot、line、box or circle．<END>
 //POINTER #155 @ $26C - STRING #155 @ $2ABA
 
 #W32($26C)
-ペンの太さを４種類から選択します。<END>
+Select the pen size from four options．<END>
 //POINTER #156 @ $270 - STRING #156 @ $2ADE
 
 #W32($270)
-ペンと消しゴムの機能を切り替えます。<END>
+Toggles between the pen and eraser option．<END>
 //POINTER #157 @ $274 - STRING #157 @ $2B04
 
 #W32($274)
-同色範囲の塗りつぶしや、塗りつぶされた図形の描画を行います。<END>
+Fills in the same color range or draws a shape．<END>
 //POINTER #158 @ $278 - STRING #158 @ $2B42
 
 #W32($278)
-塗りつぶしの種類をバケツ、ボックス、サークルから選択します。<END>
+Select the fill in type from bucket、box or circle．<END>
 //POINTER #159 @ $27C - STRING #159 @ $2B80
 
 #W32($27C)
-文字を範囲選択状態でテクスチャーに表示します。表示したフォントは、矢印カーソルで好きな位置に移動したり、拡大、縮小、回転処理などを行なえます。<END>
+Place text on the selected texture．The font can be moved、scaled、rotated、etc．using the cursor．<END>
 //POINTER #160 @ $280 - STRING #160 @ $2C10
 
 #W32($280)
-貼り付けたフォントを、パレットで選択している色で塗りつぶします。<END>
+Changes to font color to the one selected in the palette．<END>
 //POINTER #161 @ $284 - STRING #161 @ $2C52
 
 #W32($284)
-範囲選択状態の文字を左右反転します。<END>
+Flips the selected text horizontally．<END>
 //POINTER #162 @ $288 - STRING #162 @ $2C78
 
 #W32($288)
-範囲選択状態の文字を上下反転します。<END>
+Flips the selected text vertically．<END>
 //POINTER #163 @ $28C - STRING #163 @ $2C9E
 
 #W32($28C)
-範囲選択状態の文字を決定します。決定した文字は範囲選択が解除されて、フォントツールでの編集はできなくなります。<END>
+Applies the selected text to the texture．After applying it will no longer be editable by the font tool．<END>
 //POINTER #164 @ $290 - STRING #164 @ $2D0E
 
 #W32($290)
-範囲選択で指定した部分のペイントをコピー＆ペーストします。<END>
+Copy and paste the paint in the selected area．<END>
 //POINTER #165 @ $294 - STRING #165 @ $2D4A
 
 #W32($294)
-範囲選択で指定した部分のペイントを移動します。<END>
+Move the paint in the selected area．<END>
 //POINTER #166 @ $298 - STRING #166 @ $2D7A
 
 #W32($298)
-範囲選択を解除して編集を決定します。<END>
+Applies the edit and deselects the selection．<END>
 //POINTER #167 @ $29C - STRING #167 @ $2DA0
 
 #W32($29C)
-範囲選択で指定した部分のペイントを左右反転します。<END>
+Flip the paint horizontally in the selected area．<END>
 //POINTER #168 @ $2A0 - STRING #168 @ $2DD4
 
 #W32($2A0)
-範囲選択で指定した部分のペイントを上下反転します。<END>
+Flip the paint vertically in the selected area．<END>
 //POINTER #169 @ $2A4 - STRING #169 @ $2E08
 
 #W32($2A4)
-”ＥｙｅＴｏｙ”ＵＳＢカメラを使って画像を撮影します。撮影する部分にカーソルを合わせて○ボタンを押して下さい。保存先にステッカーが存在する場合は上書きされます。<END>
+Take a picture using the ”EyeToy” USB Camera．Select the area you want to capture and press the ○ button．<END>
 //POINTER #170 @ $2A8 - STRING #170 @ $2EAA
 
 #W32($2A8)
-画像を撮影するサイズを６４×６４サイズと１２８×３２サイズから選択します。<END>
+Choose the size of the picture between 128x32 and 64x64．<END>
 //POINTER #171 @ $2AC - STRING #171 @ $2EF6
 
 #W32($2AC)
-車のペイントを初期状態に戻します。初期状態ツールはテクスチャーごとに実行することができます。<END>
+Restores the car’s default paint．This tool can be run on a textureーbyーtexture basis．<END>
 //POINTER #172 @ $2B0 - STRING #172 @ $2F54
 
 #W32($2B0)
-セーブしてあるボディペイントのデータをロードします。ロードの際に、前回の車とエアロが変更されていた場合、ペイントの形状が変わる場合があります。<END>
+Load saved BODY PAINT data．The shape of the paint may change if aero parts have been changed．<END>
 //POINTER #173 @ $2B4 - STRING #173 @ $2FE4
 
 #W32($2B4)
-ボディペイントのデータをセーブします。セーブしたボディペイントのデータは同じ車種間での受け渡しが可能です。<END>
+Save BODY PAINT data．Saved paint data can be used between the same car model．<END>
 //POINTER #174 @ $2B8 - STRING #174 @ $3050
 
 #W32($2B8)
-ボディペイントを終了します。<END>
+Finish painting．<END>
 //POINTER #175 @ $2BC - STRING #175 @ $306E
 
 #W32($2BC)
-メモリーカード（ＰＳ２）にセーブしてあるボディペイントデータをロードします。<END>
+Load BODY PAINT data saved in the MEMORY CARD（PS2）．<END>
 //POINTER #176 @ $2C0 - STRING #176 @ $30BC
 
 #W32($2C0)
-セーブデータのエアロパーツです。現在搭乗している車と違う部分はオレンジ色で表示されます。<END>
+Aero parts of the saved data．Any differences to current car are shown in orange．<END>
 //POINTER #177 @ $2C4 - STRING #177 @ $3116
 
 #W32($2C4)
-作成したペイントデータをメモリーカード（ＰＳ２）にセーブします。<END>
+Save BODY PAINT data to the MEMORY CARD（PS2）．<END>
 //POINTER #178 @ $2C8 - STRING #178 @ $3158
 
 #W32($2C8)
-ＣＰを消費して、低下した車のコンディションを回復します。<END>
+Spend CP to restore the condition of the car．<END>
 //POINTER #179 @ $2CC - STRING #179 @ $3192
 
 #W32($2CC)
-レストアのレベルを選択します。レベルが高いほどＣＰがたくさん掛かりますが、回復する値は大きくなります。<END>
+Select the restoration level．The higher the level、the more CP it costs、but the restoration is of greater value．<END>
 //POINTER #180 @ $2D0 - STRING #180 @ $31FA
 
 #W32($2D0)
-スーパーオートバックスではカー用品やミュージックの購入、ガレージのリフォームができます。<END>
+Super Autobacs offers car accessories、new music and garage remodeling．<END>
 //POINTER #181 @ $2D4 - STRING #181 @ $3254
 
 #W32($2D4)
@@ -794,15 +794,15 @@ Select a size for the ”InchーUp”．<END>
 //POINTER #196 @ $310 - STRING #196 @ $35AC
 
 #W32($310)
-新車を購入します。<END>
+Buy a new car．<END>
 //POINTER #197 @ $314 - STRING #197 @ $35C0
 
 #W32($314)
-購入する車のメーカーを選択してください。<END>
+Select the brand of the car you want to buy．<END>
 //POINTER #198 @ $318 - STRING #198 @ $35EA
 
 #W32($318)
-車リストを価格の高い順に並べ替えます。<END>
+Select the brand of the car you want to buy．<END>
 //POINTER #199 @ $31C - STRING #199 @ $3612
 
 #W32($31C)
@@ -834,27 +834,27 @@ Select a size for the ”InchーUp”．<END>
 //POINTER #206 @ $338 - STRING #206 @ $3746
 
 #W32($338)
-車のスペックを閲覧します。<END>
+View the car's specifications．
 //POINTER #207 @ $33C - STRING #207 @ $3762
 
 #W32($33C)
-選択している車を購入します。<END>
+Buy the car you have selected．<END>
 //POINTER #208 @ $340 - STRING #208 @ $3780
 
 #W32($340)
-車体の色を選択してください。<END>
+Select the color of the car body．<END>
 //POINTER #209 @ $344 - STRING #209 @ $379E
 
 #W32($344)
-所有している車の売却や、中古車の購入を行います。<END>
+Buy a used car or sell one of your own．<END>
 //POINTER #210 @ $348 - STRING #210 @ $37D0
 
 #W32($348)
-中古車を購入します。<END>
+Buy a used car．<END>
 //POINTER #211 @ $34C - STRING #211 @ $37E6
 
 #W32($34C)
-所有している車を売却します。<END>
+Sell one of the cars you own．<END>
 //POINTER #212 @ $350 - STRING #212 @ $3804
 
 #W32($350)
@@ -1334,7 +1334,7 @@ When you turn on Best Line、 an ideal driving line will be displayed on the roa
 //POINTER #331 @ $52C - STRING #331 @ $53FE
 
 #W32($52C)
-車のスペックを閲覧します。<END>
+View the car's specifications．
 //POINTER #332 @ $530 - STRING #332 @ $541A
 
 #W32($530)

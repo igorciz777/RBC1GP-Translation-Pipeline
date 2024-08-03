@@ -248,7 +248,7 @@ Replace tires．<END>
 //POINTER #59 @ $EC - STRING #59 @ $8DC
 
 #W32($EC)
-”InchーUp” the rim size．Increasing the inch size enhances lateral rigidity of the tires and changes the appearence．<END>
+”InchーUp” the wheel size．Increasing the inch size enhances lateral rigidity of the tires and changes the appearence．<END>
 //POINTER #60 @ $F0 - STRING #60 @ $946
 
 #W32($F0)
