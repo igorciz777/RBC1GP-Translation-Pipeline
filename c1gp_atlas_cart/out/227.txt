@@ -734,63 +734,63 @@ Super Autobacs offers car accessories、new music and garage remodeling．<END>
 //POINTER #181 @ $2D4 - STRING #181 @ $3254
 
 #W32($2D4)
-カー用品を購入します。カー用品には購入すれば効果を発揮するものと、購入後に装備して効果を発揮するものがあります。<END>
+Buy car accessories．There are two available types of items：effective when purchased and effective only when equiped．<END>
 //POINTER #182 @ $2D8 - STRING #182 @ $32C6
 
 #W32($2D8)
-新しく入荷したカー用品と、不定期に入荷するカー用品です。<END>
+Newly arrived and periodical items．<END>
 //POINTER #183 @ $2DC - STRING #183 @ $3300
 
 #W32($2DC)
-主にバトルに関連するカー用品です。<END>
+Car accessories related to racing．<END>
 //POINTER #184 @ $2E0 - STRING #184 @ $3324
 
 #W32($2E0)
-主に車のコンディションなどに関連するカー用品です。<END>
+Car accessories related to upkeeping your car's condition．<END>
 //POINTER #185 @ $2E4 - STRING #185 @ $3358
 
 #W32($2E4)
-主にＮＰや中古車売却に関係するカー用品です。<END>
+Car accessories related to NP points and used car sales．<END>
 //POINTER #186 @ $2E8 - STRING #186 @ $3386
 
 #W32($2E8)
-主に他のカー用品と併用して効果をアップさせるものや、バトルでオマケ的な効果を得られるカー用品です。<END>
+Car accessories to be used with other accessories to help boost their effectivness or add bonus effects．<END>
 //POINTER #187 @ $2EC - STRING #187 @ $33EA
 
 #W32($2EC)
-主にスポンサーイベント参加や、ワンダラーの出現に関連するカー用品です。<END>
+Car accessories related to sponsored events and WANDERER appearances．<END>
 //POINTER #188 @ $2F0 - STRING #188 @ $3432
 
 #W32($2F0)
-購入するカー用品を選択してください。<END>
+Select the car accessory you want to buy．<END>
 //POINTER #189 @ $2F4 - STRING #189 @ $3458
 
 #W32($2F4)
-ガレージのデザインを変更します。<END>
+Change the design of your garage．<END>
 //POINTER #190 @ $2F8 - STRING #190 @ $347A
 
 #W32($2F8)
-変更するガレージのデザインを選択してください。<END>
+Select the garage type you want to change to．<END>
 //POINTER #191 @ $2FC - STRING #191 @ $34AA
 
 #W32($2FC)
-ミュージックを購入します。購入したミュージックはオプションのＢＧＭセレクトで使用可能になります。<END>
+Buy music．Bought music can be found in the SELECT BGM options menu．<END>
 //POINTER #192 @ $300 - STRING #192 @ $350C
 
 #W32($300)
-新しく入荷したミュージックです。<END>
+Newly arrived music．<END>
 //POINTER #193 @ $304 - STRING #193 @ $352E
 
 #W32($304)
-首都高バトルから選出したミュージックです。<END>
+Music selection from the Shutoko Battle series．<END>
 //POINTER #194 @ $308 - STRING #194 @ $355A
 
 #W32($308)
-街道バトルから選出したミュージックです。<END>
+Music selection from the Kaido Battle series．<END>
 //POINTER #195 @ $30C - STRING #195 @ $3584
 
 #W32($30C)
-購入するミュージックを選択してください<END>
+Select the music you want to buy．<END>
 //POINTER #196 @ $310 - STRING #196 @ $35AC
 
 #W32($310)
@@ -802,39 +802,39 @@ Select the brand of the car you want to buy．<END>
 //POINTER #198 @ $318 - STRING #198 @ $35EA
 
 #W32($318)
-Select the brand of the car you want to buy．<END>
+Sort the car list by price、descending．<END>
 //POINTER #199 @ $31C - STRING #199 @ $3612
 
 #W32($31C)
-車リストをパワーウエイトレシオ（最高速性能）の高い順に並べ替えます。<END>
+Sort the car list by the weightーtoーpower ratio．<END>
 //POINTER #200 @ $320 - STRING #200 @ $3658
 
 #W32($320)
-車リストをトルクウエイトレシオ（加速性能）の高い順に並べ替えます。<END>
+Sort the car list by the weightーtoーtorque ratio．<END>
 //POINTER #201 @ $324 - STRING #201 @ $369C
 
 #W32($324)
-駆動方式がＦＦの車を選出します。<END>
+Filter the car list to only show the ones with a FF drivetrain．<END>
 //POINTER #202 @ $328 - STRING #202 @ $36BE
 
 #W32($328)
-駆動方式がＦＲの車を選出します。<END>
+Filter the car list to only show the ones with a FR drivetrain．<END>
 //POINTER #203 @ $32C - STRING #203 @ $36E0
 
 #W32($32C)
-駆動方式がＭＲの車を選出します。<END>
+Filter the car list to only show the ones with a MR drivetrain．<END>
 //POINTER #204 @ $330 - STRING #204 @ $3702
 
 #W32($330)
-駆動方式が４ＷＤの車を選出します。<END>
+Filter the car list to only show the ones with a 4WD drivetrain．<END>
 //POINTER #205 @ $334 - STRING #205 @ $3726
 
 #W32($334)
-購入する車を選択してください。<END>
+Select the car you want to buy．<END>
 //POINTER #206 @ $338 - STRING #206 @ $3746
 
 #W32($338)
-View the car's specifications．
+View the car's specifications．<END>
 //POINTER #207 @ $33C - STRING #207 @ $3762
 
 #W32($33C)
@@ -858,19 +858,19 @@ Sell one of the cars you own．<END>
 //POINTER #212 @ $350 - STRING #212 @ $3804
 
 #W32($350)
-選択している車を売却します。<END>
+Sells the selected car．<END>
 //POINTER #213 @ $354 - STRING #213 @ $3822
 
 #W32($354)
-ガレージで車の乗り換えやセッティングの調整、カー用品の装備、ガレージのレイアウトを行います。<END>
+Use the garage to change cars、adjust car settings、equip accessories、and change the garage’s layout．<END>
 //POINTER #214 @ $358 - STRING #214 @ $3880
 
 #W32($358)
-コースや路面のコンディションなどに合わせて、車がベストに走れる状態にセッティングの調整を行います。<END>
+Adjust the setting of your car to run at its best according to the track and weather condition．<END>
 //POINTER #215 @ $35C - STRING #215 @ $38E4
 
 #W32($35C)
-好みの傾向を選択するだけでセッティングが行なえるお手軽モードです。<END>
+An easy mode that will make automatic adjustments by selecting your preferences．<END>
 //POINTER #216 @ $360 - STRING #216 @ $3928
 
 #W32($360)
@@ -878,23 +878,23 @@ Up to three sets of adjusted settings can be saved．<END>
 //POINTER #217 @ $364 - STRING #217 @ $3962
 
 #W32($364)
-速度の傾向を選択します。最高速重視は最大速度が上昇し、加速力が低下します。加速重視は加速力が上昇し、最大速度が低下します。<END>
+Select the speed preference．Top Speed Focus will increase top speed but lower acceleration and vice versa．<END>
 //POINTER #218 @ $368 - STRING #218 @ $39DE
 
 #W32($368)
-走りの傾向を選択します。ドリフト重視はドリフト走行向きの性能になります。グリップ重視はグリップ走行向きの性能になります。<END>
+Select the handling preference．Drifting Focus will give more drift performance、Grip Focus will improve grip．<END>
 //POINTER #219 @ $36C - STRING #219 @ $3A58
 
 #W32($36C)
-実際のコース上を走りながらセッティングが行なえるモードです。<END>
+This mode allows you to set and test out your settings on a course．<END>
 //POINTER #220 @ $370 - STRING #220 @ $3A96
 
 #W32($370)
-テスト走行を行うコースを選択してください。<END>
+Select the course for test runs．<END>
 //POINTER #221 @ $374 - STRING #221 @ $3AC2
 
 #W32($374)
-コースのコンディションを選択してください。ＤＲＹは路面が乾いた状態で滑りにくく、ＷＥＴは路面が濡れた状態で滑りやすくなります。<END>
+Select the course condition．Wet surface is more slippery than dry．<END>
 //POINTER #222 @ $378 - STRING #222 @ $3B42
 
 #W32($378)
@@ -906,11 +906,11 @@ Select the category that you want to improve on and the related settings will be
 //POINTER #224 @ $380 - STRING #224 @ $3BBC
 
 #W32($380)
-加速力を向上させます。加速力は上昇しますが、最大速度は低下します。<END>
+Increases acceleration．Increasing acceleration will decrease the top speed．<END>
 //POINTER #225 @ $384 - STRING #225 @ $3C00
 
 #W32($384)
-最高速を向上させます。最大速度が上昇しますが、加速力は低下します。<END>
+Increases top speed．Increasing top speed will decrease acceleration．<END>
 //POINTER #226 @ $388 - STRING #226 @ $3C44
 
 #W32($388)
@@ -930,7 +930,7 @@ Improves straight driving stability．Car is more stable on straights but it is 
 //POINTER #230 @ $398 - STRING #230 @ $3DBC
 
 #W32($398)
-調整するセッティング項目を選択してください。調整が足りない場合は、追加調整で更に詳細な調整を行うことができます。<END>
+Select the category you want to adjust．You can make additional adjustments in ADJUSTMENTS．<END>
 //POINTER #231 @ $39C - STRING #231 @ $3E2E
 
 #W32($39C)
@@ -946,11 +946,11 @@ Set up the alignment．<END>
 //POINTER #234 @ $3A8 - STRING #234 @ $3ED8
 
 #W32($3A8)
-タイヤを上から見た角度を調整します。フロントをＯＵＴ、リアをＩＮ寄りにすると旋回性能が向上し、逆にすると安定性が向上します。<END>
+Adjusts the angle of the tires looking from above．Moving the front towards IN and the rear towards OUT improves turning．<END>
 //POINTER #235 @ $3AC - STRING #235 @ $3F56
 
 #W32($3AC)
-タイヤを前から見た角度を調整します。ＮＥＧＡＴＩＶＥ寄りにするとコーナリング時のグリップが向上します。<END>
+Adjusts the angle of the tires looking from the front．Setting it closer to a NEGATIVE angle will improve grip when cornering．<END>
 //POINTER #236 @ $3B0 - STRING #236 @ $3FBE
 
 #W32($3B0)
@@ -962,7 +962,7 @@ Adjusts the spring rates．Setting it to HARD will reduce the amount of load tra
 //POINTER #238 @ $3B8 - STRING #238 @ $4060
 
 #W32($3B8)
-ダンパーの減衰力を調整します。ＨＡＲＤ寄りにするとスプリングの振動を吸収し易くなりますが、ハンドルレスポンスが徐々に低下します。<END>
+Adjusts the force of the damper．Setting it to HARD will absorb the spring vibration more easily．<END>
 //POINTER #239 @ $3BC - STRING #239 @ $40E2
 
 #W32($3BC)
@@ -974,7 +974,7 @@ Adjusts the ride height．Lowering the height will lower the center of mass and 
 //POINTER #241 @ $3C4 - STRING #241 @ $41E6
 
 #W32($3C4)
-ブレーキバランス、ダウンフォース、ドライブバランス、ターボブースとのセッティングを行います。<END>
+Set up the brake balance、 downforce、 drive balance and turbo boost．<END>
 //POINTER #242 @ $3C8 - STRING #242 @ $4244
 
 #W32($3C8)
@@ -998,191 +998,191 @@ Replace tires．<END>
 //POINTER #247 @ $3DC - STRING #247 @ $442E
 
 #W32($3DC)
-ガレージでセッティングを行います。<END>
+Set up your car in the garage．<END>
 //POINTER #248 @ $3E0 - STRING #248 @ $4452
 
 #W32($3E0)
-コースに出て挙動の確認を行います。<END>
+Check the car’s behaviour on the course．<END>
 //POINTER #249 @ $3E4 - STRING #249 @ $4476
 
 #W32($3E4)
-スーパーオートバックスで購入した装備可能なカー用品の装備を行います。<END>
+Equip your car with car accessories bought at Super Autobacs．<END>
 //POINTER #250 @ $3E8 - STRING #250 @ $44BC
 
 #W32($3E8)
-選択したカー用品の装備パックを３種類まで登録することができます。<END>
+You can save three different packs of car accessories．<END>
 //POINTER #251 @ $3EC - STRING #251 @ $44FE
 
 #W32($3EC)
-選択した枠にカー用品を装備します。既に装備されている場合は変更されます。<END>
+Equip the selected slot with an accessory．If the slot is already equipped、the item will be replaced．<END>
 //POINTER #252 @ $3F0 - STRING #252 @ $4548
 
 #W32($3F0)
-全てのカー用品を表示します。<END>
+Display all car accessories．<END>
 //POINTER #253 @ $3F4 - STRING #253 @ $4566
 
 #W32($3F4)
-ＳＰに対して効果を発揮するカー用品を表示します。<END>
+Display car accessories related to SP events．<END>
 //POINTER #254 @ $3F8 - STRING #254 @ $4598
 
 #W32($3F8)
-ＤＰに対して効果を発揮するカー用品を表示します。<END>
+Display car accessories related to DP events．<END>
 //POINTER #255 @ $3FC - STRING #255 @ $45CA
 
 #W32($3FC)
-ＲＰに対して効果を発揮するカー用品を表示します。<END>
+Display car accessories related to RP events．<END>
 //POINTER #256 @ $400 - STRING #256 @ $45FC
 
 #W32($400)
-バトルに関係なく効果を発揮するカー用品を表示します。<END>
+Display car accessories effective regardless of the event type．<END>
 //POINTER #257 @ $404 - STRING #257 @ $4632
 
 #W32($404)
-選択した枠のカー用品を解除します。<END>
+Remove the accessory out of the selected slot．<END>
 //POINTER #258 @ $408 - STRING #258 @ $4656
 
 #W32($408)
-所有しているカー用品を確認します。<END>
+List every car accessory that you own．<END>
 //POINTER #259 @ $40C - STRING #259 @ $467A
 
 #W32($40C)
-ガレージにレイアウトするカー用品を変更します。<END>
+Change the layout of the car goods placed around your garage．<END>
 //POINTER #260 @ $410 - STRING #260 @ $46AA
 
 #W32($410)
-ガレージにレイアウトするカー用品を選択してください。<END>
+Select the car accessories you want to add to your garage layout．<END>
 //POINTER #261 @ $414 - STRING #261 @ $46E0
 
 #W32($414)
-ガレージに置いてある車に乗り換えます。<END>
+Switch out your current car with another one from your garage．<END>
 //POINTER #262 @ $418 - STRING #262 @ $4708
 
 #W32($418)
-選択中の車に乗り換えます。<END>
+Select the car you want to switch to．<END>
 //POINTER #263 @ $41C - STRING #263 @ $4724
 
 #W32($41C)
-メインガレージ、サブガレージ間で車を移動します。サブガレージデータはゲームデータに追加されます。<END>
+Move cars between the main and sub garage．SubーGarage data is added to Game Data．<END>
 //POINTER #264 @ $420 - STRING #264 @ $4786
 
 #W32($420)
-サブガレージに移動する車を選んでください。<END>
+Select a car to move to the Sub－Garage．<END>
 //POINTER #265 @ $424 - STRING #265 @ $47B2
 
 #W32($424)
-メインガレージに移動する車を選んでください。<END>
+Select a car to move to the Main Garage．<END>
 //POINTER #266 @ $428 - STRING #266 @ $47E0
 
 #W32($428)
-インフォメーションでは、掲示板、新製品の情報、イベントスケジュール、ドライバーリストの閲覧が行なえます。<END>
+The information menu includes a BBS、new products info、event schedules、and a driver list．<END>
 //POINTER #267 @ $42C - STRING #267 @ $484A
 
 #W32($42C)
-掲示板では、ＲＢ公認イベントへの質問や、車のカスタマイズに関すること、フィールドの噂話など、様々な情報が交換されています。<END>
+BBS is a place to exchange questions about RB events、talk about car customization、gossip and much more．<END>
 //POINTER #268 @ $430 - STRING #268 @ $48C6
 
 #W32($430)
-ＲＢ公認イベントに関する話題が扱われています。<END>
+Topics related to RACING BATTLE Official Events．<END>
 //POINTER #269 @ $434 - STRING #269 @ $48F6
 
 #W32($434)
-チューニングやセッティングなど、車のカスタマイズに関する話題が扱われています。<END>
+Topics related to car customization、such as performance tuning and car setup．<END>
 //POINTER #270 @ $438 - STRING #270 @ $4946
 
 #W32($438)
-イベントの感想や、実際に起こった事件などの話題が扱われています。<END>
+Topics related to event impressions and any incidents that occur．<END>
 //POINTER #271 @ $43C - STRING #271 @ $4988
 
 #W32($43C)
-他の掲示板には当てはまらない雑談などの話題が扱われています。<END>
+OffーTopic chit－chat that does not apply to other board categories．<END>
 //POINTER #272 @ $440 - STRING #272 @ $49C6
 
 #W32($440)
-内容を見たいスレッドを選択してください。<END>
+Select the thread you want to view the contents of．<END>
 //POINTER #273 @ $444 - STRING #273 @ $49F0
 
 #W32($444)
-スレッド内容を閲覧します。<END>
+Browse the selected thread's content．<END>
 //POINTER #274 @ $448 - STRING #274 @ $4A0C
 
 #W32($448)
-新しく入荷したパーツや車などの情報を閲覧します。<END>
+View the information on newly arrived parts、cars、etc．<END>
 //POINTER #275 @ $44C - STRING #275 @ $4A3E
 
 #W32($44C)
-詳細を確認したい記事を選択してください。<END>
+Select the new lineup you want to know more about．<END>
 //POINTER #276 @ $450 - STRING #276 @ $4A68
 
 #W32($450)
-イベントの開催スケジュールを閲覧します。<END>
+View the schedule of upcoming events．<END>
 //POINTER #277 @ $454 - STRING #277 @ $4A92
 
 #W32($454)
-閲覧したいイベントのフィールド、ランクを選択してください。<END>
+Select the field and rank of the event you want to know more about．<END>
 //POINTER #278 @ $458 - STRING #278 @ $4ACE
 
 #W32($458)
-詳細を確認したいイベントを選択してください。<END>
+Select the event you want to know more about．<END>
 //POINTER #279 @ $45C - STRING #279 @ $4AFC
 
 #W32($45C)
-各フィールドに登録されているドライバーのリストを閲覧します。<END>
+View a list of drivers registered to each field．<END>
 //POINTER #280 @ $460 - STRING #280 @ $4B3A
 
 #W32($460)
-閲覧したいフィールド、ランクを選択してください。<END>
+Select the field and rank of drivers you want to view．<END>
 //POINTER #281 @ $464 - STRING #281 @ $4B6C
 
 #W32($464)
-詳細を確認したいドライバーを選択してください。<END>
+Select the driver you want to know more about．<END>
 //POINTER #282 @ $468 - STRING #282 @ $4B9C
 
 #W32($468)
-プロフィールを非表示にします。<END>
+Hides the profile info．<END>
 //POINTER #283 @ $46C - STRING #283 @ $4BBC
 
 #W32($46C)
-ドライバーのプロフィールを閲覧します。<END>
+Shows the profile info．<END>
 //POINTER #284 @ $470 - STRING #284 @ $4BE4
 
 #W32($470)
-インフォメーションを終了してホームに戻ります。<END>
+Exit information and return to HOME．<END>
 //POINTER #285 @ $474 - STRING #285 @ $4C14
 
 #W32($474)
-これまでに見たことのあるムービーを閲覧します。<END>
+Browse and play movies you have seen so far．<END>
 //POINTER #286 @ $478 - STRING #286 @ $4C44
 
 #W32($478)
-閲覧したいムービーを選択してください。<END>
+Select the movie you want to play．<END>
 //POINTER #287 @ $47C - STRING #287 @ $4C6C
 
 #W32($47C)
-プレイヤーと現在搭乗している車の各種データを閲覧します。<END>
+Show various data about the player and currently selected car．<END>
 //POINTER #288 @ $480 - STRING #288 @ $4CA6
 
 #W32($480)
-ゲームの各種設定を変更します。<END>
+Changes various game options．<END>
 //POINTER #289 @ $484 - STRING #289 @ $4CC6
 
 #W32($484)
-クエストモードを終了します。<END>
+Exits out of Quest Mode．<END>
 //POINTER #290 @ $488 - STRING #290 @ $4CE4
 
 #W32($488)
-Ｌ１ボタン、Ｒ１ボタンを押して、使用する車を選択してください。<END>
+Select a car with the L1 and R1 buttons．<END>
 //POINTER #291 @ $48C - STRING #291 @ $4D24
 
 #W32($48C)
-変更した項目を決定して戻ります。<END>
+Confirm the changes and return．<END>
 //POINTER #292 @ $490 - STRING #292 @ $4D46
 
 #W32($490)
-オプションの設定を初期状態に戻します。<END>
+Resets the options to default．<END>
 //POINTER #293 @ $494 - STRING #293 @ $4D6E
 
 #W32($494)
-ドライブ視点や各種アシストの設定を行います。<END>
+Configure the default viewpoint and assist settings．<END>
 //POINTER #294 @ $498 - STRING #294 @ $4D9C
 
 #W32($498)
@@ -1190,19 +1190,19 @@ When you turn on Brake Assist、 the steering and braking assist will be enabled
 //POINTER #295 @ $49C - STRING #295 @ $4DFC
 
 #W32($49C)
-車の後方から見た視点です。<END>
+Viewpoint from the rear of the car．<END>
 //POINTER #296 @ $4A0 - STRING #296 @ $4E18
 
 #W32($4A0)
-車の後方、やや斜め上から見た視点です。<END>
+Viewpoint from the rear of the car with a slight angle．<END>
 //POINTER #297 @ $4A4 - STRING #297 @ $4E40
 
 #W32($4A4)
-車の表示がされない一人称視点です。<END>
+Firstーperson viewpoint with no car displayed．<END>
 //POINTER #298 @ $4A8 - STRING #298 @ $4E64
 
 #W32($4A8)
-車の運転席から見た視点です。<END>
+Firstーperson viewpoint from the driver's seat．<END>
 //POINTER #299 @ $4AC - STRING #299 @ $4E82
 
 #W32($4AC)
@@ -1210,31 +1210,31 @@ When you turn on Shift Assist、gear changes will become automatic．<END>
 //POINTER #300 @ $4B0 - STRING #300 @ $4EC2
 
 #W32($4B0)
-コントローラの振動の設定を行います。<END>
+Sets the vibration setting of the controller．<END>
 //POINTER #301 @ $4B4 - STRING #301 @ $4EE8
 
 #W32($4B4)
-レース画面の表示に関する設定を行います。<END>
+Configures race HUD settings．<END>
 //POINTER #302 @ $4B8 - STRING #302 @ $4F12
 
 #W32($4B8)
-自車マークは常にマップ中心で上を向き、マップ自体が回転して<END>
+Map is always centered to the car and rotates with it．<END>
 //POINTER #303 @ $4BC - STRING #303 @ $4F4E
 
 #W32($4BC)
-マップは回転せず、自車マークが<END>
+Map is static and does not rotate．<END>
 //POINTER #304 @ $4C0 - STRING #304 @ $4F6E
 
 #W32($4C0)
-マップの表示をＯＦＦにします。<END>
+Turns the map OFF．<END>
 //POINTER #305 @ $4C4 - STRING #305 @ $4F8E
 
 #W32($4C4)
-メインメーターの表示のＯＮ、ＯＦＦを切り替えます。<END>
+Turns the main meter display ON or OFF．<END>
 //POINTER #306 @ $4C8 - STRING #306 @ $4FC2
 
 #W32($4C8)
-サブメーターの表示のＯＮ、ＯＦＦを切り替えます。<END>
+Turns the sub meter display ON or OFF．<END>
 //POINTER #307 @ $4CC - STRING #307 @ $4FF4
 
 #W32($4CC)
@@ -1242,224 +1242,224 @@ When you turn on Best Line、 an ideal driving line will be displayed on the roa
 //POINTER #308 @ $4D0 - STRING #308 @ $503C
 
 #W32($4D0)
-ライブモニターをＯＮにすると<END>
+Turns on the Live Monitor．<END>
 //POINTER #309 @ $4D4 - STRING #309 @ $505A
 
 #W32($4D4)
-スクリーンエフェクトをＯＮにすると、レース画面に演出効果が表示されます。<END>
+Turns on the screen effects when driving．<END>
 //POINTER #310 @ $4D8 - STRING #310 @ $50A4
 
 #W32($4D8)
-サウンド関係の設定を行います。<END>
+Configures sound．<END>
 //POINTER #311 @ $4DC - STRING #311 @ $50C4
 
 #W32($4DC)
-サウンドの出力をモノラルとステレオから選択します。<END>
+Configures sound to be stereo or mono．<END>
 //POINTER #312 @ $4E0 - STRING #312 @ $50F8
 
 #W32($4E0)
-ＢＧＭのボリュームを調整します。<END>
+Sets BGM volume．<END>
 //POINTER #313 @ $4E4 - STRING #313 @ $511A
 
 #W32($4E4)
-ＳＥのボリュームを調整します。<END>
+Sets sound effects volume．<END>
 //POINTER #314 @ $4E8 - STRING #314 @ $513A
 
 #W32($4E8)
-ゲーム中に流すＢＧＭの設定を行います。<END>
+Select the BGMs to be played during the game．<END>
 //POINTER #315 @ $4EC - STRING #315 @ $5162
 
 #W32($4EC)
-選択中のＢＧＭを再生します。<END>
+Plays selected BGM．<END>
 //POINTER #316 @ $4F0 - STRING #316 @ $5180
 
 #W32($4F0)
-流しているＢＧＭを停止します。<END>
+Stops selected BGM．<END>
 //POINTER #317 @ $4F4 - STRING #317 @ $51A0
 
 #W32($4F4)
-コントローラーキーの反応の良さを設定します。<END>
+Sets controller responsivness．<END>
 //POINTER #318 @ $4F8 - STRING #318 @ $51CE
 
 #W32($4F8)
-ハンドルをきった際の反応の良さを設定します。<END>
+Sets steering responsivness．<END>
 //POINTER #319 @ $4FC - STRING #319 @ $51FC
 
 #W32($4FC)
-アクセルを踏んだ際の反応の良さを設定します。<END>
+Sets accel responsivness．<END>
 //POINTER #320 @ $500 - STRING #320 @ $522A
 
 #W32($500)
-ブレーキを踏んだ際の反応の良さを設定します。<END>
+Sets brake responsivness．<END>
 //POINTER #321 @ $504 - STRING #321 @ $5258
 
 #W32($504)
-コントローラのボタン配置を設定します。<END>
+Sets controller button layout．<END>
 //POINTER #322 @ $508 - STRING #322 @ $5280
 
 #W32($508)
-ＧＴフォースのボタン配置を設定します。<END>
+Sets Logitech GT Force button layout．<END>
 //POINTER #323 @ $50C - STRING #323 @ $52A8
 
 #W32($50C)
-ＧＴフォースプロのボタン配置を設定します。<END>
+Sets Logitech GT Force Pro button layout．<END>
 //POINTER #324 @ $510 - STRING #324 @ $52D4
 
 #W32($510)
-ゲームデータのロードを行います。<END>
+Loads game data．<END>
 //POINTER #325 @ $514 - STRING #325 @ $52F6
 
 #W32($514)
-ゲームデータのセーブを行います。<END>
+Saves game data．<END>
 //POINTER #326 @ $518 - STRING #326 @ $5318
 
 #W32($518)
-パスワードを入力してチューンドカーを入手します。<END>
+Enter a car password．<END>
 //POINTER #327 @ $51C - STRING #327 @ $534A
 
 #W32($51C)
-１つ前に入力した文字を削除します。<END>
+Deletes one character．<END>
 //POINTER #328 @ $520 - STRING #328 @ $536E
 
 #W32($520)
-パスワード入力を終了してオプションのトップ画面に戻ります。<END>
+Finish entering the password．<END>
 //POINTER #329 @ $524 - STRING #329 @ $53AA
 
 #W32($524)
-入力したパスワードを決定し照合します。<END>
+Confirms the entered password．<END>
 //POINTER #330 @ $528 - STRING #330 @ $53D2
 
 #W32($528)
-車をメモリーカード（ＰＳ２）に保存します。<END>
+Saves the car to the MEMORY CARD（PS2）．<END>
 //POINTER #331 @ $52C - STRING #331 @ $53FE
 
 #W32($52C)
-View the car's specifications．
+View the car's specifications．<END>
 //POINTER #332 @ $530 - STRING #332 @ $541A
 
 #W32($530)
-所持している車のパスワードを表示します。パスワードを入力すれば別のレーシングバトルデータで同性能の車を使用することができます。<END>
+Shows the password of your car．You can use this password to use the car in different RACING BATTLE Game Data saves．<END>
 //POINTER #333 @ $534 - STRING #333 @ $549A
 
 #W32($534)
-車を選択するとパスワードが表示されます。<END>
+Display the password of a selected car．<END>
 //POINTER #334 @ $538 - STRING #334 @ $54C4
 
 #W32($538)
-閲覧するリプレイのモードを選択してください。<END>
+Select the gamemode of a replay you want to view．<END>
 //POINTER #335 @ $53C - STRING #335 @ $54F2
 
 #W32($53C)
-閲覧するリプレイのバトル形式を選択してください。<END>
+Select the event type of a replay you want to view．<END>
 //POINTER #336 @ $540 - STRING #336 @ $5524
 
 #W32($540)
-リプレイデータを選択するとリプレイが再生されます。<END>
+Select Replay Data to view the selected replay．<END>
 //POINTER #337 @ $544 - STRING #337 @ $5558
 
 #W32($544)
-閲覧するリプレイのアタック形式を選択してください。<END>
+Select the challenge type of a replay you want to view．<END>
 //POINTER #338 @ $548 - STRING #338 @ $558C
 
 #W32($548)
-ゲームで始めから用意されている車から選択します。<END>
+Select from the cars that are available from the start of the game．<END>
 //POINTER #339 @ $54C - STRING #339 @ $55BE
 
 #W32($54C)
-使用する車のメーカーを選択してください。<END>
+Select the brand of the car you want to use．<END>
 //POINTER #340 @ $550 - STRING #340 @ $55E8
 
 #W32($550)
-使用する車を選択してください。<END>
+Select the car you want to use．<END>
 //POINTER #341 @ $554 - STRING #341 @ $5608
 
 #W32($554)
-選択している車に決定します。<END>
+Confirm the selected car．<END>
 //POINTER #342 @ $558 - STRING #342 @ $5626
 
 #W32($558)
-クエストモードで使用している車から選択します。<END>
+Select from the cars used in Quest Mode．<END>
 //POINTER #343 @ $55C - STRING #343 @ $5656
 
 #W32($55C)
-サブガレージに保存してある車から選択します。<END>
+Select from the cars stored in the SubーGarage．<END>
 //POINTER #344 @ $560 - STRING #344 @ $5684
 
 #W32($560)
-パスワード入力した車から選択します。<END>
+Select from the cars added with password input．<END>
 //POINTER #345 @ $564 - STRING #345 @ $56AA
 
 #W32($564)
-コースを１周走るタイムを計測します。<END>
+Measures the time to run one lap of the circuit．<END>
 //POINTER #346 @ $568 - STRING #346 @ $56D0
 
 #W32($568)
-コースの決められた区間でドリフトを行い、どれだけＤＰを獲得できるかにチャレンジします。<END>
+Earn the highest possible amount of DP points by drifting in given sections of the circuit．<END>
 //POINTER #347 @ $56C - STRING #347 @ $5728
 
 #W32($56C)
-コースを自由に走行します。<END>
+Drive freely around the course．<END>
 //POINTER #348 @ $570 - STRING #348 @ $5744
 
 #W32($570)
-チャレンジするコースを選択してください。<END>
+Select the track you want to challenge．<END>
 //POINTER #349 @ $574 - STRING #349 @ $576E
 
 #W32($574)
-コースに出てチャレンジを開始します。<END>
+Enter the circuit and start the challenge．<END>
 //POINTER #350 @ $578 - STRING #350 @ $5794
 
 #W32($578)
-チャレンジのランクを選択してください。<END>
+Select the record in the ranking．<END>
 //POINTER #351 @ $57C - STRING #351 @ $57BC
 
 #W32($57C)
-タイヤの交換をします。<END>
+Replace tires．<END>
 //POINTER #352 @ $580 - STRING #352 @ $57D4
 
 #W32($580)
-チャレンジで記録したランキングを閲覧します。<END>
+View the records saved in the ranking．<END>
 //POINTER #353 @ $584 - STRING #353 @ $5802
 
 #W32($584)
-閲覧するランキングのランクを選択してください。<END>
+Select the record in the ranking that you want to view．<END>
 //POINTER #354 @ $588 - STRING #354 @ $5832
 
 #W32($588)
-決定ボタンを押すと、選択中の記録を削除することができます。タイムアタックでは、壁接触、コースアウトをしていない記録は、している記録よりも上位と判定されます。<END>
+Press the OK button to delete a record．Records with less wall contacts or course outs are ranked higher．<END>
 //POINTER #355 @ $58C - STRING #355 @ $58D0
 
 #W32($58C)
-チャレンジで記録したランキングです。決定ボタンを押すと、選択中の記録を削除することができます。<END>
+A record placed in the ranking．Press the OK button to remove it from the ranking．<END>
 //POINTER #356 @ $590 - STRING #356 @ $5930
 
 #W32($590)
-車の乗り換えを行います。<END>
+Replaces the selected car．<END>
 //POINTER #357 @ $594 - STRING #357 @ $594A
 
 #W32($594)
-チャレンジモードを終了します。<END>
+Exits Challenge Mode．<END>
 //POINTER #358 @ $598 - STRING #358 @ $596A
 
 #W32($598)
-１Ｐと２ＰでＳＰゲージを削りあうＳＰバトルを行います。<END>
+1P and 2P will compete in a SP Battle．<END>
 //POINTER #359 @ $59C - STRING #359 @ $59A2
 
 #W32($59C)
-１Ｐと２Ｐでツインドリフトを行い、ＤＰの獲得値を競います。<END>
+1P and 2P will compete in a DP Battle．<END>
 //POINTER #360 @ $5A0 - STRING #360 @ $59DE
 
 #W32($5A0)
-コースに出てバトルを開始します。<END>
+Enter the course and start the battle．<END>
 //POINTER #361 @ $5A4 - STRING #361 @ $5A00
 
 #W32($5A4)
-プレイヤー１の車の乗り換えを行います。<END>
+Replaces Player 1’s car．<END>
 //POINTER #362 @ $5A8 - STRING #362 @ $5A28
 
 #W32($5A8)
-プレイヤー２の車の乗り換えを行います。<END>
+Replaces Player 2’s car．<END>
 //POINTER #363 @ $5AC - STRING #363 @ $5A50
 
 #W32($5AC)
-ＶＳモードを終了します。<END>
+Exits VS Mode．<END>
