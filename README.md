@@ -13,7 +13,7 @@ not real calculated %, just a guess :D
 | `227.bin` | 100% |
 | `228.bin` | 100% |
 | `229.bin` |   0% |
-| `230.bin` |   0% |
+| `230.bin` | 100% |
 | `231.bin` |   0% |
 | `737.bin` | 100% |
 | `Textures` |   1% |
