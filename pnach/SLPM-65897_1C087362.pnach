@@ -7,7 +7,7 @@ comment=part of github.com/igorciz777/RBC1GP-Translation-Pipeline
 //Also changes the character spacing to fit the new text
 
 //alphanumeric character spacing
-patch=1,EE,0029E5F4,word,24030008 //0A 00 03 24
+patch=1,EE,0029E5F4,word,24030007 //0A 00 03 24
 
 //'new game' text, only "new" fits
 patch=1,EE,005135E0,word,000E0017 //BD 01 D7 01 

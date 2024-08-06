@@ -9,7 +9,7 @@ not real calculated %, just a guess :D
 | `210.bin` |   0% |
 | `211.bin` |   0% |
 | `212.bin` |   0% |
-| `224.bin` |  20% |
+| `224.bin` | 100% |
 | `227.bin` | 100% |
 | `228.bin` | 100% |
 | `229.bin` |  60% |
