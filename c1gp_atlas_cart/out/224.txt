@@ -234,7 +234,7 @@ GROUNDING KIT<END>
 //POINTER #56 @ $1CE0 - STRING #56 @ $5296
 
 #W32($1CE0)
-TOURMALINE SHEET <END>
+TOURMALINE SHEET<END>
 //POINTER #57 @ $1D64 - STRING #57 @ $52A8
 
 #W32($1D64)
@@ -362,11 +362,11 @@ ARMREST<END>
 //POINTER #88 @ $2D60 - STRING #88 @ $54B0
 
 #W32($2D60)
-MIRROR MINI SIZE<END>
+MINI-SIZE MIRROR<END>
 //POINTER #89 @ $2DE4 - STRING #89 @ $54C8
 
 #W32($2DE4)
-MIRROR BIG SIZE<END>
+BIG-SIZE MIRROR<END>
 //POINTER #90 @ $2E68 - STRING #90 @ $54E2
 
 #W32($2E68)
@@ -708,7 +708,7 @@ Easy installation、reduces yearly fuel use by 40％！<END>
 //POINTER #59 @ $1E84 - STRING #59 @ $5EAC
 
 #W32($1E84)
-Easy installation、reduces yearly fuel use by 30％！<END>
+Easy installation、reduces yearly fuel use by 50％！<END>
 //POINTER #60 @ $1F08 - STRING #60 @ $5ED0
 
 #W32($1F08)

@@ -1292,27 +1292,27 @@ ENGINE TYPE 5<END>
 //POINTER #100 @ $1138 - STRING #100 @ $457A
 
 #W32($1138)
-INTAKE ＆ EXHAUST TYPE 2<END>
+INTAKE／EXHAUST TYPE 2<END>
 //POINTER #101 @ $1164 - STRING #101 @ $458C
 
 #W32($1164)
-INTAKE ＆ EXHAUST TYPE 3<END>
+INTAKE／EXHAUST TYPE 3<END>
 //POINTER #102 @ $1190 - STRING #102 @ $459E
 
 #W32($1190)
-COMPUTER TYPE 2<END>
+ECU TYPE 2<END>
 //POINTER #103 @ $11BC - STRING #103 @ $45B6
 
 #W32($11BC)
-COMPUTER TYPE 3<END>
+ECU TYPE 3<END>
 //POINTER #104 @ $11E8 - STRING #104 @ $45CE
 
 #W32($11E8)
-COMPUTER TYPE 4<END>
+ECU TYPE 4<END>
 //POINTER #105 @ $1214 - STRING #105 @ $45E6
 
 #W32($1214)
-COMPUTER TYPE 5<END>
+ECU TYPE 5<END>
 //POINTER #106 @ $1240 - STRING #106 @ $45FE
 
 #W32($1240)
@@ -1408,15 +1408,15 @@ RACING SUIT<END>
 //POINTER #129 @ $1634 - STRING #129 @ $47C0
 
 #W32($1634)
-COMPETITION GLOVE<END>
+COMPETITION GLOVES<END>
 //POINTER #130 @ $1660 - STRING #130 @ $47D4
 
 #W32($1660)
-OFFICIAL GLOVE<END>
+OFFICIAL GLOVES<END>
 //POINTER #131 @ $168C - STRING #131 @ $47E2
 
 #W32($168C)
-RACING GLOVE<END>
+RACING GLOVES<END>
 //POINTER #132 @ $16B8 - STRING #132 @ $47FA
 
 #W32($16B8)
@@ -1452,15 +1452,15 @@ FULL CARBON BUCKET―SEAT<END>
 //POINTER #140 @ $1818 - STRING #140 @ $48AC
 
 #W32($1818)
-NICKEL PLUG<END>
+NICKEL SPARK PLUGS<END>
 //POINTER #141 @ $1844 - STRING #141 @ $48BE
 
 #W32($1844)
-GOLD PLUG<END>
+GOLD SPARK PLUGS<END>
 //POINTER #142 @ $1870 - STRING #142 @ $48D0
 
 #W32($1870)
-PLATINUM PLUG<END>
+PLATINUM SPARK PLUGS<END>
 //POINTER #143 @ $189C - STRING #143 @ $48E2
 
 #W32($189C)
@@ -1484,7 +1484,7 @@ TITANIUM SPIN TURN‐KNOB<END>
 //POINTER #148 @ $1978 - STRING #148 @ $4944
 
 #W32($1978)
-HYDRAULIC SIDE‐BRAKE<END>
+HYDRAULIC HANDBRAKE<END>
 //POINTER #149 @ $19A4 - STRING #149 @ $495A
 
 #W32($19A4)
@@ -1536,15 +1536,15 @@ HYDRAULIC JACK<END>
 //POINTER #161 @ $1BB4 - STRING #161 @ $4A24
 
 #W32($1BB4)
-COMPACT RIGIDRACK<END>
+COMPACT JACK STAND<END>
 //POINTER #162 @ $1BE0 - STRING #162 @ $4A38
 
 #W32($1BE0)
-LARGE RIGIDRACK<END>
+LARGE JACK STAND<END>
 //POINTER #163 @ $1C0C - STRING #163 @ $4A4C
 
 #W32($1C0C)
-RIGIDRACK・SLOPE<END>
+JACK STAND RAMPS<END>
 //POINTER #164 @ $1C38 - STRING #164 @ $4A66
 
 #W32($1C38)
@@ -1568,7 +1568,7 @@ HIGH POWER BATTERY<END>
 //POINTER #169 @ $1D14 - STRING #169 @ $4AF2
 
 #W32($1D14)
-DRIVER BATTERY<END>
+DRY BATTERY<END>
 //POINTER #170 @ $1D40 - STRING #170 @ $4B04
 
 #W32($1D40)
@@ -1588,15 +1588,15 @@ ENGINE OIL ADDITIVE<END>
 //POINTER #174 @ $1DF0 - STRING #174 @ $4B3A
 
 #W32($1DF0)
-EARTHING CABLE<END>
+GROUNDING CABLE<END>
 //POINTER #175 @ $1E1C - STRING #175 @ $4B4E
 
 #W32($1E1C)
-EARTHING KIT<END>
+GROUNDING KIT<END>
 //POINTER #176 @ $1E48 - STRING #176 @ $4B60
 
 #W32($1E48)
-TOURMALINE SHEET <END>
+TOURMALINE SHEET<END>
 //POINTER #177 @ $1E74 - STRING #177 @ $4B72
 
 #W32($1E74)
@@ -1612,15 +1612,15 @@ ECO STONE<END>
 //POINTER #180 @ $1EF8 - STRING #180 @ $4B9C
 
 #W32($1EF8)
-ECO ECO KUN<END>
+ECO ECOーKUN<END>
 //POINTER #181 @ $1F24 - STRING #181 @ $4BA8
 
 #W32($1F24)
-ENGINE CRANE LIFT<END>
+ENGINE HOIST<END>
 //POINTER #182 @ $1F50 - STRING #182 @ $4BC2
 
 #W32($1F50)
-FIXED ENGINE HANGER<END>
+FIXED ENGINE HOIST<END>
 //POINTER #183 @ $1F7C - STRING #183 @ $4BDC
 
 #W32($1F7C)
@@ -1644,7 +1644,7 @@ WAX<END>
 //POINTER #188 @ $2058 - STRING #188 @ $4C36
 
 #W32($2058)
-HIGH PREASURE WASHER<END>
+HIGH PRESSURE WASHER<END>
 //POINTER #189 @ $2084 - STRING #189 @ $4C42
 
 #W32($2084)
@@ -1652,7 +1652,7 @@ COATING AGENT<END>
 //POINTER #190 @ $20B0 - STRING #190 @ $4C4C
 
 #W32($20B0)
-PROFRESSIONAL USE GLASS CLEANER<END>
+PROFESSIONAL USE GLASS CLEANER<END>
 //POINTER #191 @ $20DC - STRING #191 @ $4C64
 
 #W32($20DC)
@@ -1684,15 +1684,15 @@ AIR CONDITIONER FILTER<END>
 //POINTER #198 @ $2210 - STRING #198 @ $4CE0
 
 #W32($2210)
-SIDE BRAKE COVER<END>
+HANDBRAKE COVER<END>
 //POINTER #199 @ $223C - STRING #199 @ $4CF6
 
 #W32($223C)
-DRINK HOLDER<END>
+CUP HOLDER<END>
 //POINTER #200 @ $2268 - STRING #200 @ $4D08
 
 #W32($2268)
-COLLISION PREVENTION SENSOR<END>
+ANTIーCOLLISION SENSOR<END>
 //POINTER #201 @ $2294 - STRING #201 @ $4D1A
 
 #W32($2294)
@@ -1720,11 +1720,11 @@ ARMREST<END>
 //POINTER #207 @ $239C - STRING #207 @ $4D6A
 
 #W32($239C)
-MIRROR MINI SIZE<END>
+MINI-SIZE MIRROR<END>
 //POINTER #208 @ $23C8 - STRING #208 @ $4D82
 
 #W32($23C8)
-MIRROR BIG SIZE<END>
+BIG-SIZE MIRROR<END>
 //POINTER #209 @ $23F4 - STRING #209 @ $4D9C
 
 #W32($23F4)
@@ -1756,7 +1756,7 @@ CAR POSTER<END>
 //POINTER #216 @ $2528 - STRING #216 @ $4E14
 
 #W32($2528)
-CIRCUIT COURSE MAP<END>
+COURSE MAP POSTER<END>
 //POINTER #217 @ $2554 - STRING #217 @ $4E28
 
 #W32($2554)
@@ -3040,499 +3040,499 @@ SIX STAR MAGAGINE BE5<END>
 //POINTER #96 @ $1090 - STRING #96 @ $6A26
 
 #W32($1090)
-加速向上！「エンジン　タイプ２」発売<END>
+Improved acceleration！「ENGINE TYPE 2」available．<END>
 //POINTER #97 @ $10BC - STRING #97 @ $6A4C
 
 #W32($10BC)
-加速向上！「エンジン　タイプ３」発売<END>
+Improved acceleration！「ENGINE TYPE 3」available．<END>
 //POINTER #98 @ $10E8 - STRING #98 @ $6A72
 
 #W32($10E8)
-加速向上！「エンジン　タイプ４」発売<END>
+Improved acceleration！「ENGINE TYPE 4」available．<END>
 //POINTER #99 @ $1114 - STRING #99 @ $6A98
 
 #W32($1114)
-加速向上！「エンジン　タイプ５」発売<END>
+Improved acceleration！「ENGINE TYPE 5」available．<END>
 //POINTER #100 @ $1140 - STRING #100 @ $6ABE
 
 #W32($1140)
-加速向上！「吸排気　タイプ２」発売<END>
+Improved accel．！「INTAKE／EXHAUST TYPE 2」available．<END>
 //POINTER #101 @ $116C - STRING #101 @ $6AE2
 
 #W32($116C)
-加速向上！「吸排気　タイプ３」発売<END>
+Improved accel．！「INTAKE／EXHAUST TYPE 3」available．<END>
 //POINTER #102 @ $1198 - STRING #102 @ $6B06
 
 #W32($1198)
-加速向上！「コンピュータ　タイプ２」発売<END>
+Improved acceleration！「ECU TYPE 2」available．<END>
 //POINTER #103 @ $11C4 - STRING #103 @ $6B30
 
 #W32($11C4)
-加速向上！「コンピュータ　タイプ３」発売<END>
+Improved acceleration！「ECU TYPE 3」available．<END>
 //POINTER #104 @ $11F0 - STRING #104 @ $6B5A
 
 #W32($11F0)
-加速向上！「コンピュータ　タイプ４」発売<END>
+Improved acceleration！「ECU TYPE 4」available．<END>
 //POINTER #105 @ $121C - STRING #105 @ $6B84
 
 #W32($121C)
-加速向上！「コンピュータ　タイプ５」発売<END>
+Improved acceleration！「ECU TYPE 5」available．<END>
 //POINTER #106 @ $1248 - STRING #106 @ $6BAE
 
 #W32($1248)
-加速向上、油温、水温安定！「冷却　タイプ２」発売<END>
+Improved oil／water temps！「COOLING TYPE 2」available．<END>
 //POINTER #107 @ $1274 - STRING #107 @ $6BE0
 
 #W32($1274)
-加速向上、油温、水温安定！「冷却　タイプ３」発売<END>
+Improved oil／water temps！「COOLING TYPE 3」available．<END>
 //POINTER #108 @ $12A0 - STRING #108 @ $6C12
 
 #W32($12A0)
-遂に解禁！「エンジン換装」<END>
+Engine swap now allowed！「ENGINE SWAP」<END>
 //POINTER #109 @ $12CC - STRING #109 @ $6C2E
 
 #W32($12CC)
-走行安定、旋回性向上！<END>
+Improved handling！「SUSPENSION TYPE 2」available．<END>
 //POINTER #110 @ $12F8 - STRING #110 @ $6C46
 
 #W32($12F8)
-走行安定、旋回性向上！<END>
+Improved handling！「SUSPENSION TYPE 3」available．<END>
 //POINTER #111 @ $1324 - STRING #111 @ $6C5E
 
 #W32($1324)
-加速向上！「トランスミッション　タイプ２」発売<END>
+Improved acceleration！「TRANSMISSION TYPE 2」available．<END>
 //POINTER #112 @ $1350 - STRING #112 @ $6C8E
 
 #W32($1350)
-加速向上！「トランスミッション　タイプ３」発売<END>
+Improved acceleration！「TRANSMISSION TYPE 3」available．<END>
 //POINTER #113 @ $137C - STRING #113 @ $6CBE
 
 #W32($137C)
-加速向上！「クラッチ　タイプ２」発売<END>
+Improved acceleration！「CLUTCH TYPE 2」available．<END>
 //POINTER #114 @ $13A8 - STRING #114 @ $6CE4
 
 #W32($13A8)
-加速向上！「クラッチ　タイプ３」発売<END>
+Improved acceleration！「CLUTCH TYPE 3」available．<END>
 //POINTER #115 @ $13D4 - STRING #115 @ $6D0A
 
 #W32($13D4)
-制動向上！「ブレーキ　タイプ２」発売<END>
+Improved braking！「BRAKES TYPE 2」available．<END>
 //POINTER #116 @ $1400 - STRING #116 @ $6D30
 
 #W32($1400)
-制動向上！「ブレーキ　タイプ３」発売<END>
+Improved braking！「BRAKES TYPE 3」available．<END>
 //POINTER #117 @ $142C - STRING #117 @ $6D56
 
 #W32($142C)
-旋回性、走行安定向上！「補強　タイプ２」発売<END>
+Improved rigidity！「REINFORCEMENT TYPE 2」available．<END>
 //POINTER #118 @ $1458 - STRING #118 @ $6D84
 
 #W32($1458)
-旋回性、走行安定向上！「補強　タイプ３」発売<END>
+Improved rigidity！「REINFORCEMENT TYPE 3」available．<END>
 //POINTER #119 @ $1484 - STRING #119 @ $6DB2
 
 #W32($1484)
-旋回性、走行安定向上！「補強　タイプ４」発売<END>
+Improved rigidity！「REINFORCEMENT TYPE 4」available．<END>
 //POINTER #120 @ $14B0 - STRING #120 @ $6DE0
 
 #W32($14B0)
-旋回性、走行安定向上！「補強　タイプ５」発売<END>
+Improved rigidity！「REINFORCEMENT TYPE 5」available．<END>
 //POINTER #121 @ $14DC - STRING #121 @ $6E0E
 
 #W32($14DC)
-加速、旋回性向上！「軽量化　タイプ２」発売<END>
+Improved agility！「WEIGHT REDUCTION TYPE 2」available．<END>
 //POINTER #122 @ $1508 - STRING #122 @ $6E3A
 
 #W32($1508)
-加速、旋回性向上！「軽量化　タイプ３」発売<END>
+Improved agility！「WEIGHT REDUCTION TYPE 3」available．<END>
 //POINTER #123 @ $1534 - STRING #123 @ $6E66
 
 #W32($1534)
-加速、旋回性向上！「軽量化　タイプ４」発売<END>
+Improved agility！「WEIGHT REDUCTION TYPE 4」available．<END>
 //POINTER #124 @ $1560 - STRING #124 @ $6E92
 
 #W32($1560)
-加速、旋回性向上！「軽量化　タイプ５」発売<END>
+Improved agility！「WEIGHT REDUCTION TYPE 5」available．<END>
 //POINTER #125 @ $158C - STRING #125 @ $6EBE
 
 #W32($158C)
-「公認ヘルメット」発売<END>
+「OFFICIAL HELMET」available．<END>
 //POINTER #126 @ $15B8 - STRING #126 @ $6ED6
 
 #W32($15B8)
-「レーサーモデルヘルメット」発売<END>
+「RACING HELMET」available．<END>
 //POINTER #127 @ $15E4 - STRING #127 @ $6EF8
 
 #W32($15E4)
-「公認スーツ」発売<END>
+「OFFICIAL SUIT」available．<END>
 //POINTER #128 @ $1610 - STRING #128 @ $6F0C
 
 #W32($1610)
-「レーサーモデルスーツ」発売<END>
+「RACING SUIT」available．<END>
 //POINTER #129 @ $163C - STRING #129 @ $6F2A
 
 #W32($163C)
-「レーシンググローブ」発売<END>
+「COMPETITION GLOVES」available．<END>
 //POINTER #130 @ $1668 - STRING #130 @ $6F46
 
 #W32($1668)
-「公認グローブ」発売<END>
+「OFFICIAL GLOVES」available．<END>
 //POINTER #131 @ $1694 - STRING #131 @ $6F5C
 
 #W32($1694)
-「レーサーモデルグローブ」発売<END>
+「RACING GLOVES」available．<END>
 //POINTER #132 @ $16C0 - STRING #132 @ $6F7C
 
 #W32($16C0)
-「レーシングシューズ」発売<END>
+「COMPETITION SHOES」available．<END>
 //POINTER #133 @ $16EC - STRING #133 @ $6F98
 
 #W32($16EC)
-「公認シューズ」発売<END>
+「OFFICIAL SHOES」available．<END>
 //POINTER #134 @ $1718 - STRING #134 @ $6FAE
 
 #W32($1718)
-「レーサーモデルシューズ」発売<END>
+「RACING SHOES」available．<END>
 //POINTER #135 @ $1744 - STRING #135 @ $6FCE
 
 #W32($1744)
-「セミバケットシート」発売<END>
+「SEMI BUCKET―SEAT」available．<END>
 //POINTER #136 @ $1770 - STRING #136 @ $6FEA
 
 #W32($1770)
-「フルバケットシート」発売<END>
+「FULL BUCKET―SEAT」available．<END>
 //POINTER #137 @ $179C - STRING #137 @ $7006
 
 #W32($179C)
-「カーボン製フルバケットシート」発売<END>
+「FULL CARBON BUCKET―SEAT」available．<END>
 //POINTER #138 @ $17C8 - STRING #138 @ $702C
 
 #W32($17C8)
-「４点式シートベルト」限定販売<END>
+「4‐POINT HARNESS」limited sale．<END>
 //POINTER #139 @ $17F4 - STRING #139 @ $704C
 
 #W32($17F4)
-「４点式クイックリリースタイプ」限定販売<END>
+「4‐POINT QUICK‐RELEASE TYPE」limited sale．<END>
 //POINTER #140 @ $1820 - STRING #140 @ $7076
 
 #W32($1820)
-「ニッケル製プラグ」限定販売<END>
+「NICKEL SPARK PLUGS」limited sale．<END>
 //POINTER #141 @ $184C - STRING #141 @ $7094
 
 #W32($184C)
-「ゴールド製プラグ」限定販売<END>
+「GOLD SPARK PLUGS」limited sale．<END>
 //POINTER #142 @ $1878 - STRING #142 @ $70B2
 
 #W32($1878)
-「プラチナ製プラグ」限定販売<END>
+「PLATINUM SPARK PLUGS」limited sale．<END>
 //POINTER #143 @ $18A4 - STRING #143 @ $70D0
 
 #W32($18A4)
-「ＭＤＩシステム」限定販売<END>
+「MDI SYSTEM」limited sale．<END>
 //POINTER #144 @ $18D0 - STRING #144 @ $70EC
 
 #W32($18D0)
-「高性能ＭＤＩシステム」限定販売<END>
+「HIGH‐PERFORMANCE MDI SYSTEM」limited sale．<END>
 //POINTER #145 @ $18FC - STRING #145 @ $710E
 
 #W32($18FC)
-「プラグコード」限定販売<END>
+「PLUG CORD」limited sale．<END>
 //POINTER #146 @ $1928 - STRING #146 @ $7128
 
 #W32($1928)
-「高性能プラグコード」限定販売<END>
+「HIGH‐PERFORMANCE PLUG CORD」limited sale．<END>
 //POINTER #147 @ $1954 - STRING #147 @ $7148
 
 #W32($1954)
-「チタン製スピンターンノブ」発売<END>
+「TITANIUM SPIN TURN‐KNOB」available．<END>
 //POINTER #148 @ $1980 - STRING #148 @ $716A
 
 #W32($1980)
-「油圧式サイドブレーキ」限定販売<END>
+「HYDRAULIC HANDBRAKE」limited sale．<END>
 //POINTER #149 @ $19AC - STRING #149 @ $718C
 
 #W32($19AC)
-「スポーツ用インナーシュー」発売<END>
+「SPORTS INNER SHOE」available．<END>
 //POINTER #150 @ $19D8 - STRING #150 @ $71AE
 
 #W32($19D8)
-「競技用インナーシュー」発売<END>
+「COMPETITION INNER SHOE」available．<END>
 //POINTER #151 @ $1A04 - STRING #151 @ $71CC
 
 #W32($1A04)
-「チョークボード」発売<END>
+「CHALKBOARD」available．<END>
 //POINTER #152 @ $1A30 - STRING #152 @ $71E4
 
 #W32($1A30)
-「サインボード」発売<END>
+「SIGNBOARD」available．<END>
 //POINTER #153 @ $1A5C - STRING #153 @ $71FA
 
 #W32($1A5C)
-「パテ」発売<END>
+「PUTTY」available．<END>
 //POINTER #154 @ $1A88 - STRING #154 @ $7208
 
 #W32($1A88)
-「補修キット」発売<END>
+「REPAIR KIT」available．<END>
 //POINTER #155 @ $1AB4 - STRING #155 @ $721C
 
 #W32($1AB4)
-「シンプル工具セット」発売<END>
+「SIMPLE TOOLSET」available．<END>
 //POINTER #156 @ $1AE0 - STRING #156 @ $7238
 
 #W32($1AE0)
-「ノーマル工具セット」発売<END>
+「STANDARD TOOLSET」available．<END>
 //POINTER #157 @ $1B0C - STRING #157 @ $7254
 
 #W32($1B0C)
-「デラックス工具セット」発売<END>
+「DELUXE TOOLSET」available．<END>
 //POINTER #158 @ $1B38 - STRING #158 @ $7272
 
 #W32($1B38)
-「小型ジャッキ」発売<END>
+「SMALL JACK」available．<END>
 //POINTER #159 @ $1B64 - STRING #159 @ $7288
 
 #W32($1B64)
-「ダルマジャッキ」発売<END>
+「DARUMA JACK」available．<END>
 //POINTER #160 @ $1B90 - STRING #160 @ $72A0
 
 #W32($1B90)
-「油圧ジャッキ」発売<END>
+「HYDRAULIC JACK」available．<END>
 //POINTER #161 @ $1BBC - STRING #161 @ $72B6
 
 #W32($1BBC)
-「小型リジットラック」限定販売<END>
+「COMPACT JACK STAND」limited sale．<END>
 //POINTER #162 @ $1BE8 - STRING #162 @ $72D6
 
 #W32($1BE8)
-「大型リジットラック」限定販売<END>
+「LARGE JACK STAND」limited sale．<END>
 //POINTER #163 @ $1C14 - STRING #163 @ $72F6
 
 #W32($1C14)
-「リジットラック・スロープ」限定販売<END>
+「JACK STAND RAMPS」limited sale．<END>
 //POINTER #164 @ $1C40 - STRING #164 @ $731C
 
 #W32($1C40)
-「ブレーキクリーナースプレータイプ」発売<END>
+「BRAKE CLEANER SPRAY TYPE」available．<END>
 //POINTER #165 @ $1C6C - STRING #165 @ $7346
 
 #W32($1C6C)
-「ブレーキクリーナーグリスタイプ」発売<END>
+「BRAKE CLEANER GREASE TYPE」available．<END>
 //POINTER #166 @ $1C98 - STRING #166 @ $736E
 
 #W32($1C98)
-「ブレーキクリーナーボトルタイプ」限定販売<END>
+「BRAKE CLEANER BOTTLE TYPE」limited sale．<END>
 //POINTER #167 @ $1CC4 - STRING #167 @ $739A
 
 #W32($1CC4)
-「ノーマルバッテリー」限定販売<END>
+「NORMAL BATTERY」limited sale．<END>
 //POINTER #168 @ $1CF0 - STRING #168 @ $73BA
 
 #W32($1CF0)
-「ハイパワーバッテリー」限定販売<END>
+「HIGH POWER BATTERY」limited sale．<END>
 //POINTER #169 @ $1D1C - STRING #169 @ $73DC
 
 #W32($1D1C)
-「ドライバッテリー」限定販売<END>
+「DRY BATTERY」limited sale．<END>
 //POINTER #170 @ $1D48 - STRING #170 @ $73FA
 
 #W32($1D48)
-「鉱物油」発売<END>
+「MINERAL OIL」available．<END>
 //POINTER #171 @ $1D74 - STRING #171 @ $740A
 
 #W32($1D74)
-「部分合成油」発売<END>
+「SEMI SYNTHETIC OIL」available．<END>
 //POINTER #172 @ $1DA0 - STRING #172 @ $741E
 
 #W32($1DA0)
-「化学合成油」発売<END>
+「CHEMICAL SYNTHETIC OIL」available．<END>
 //POINTER #173 @ $1DCC - STRING #173 @ $7432
 
 #W32($1DCC)
-「エンジンオイル添加剤」限定販売<END>
+「ENGINE OIL ADDITIVE」limited sale．<END>
 //POINTER #174 @ $1DF8 - STRING #174 @ $7454
 
 #W32($1DF8)
-「アーシングケーブル」限定販売<END>
+「GROUNDING CABLE」limited sale．<END>
 //POINTER #175 @ $1E24 - STRING #175 @ $7474
 
 #W32($1E24)
-「アーシングキット」限定販売<END>
+「GROUNDING KIT」limited sale．<END>
 //POINTER #176 @ $1E50 - STRING #176 @ $7492
 
 #W32($1E50)
-「トルマリンシート」発売<END>
+「TOURMALINE SHEET」available．<END>
 //POINTER #177 @ $1E7C - STRING #177 @ $74AC
 
 #W32($1E7C)
-「エコプラグ」発売<END>
+「ECO PLUG」available．<END>
 //POINTER #178 @ $1EA8 - STRING #178 @ $74C0
 
 #W32($1EA8)
-「エコマグネット」限定販売<END>
+「ECO MAGNET」limited sale．<END>
 //POINTER #179 @ $1ED4 - STRING #179 @ $74DC
 
 #W32($1ED4)
-「エコストーン」限定販売<END>
+「ECO STONE」limited sale．<END>
 //POINTER #180 @ $1F00 - STRING #180 @ $74F6
 
 #W32($1F00)
-「エコエコ君」限定販売<END>
+「ECO ECOーKUN」limited sale．<END>
 //POINTER #181 @ $1F2C - STRING #181 @ $750E
 
 #W32($1F2C)
-「エンジンクレーン・リフト」発売<END>
+「ENGINE HOIST」available．<END>
 //POINTER #182 @ $1F58 - STRING #182 @ $7530
 
 #W32($1F58)
-「据え付けエンジンハンガー」発売<END>
+「FIXED ENGINE HOIST」available．<END>
 //POINTER #183 @ $1F84 - STRING #183 @ $7552
 
 #W32($1F84)
-「手動エアポンプ」発売<END>
+「MANUAL AIR PUMP」available．<END>
 //POINTER #184 @ $1FB0 - STRING #184 @ $756A
 
 #W32($1FB0)
-「エアコンプレッサー」発売<END>
+「AIR COMPRESSOR」available．<END>
 //POINTER #185 @ $1FDC - STRING #185 @ $7586
 
 #W32($1FDC)
-「大型エアコンプレッサー」発売<END>
+「LARGE AIR COMPRESSOR」available．<END>
 //POINTER #186 @ $2008 - STRING #186 @ $75A6
 
 #W32($2008)
-「バケツ・シャンプー」発売<END>
+「BUCKET SHAMPOO」available．<END>
 //POINTER #187 @ $2034 - STRING #187 @ $75C2
 
 #W32($2034)
-「ワックス」発売<END>
+「WAX」available．<END>
 //POINTER #188 @ $2060 - STRING #188 @ $75D4
 
 #W32($2060)
-「高圧洗浄機」発売<END>
+「HIGH PRESSURE WASHER」available．<END>
 //POINTER #189 @ $208C - STRING #189 @ $75E8
 
 #W32($208C)
-「コート剤」限定販売<END>
+「COATING AGENT」limited sale．<END>
 //POINTER #190 @ $20B8 - STRING #190 @ $75FE
 
 #W32($20B8)
-「業務用ガラスクリーナー」発売<END>
+「PROFESSIONAL USE GLASS CLEANER」available．<END>
 //POINTER #191 @ $20E4 - STRING #191 @ $761E
 
 #W32($20E4)
-「化学イオンガラスクリーナー」発売<END>
+「CHEMICAL ION GLASS CLEANER」available．<END>
 //POINTER #192 @ $2110 - STRING #192 @ $7642
 
 #W32($2110)
-「くもり止め」限定販売<END>
+「ANTI FOG」limited sale．<END>
 //POINTER #193 @ $213C - STRING #193 @ $765A
 
 #W32($213C)
-「クッション」発売<END>
+「CUSHION」available．<END>
 //POINTER #194 @ $2168 - STRING #194 @ $766E
 
 #W32($2168)
-「フロアカーペット」発売<END>
+「FLOOR CARPET」available．<END>
 //POINTER #195 @ $2194 - STRING #195 @ $7688
 
 #W32($2194)
-「マイナスイオン発生器」発売<END>
+「NEGATIVE ION GENORATOR」available．<END>
 //POINTER #196 @ $21C0 - STRING #196 @ $76A6
 
 #W32($21C0)
-「空気清浄機」発売<END>
+「AIR PURIFIER」available．<END>
 //POINTER #197 @ $21EC - STRING #197 @ $76BA
 
 #W32($21EC)
-「エアコンフィルター」限定販売<END>
+「AIR CONDITIONER FILTER」limited sale．<END>
 //POINTER #198 @ $2218 - STRING #198 @ $76DA
 
 #W32($2218)
-「サイドブレーキカバー」発売<END>
+「HANDBRAKE COVER」available．<END>
 //POINTER #199 @ $2244 - STRING #199 @ $76F8
 
 #W32($2244)
-「ドリンクホルダー」発売<END>
+「CUP HOLDER」available．<END>
 //POINTER #200 @ $2270 - STRING #200 @ $7712
 
 #W32($2270)
-「衝突防止センサー」発売<END>
+「ANTIーCOLLISION SENSOR」available．<END>
 //POINTER #201 @ $229C - STRING #201 @ $772C
 
 #W32($229C)
-「ノーマルレーダー」発売<END>
+「NORMAL RADAR」available．<END>
 //POINTER #202 @ $22C8 - STRING #202 @ $7746
 
 #W32($22C8)
-「ＧＰＳレーダー」発売<END>
+「GPS RADAR」available．<END>
 //POINTER #203 @ $22F4 - STRING #203 @ $775E
 
 #W32($22F4)
-「芳香剤」発売<END>
+「AIR FRESHENER」available．<END>
 //POINTER #204 @ $2320 - STRING #204 @ $776E
 
 #W32($2320)
-「消臭剤」発売<END>
+「DEODORIZER」available．<END>
 //POINTER #205 @ $234C - STRING #205 @ $777E
 
 #W32($234C)
-「コインホルダー」発売<END>
+「COIN HOLDER」available．<END>
 //POINTER #206 @ $2378 - STRING #206 @ $7796
 
 #W32($2378)
-「アームレスト」発売<END>
+「ARMREST」available．<END>
 //POINTER #207 @ $23A4 - STRING #207 @ $77AC
 
 #W32($23A4)
-「バックミラーミニサイズ」発売<END>
+「MINI-SIZE MIRROR」available．<END>
 //POINTER #208 @ $23D0 - STRING #208 @ $77CC
 
 #W32($23D0)
-「バックミラービッグサイズ」発売<END>
+「BIG-SIZE MIRROR」available．<END>
 //POINTER #209 @ $23FC - STRING #209 @ $77EE
 
 #W32($23FC)
-「交通安全お守り」発売<END>
+「TRAFFIC SAFTEY CHARM」available．<END>
 //POINTER #210 @ $2428 - STRING #210 @ $7806
 
 #W32($2428)
-「メンタルお守り」限定販売<END>
+「MENTAL CHARM」limited sale．<END>
 //POINTER #211 @ $2454 - STRING #211 @ $7822
 
 #W32($2454)
-「ドリフトお守り」限定販売<END>
+「DRIFT CHARM」limited sale．<END>
 //POINTER #212 @ $2480 - STRING #212 @ $783E
 
 #W32($2480)
-「ペナルティお守り」限定販売<END>
+「PENALTY CHARM」limited sale．<END>
 //POINTER #213 @ $24AC - STRING #213 @ $785C
 
 #W32($24AC)
-「レースクイーンポスター」発売<END>
+「RACE QUEEN POSTER」available．<END>
 //POINTER #214 @ $24D8 - STRING #214 @ $787C
 
 #W32($24D8)
-「レーサーポスター」発売<END>
+「RACER POSTER」available．<END>
 //POINTER #215 @ $2504 - STRING #215 @ $7896
 
 #W32($2504)
-「車ポスター」発売<END>
+「CAR POSTER」available．<END>
 //POINTER #216 @ $2530 - STRING #216 @ $78AA
 
 #W32($2530)
-「サーキットコース図」発売<END>
+「COURSE MAP POSTER」available．<END>
 //POINTER #217 @ $255C - STRING #217 @ $78C6
 
 #W32($255C)
-「模型」発売<END>
+「MODEL」available．<END>
 //POINTER #218 @ $2588 - STRING #218 @ $78D4
 
 #W32($2588)
-「模型コレクション」発売<END>
+「MODEL COLLECTION」available．<END>
 //POINTER #219 @ $25B4 - STRING #219 @ $78EE
 
 #W32($25B4)
-「ラジコン」発売<END>
+「RC CAR」available．<END>
 //BLOCK #004 NAME:		229.bin File - Encoded Block Text 5
 
 //POINTER #0 @ $14 - STRING #0 @ $7900
@@ -3922,223 +3922,223 @@ ENGINE CC│１９９４ｃｃ<END>
 //POINTER #96 @ $1094 - STRING #96 @ $8250
 
 #W32($1094)
-これまでのエンジンチューニングに加え、レシプロ<END>
+In addition to previous engine tuning、<END>
 //POINTER #97 @ $10C0 - STRING #97 @ $8280
 
 #W32($10C0)
-これまでのエンジンチューニングに加え、レシプロ<END>
+In addition to previous engine tuning、<END>
 //POINTER #98 @ $10EC - STRING #98 @ $82B0
 
 #W32($10EC)
-これまでのエンジンチューニングに加え、レシプロ<END>
+In addition to previous engine tuning、<END>
 //POINTER #99 @ $1118 - STRING #99 @ $82E0
 
 #W32($1118)
-これまでのエンジンチューニングに加え、レシプロ<END>
+In addition to previous engine tuning、<END>
 //POINTER #100 @ $1144 - STRING #100 @ $8310
 
 #W32($1144)
-タイムを削るために生まれたレーシングマフラーを<END>
+The racing muffler is installed．Titanium is<END>
 //POINTER #101 @ $1170 - STRING #101 @ $8340
 
 #W32($1170)
-高回転域でのピークパワーとハイレスポンスを最大限<END>
+Allーtitanium racing muffler is installed、<END>
 //POINTER #102 @ $119C - STRING #102 @ $8372
 
 #W32($119C)
-チューンドＲＯＭに交換して、エンジン性能を最大限<END>
+ECU gets ROM replaced with a tuned one、<END>
 //POINTER #103 @ $11C8 - STRING #103 @ $83A4
 
 #W32($11C8)
-これまでのコンピュータに加え、サブコンピュータを<END>
+A new ECU allowing to adjust ignition timing<END>
 //POINTER #104 @ $11F4 - STRING #104 @ $83D6
 
 #W32($11F4)
-フルコンピュータを装着して、点火タイミング、<END>
+A new ECU with full control over<END>
 //POINTER #105 @ $1220 - STRING #105 @ $8404
 
 #W32($1220)
-車の装着パーツ、仕様に合わせて点火タイミング、<END>
+Ignition timing and fuel map are set up<END>
 //POINTER #106 @ $124C - STRING #106 @ $8434
 
 #W32($124C)
-コアを２つに増やし、シングルコアよりも冷却性を<END>
+A 2ーRow aluminum radiator is installed、<END>
 //POINTER #107 @ $1278 - STRING #107 @ $8464
 
 #W32($1278)
-アルミよりも放熱性が高い銅を素材に使用した３層式<END>
+A 3ーRow copper radiator is installed、<END>
 //POINTER #108 @ $12A4 - STRING #108 @ $8496
 
 #W32($12A4)
-直列、Ｖ型、水平対向型、ロータリーのレース用エン<END>
+Inーline、Vーtype、boxer and rotary racing engines<END>
 //POINTER #109 @ $12D0 - STRING #109 @ $84C8
 
 #W32($12D0)
-「サスペンション　タイプ２」発売<END>
+Compared to previous suspension kits、<END>
 //POINTER #110 @ $12FC - STRING #110 @ $84EA
 
 #W32($12FC)
-「サスペンション　タイプ３」発売<END>
+Spring rate and damping force have been further<END>
 //POINTER #111 @ $1328 - STRING #111 @ $850C
 
 #W32($1328)
-これまでのトランスミッションに比べ、<END>
+Compared to the previous transmission kit、<END>
 //POINTER #112 @ $1354 - STRING #112 @ $8532
 
 #W32($1354)
-これまでのトランスミッションに加え、<END>
+A sequential transmission is installed to<END>
 //POINTER #113 @ $1380 - STRING #113 @ $8558
 
 #W32($1380)
-慣性重量の軽減とレスポンスの向上を実現した、ハイ<END>
+Comes with a twin plate clutch designed<END>
 //POINTER #114 @ $13AC - STRING #114 @ $858A
 
 #W32($13AC)
-伝達トルク容量の高いトリプルプレートクラッチの<END>
+A carbon triple plate clutch with high torque<END>
 //POINTER #115 @ $13D8 - STRING #115 @ $85BA
 
 #W32($13D8)
-街乗りからハードなストリート走行まで対応する中上<END>
+A set of brake pads and discs for intermediate<END>
 //POINTER #116 @ $1404 - STRING #116 @ $85EC
 
 #W32($1404)
-大容量のピストンを持つビッグキャリパーキットを<END>
+A big caliper kit with largeーcapacity pistons is<END>
 //POINTER #117 @ $1430 - STRING #117 @ $861C
 
 #W32($1430)
-これまでの補強メニューに加え、ロアアーム支持部を<END>
+In addition to previous reinforcements、the body<END>
 //POINTER #118 @ $145C - STRING #118 @ $864E
 
 #W32($145C)
-これまでの補強メニューに加え、ボディに、<END>
+In addition to previous reinforcements、the body<END>
 //POINTER #119 @ $1488 - STRING #119 @ $8678
 
 #W32($1488)
-これまでの補強メニューに加え、点溶接で<END>
+In addition to previous reinforcements、the body<END>
 //POINTER #120 @ $14B4 - STRING #120 @ $86A0
 
 #W32($14B4)
-これまでの補強メニューに加え、モータースポーツ等<END>
+In addition to previous reinforcements、a high<END>
 //POINTER #121 @ $14E0 - STRING #121 @ $86D2
 
 #W32($14E0)
-これまでの軽量化メニューに加え、バッテリーの小型<END>
+In addition to previous weight reductions、<END>
 //POINTER #122 @ $150C - STRING #122 @ $8704
 
 #W32($150C)
-これまでの軽量化メニューに加え、<END>
+In addition to previous weight reductions、<END>
 //POINTER #123 @ $1538 - STRING #123 @ $8726
 
 #W32($1538)
-これまでの軽量化メニューに加え、<END>
+In addition to previous weight reductions、<END>
 //POINTER #124 @ $1564 - STRING #124 @ $8748
 
 #W32($1564)
-これまでの軽量化メニューに加え、<END>
+In addition to previous weight reductions、<END>
 //POINTER #125 @ $1590 - STRING #125 @ $876A
 
 #W32($1590)
-壁に接触した際のレーシングペナルティを<END>
+Reduces penalty on contact with a wall．<END>
 //POINTER #126 @ $15BC - STRING #126 @ $8792
 
 #W32($15BC)
-ＤＰの獲得値を増加。<END>
+Increases DP gain．<END>
 //POINTER #127 @ $15E8 - STRING #127 @ $87A8
 
 #W32($15E8)
-車に接触した際のペナルティを受けにくくなる。<END>
+Reduces penalty on car contact．<END>
 //POINTER #128 @ $1614 - STRING #128 @ $87D6
 
 #W32($1614)
-ＤＰの獲得値を増加。<END>
+Increases DP gain．<END>
 //POINTER #129 @ $1640 - STRING #129 @ $87EC
 
 #W32($1640)
-相手との距離を離されてもＳＰが減りにくくなる。<END>
+Reduces SP loss with opponent distance．<END>
 //POINTER #130 @ $166C - STRING #130 @ $881C
 
 #W32($166C)
-車に接触した際のペナルティを受けにくくなる。<END>
+Reduces penalty on car contact．<END>
 //POINTER #131 @ $1698 - STRING #131 @ $884A
 
 #W32($1698)
-ＤＰの獲得値を増加。<END>
+Increases DP gain．<END>
 //POINTER #132 @ $16C4 - STRING #132 @ $8860
 
 #W32($16C4)
-コースアウトした際のＳＰダメージを緩和。<END>
+Reduces SP loss when going off course．<END>
 //POINTER #133 @ $16F0 - STRING #133 @ $888A
 
 #W32($16F0)
-コースアウトによるペナルティを受けにくくなる。<END>
+Reduces penalty when going off course．<END>
 //POINTER #134 @ $171C - STRING #134 @ $88BA
 
 #W32($171C)
-ＤＰの獲得値を増加。<END>
+Increases DP gain．<END>
 //POINTER #135 @ $1748 - STRING #135 @ $88D0
 
 #W32($1748)
-壁に接触した際のＳＰダメージを緩和。<END>
+Reduces SP loss on wall contact．<END>
 //POINTER #136 @ $1774 - STRING #136 @ $88F6
 
 #W32($1774)
-ＤＰの獲得値を増加。<END>
+Increases DP gain．<END>
 //POINTER #137 @ $17A0 - STRING #137 @ $890C
 
 #W32($17A0)
-壁に接触した際のペナルティを受けにくくなる。<END>
+Reduces penalty on wall contact．<END>
 //POINTER #138 @ $17CC - STRING #138 @ $893A
 
 #W32($17CC)
-壁に接触した際のＳＰダメージを緩和。<END>
+Reduces SP loss on wall contact．<END>
 //POINTER #139 @ $17F8 - STRING #139 @ $8960
 
 #W32($17F8)
-壁に接触した際のペナルティを受けにくくなる。<END>
+Reduces penalty on wall contact．<END>
 //POINTER #140 @ $1824 - STRING #140 @ $898E
 
 #W32($1824)
-相手に与えるＳＰダメージを著しく増加させるが、<END>
+Significantly increases SP damage dealt、<END>
 //POINTER #141 @ $1850 - STRING #141 @ $89BE
 
 #W32($1850)
-ＤＰの獲得値を増加。<END>
+Increases DP gain．<END>
 //POINTER #142 @ $187C - STRING #142 @ $89D4
 
 #W32($187C)
-壁と車に接触した際のペナルティを受けにくくなる。<END>
+Reduces penalty on opponent or wall contact．<END>
 //POINTER #143 @ $18A8 - STRING #143 @ $8A06
 
 #W32($18A8)
-相手に与えるＳＰダメージを著しく増加させるが、<END>
+Significantly increases SP damage dealt、<END>
 //POINTER #144 @ $18D4 - STRING #144 @ $8A36
 
 #W32($18D4)
-壁に接触した際のペナルティを受けにくくなる。<END>
+Reduces penalty on wall contact．<END>
 //POINTER #145 @ $1900 - STRING #145 @ $8A64
 
 #W32($1900)
-相手に与えるＳＰダメージを著しく増加させるが、<END>
+Significantly increases SP damage dealt、<END>
 //POINTER #146 @ $192C - STRING #146 @ $8A94
 
 #W32($192C)
-ＤＰの獲得値を増加。<END>
+Increases DP gain．<END>
 //POINTER #147 @ $1958 - STRING #147 @ $8AAA
 
 #W32($1958)
-ＤＰの獲得値を増加。<END>
+Increases DP gain．<END>
 //POINTER #148 @ $1984 - STRING #148 @ $8AC0
 
 #W32($1984)
-ＤＰの獲得値を増加。<END>
+Increases DP gain．<END>
 //POINTER #149 @ $19B0 - STRING #149 @ $8AD6
 
 #W32($19B0)
-サイドブレーキの温度上昇を緩和。<END>
+Reduces handbrake's temperature rise．<END>
 //POINTER #150 @ $19DC - STRING #150 @ $8AF8
 
 #W32($19DC)
-サイドブレーキの温度上昇を緩和。<END>
+Reduces handbrake's temperature rise．<END>
 //POINTER #151 @ $1A08 - STRING #151 @ $8B1A
 
 #W32($1A08)
@@ -4314,7 +4314,7 @@ ENGINE CC│１９９４ｃｃ<END>
 //POINTER #194 @ $216C - STRING #194 @ $90B0
 
 #W32($216C)
-相手との距離を離されてもＳＰが減りにくくなる。<END>
+Reduces SP loss with opponent distance．<END>
 //POINTER #195 @ $2198 - STRING #195 @ $90E0
 
 #W32($2198)
@@ -4804,151 +4804,151 @@ MAX POWER│３７４ＰＳ／６９００ｒｐｍ<END>
 //POINTER #96 @ $1098 - STRING #96 @ $A2D4
 
 #W32($1098)
-ＮＡエンジンはポート研磨及び燃焼室加工、レシプロ<END>
+the NA engine undergoes <END>
 //POINTER #97 @ $10C4 - STRING #97 @ $A306
 
 #W32($10C4)
-ＮＡエンジンはハイコンプピストン、ヘッド<END>
+the NA engine gets highーcompression pistons<END>
 //POINTER #98 @ $10F0 - STRING #98 @ $A330
 
 #W32($10F0)
-ＮＡエンジンはカムシャフト及びクランクシャフト、<END>
+the NA engine has the camshaft、<END>
 //POINTER #99 @ $111C - STRING #99 @ $A362
 
 #W32($111C)
-ＮＡエンジンはボアアップ及びバランス取り、<END>
+the NA engine gets a bore increase and<END>
 //POINTER #100 @ $1148 - STRING #100 @ $A38E
 
 #W32($1148)
-装着。大部分にチタニウムを使用しているため、<END>
+mostly used as the material、making the weight<END>
 //POINTER #101 @ $1174 - STRING #101 @ $A3BC
 
 #W32($1174)
-に追求したオールチタニウム製ピュアレーシング<END>
+maximizng peak power and response at high RPM．<END>
 //POINTER #102 @ $11A0 - STRING #102 @ $A3EA
 
 #W32($11A0)
-に引き出している。<END>
+maximizing engine performance．<END>
 //POINTER #103 @ $11CC - STRING #103 @ $A3FE
 
 #W32($11CC)
-装着することで、点火タイミング、燃調を調整して、<END>
+and the fuel map to bring out more engine<END>
 //POINTER #104 @ $11F8 - STRING #104 @ $A430
 
 #W32($11F8)
-燃調等をこのコンピュータによって制御することで、<END>
+ignition timing、fuel map、etc．is<END>
 //POINTER #105 @ $1224 - STRING #105 @ $A462
 
 #W32($1224)
-燃調のセッティングを行うことで、エンジン性能を<END>
+to match the car's installed parts<END>
 //POINTER #106 @ $1250 - STRING #106 @ $A492
 
 #W32($1250)
-高めたラジエーターを装着。放熱性、軽量化に優れる<END>
+providing better cooling and weight<END>
 //POINTER #107 @ $127C - STRING #107 @ $A4C4
 
 #W32($127C)
-ラジエーターを装着。冷却効果が高く、長時間の<END>
+providing high cooling effect for <END>
 //POINTER #108 @ $12A8 - STRING #108 @ $A4F2
 
 #W32($12A8)
-ジンに換装する。エンジンチューニングの最終形だ。<END>
+will be swapped in．This is the final form of<END>
 //POINTER #109 @ $12D4 - STRING #109 @ $A524
 
 #W32($12D4)
-これまでのサスペンションに比べ、スプリングレート<END>
+the spring rate and damping force has<END>
 //POINTER #110 @ $1300 - STRING #110 @ $A556
 
 #W32($1300)
-これまでのサスペンションに比べ、さらにスプリング<END>
+increased compared to those of the previous kit．<END>
 //POINTER #111 @ $132C - STRING #111 @ $A588
 
 #W32($132C)
-ミッションマウントを強化品へ交換することにより、<END>
+the drivetrain response has been improved<END>
 //POINTER #112 @ $1358 - STRING #112 @ $A5BA
 
 #W32($1358)
-シーケンシャルミッションの装着により、<END>
+greatly reduce shift lag．<END>
 //POINTER #113 @ $1384 - STRING #113 @ $A5E2
 
 #W32($1384)
-パワーに対応するツインプレートクラッチを装着。<END>
+for high power、that reduces inertia and improves<END>
 //POINTER #114 @ $13B0 - STRING #114 @ $A612
 
 #W32($13B0)
-カーボン製バージョンを装着。<END>
+capacity is installed．<END>
 //POINTER #115 @ $13DC - STRING #115 @ $A630
 
 #W32($13DC)
-級者向けのブレーキパッド／ローターセットを装着。<END>
+to advanced drivers、suited for everything<END>
 //POINTER #116 @ $1408 - STRING #116 @ $A662
 
 #W32($1408)
-装着。剛性、安定性からパッドの面積の大きさまで、<END>
+installed．From rigidity and stability to the size<END>
 //POINTER #117 @ $1434 - STRING #117 @ $A694
 
 #W32($1434)
-つなぎ、ボディ剛性を向上している。<END>
+rigidity is further improved．<END>
 //POINTER #118 @ $1460 - STRING #118 @ $A6B8
 
 #W32($1460)
-固まると堅くなる発泡ウレタンを流し込み、<END>
+is filled in with Polyurethane foam、that hardens<END>
 //POINTER #119 @ $148C - STRING #119 @ $A6E2
 
 #W32($148C)
-スポット増しを行い、ボディの補強を行っている。<END>
+is reinforced with spot welding．Unlike riveting、<END>
 //POINTER #120 @ $14B8 - STRING #120 @ $A712
 
 #W32($14B8)
-の競技用に設計された高性能ロールバーを装着する<END>
+performance roll bar has been installed to<END>
 //POINTER #121 @ $14E4 - STRING #121 @ $A742
 
 #W32($14E4)
-化、使用されているボルト／パイピング等を軽量のも<END>
+the battery has been downsized and the bolts<END>
 //POINTER #122 @ $1510 - STRING #122 @ $A774
 
 #W32($1510)
-ドライバーズシート以外のシート、シートレールを<END>
+every seat and seat rails、other than the<END>
 //POINTER #123 @ $153C - STRING #123 @ $A7A4
 
 #W32($153C)
-走行に必要のない室内快適装備を取り外し、<END>
+interior equipment not required for driving<END>
 //POINTER #124 @ $1568 - STRING #124 @ $A7CE
 
 #W32($1568)
-トランクのカーボン化やウインドウのアクリル化など<END>
+the trunk is now made out of carbon、and the<END>
 //POINTER #125 @ $1594 - STRING #125 @ $A800
 
 #W32($1594)
-受けにくくなる。<END>
+An approved helmet、used in official races．<END>
 //POINTER #126 @ $15C0 - STRING #126 @ $A812
 
 #W32($15C0)
-有名レーサーが使用しているものと同様のデザインが<END>
+Racing-grade helmet with a design similar to<END>
 //POINTER #127 @ $15EC - STRING #127 @ $A844
 
 #W32($15EC)
-「公認グローブ」と併用すると効果が上昇。<END>
+Use with「OFFICIAL GLOVES」for an increased effect．<END>
 //POINTER #128 @ $1618 - STRING #128 @ $A86E
 
 #W32($1618)
-「レーサーモデルグローブ」と併用で効果が上昇。<END>
+Use with「RACING GLOVES」for an increased effect．<END>
 //POINTER #129 @ $1644 - STRING #129 @ $A89E
 
 #W32($1644)
-「レーシングスーツ」と併用で効果が上昇。<END>
+Use with「COMPETITION SUIT」for an increased effect．<END>
 //POINTER #130 @ $1670 - STRING #130 @ $A8C8
 
 #W32($1670)
-「公認スーツ」と併用で効果が上昇。<END>
+Use with「OFFICIAL SUIT」for an increased effect．<END>
 //POINTER #131 @ $169C - STRING #131 @ $A8EC
 
 #W32($169C)
-「レーサーモデルスーツ」と併用で効果が上昇。<END>
+Use with「RACING SUIT」for an increased effect．<END>
 //POINTER #132 @ $16C8 - STRING #132 @ $A91A
 
 #W32($16C8)
-「フロアカーペット」と併用で効果が上昇。<END>
+Use with「FLOOR CARPET」for an increased effect．<END>
 //POINTER #133 @ $16F4 - STRING #133 @ $A944
 
 #W32($16F4)
@@ -4960,7 +4960,7 @@ MAX POWER│３７４ＰＳ／６９００ｒｐｍ<END>
 //POINTER #135 @ $174C - STRING #135 @ $A99E
 
 #W32($174C)
-「4点式シートベルト」と併用で効果が上昇。<END>
+「4点式シートベルト」for an increased effect．<END>
 //POINTER #136 @ $1778 - STRING #136 @ $A9CA
 
 #W32($1778)
@@ -4972,7 +4972,7 @@ MAX POWER│３７４ＰＳ／６９００ｒｐｍ<END>
 //POINTER #138 @ $17D0 - STRING #138 @ $AA1E
 
 #W32($17D0)
-「セミバケットシート」と併用で効果が上昇。<END>
+「セミバケットシート」for an increased effect．<END>
 //POINTER #139 @ $17FC - STRING #139 @ $AA4A
 
 #W32($17FC)
@@ -5012,15 +5012,15 @@ MAX POWER│３７４ＰＳ／６９００ｒｐｍ<END>
 //POINTER #148 @ $1988 - STRING #148 @ $ABDE
 
 #W32($1988)
-「スピンターンノブ」と併用で効果が上昇。<END>
+「スピンターンノブ」for an increased effect．<END>
 //POINTER #149 @ $19B4 - STRING #149 @ $AC08
 
 #W32($19B4)
-「ブレーキクリーナー」と併用で効果が上昇。<END>
+「ブレーキクリーナー」for an increased effect．<END>
 //POINTER #150 @ $19E0 - STRING #150 @ $AC34
 
 #W32($19E0)
-「ブレーキクリーナー」と併用で効果が上昇。<END>
+「ブレーキクリーナー」for an increased effect．<END>
 //POINTER #151 @ $1A0C - STRING #151 @ $AC60
 
 #W32($1A0C)
@@ -5052,39 +5052,39 @@ MAX POWER│３７４ＰＳ／６９００ｒｐｍ<END>
 //POINTER #158 @ $1B40 - STRING #158 @ $AD2E
 
 #W32($1B40)
-「リジッドラック」と併用で効果が上昇。<END>
+「リジッドラック」for an increased effect．<END>
 //POINTER #159 @ $1B6C - STRING #159 @ $AD56
 
 #W32($1B6C)
-「リジッドラック」と併用で効果が上昇。<END>
+「リジッドラック」for an increased effect．<END>
 //POINTER #160 @ $1B98 - STRING #160 @ $AD7E
 
 #W32($1B98)
-「リジッドラック」と併用で効果が上昇。<END>
+「リジッドラック」for an increased effect．<END>
 //POINTER #161 @ $1BC4 - STRING #161 @ $ADA6
 
 #W32($1BC4)
-「ジャッキ」と併用で効果が上昇。<END>
+「ジャッキ」for an increased effect．<END>
 //POINTER #162 @ $1BF0 - STRING #162 @ $ADC8
 
 #W32($1BF0)
-「ジャッキ」と併用で効果が上昇。<END>
+「ジャッキ」for an increased effect．<END>
 //POINTER #163 @ $1C1C - STRING #163 @ $ADEA
 
 #W32($1C1C)
-「ジャッキ」と併用で効果が上昇。<END>
+「ジャッキ」for an increased effect．<END>
 //POINTER #164 @ $1C48 - STRING #164 @ $AE0C
 
 #W32($1C48)
-「インナーシュー」と併用で効果が上昇。<END>
+「インナーシュー」for an increased effect．<END>
 //POINTER #165 @ $1C74 - STRING #165 @ $AE34
 
 #W32($1C74)
-「インナーシュー」と併用で効果が上昇。<END>
+「インナーシュー」for an increased effect．<END>
 //POINTER #166 @ $1CA0 - STRING #166 @ $AE5C
 
 #W32($1CA0)
-「インナーシュー」と併用で効果が上昇。<END>
+「インナーシュー」for an increased effect．<END>
 //POINTER #167 @ $1CCC - STRING #167 @ $AE84
 
 #W32($1CCC)
@@ -5100,19 +5100,19 @@ MAX POWER│３７４ＰＳ／６９００ｒｐｍ<END>
 //POINTER #170 @ $1D50 - STRING #170 @ $AEFC
 
 #W32($1D50)
-「エンジンオイル添加剤」と併用で効果が上昇。<END>
+「エンジンオイル添加剤」for an increased effect．<END>
 //POINTER #171 @ $1D7C - STRING #171 @ $AF2A
 
 #W32($1D7C)
-「エンジンオイル添加剤」と併用で効果が上昇。<END>
+「エンジンオイル添加剤」for an increased effect．<END>
 //POINTER #172 @ $1DA8 - STRING #172 @ $AF58
 
 #W32($1DA8)
-「エンジンオイル添加剤」と併用で効果が上昇。<END>
+「エンジンオイル添加剤」for an increased effect．<END>
 //POINTER #173 @ $1DD4 - STRING #173 @ $AF86
 
 #W32($1DD4)
-「エンジンオイル」と併用で効果が上昇。<END>
+「エンジンオイル」for an increased effect．<END>
 //POINTER #174 @ $1E00 - STRING #174 @ $AFAE
 
 #W32($1E00)
@@ -5164,19 +5164,19 @@ MAX POWER│３７４ＰＳ／６９００ｒｐｍ<END>
 //POINTER #186 @ $2010 - STRING #186 @ $B1AE
 
 #W32($2010)
-「コート剤」と併用で効果が上昇。<END>
+「コート剤」for an increased effect．<END>
 //POINTER #187 @ $203C - STRING #187 @ $B1D0
 
 #W32($203C)
-「コート剤」と併用で効果が上昇。<END>
+「コート剤」for an increased effect．<END>
 //POINTER #188 @ $2068 - STRING #188 @ $B1F2
 
 #W32($2068)
-「コート剤」と併用で効果が上昇。<END>
+「コート剤」for an increased effect．<END>
 //POINTER #189 @ $2094 - STRING #189 @ $B214
 
 #W32($2094)
-「洗車セット」と併用で効果が上昇。<END>
+「洗車セット」for an increased effect．<END>
 //POINTER #190 @ $20C0 - STRING #190 @ $B238
 
 #W32($20C0)
@@ -5192,11 +5192,11 @@ MAX POWER│３７４ＰＳ／６９００ｒｐｍ<END>
 //POINTER #193 @ $2144 - STRING #193 @ $B2BC
 
 #W32($2144)
-「レーシングメット」と併用で効果が上昇。<END>
+「レーシングメット」for an increased effect．<END>
 //POINTER #194 @ $2170 - STRING #194 @ $B2E6
 
 #W32($2170)
-「レーシングシューズ」と併用で効果が上昇。<END>
+「レーシングシューズ」for an increased effect．<END>
 //POINTER #195 @ $219C - STRING #195 @ $B312
 
 #W32($219C)
@@ -5204,15 +5204,15 @@ MAX POWER│３７４ＰＳ／６９００ｒｐｍ<END>
 //POINTER #196 @ $21C8 - STRING #196 @ $B340
 
 #W32($21C8)
-「マイナスイオン発生器」と併用で効果が上昇。<END>
+「マイナスイオン発生器」for an increased effect．<END>
 //POINTER #197 @ $21F4 - STRING #197 @ $B36E
 
 #W32($21F4)
-「マイナスイオン発生器」と併用で効果が上昇。<END>
+「マイナスイオン発生器」for an increased effect．<END>
 //POINTER #198 @ $2220 - STRING #198 @ $B39C
 
 #W32($2220)
-「スピンターンノブ」と併用で効果が上昇。<END>
+「スピンターンノブ」for an increased effect．<END>
 //POINTER #199 @ $224C - STRING #199 @ $B3C6
 
 #W32($224C)
@@ -5686,127 +5686,127 @@ MAX POWER│３７４ＰＳ／６９００ｒｐｍ<END>
 //POINTER #96 @ $109C - STRING #96 @ $C60A
 
 #W32($109C)
-ターボエンジンはブーストアップ、ロータリー<END>
+port polishing and chamber mods、<END>
 //POINTER #97 @ $10C8 - STRING #97 @ $C636
 
 #W32($10C8)
-ガスケット交換、レシプロターボエンジンはタービン<END>
+and a head gasket replacement、<END>
 //POINTER #98 @ $10F4 - STRING #98 @ $C668
 
 #W32($10F4)
-コンロッド交換、レシプロターボエンジンはタービン<END>
+crankshaft、and connecting rods replaced、<END>
 //POINTER #99 @ $1120 - STRING #99 @ $C69A
 
 #W32($1120)
-レシプロターボエンジンはボアアップ及びＮＡ<END>
+balancing、the turbo engine gets<END>
 //POINTER #100 @ $114C - STRING #100 @ $C6C6
 
 #W32($114C)
-軽量化効果が大きく、エンジン本来のパワーから損失<END>
+reduction significant．The exhaust manifold was<END>
 //POINTER #101 @ $1178 - STRING #101 @ $C6F8
 
 #W32($1178)
-マフラーを装着。フロントパイプもオールチタン製に<END>
+The intake and exhaust manifold were also<END>
 //POINTER #102 @ $11A4 - STRING #102 @ $C72A
 
 #W32($11A4)
-確実に効果を実感できるパーツだけに、<END>
+<END>
 //POINTER #103 @ $11D0 - STRING #103 @ $C750
 
 #W32($11D0)
-よりエンジン性能を引き出している。<END>
+performance．<END>
 //POINTER #104 @ $11FC - STRING #104 @ $C774
 
 #W32($11FC)
-エンジン性能を最大限に引き出している。<END>
+installed．<END>
 //POINTER #105 @ $1228 - STRING #105 @ $C79C
 
 #W32($1228)
-極限まで引き出している。<END>
+and specifications to bring out the<END>
 //POINTER #106 @ $1254 - STRING #106 @ $C7B6
 
 #W32($1254)
-アルミを使用しており、大容量オイルクーラーは油温<END>
+reduction．The oil cooler stabilizes<END>
 //POINTER #107 @ $1280 - STRING #107 @ $C7E8
 
 #W32($1280)
-スポーツ走行にも対応できる。<END>
+hours of sports driving．<END>
 //POINTER #108 @ $12AC - STRING #108 @ $C806
 
 #W32($12AC)
-様々なトルク特性があり、パワーもそれぞれ異なる。<END>
+engine tuning、with every engine type having<END>
 //POINTER #109 @ $12D8 - STRING #109 @ $C838
 
 #W32($12D8)
-減衰力がアップしている。ストリート、サーキットを<END>
+increased．The versatility is appealing for both<END>
 //POINTER #110 @ $1304 - STRING #110 @ $C86A
 
 #W32($1304)
-レート、減衰力がアップしている。主にレースに使用<END>
+This suspension kit is mainly used for racing、<END>
 //POINTER #111 @ $1330 - STRING #111 @ $C89C
 
 #W32($1330)
-駆動系レスポンスが向上している。<END>
+by reinforcing the transmission mount．<END>
 //POINTER #112 @ $135C - STRING #112 @ $C8BE
 
 #W32($135C)
-シフトラグが大幅に改善されている。<END>
+This is the final form of transmission tuning．<END>
 //POINTER #113 @ $1388 - STRING #113 @ $C8E2
 
 #W32($1388)
-これまでのクラッチに比べ、低踏力設計のため軽い<END>
+response．Compared to a regular clutch、it<END>
 //POINTER #114 @ $13B4 - STRING #114 @ $C912
 
 #W32($13B4)
-これまでのクラッチに比べ、軽量化できる上に、<END>
+<END>
 //POINTER #115 @ $13E0 - STRING #115 @ $C940
 
 #W32($13E0)
-ストリートでのスポーツ走行を想定したローター適正<END>
+from street to sports driving．<END>
 //POINTER #116 @ $140C - STRING #116 @ $C972
 
 #W32($140C)
-モータースポーツで使用されるものと遜色ないレベル<END>
+of the pads、it achieves a level close to those<END>
 //POINTER #117 @ $1438 - STRING #117 @ $C9A4
 
 #W32($1438)
-また、Ｃピラー間をつないでボディのよじれを防ぐ<END>
+A pillar bar is installed between the Cーpillars<END>
 //POINTER #118 @ $1464 - STRING #118 @ $C9D4
 
 #W32($1464)
-ネジレ剛性を向上させている。<END>
+to improve torsional rigidity while keeping<END>
 //POINTER #119 @ $1490 - STRING #119 @ $C9F2
 
 #W32($1490)
-リベット打ちと違い車重の増加を抑えられる点が<END>
+this method reduces weight of the vehicle．<END>
 //POINTER #120 @ $14BC - STRING #120 @ $CA20
 
 #W32($14BC)
-ことで、安全性、ボディ全体の剛性を著しく上昇させ<END>
+significantly increase safety and overall<END>
 //POINTER #121 @ $14E8 - STRING #121 @ $CA52
 
 #W32($14E8)
-のに換装をしてエンジン周りの軽量化を行っている。<END>
+and piping have been replaced with lightweight<END>
 //POINTER #122 @ $1514 - STRING #122 @ $CA84
 
 #W32($1514)
-取り外し軽量化を行っている。<END>
+driver's、are removed．<END>
 //POINTER #123 @ $1540 - STRING #123 @ $CAA2
 
 #W32($1540)
-軽量化を行っている。<END>
+is removed．<END>
 //POINTER #124 @ $156C - STRING #124 @ $CAB8
 
 #W32($156C)
-徹底した軽量化を行っている。<END>
+windows are acrylic．Other weight reduction<END>
 //POINTER #125 @ $1598 - STRING #125 @ $CAD6
 
 #W32($1598)
-公式レースでも使用可能な本格ヘルメット。<END>
+Higher-rank drivers should take this opportunity<END>
 //POINTER #126 @ $15C4 - STRING #126 @ $CB00
 
 #W32($15C4)
-施されたレーサーモデルヘルメット。<END>
+one used by a famous racer．<END>
 //POINTER #127 @ $15F0 - STRING #127 @ $CB24
 
 #W32($15F0)
@@ -5874,7 +5874,7 @@ MAX POWER│３７４ＰＳ／６９００ｒｐｍ<END>
 //POINTER #143 @ $18B0 - STRING #143 @ $CDA6
 
 #W32($18B0)
-「プラグコード」と併用で効果が上昇。<END>
+「プラグコード」for an increased effect．<END>
 //POINTER #144 @ $18DC - STRING #144 @ $CDCC
 
 #W32($18DC)
@@ -5882,7 +5882,7 @@ MAX POWER│３７４ＰＳ／６９００ｒｐｍ<END>
 //POINTER #145 @ $1908 - STRING #145 @ $CDF2
 
 #W32($1908)
-「ＭＤＩシステム」と併用で効果が上昇。<END>
+「ＭＤＩシステム」for an increased effect．<END>
 //POINTER #146 @ $1934 - STRING #146 @ $CE1A
 
 #W32($1934)
@@ -5914,23 +5914,23 @@ MAX POWER│３７４ＰＳ／６９００ｒｐｍ<END>
 //POINTER #153 @ $1A68 - STRING #153 @ $CF4E
 
 #W32($1A68)
-「工具」と併用で効果が上昇。<END>
+「工具」for an increased effect．<END>
 //POINTER #154 @ $1A94 - STRING #154 @ $CF6C
 
 #W32($1A94)
-「工具」と併用で効果が上昇。<END>
+「工具」for an increased effect．<END>
 //POINTER #155 @ $1AC0 - STRING #155 @ $CF8A
 
 #W32($1AC0)
-「補修用品」と併用で効果が上昇。<END>
+「補修用品」for an increased effect．<END>
 //POINTER #156 @ $1AEC - STRING #156 @ $CFAC
 
 #W32($1AEC)
-「補修用品」と併用で効果が上昇。<END>
+「補修用品」for an increased effect．<END>
 //POINTER #157 @ $1B18 - STRING #157 @ $CFCE
 
 #W32($1B18)
-「補修用品」と併用で効果が上昇。<END>
+「補修用品」for an increased effect．<END>
 //POINTER #158 @ $1B44 - STRING #158 @ $CFF0
 
 #W32($1B44)
@@ -5970,15 +5970,15 @@ MAX POWER│３７４ＰＳ／６９００ｒｐｍ<END>
 //POINTER #167 @ $1CD0 - STRING #167 @ $D15A
 
 #W32($1CD0)
-「アーシングパーツ」と併用で効果が上昇。<END>
+「アーシングパーツ」for an increased effect．<END>
 //POINTER #168 @ $1CFC - STRING #168 @ $D184
 
 #W32($1CFC)
-「アーシングパーツ」と併用で効果が上昇。<END>
+「アーシングパーツ」for an increased effect．<END>
 //POINTER #169 @ $1D28 - STRING #169 @ $D1AE
 
 #W32($1D28)
-「アーシングパーツ」と併用で効果が上昇。<END>
+「アーシングパーツ」for an increased effect．<END>
 //POINTER #170 @ $1D54 - STRING #170 @ $D1D8
 
 #W32($1D54)
@@ -5998,11 +5998,11 @@ MAX POWER│３７４ＰＳ／６９００ｒｐｍ<END>
 //POINTER #174 @ $1E04 - STRING #174 @ $D29C
 
 #W32($1E04)
-「バッテリー」と併用で効果が上昇。<END>
+「バッテリー」for an increased effect．<END>
 //POINTER #175 @ $1E30 - STRING #175 @ $D2C0
 
 #W32($1E30)
-「バッテリー」と併用で効果が上昇。<END>
+「バッテリー」for an increased effect．<END>
 //POINTER #176 @ $1E5C - STRING #176 @ $D2E4
 
 #W32($1E5C)
@@ -6568,127 +6568,127 @@ MAX POWER│３７４ＰＳ／６９００ｒｐｍ<END>
 //POINTER #96 @ $10A0 - STRING #96 @ $E24C
 
 #W32($10A0)
-エンジンはサイドポート加工を行い、パワーアップを<END>
+the turbo engine gets a boost increase、<END>
 //POINTER #97 @ $10CC - STRING #97 @ $E27E
 
 #W32($10CC)
-交換、ロータリーエンジンはブリッジポート加工を<END>
+the turbo engine has a turbine replacement、<END>
 //POINTER #98 @ $10F8 - STRING #98 @ $E2AE
 
 #W32($10F8)
-キット装着、ロータリーエンジンはペリフェラル<END>
+the turbo engine gets<END>
 //POINTER #99 @ $1124 - STRING #99 @ $E2DC
 
 #W32($1124)
-エンジン加工、バランス取り、ロータリーエンジン<END>
+a bore increase、the rotary engine<END>
 //POINTER #100 @ $1150 - STRING #100 @ $E30C
 
 #W32($1150)
-が少ない。エキマニも排気効率の高いものに交換し、<END>
+also replaced、increasing torque at high RPM．<END>
 //POINTER #101 @ $117C - STRING #101 @ $E33E
 
 #W32($117C)
-変更しパワーと共に軽量化にも大きく貢献している。<END>
+changed to allーtitanium、increasing power<END>
 //POINTER #102 @ $11A8 - STRING #102 @ $E370
 
 #W32($11A8)
-ぜひ手に入れておきたいところだ。 <END>
+<END>
 //POINTER #103 @ $11D4 - STRING #103 @ $E394
 
 #W32($11D4)
-現在の性能に満足していないドライバーは<END>
+<END>
 //POINTER #104 @ $1200 - STRING #104 @ $E3BC
 
 #W32($1200)
-まだ、コンピュータをチューニングしていない<END>
+<END>
 //POINTER #105 @ $122C - STRING #105 @ $E3E8
 
 #W32($122C)
-コンピュータの最終形とも言えるこのチューン、<END>
+performance to the utmost limit．<END>
 //POINTER #106 @ $1258 - STRING #106 @ $E416
 
 #W32($1258)
-を安定させ、エンジンを最高の状態に保ってくれる。<END>
+the oil temperature and keeps the engine<END>
 //POINTER #107 @ $1284 - STRING #107 @ $E448
 
 #W32($1284)
-やや重いのが難点だが、冷却の最終形とも言える<END>
+Although heavier、it is the final form of<END>
 //POINTER #108 @ $12B0 - STRING #108 @ $E476
 
 #W32($12B0)
-遂に解禁されたエンジン換装が、今後のバトルシーン<END>
+different power and torque characteristics．<END>
 //POINTER #109 @ $12DC - STRING #109 @ $E4A8
 
 #W32($12DC)
-問わず使用できる汎用性が魅力だ。<END>
+street and circuit use．<END>
 //POINTER #110 @ $1308 - STRING #110 @ $E4CA
 
 #W32($1308)
-されるサスキットで、ストリートなどの路面の<END>
+getting unstable at street roads or any<END>
 //POINTER #111 @ $1334 - STRING #111 @ $E4F6
 
 #W32($1334)
-走りこんでいるドライバーは、購入を検討してみては<END>
+<END>
 //POINTER #112 @ $1360 - STRING #112 @ $E528
 
 #W32($1360)
-トランスミッションの最終形とも言える<END>
+<END>
 //POINTER #113 @ $138C - STRING #113 @ $E54E
 
 #W32($138C)
-ペダルワークが可能となっている。<END>
+requires lighter pedal work．<END>
 //POINTER #114 @ $13B8 - STRING #114 @ $E570
 
 #W32($13B8)
-耐磨耗性、耐熱性に優れている。<END>
+<END>
 //POINTER #115 @ $13E4 - STRING #115 @ $E590
 
 #W32($13E4)
-温度を持つパッドへの交換や、ローター表面に穴空き<END>
+Holes and slits are machined on the discs surface<END>
 //POINTER #116 @ $1410 - STRING #116 @ $E5C2
 
 #W32($1410)
-を実現している。費用は高価だが、絶対的な制動力を<END>
+used in motorsports．The cost is expensive<END>
 //POINTER #117 @ $143C - STRING #117 @ $E5F4
 
 #W32($143C)
-ピラーバーを装着している。<END>
+to further prevent body flex．<END>
 //POINTER #118 @ $1468 - STRING #118 @ $E610
 
 #W32($1468)
-効果の割に、費用もお手軽で、軽量なので、<END>
+the cost and weight reasonable．<END>
 //POINTER #119 @ $1494 - STRING #119 @ $E63A
 
 #W32($1494)
-特徴だ。<END>
+<END>
 //POINTER #120 @ $14C0 - STRING #120 @ $E644
 
 #W32($14C0)
-ている。<END>
+body rigidity．<END>
 //POINTER #121 @ $14EC - STRING #121 @ $E64E
 
 #W32($14EC)
-加速、旋回性の向上が見込めるので、コーナーの多い<END>
+ones．Additionaly the weight of the engine bay<END>
 //POINTER #122 @ $1518 - STRING #122 @ $E680
 
 #W32($1518)
-さらなる加速、旋回性の向上が見込めるので、<END>
+Drivers who are not satisfied with their<END>
 //POINTER #123 @ $1544 - STRING #123 @ $E6AC
 
 #W32($1544)
-電装系装備は比較的重量があり、大きな軽量化が<END>
+Since electrical equipment can be heavy、<END>
 //POINTER #124 @ $1570 - STRING #124 @ $E6DA
 
 #W32($1570)
-軽量化の最終形とも言えるこのチューニング、<END>
+measures have also been taken．<END>
 //POINTER #125 @ $159C - STRING #125 @ $E706
 
 #W32($159C)
-サーキットを走るためには必要不可欠なアイテム<END>
+to buy a new helmet、which is an essential<END>
 //POINTER #126 @ $15C8 - STRING #126 @ $E734
 
 #W32($15C8)
-ファンには必見のアイテムなので、<END>
+A must have item for fans．<END>
 //POINTER #127 @ $15F4 - STRING #127 @ $E756
 
 #W32($15F4)
@@ -7450,27 +7450,27 @@ MAX POWER│３７４ＰＳ／６９００ｒｐｍ<END>
 //POINTER #96 @ $10A4 - STRING #96 @ $F918
 
 #W32($10A4)
-図っている。パワー不足で泣いてるドライバーは、<END>
+and the rotary engine undergoes a Street Port mod．<END>
 //POINTER #97 @ $10D0 - STRING #97 @ $F948
 
 #W32($10D0)
-行い、よりパワーアップを図っている。興味がある<END>
+and the rotary engine gets bridgeport mods．<END>
 //POINTER #98 @ $10FC - STRING #98 @ $F978
 
 #W32($10FC)
-ポート加工を行い、さらなるパワーアップを<END>
+a new turbine kit installed、<END>
 //POINTER #99 @ $1128 - STRING #99 @ $F9A2
 
 #W32($1128)
-はビッグタービンキットを装着し、徹底的にパワー<END>
+gets a big turbine kit．<END>
 //POINTER #100 @ $1154 - STRING #100 @ $F9D2
 
 #W32($1154)
-高回転でのトルクアップが見込める。<END>
+<END>
 //POINTER #101 @ $1180 - STRING #101 @ $F9F6
 
 #W32($1180)
-吸排気の最終形とも言えるこのチューニング、<END>
+and reducing weight．<END>
 //POINTER #102 @ $11AC - STRING #102 @ $FA22
 
 #W32($11AC)
@@ -7478,99 +7478,99 @@ MAX POWER│３７４ＰＳ／６９００ｒｐｍ<END>
 //POINTER #103 @ $11D8 - STRING #103 @ $FA24
 
 #W32($11D8)
-購入を検討してみてはどうだろうか。<END>
+<END>
 //POINTER #104 @ $1204 - STRING #104 @ $FA48
 
 #W32($1204)
-ドライバーは、この機会に購入してみよう。<END>
+<END>
 //POINTER #105 @ $1230 - STRING #105 @ $FA72
 
 #W32($1230)
-資金に余裕があるのならば、是非行おう。<END>
+<END>
 //POINTER #106 @ $125C - STRING #106 @ $FA9A
 
 #W32($125C)
-しっかりと手を入れて、バランスの良いチューニング<END>
+in top condition．<END>
 //POINTER #107 @ $1288 - STRING #107 @ $FACC
 
 #W32($1288)
-このチューニング、購入を検討してみる価値は<END>
+cooling．<END>
 //POINTER #108 @ $12B4 - STRING #108 @ $FAF8
 
 #W32($12B4)
-にどのような影響をもたらすのか、これからも注目<END>
+<END>
 //POINTER #109 @ $12E0 - STRING #109 @ $FB28
 
 #W32($12E0)
-興味を持ったドライバーは、ぜひ利用してみよう。<END>
+<END>
 //POINTER #110 @ $130C - STRING #110 @ $FB58
 
 #W32($130C)
-ギャップが大きいステージでは挙動が乱れやすいが、<END>
+large gaps．<END>
 //POINTER #111 @ $1338 - STRING #111 @ $FB8A
 
 #W32($1338)
-どうだろうか。<END>
+<END>
 //POINTER #112 @ $1364 - STRING #112 @ $FB9A
 
 #W32($1364)
-このチューニング、資金に余裕があるのなら、<END>
+<END>
 //POINTER #113 @ $1390 - STRING #113 @ $FBC6
 
 #W32($1390)
-現在の走りには満足していないドライバーは<END>
+<END>
 //POINTER #114 @ $13BC - STRING #114 @ $FBF0
 
 #W32($13BC)
-クラッチの最終形とも言えるこのチューニング、<END>
+<END>
 //POINTER #115 @ $13E8 - STRING #115 @ $FC1E
 
 #W32($13E8)
-／スリット加工を施すなど、安定したパッド性能を<END>
+to bring out stable braking performance．<END>
 //POINTER #116 @ $1414 - STRING #116 @ $FC4E
 
 #W32($1414)
-手に入れることができるこのチューニング、資金に<END>
+but the tune is a must for those who want<END>
 //POINTER #117 @ $1440 - STRING #117 @ $FC7E
 
 #W32($1440)
-エンジンを強化したら、それを受け止めるための<END>
+After improving the engine、make sure to<END>
 //POINTER #118 @ $146C - STRING #118 @ $FCAC
 
 #W32($146C)
-興味があるドライバーは試してみよう。<END>
+<END>
 //POINTER #119 @ $1498 - STRING #119 @ $FCD2
 
 #W32($1498)
-資金に余裕があるのならば、是非行おう。<END>
+<END>
 //POINTER #120 @ $14C4 - STRING #120 @ $FCFA
 
 #W32($14C4)
-費用も高価で、車重も増加してしまうが、ドライバー<END>
+<END>
 //POINTER #121 @ $14F0 - STRING #121 @ $FD2C
 
 #W32($14F0)
-サーキットを主戦場とするドライバーは優先的に<END>
+has been reduced．This tuning should be prioritized<END>
 //POINTER #122 @ $151C - STRING #122 @ $FD5A
 
 #W32($151C)
-現在の走りには満足していないドライバーは<END>
+handling and acceleration should consider<END>
 //POINTER #123 @ $1548 - STRING #123 @ $FD84
 
 #W32($1548)
-見込めるので、本気で上を狙っているドライバーには<END>
+this tuning should not be overlooked by drivers<END>
 //POINTER #124 @ $1574 - STRING #124 @ $FDB6
 
 #W32($1574)
-資金に余裕があるのならば、ぜひ行おう。<END>
+If you have enough money to spare、you should<END>
 //POINTER #125 @ $15A0 - STRING #125 @ $FDDE
 
 #W32($15A0)
-なので、上位ランクに上がったドライバーは、<END>
+item for driving on the circuit．<END>
 //POINTER #126 @ $15CC - STRING #126 @ $FE0A
 
 #W32($15CC)
-見逃さないようにしたい。<END>
+Dont miss it！<END>
 //POINTER #127 @ $15F8 - STRING #127 @ $FE24
 
 #W32($15F8)
@@ -8332,27 +8332,27 @@ MAX POWER│３７４ＰＳ／６９００ｒｐｍ<END>
 //POINTER #96 @ $10A8 - STRING #96 @ $10C5E
 
 #W32($10A8)
-見逃さないようにチェックしておこう。<END>
+<END>
 //POINTER #97 @ $10D4 - STRING #97 @ $10C84
 
 #W32($10D4)
-ドライバーは、ぜひチェックしておこう。<END>
+<END>
 //POINTER #98 @ $1100 - STRING #98 @ $10CAC
 
 #W32($1100)
-図っている。おおいに期待できそうだ。<END>
+and the rotary engine gets peripheral porting．<END>
 //POINTER #99 @ $112C - STRING #99 @ $10CD2
 
 #W32($112C)
-アップを図っている。効果が気になるところだ。<END>
+<END>
 //POINTER #100 @ $1158 - STRING #100 @ $10D00
 
 #W32($1158)
-興味のあるドライバーは、さっそく利用してみよう。<END>
+<END>
 //POINTER #101 @ $1184 - STRING #101 @ $10D32
 
 #W32($1184)
-資金に余裕があるのならば、ぜひ行おう。<END>
+<END>
 //POINTER #102 @ $11B0 - STRING #102 @ $10D5A
 
 #W32($11B0)
@@ -8372,15 +8372,15 @@ MAX POWER│３７４ＰＳ／６９００ｒｐｍ<END>
 //POINTER #106 @ $1260 - STRING #106 @ $10D62
 
 #W32($1260)
-を行おう。<END>
+<END>
 //POINTER #107 @ $128C - STRING #107 @ $10D6E
 
 #W32($128C)
-充分ありそうだ。<END>
+<END>
 //POINTER #108 @ $12B8 - STRING #108 @ $10D80
 
 #W32($12B8)
-していきたい。<END>
+<END>
 //POINTER #109 @ $12E4 - STRING #109 @ $10D90
 
 #W32($12E4)
@@ -8388,7 +8388,7 @@ MAX POWER│３７４ＰＳ／６９００ｒｐｍ<END>
 //POINTER #110 @ $1310 - STRING #110 @ $10D92
 
 #W32($1310)
-購入を検討してみる価値は充分ありそうだ。<END>
+<END>
 //POINTER #111 @ $133C - STRING #111 @ $10DBC
 
 #W32($133C)
@@ -8396,27 +8396,27 @@ MAX POWER│３７４ＰＳ／６９００ｒｐｍ<END>
 //POINTER #112 @ $1368 - STRING #112 @ $10DBE
 
 #W32($1368)
-ぜひ行おう。<END>
+<END>
 //POINTER #113 @ $1394 - STRING #113 @ $10DCC
 
 #W32($1394)
-購入を検討してみてはどうだろうか。<END>
+<END>
 //POINTER #114 @ $13C0 - STRING #114 @ $10DF0
 
 #W32($13C0)
-資金に余裕があるのならば、ぜひ行おう。<END>
+<END>
 //POINTER #115 @ $13EC - STRING #115 @ $10E18
 
 #W32($13EC)
-引き出してくれる。お見逃しなく。<END>
+<END>
 //POINTER #116 @ $1418 - STRING #116 @ $10E3A
 
 #W32($1418)
-余裕があるのならば、ぜひ行おう。<END>
+absolute braking power．<END>
 //POINTER #117 @ $1444 - STRING #117 @ $10E5C
 
 #W32($1444)
-ボディも、しっかり補強しておこう。<END>
+reinforce the body to handle the increased power．<END>
 //POINTER #118 @ $1470 - STRING #118 @ $10E80
 
 #W32($1470)
@@ -8428,27 +8428,27 @@ MAX POWER│３７４ＰＳ／６９００ｒｐｍ<END>
 //POINTER #120 @ $14C8 - STRING #120 @ $10E84
 
 #W32($14C8)
-の安全を考えるならば、必ず装着しておきたい。<END>
+<END>
 //POINTER #121 @ $14F4 - STRING #121 @ $10EB2
 
 #W32($14F4)
-行いたいチューニングだ。<END>
+by drivers who primarily race on circuits．<END>
 //POINTER #122 @ $1520 - STRING #122 @ $10ECC
 
 #W32($1520)
-購入を検討してみてはどうだろうか。<END>
+this product．<END>
 //POINTER #123 @ $154C - STRING #123 @ $10EF0
 
 #W32($154C)
-見逃せないチューニングとなりそうだ。<END>
+looking for a higher level of performance．<END>
 //POINTER #124 @ $1578 - STRING #124 @ $10F16
 
 #W32($1578)
-<END>
+definitely consider this weight reduction．<END>
 //POINTER #125 @ $15A4 - STRING #125 @ $10F18
 
 #W32($15A4)
-これを機会に買い換えてみては如何だろうか？<END>
+<END>
 //POINTER #126 @ $15D0 - STRING #126 @ $10F44
 
 #W32($15D0)

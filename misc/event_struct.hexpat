@@ -1,19 +1,12 @@
-struct EventData{
-    u32 ff_1;
-    u32 smthing1[3];
-    u32 ff_2;
-    u32 smthing2;
-    u32 ff_3;
-    u32 smthing3[3];
-    u32 ff_4;
-    u32 ff_5;
-    u32 smthing4[5];
+//event struct
+struct Event{ //struct size 0x68
+    u8 id;
+    u24 smthing0;
+    u32 smthing1[18];
     char eventName[28];
-    u32 smthing5[2];
     };
-    
-struct EventsFile{
-    EventData events[149];
-    };
-    
-    EventsFile eventsFile @ 0x6c8;
+
+char weirdNumbers0[0x6c0] @ 0x0;
+Event events[149] @ 0x6c0;
+char weirdNumbers1[0x21c] @ 0x4348;
+char weirdNumbers2[0x360] @ 0x4564;

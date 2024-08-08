@@ -12,7 +12,7 @@ not real calculated %, just a guess :D
 | `224.bin` | $\color{green}{\textsf{100}}$% |
 | `227.bin` | $\color{green}{\textsf{100}}$% |
 | `228.bin` | $\color{green}{\textsf{100}}$% |
-| `229.bin` |  60% |
+| `229.bin` |  70% |
 | `230.bin` | $\color{green}{\textsf{100}}$% |
 | `231.bin` |   0% |
 | `737.bin` | $\color{green}{\textsf{100}}$% |

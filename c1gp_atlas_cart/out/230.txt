@@ -2806,7 +2806,7 @@ getting unstable at street roads or any<END>
 //POINTER #81 @ $B74 - STRING #81 @ $6ABE
 
 #W32($B74)
-Drivers whp like to drive hard should<END>
+Drivers who like to drive hard should<END>
 //POINTER #82 @ $B98 - STRING #82 @ $6AF0
 
 #W32($B98)
