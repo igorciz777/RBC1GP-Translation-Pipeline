@@ -4142,67 +4142,67 @@ Reduces handbrake's temperature rise．<END>
 //POINTER #151 @ $1A08 - STRING #151 @ $8B1A
 
 #W32($1A08)
-ブレーキフェードが一定以上上昇すると<END>
+Displays a warning when brake fade goes<END>
 //POINTER #152 @ $1A34 - STRING #152 @ $8B40
 
 #W32($1A34)
-油温・水温・ブレーキフェードが<END>
+Displays warnings of high oil／water temperature、<END>
 //POINTER #153 @ $1A60 - STRING #153 @ $8B60
 
 #W32($1A60)
-壁や車に接触した際の、<END>
+Reduces the car's condition damage when<END>
 //POINTER #154 @ $1A8C - STRING #154 @ $8B78
 
 #W32($1A8C)
-壁や車に接触した際の、<END>
+Reduces the car's condition damage when<END>
 //POINTER #155 @ $1AB8 - STRING #155 @ $8B90
 
 #W32($1AB8)
-壁や車に接触した際の、<END>
+Reduces the car's condition damage when<END>
 //POINTER #156 @ $1AE4 - STRING #156 @ $8BA8
 
 #W32($1AE4)
-壁や車に接触した際の、<END>
+Reduces the car's condition damage when<END>
 //POINTER #157 @ $1B10 - STRING #157 @ $8BC0
 
 #W32($1B10)
-壁や車に接触した際の、<END>
+Reduces the car's condition damage when<END>
 //POINTER #158 @ $1B3C - STRING #158 @ $8BD8
 
 #W32($1B3C)
-ピット作業の時間を短縮。<END>
+Reduces the time spent during a pitstop．<END>
 //POINTER #159 @ $1B68 - STRING #159 @ $8BF2
 
 #W32($1B68)
-ピット作業の時間を短縮。<END>
+Reduces the time spent during a pitstop．<END>
 //POINTER #160 @ $1B94 - STRING #160 @ $8C0C
 
 #W32($1B94)
-ピット作業の時間を短縮。<END>
+Reduces the time spent during a pitstop．<END>
 //POINTER #161 @ $1BC0 - STRING #161 @ $8C26
 
 #W32($1BC0)
-ピット作業の時間を短縮。<END>
+Reduces the time spent during a pitstop．<END>
 //POINTER #162 @ $1BEC - STRING #162 @ $8C40
 
 #W32($1BEC)
-ピット作業の時間を短縮。<END>
+Reduces the time spent during a pitstop．<END>
 //POINTER #163 @ $1C18 - STRING #163 @ $8C5A
 
 #W32($1C18)
-ピット作業の時間を短縮。<END>
+Reduces the time spent during a pitstop．<END>
 //POINTER #164 @ $1C44 - STRING #164 @ $8C74
 
 #W32($1C44)
-ブレーキフェードを緩和。<END>
+Reduces brake fade．<END>
 //POINTER #165 @ $1C70 - STRING #165 @ $8C8E
 
 #W32($1C70)
-ブレーキフェードを緩和。<END>
+Reduces brake fade．<END>
 //POINTER #166 @ $1C9C - STRING #166 @ $8CA8
 
 #W32($1C9C)
-ブレーキフェードを緩和。<END>
+Reduces brake fade．<END>
 //POINTER #167 @ $1CC8 - STRING #167 @ $8CC2
 
 #W32($1CC8)
@@ -4952,139 +4952,139 @@ Use with「FLOOR CARPET」for an increased effect．<END>
 //POINTER #133 @ $16F4 - STRING #133 @ $A944
 
 #W32($16F4)
-公式レースでも使用可能な本格シューズ。<END>
+Full-fledged shoes、 used in official races．<END>
 //POINTER #134 @ $1720 - STRING #134 @ $A96C
 
 #W32($1720)
-有名レーサーが使用しているものと同様のデザインが<END>
+Racing-grade shoes with a design similar to<END>
 //POINTER #135 @ $174C - STRING #135 @ $A99E
 
 #W32($174C)
-「4点式シートベルト」for an increased effect．<END>
+Use with「4‐POINT HARNESS」for an increased effect．<END>
 //POINTER #136 @ $1778 - STRING #136 @ $A9CA
 
 #W32($1778)
-完全スポーツ走行向けのバケットシートで、<END>
+Bucket seats for complete sports driving、<END>
 //POINTER #137 @ $17A4 - STRING #137 @ $A9F4
 
 #W32($17A4)
-「4点式クイックリリースタイプ」と併用で<END>
+Use with「4‐POINT QUICK‐RELEASE TYPE」for<END>
 //POINTER #138 @ $17D0 - STRING #138 @ $AA1E
 
 #W32($17D0)
-「セミバケットシート」for an increased effect．<END>
+Use with「SEMI BUCKET―SEAT」for an increased effect．<END>
 //POINTER #139 @ $17FC - STRING #139 @ $AA4A
 
 #W32($17FC)
-「カーボン製フルバケットシート」と併用で<END>
+Use with「FULL CARBON BUCKET―SEAT」for<END>
 //POINTER #140 @ $1828 - STRING #140 @ $AA74
 
 #W32($1828)
-自車も壁に接触した際のＳＰダメージが増加する。<END>
+but increases SP loss on wall contact．<END>
 //POINTER #141 @ $1854 - STRING #141 @ $AAA4
 
 #W32($1854)
-エンジンの燃焼室で火花を飛ばして点火をする。<END>
+They ignite by sparking in the combustion chamber．<END>
 //POINTER #142 @ $1880 - STRING #142 @ $AAD2
 
 #W32($1880)
-エンジンの燃焼室で火花を飛ばして点火をする。<END>
+They ignite by sparking in the combustion chamber．<END>
 //POINTER #143 @ $18AC - STRING #143 @ $AB00
 
 #W32($18AC)
-自車も車に接触した際のＳＰダメージが増加する。<END>
+but increases SP loss on car contact．<END>
 //POINTER #144 @ $18D8 - STRING #144 @ $AB30
 
 #W32($18D8)
-点火システムの更なる性能の向上を図り<END>
+High-performance ignition system、modified<END>
 //POINTER #145 @ $1904 - STRING #145 @ $AB56
 
 #W32($1904)
-自車も車に接触した際のＳＰダメージが増加する。<END>
+but increases SP loss on car contact．<END>
 //POINTER #146 @ $1930 - STRING #146 @ $AB86
 
 #W32($1930)
-点火システムに強力な高圧電流を与え性能を向上。<END>
+Provides a strong high voltage current to the<END>
 //POINTER #147 @ $195C - STRING #147 @ $ABB6
 
 #W32($195C)
-サイドブレーキの自動ロック機能を解除。<END>
+Disables the automatic locking system of the<END>
 //POINTER #148 @ $1988 - STRING #148 @ $ABDE
 
 #W32($1988)
-「スピンターンノブ」for an increased effect．<END>
+Use with「SPIN TURN‐KNOB」for an increased effect．<END>
 //POINTER #149 @ $19B4 - STRING #149 @ $AC08
 
 #W32($19B4)
-「ブレーキクリーナー」for an increased effect．<END>
+Use with「BRAKE CLEANER」for an increased effect．<END>
 //POINTER #150 @ $19E0 - STRING #150 @ $AC34
 
 #W32($19E0)
-「ブレーキクリーナー」for an increased effect．<END>
+Use with「BRAKE CLEANER」for an increased effect．<END>
 //POINTER #151 @ $1A0C - STRING #151 @ $AC60
 
 #W32($1A0C)
-警告を表示。<END>
+above a certain level．<END>
 //POINTER #152 @ $1A38 - STRING #152 @ $AC6E
 
 #W32($1A38)
-一定以上上昇すると警告を表示。<END>
+as well as high brake fade level．<END>
 //POINTER #153 @ $1A64 - STRING #153 @ $AC8E
 
 #W32($1A64)
-車のコンディション低下を緩和。<END>
+it comes into contact with a wall or a car．<END>
 //POINTER #154 @ $1A90 - STRING #154 @ $ACAE
 
 #W32($1A90)
-車のコンディション低下を緩和。<END>
+it comes into contact with a wall or a car．<END>
 //POINTER #155 @ $1ABC - STRING #155 @ $ACCE
 
 #W32($1ABC)
-車のコンディション低下を緩和。<END>
+it comes into contact with a wall or a car．<END>
 //POINTER #156 @ $1AE8 - STRING #156 @ $ACEE
 
 #W32($1AE8)
-車のコンディション低下を緩和。<END>
+it comes into contact with a wall or a car．<END>
 //POINTER #157 @ $1B14 - STRING #157 @ $AD0E
 
 #W32($1B14)
-車のコンディション低下を緩和。<END>
+it comes into contact with a wall or a car．<END>
 //POINTER #158 @ $1B40 - STRING #158 @ $AD2E
 
 #W32($1B40)
-「リジッドラック」for an increased effect．<END>
+Use with「JACK STAND」for an increased effect．<END>
 //POINTER #159 @ $1B6C - STRING #159 @ $AD56
 
 #W32($1B6C)
-「リジッドラック」for an increased effect．<END>
+Use with「JACK STAND」for an increased effect．<END>
 //POINTER #160 @ $1B98 - STRING #160 @ $AD7E
 
 #W32($1B98)
-「リジッドラック」for an increased effect．<END>
+Use with「JACK STAND」for an increased effect．<END>
 //POINTER #161 @ $1BC4 - STRING #161 @ $ADA6
 
 #W32($1BC4)
-「ジャッキ」for an increased effect．<END>
+Use with「JACK」for an increased effect．<END>
 //POINTER #162 @ $1BF0 - STRING #162 @ $ADC8
 
 #W32($1BF0)
-「ジャッキ」for an increased effect．<END>
+Use with「JACK」for an increased effect．<END>
 //POINTER #163 @ $1C1C - STRING #163 @ $ADEA
 
 #W32($1C1C)
-「ジャッキ」for an increased effect．<END>
+Use with「JACK」for an increased effect．<END>
 //POINTER #164 @ $1C48 - STRING #164 @ $AE0C
 
 #W32($1C48)
-「インナーシュー」for an increased effect．<END>
+Use with「INNER SHOE」for an increased effect．<END>
 //POINTER #165 @ $1C74 - STRING #165 @ $AE34
 
 #W32($1C74)
-「インナーシュー」for an increased effect．<END>
+Use with「INNER SHOE」for an increased effect．<END>
 //POINTER #166 @ $1CA0 - STRING #166 @ $AE5C
 
 #W32($1CA0)
-「インナーシュー」for an increased effect．<END>
+Use with「INNER SHOE」for an increased effect．<END>
 //POINTER #167 @ $1CCC - STRING #167 @ $AE84
 
 #W32($1CCC)
@@ -5810,163 +5810,163 @@ one used by a famous racer．<END>
 //POINTER #127 @ $15F0 - STRING #127 @ $CB24
 
 #W32($15F0)
-公式レースでも使用可能な本格スーツ。<END>
+A full-fledged suit、can used in official races．<END>
 //POINTER #128 @ $161C - STRING #128 @ $CB4A
 
 #W32($161C)
-有名レーサーが使用しているものと同様のデザインが<END>
+Racing-grade suit with a design similar to<END>
 //POINTER #129 @ $1648 - STRING #129 @ $CB7C
 
 #W32($1648)
-ステアリング操作時の汗による滑りを<END>
+It prevents the steering wheel slipping<END>
 //POINTER #130 @ $1674 - STRING #130 @ $CBA0
 
 #W32($1674)
-公式レースでも使用可能な本格グローブ。<END>
+Approved gloves that can be used in official races．<END>
 //POINTER #131 @ $16A0 - STRING #131 @ $CBC8
 
 #W32($16A0)
-有名レーサーが使用しているものと同様のデザインが<END>
+Racing-grade gloves with a design similar to<END>
 //POINTER #132 @ $16CC - STRING #132 @ $CBFA
 
 #W32($16CC)
-ペダルを踏んだ時のフィーリングが格段に向上し、<END>
+Significantly enhances pedal feel．<END>
 //POINTER #133 @ $16F8 - STRING #133 @ $CC2A
 
 #W32($16F8)
-ペダルを踏んだ時のフィーリングが格段に向上する。<END>
+Greatly improves the pedal feel．<END>
 //POINTER #134 @ $1724 - STRING #134 @ $CC5C
 
 #W32($1724)
-施されたレーサーモデルシューズ。<END>
+one used by a famous racer．<END>
 //POINTER #135 @ $1750 - STRING #135 @ $CC7E
 
 #W32($1750)
-リクライニング機能を備えており、スポーツ、<END>
+Has a reclining function、allowing it to be<END>
 //POINTER #136 @ $177C - STRING #136 @ $CCAA
 
 #W32($177C)
-体をしっかりとシートに固定することが可能。<END>
+firmly fixing the body into the seat．<END>
 //POINTER #137 @ $17A8 - STRING #137 @ $CCD6
 
 #W32($17A8)
-効果が上昇。<END>
+an increased effect．<END>
 //POINTER #138 @ $17D4 - STRING #138 @ $CCE4
 
 #W32($17D4)
-３インチ幅のベルトは高いホールド性を実現し、<END>
+The 3-inch wide belt provides great holding<END>
 //POINTER #139 @ $1800 - STRING #139 @ $CD12
 
 #W32($1800)
-効果が上昇。<END>
+an increased effect．<END>
 //POINTER #140 @ $182C - STRING #140 @ $CD20
 
 #W32($182C)
-エンジンの燃焼室で火花を飛ばして点火をする。<END>
+They ignite by sparking in the combustion chamber．<END>
 //POINTER #141 @ $1858 - STRING #141 @ $CD4E
 
 #W32($1858)
-ニッケル製プラグよりも性能面、寿命面で<END>
+They are superior to nickel plugs in terms of<END>
 //POINTER #142 @ $1884 - STRING #142 @ $CD76
 
 #W32($1884)
-性能、寿命ともに最高級のものに仕上がっている。<END>
+They are the highest quality in terms of<END>
 //POINTER #143 @ $18B0 - STRING #143 @ $CDA6
 
 #W32($18B0)
-「プラグコード」for an increased effect．<END>
+Use with「PLUG CORD」for an increased effect．<END>
 //POINTER #144 @ $18DC - STRING #144 @ $CDCC
 
 #W32($18DC)
-改造・開発された高性能点火システム。<END>
+to further improve the ignition system's<END>
 //POINTER #145 @ $1908 - STRING #145 @ $CDF2
 
 #W32($1908)
-「ＭＤＩシステム」for an increased effect．<END>
+Use with「MDI SYSTEM」for an increased effect．<END>
 //POINTER #146 @ $1934 - STRING #146 @ $CE1A
 
 #W32($1934)
-従来品よりもさらに強力な高圧電流を加えることで<END>
+ignition system、providing even more performance<END>
 //POINTER #147 @ $1960 - STRING #147 @ $CE4A
 
 #W32($1960)
-アルミ製よりも手触りが滑らかになっているので、<END>
+handbrake．Smoother to the touch than the<END>
 //POINTER #148 @ $198C - STRING #148 @ $CE7A
 
 #W32($198C)
-通常のサイドブレーキに比べ、格段にフィーリング、<END>
+It has a much improved feel and controllability<END>
 //POINTER #149 @ $19B8 - STRING #149 @ $CEAC
 
 #W32($19B8)
-スポーツ走行を想定し、特殊素材を使用。<END>
+Made with special materials to withstand<END>
 //POINTER #150 @ $19E4 - STRING #150 @ $CED4
 
 #W32($19E4)
-公式レースを想定し、厳選した特殊素材を使用。<END>
+Made with carefully selected materials to<END>
 //POINTER #151 @ $1A10 - STRING #151 @ $CF02
 
 #W32($1A10)
-サイズが大きくなり、よりたくさんの情報を<END>
+The design is more functional and modern．<END>
 //POINTER #152 @ $1A3C - STRING #152 @ $CF2C
 
 #W32($1A3C)
-文字プレートを使用した一級品で、<END>
+A first class product with letter plates、<END>
 //POINTER #153 @ $1A68 - STRING #153 @ $CF4E
 
 #W32($1A68)
-「工具」for an increased effect．<END>
+Use with「TOOLSET」for an increased effect．<END>
 //POINTER #154 @ $1A94 - STRING #154 @ $CF6C
 
 #W32($1A94)
-「工具」for an increased effect．<END>
+Use with「TOOLSET」for an increased effect．<END>
 //POINTER #155 @ $1AC0 - STRING #155 @ $CF8A
 
 #W32($1AC0)
-「補修用品」for an increased effect．<END>
+Use with「REPAIR KIT」for an increased effect．<END>
 //POINTER #156 @ $1AEC - STRING #156 @ $CFAC
 
 #W32($1AEC)
-「補修用品」for an increased effect．<END>
+Use with「REPAIR KIT」for an increased effect．<END>
 //POINTER #157 @ $1B18 - STRING #157 @ $CFCE
 
 #W32($1B18)
-「補修用品」for an increased effect．<END>
+Use with「REPAIR KIT」for an increased effect．<END>
 //POINTER #158 @ $1B44 - STRING #158 @ $CFF0
 
 #W32($1B44)
-車にも標準装備されている、持ち運びも便利な<END>
+A small、portable car jack that is part<END>
 //POINTER #159 @ $1B70 - STRING #159 @ $D01C
 
 #W32($1B70)
-車高が高めの車向きで、見た目は小さいが<END>
+Suitable for cars with high ground clearance．<END>
 //POINTER #160 @ $1B9C - STRING #160 @ $D044
 
 #W32($1B9C)
-油圧を利用して強力な力を生み出すことが<END>
+It is able to generate powerful force with<END>
 //POINTER #161 @ $1BC8 - STRING #161 @ $D06C
 
 #W32($1BC8)
-ジャッキアップした車を支える支持台。<END>
+A support stand for a jacked-up car．<END>
 //POINTER #162 @ $1BF4 - STRING #162 @ $D092
 
 #W32($1BF4)
-ジャッキアップした車を支える支持台。<END>
+A support stand for a jacked-up car．<END>
 //POINTER #163 @ $1C20 - STRING #163 @ $D0B8
 
 #W32($1C20)
-ジャッキアップした車を支える支持台。<END>
+A support stand for a jacked-up car．<END>
 //POINTER #164 @ $1C4C - STRING #164 @ $D0DE
 
 #W32($1C4C)
-汎用的なブレーキクリーナーで、<END>
+A general-purpose brake cleaner、<END>
 //POINTER #165 @ $1C78 - STRING #165 @ $D0FE
 
 #W32($1C78)
-従来品を競技用車両の走行にも通用する効力に<END>
+Upgraged from the previous version to be<END>
 //POINTER #166 @ $1CA4 - STRING #166 @ $D12A
 
 #W32($1CA4)
-お得なボトルタイプで、１缶で１年は持つ大容量が<END>
+Comes in an economical bottle can、<END>
 //POINTER #167 @ $1CD0 - STRING #167 @ $D15A
 
 #W32($1CD0)
@@ -6692,39 +6692,39 @@ A must have item for fans．<END>
 //POINTER #127 @ $15F4 - STRING #127 @ $E756
 
 #W32($15F4)
-万が一の事故の際の耐熱スーツにもなるので、<END>
+It is also heat-resistant in case of an accident、<END>
 //POINTER #128 @ $1620 - STRING #128 @ $E782
 
 #W32($1620)
-施されたレーサーモデルスーツ。<END>
+one used by a famous racer．<END>
 //POINTER #129 @ $164C - STRING #129 @ $E7A2
 
 #W32($164C)
-防止してくれる。<END>
+from sweat．<END>
 //POINTER #130 @ $1678 - STRING #130 @ $E7B4
 
 #W32($1678)
-上位ランクに上がったドライバーは、<END>
+Higher-rank drivers should use this opportunity、<END>
 //POINTER #131 @ $16A4 - STRING #131 @ $E7D8
 
 #W32($16A4)
-施されたレーサーモデルグローブ。<END>
+one used by a famous racer．<END>
 //POINTER #132 @ $16D0 - STRING #132 @ $E7FA
 
 #W32($16D0)
-入門者にも優しいお手軽なシューズになっている。<END>
+Easy to wear、making them friendly to<END>
 //POINTER #133 @ $16FC - STRING #133 @ $E82A
 
 #W32($16FC)
-上位ランクに上がったドライバーは、<END>
+Higher-rank drivers should use this opportunity、<END>
 //POINTER #134 @ $1728 - STRING #134 @ $E84E
 
 #W32($1728)
-ファンには必見のアイテムなので<END>
+A must have item for fans．<END>
 //POINTER #135 @ $1754 - STRING #135 @ $E86E
 
 #W32($1754)
-一般の両走行で使用することが可能となっている。<END>
+used for both sport and general driving．<END>
 //POINTER #136 @ $1780 - STRING #136 @ $E89E
 
 #W32($1780)
@@ -6732,123 +6732,123 @@ A must have item for fans．<END>
 //POINTER #137 @ $17AC - STRING #137 @ $E8A0
 
 #W32($17AC)
-フルバケットシートをカーボン製にすることで<END>
+Full bucket seats made out of carbon、<END>
 //POINTER #138 @ $17D8 - STRING #138 @ $E8CC
 
 #W32($17D8)
-大規模なクラッシュにも耐え得る強度を保っている。<END>
+strength and is able to withstand massive crashes．<END>
 //POINTER #139 @ $1804 - STRING #139 @ $E8FE
 
 #W32($1804)
-ワンタッチボタンで、従来品よりもお手軽な<END>
+With the one-touch button、the belt can be attached<END>
 //POINTER #140 @ $1830 - STRING #140 @ $E928
 
 #W32($1830)
-標準的な性能で寿命もそこそこなので、<END>
+With standard performance and decent longevity、<END>
 //POINTER #141 @ $185C - STRING #141 @ $E94E
 
 #W32($185C)
-優れたものとなっているので注目しておきたい。<END>
+performance and longevity．<END>
 //POINTER #142 @ $1888 - STRING #142 @ $E97C
 
 #W32($1888)
-<END>
+performance and longevity．<END>
 //POINTER #143 @ $18B4 - STRING #143 @ $E97E
 
 #W32($18B4)
-従来の点火システムの性能を向上させ、<END>
+A newly developed ignition system、<END>
 //POINTER #144 @ $18E0 - STRING #144 @ $E9A4
 
 #W32($18E0)
-<END>
+performance．<END>
 //POINTER #145 @ $190C - STRING #145 @ $E9A6
 
 #W32($190C)
-点火システムに高圧電流を加えることで<END>
+Improves the ignition system by adding<END>
 //POINTER #146 @ $1938 - STRING #146 @ $E9CC
 
 #W32($1938)
-点火システムの性能を飛躍的に向上させてくれる。<END>
+than the conventional products．<END>
 //POINTER #147 @ $1964 - STRING #147 @ $E9FC
 
 #W32($1964)
-お好みで選ぶのもいいだろう。<END>
+aluminum one．<END>
 //POINTER #148 @ $1990 - STRING #148 @ $EA1A
 
 #W32($1990)
-コントロール性が向上したものとなっている。<END>
+compared to a standard handbrake．<END>
 //POINTER #149 @ $19BC - STRING #149 @ $EA46
 
 #W32($19BC)
-激しい走行にも耐えるフェード性を実現している。<END>
+and resist fade from intense sports driving．<END>
 //POINTER #150 @ $19E8 - STRING #150 @ $EA76
 
 #W32($19E8)
-激しい走行にも耐えるフェード性を実現している。<END>
+withstand and resist fade in official races．<END>
 //POINTER #151 @ $1A14 - STRING #151 @ $EAA6
 
 #W32($1A14)
-書き込めるようになっている。<END>
+It has an increased size to allow more information<END>
 //POINTER #152 @ $1A40 - STRING #152 @ $EAC4
 
 #W32($1A40)
-公式レースに持ち込んでも恥ずかしくない<END>
+one that fits being brought to an official race．<END>
 //POINTER #153 @ $1A6C - STRING #153 @ $EAEC
 
 #W32($1A6C)
-大小さまざまな傷にも対応し、速乾性、高硬度の<END>
+Quick-drying、hard and durable、<END>
 //POINTER #154 @ $1A98 - STRING #154 @ $EB1A
 
 #W32($1A98)
-応急的なものでなく、本格的な補修が可能なので<END>
+A full-scale scratch repair that is not<END>
 //POINTER #155 @ $1AC4 - STRING #155 @ $EB48
 
 #W32($1AC4)
-必要最低限の工具を揃えた簡易工具セットで<END>
+A simple toolset with the minimum set of<END>
 //POINTER #156 @ $1AF0 - STRING #156 @ $EB72
 
 #W32($1AF0)
-一通りの工具を揃えたスタンダードな工具セットに<END>
+A standard toolset with a complete set of<END>
 //POINTER #157 @ $1B1C - STRING #157 @ $EBA2
 
 #W32($1B1C)
-多種類の工具を揃え、あらゆる局面に対応可能に<END>
+A wide variety of tools to handle all<END>
 //POINTER #158 @ $1B48 - STRING #158 @ $EBD0
 
 #W32($1B48)
-小型ジャッキ。<END>
+of standard car equipment．<END>
 //POINTER #159 @ $1B74 - STRING #159 @ $EBE0
 
 #W32($1B74)
-十分な強度を発揮してくれる。<END>
+Although it looks small、it provides<END>
 //POINTER #160 @ $1BA0 - STRING #160 @ $EBFE
 
 #W32($1BA0)
-可能となっている。<END>
+hydraulic pressure．<END>
 //POINTER #161 @ $1BCC - STRING #161 @ $EC12
 
 #W32($1BCC)
-小型だがそれなりの強度を発揮してくれる。<END>
+It is small、but able to provide good strength．<END>
 //POINTER #162 @ $1BF8 - STRING #162 @ $EC3C
 
 #W32($1BF8)
-大型で頑丈になり高い強度を発揮してくれる。<END>
+Large and sturdy、providing high strength．<END>
 //POINTER #163 @ $1C24 - STRING #163 @ $EC68
 
 #W32($1C24)
-ジャッキアップを補助するスロープが<END>
+Ramps that assist jacking-up the car．<END>
 //POINTER #164 @ $1C50 - STRING #164 @ $EC8C
 
 #W32($1C50)
-先細の噴射口は狭い部分にも使用可能となっている。<END>
+can be sprayed into narrow areas．<END>
 //POINTER #165 @ $1C7C - STRING #165 @ $ECBE
 
 #W32($1C7C)
-改良している。<END>
+effective even for racing vehicles．<END>
 //POINTER #166 @ $1CA8 - STRING #166 @ $ECCE
 
 #W32($1CA8)
-うれしい。<END>
+that can last up to a year．<END>
 //POINTER #167 @ $1CD4 - STRING #167 @ $ECDA
 
 #W32($1CD4)
@@ -7574,11 +7574,11 @@ Dont miss it！<END>
 //POINTER #127 @ $15F8 - STRING #127 @ $FE24
 
 #W32($15F8)
-上位ランクに上がったドライバーは、<END>
+so higher-rank drivers are advised to take this<END>
 //POINTER #128 @ $1624 - STRING #128 @ $FE48
 
 #W32($1624)
-ファンには必見のアイテムなので、<END>
+A must have item for fans．<END>
 //POINTER #129 @ $1650 - STRING #129 @ $FE6A
 
 #W32($1650)
@@ -7586,23 +7586,23 @@ Dont miss it！<END>
 //POINTER #130 @ $167C - STRING #130 @ $FE6C
 
 #W32($167C)
-これを機会に買い換えてみては如何だろうか？<END>
+to get a new pair of gloves．<END>
 //POINTER #131 @ $16A8 - STRING #131 @ $FE98
 
 #W32($16A8)
-ファンには必見のアイテムなので、<END>
+A must have item for fans．<END>
 //POINTER #132 @ $16D4 - STRING #132 @ $FEBA
 
 #W32($16D4)
-<END>
+beginners．<END>
 //POINTER #133 @ $1700 - STRING #133 @ $FEBC
 
 #W32($1700)
-これを機会に買い換えてみては如何だろうか？<END>
+to get a new pair of shoes．<END>
 //POINTER #134 @ $172C - STRING #134 @ $FEE8
 
 #W32($172C)
-見逃すことのないようにしたい。<END>
+Dont miss it！<END>
 //POINTER #135 @ $1758 - STRING #135 @ $FF08
 
 #W32($1758)
@@ -7614,7 +7614,7 @@ Dont miss it！<END>
 //POINTER #137 @ $17B0 - STRING #137 @ $FF0C
 
 #W32($17B0)
-ホールド感はそのままに大幅軽量化に<END>
+greatly reducing weight while maintaining<END>
 //POINTER #138 @ $17DC - STRING #138 @ $FF30
 
 #W32($17DC)
@@ -7622,11 +7622,11 @@ Dont miss it！<END>
 //POINTER #139 @ $1808 - STRING #139 @ $FF32
 
 #W32($1808)
-ベルトの着脱が可能となっている。<END>
+and detached more easily than previos models<END>
 //POINTER #140 @ $1834 - STRING #140 @ $FF54
 
 #W32($1834)
-気軽に購入できる。<END>
+they are an easy purchase．<END>
 //POINTER #141 @ $1860 - STRING #141 @ $FF68
 
 #W32($1860)
@@ -7638,7 +7638,7 @@ Dont miss it！<END>
 //POINTER #143 @ $18B8 - STRING #143 @ $FF6C
 
 #W32($18B8)
-開発された新型点火システム。<END>
+improves the performance of<END>
 //POINTER #144 @ $18E4 - STRING #144 @ $FF8A
 
 #W32($18E4)
@@ -7646,7 +7646,7 @@ Dont miss it！<END>
 //POINTER #145 @ $1910 - STRING #145 @ $FF8C
 
 #W32($1910)
-点火システムの性能を向上させてくれる。<END>
+a high voltage current．<END>
 //POINTER #146 @ $193C - STRING #146 @ $FFB4
 
 #W32($193C)
@@ -7670,31 +7670,31 @@ Dont miss it！<END>
 //POINTER #151 @ $1A18 - STRING #151 @ $FFBE
 
 #W32($1A18)
-デザインも今風で機能的になっている。<END>
+to be written．<END>
 //POINTER #152 @ $1A44 - STRING #152 @ $FFE4
 
 #W32($1A44)
-一品となっている。<END>
+<END>
 //POINTER #153 @ $1A70 - STRING #153 @ $FFF8
 
 #W32($1A70)
-優れた効能を期待できる。<END>
+expected to be used with scratches of<END>
 //POINTER #154 @ $1A9C - STRING #154 @ $10012
 
 #W32($1A9C)
-車に傷をつけやすいドライバーは注目だ。<END>
+temporary、for drivers who are prone to<END>
 //POINTER #155 @ $1AC8 - STRING #155 @ $1003A
 
 #W32($1AC8)
-持ち運びも便利になっている。<END>
+necessary tools、making it convenient<END>
 //POINTER #156 @ $1AF4 - STRING #156 @ $10058
 
 #W32($1AF4)
-なっている。<END>
+tools．<END>
 //POINTER #157 @ $1B20 - STRING #157 @ $10066
 
 #W32($1B20)
-なっている。<END>
+all aspects of working on your car．<END>
 //POINTER #158 @ $1B4C - STRING #158 @ $10074
 
 #W32($1B4C)
@@ -7702,7 +7702,7 @@ Dont miss it！<END>
 //POINTER #159 @ $1B78 - STRING #159 @ $10076
 
 #W32($1B78)
-<END>
+sufficient strength．<END>
 //POINTER #160 @ $1BA4 - STRING #160 @ $10078
 
 #W32($1BA4)
@@ -7718,7 +7718,7 @@ Dont miss it！<END>
 //POINTER #163 @ $1C28 - STRING #163 @ $1007E
 
 #W32($1C28)
-付属しているので、お見逃しなく。<END>
+<END>
 //POINTER #164 @ $1C54 - STRING #164 @ $100A0
 
 #W32($1C54)
@@ -8456,11 +8456,11 @@ definitely consider this weight reduction．<END>
 //POINTER #127 @ $15FC - STRING #127 @ $10F46
 
 #W32($15FC)
-これを機会に買い換えてみては如何だろうか？<END>
+opportunity to buy a new suit．<END>
 //POINTER #128 @ $1628 - STRING #128 @ $10F72
 
 #W32($1628)
-見逃すことのないようにしたい。<END>
+Dont miss it！<END>
 //POINTER #129 @ $1654 - STRING #129 @ $10F92
 
 #W32($1654)
@@ -8472,7 +8472,7 @@ definitely consider this weight reduction．<END>
 //POINTER #131 @ $16AC - STRING #131 @ $10F96
 
 #W32($16AC)
-見逃すことのないようにしたい。<END>
+Dont miss it！<END>
 //POINTER #132 @ $16D8 - STRING #132 @ $10FB6
 
 #W32($16D8)
@@ -8496,7 +8496,7 @@ definitely consider this weight reduction．<END>
 //POINTER #137 @ $17B4 - STRING #137 @ $10FC0
 
 #W32($17B4)
-成功しているので注目しておきたい。<END>
+the strength to hold the body in place．<END>
 //POINTER #138 @ $17E0 - STRING #138 @ $10FE4
 
 #W32($17E0)
@@ -8520,7 +8520,7 @@ definitely consider this weight reduction．<END>
 //POINTER #143 @ $18BC - STRING #143 @ $10FEE
 
 #W32($18BC)
-<END>
+traditional ignition systems．<END>
 //POINTER #144 @ $18E8 - STRING #144 @ $10FF0
 
 #W32($18E8)
@@ -8560,15 +8560,15 @@ definitely consider this weight reduction．<END>
 //POINTER #153 @ $1A74 - STRING #153 @ $11002
 
 #W32($1A74)
-<END>
+various sizes．<END>
 //POINTER #154 @ $1AA0 - STRING #154 @ $11004
 
 #W32($1AA0)
-<END>
+scratching their cars．<END>
 //POINTER #155 @ $1ACC - STRING #155 @ $11006
 
 #W32($1ACC)
-<END>
+to carry．<END>
 //POINTER #156 @ $1AF8 - STRING #156 @ $11008
 
 #W32($1AF8)
