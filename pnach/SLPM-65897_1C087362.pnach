@@ -424,11 +424,12 @@ patch=1,EE,00512554,word,00150019 //DE 01 96 01
 patch=1,EE,00512558,word,0022000A //B9 01 5A 00
 patch=1,EE,0051255C,word,00D20113 //B1 01 D2 00
 
-//save data, cant find it used ingame
-//patch=1,EE,005617C8,word, //B9 01 5A 00 
-//patch=1,EE,005617CC,word, //B1 01 AD 01 
-//patch=1,EE,005617D0,word, //5A 00 C8 01 
-//patch=1,EE,005617D4,word, //FF FF 00 00
+//save data text when quitting quest mode
+patch=1,EE,005617C8,word,000A001C //B9 01 5A 00 
+patch=1,EE,005617CC,word,000E001F //B1 01 AD 01 
+patch=1,EE,005617D0,word,000D0113 //5A 00 C8 01 
+patch=1,EE,005617D4,word,001D000A //FF FF 00 00
+patch=1,EE,005617D8,word,FFFF000A //00 00 00 00
 
 //not won:0 sp battle not won:0 (meaning, rivals not won against left at all and sp battle only rivals)
 patch=1,EE,004BFAD0,word,0012001B //4B 0D 24 08 
