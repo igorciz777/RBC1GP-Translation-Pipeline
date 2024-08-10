@@ -60,7 +60,7 @@ TIRE CHANGE<END>
 //POINTER #12 @ $30 - STRING #12 @ $50A
 
 #W32($30)
-INCHーUP<END>
+INCH-UP<END>
 //POINTER #13 @ $34 - STRING #13 @ $518
 
 #W32($34)
@@ -248,7 +248,7 @@ Replace tires．<END>
 //POINTER #59 @ $EC - STRING #59 @ $8DC
 
 #W32($EC)
-”InchーUp” the wheel size．Increasing the inch size enhances lateral rigidity of the tires and changes the appearence．<END>
+”Inch-Up” the wheel size．Increasing the inch size enhances lateral rigidity of the tires and changes the appearence．<END>
 //POINTER #60 @ $F0 - STRING #60 @ $946
 
 #W32($F0)
@@ -388,27 +388,27 @@ Adjusting toe angle improves turning ability．<END>
 //POINTER #94 @ $178 - STRING #94 @ $115A
 
 #W32($178)
-Adjusting spring rate improves straightーline stability．<END>
+Adjusting spring rate improves straight-line stability．<END>
 //POINTER #95 @ $17C - STRING #95 @ $1190
 
 #W32($17C)
-Adjusting the damper improves straightーline stability．<END>
+Adjusting the damper improves straight-line stability．<END>
 //POINTER #96 @ $180 - STRING #96 @ $11C4
 
 #W32($180)
-Adjusting the antiroll stabilizer improves straightーline stability．<END>
+Adjusting the antiroll stabilizer improves straight-line stability．<END>
 //POINTER #97 @ $184 - STRING #97 @ $11FE
 
 #W32($184)
-Adjusting the ride height improves straightーline stability．<END>
+Adjusting the ride height improves straight-line stability．<END>
 //POINTER #98 @ $188 - STRING #98 @ $122E
 
 #W32($188)
-Adjusting the drivetrain power balance improves straightーline stability．<END>
+Adjusting the drivetrain power balance improves straight-line stability．<END>
 //POINTER #99 @ $18C - STRING #99 @ $1264
 
 #W32($18C)
-Adjusting toe angle improves straightーline stability．<END>
+Adjusting toe angle improves straight-line stability．<END>
 //POINTER #100 @ $190 - STRING #100 @ $1296
 
 #W32($190)
@@ -492,7 +492,7 @@ Installs normal tires．<END>
 //POINTER #120 @ $1E0 - STRING #120 @ $1A08
 
 #W32($1E0)
-Installs highーgrip tires．Suitable for wet conditions．<END>
+Installs high-grip tires．Suitable for wet conditions．<END>
 //POINTER #121 @ $1E4 - STRING #121 @ $1A62
 
 #W32($1E4)
@@ -508,7 +508,7 @@ Installs soft compound S tires．They provide best grip、but have the worst dur
 //POINTER #124 @ $1F0 - STRING #124 @ $1BB4
 
 #W32($1F0)
-Select a size for the ”InchーUp”．<END>
+Select a size for the ”Inch-Up”．<END>
 //POINTER #125 @ $1F4 - STRING #125 @ $1BE0
 
 #W32($1F4)

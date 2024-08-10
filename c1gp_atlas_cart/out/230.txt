@@ -390,7 +390,7 @@
 //POINTER #95 @ $D5C - STRING #95 @ $26A0
 
 #W32($D5C)
-<COLOR><PALE_CHESTNUT>LEADER<COLOR><DUSTY_GRAY> appears at <COLOR><PALE_CHESTNUT>SHUTOKOーOUTER！<END>
+<COLOR><PALE_CHESTNUT>LEADER<COLOR><DUSTY_GRAY> appears at <COLOR><PALE_CHESTNUT>SHUTOKO-OUTER！<END>
 //POINTER #96 @ $D80 - STRING #96 @ $26D8
 
 #W32($D80)
@@ -402,7 +402,7 @@
 //POINTER #98 @ $DC8 - STRING #98 @ $273E
 
 #W32($DC8)
-<COLOR><PALE_CHESTNUT>LEADER<COLOR><DUSTY_GRAY> appears at <COLOR><PALE_CHESTNUT>OSAKAーKANJO！<END>
+<COLOR><PALE_CHESTNUT>LEADER<COLOR><DUSTY_GRAY> appears at <COLOR><PALE_CHESTNUT>OSAKA-KANJO！<END>
 //POINTER #99 @ $DEC - STRING #99 @ $2772
 
 #W32($DEC)
@@ -414,7 +414,7 @@
 //POINTER #101 @ $E34 - STRING #101 @ $27E8
 
 #W32($E34)
-<COLOR><PALE_CHESTNUT>LEADER<COLOR><DUSTY_GRAY> appears at <COLOR><PALE_CHESTNUT>SHUTOKOーINNER！<END>
+<COLOR><PALE_CHESTNUT>LEADER<COLOR><DUSTY_GRAY> appears at <COLOR><PALE_CHESTNUT>SHUTOKO-INNER！<END>
 //POINTER #102 @ $E58 - STRING #102 @ $2820
 
 #W32($E58)
@@ -426,7 +426,7 @@
 //POINTER #104 @ $EA0 - STRING #104 @ $2880
 
 #W32($EA0)
-<COLOR><PALE_CHESTNUT>LEADER<COLOR><DUSTY_GRAY> appears at <COLOR><PALE_CHESTNUT>SHUTOKOーOUTER！<END>
+<COLOR><PALE_CHESTNUT>LEADER<COLOR><DUSTY_GRAY> appears at <COLOR><PALE_CHESTNUT>SHUTOKO-OUTER！<END>
 //POINTER #105 @ $EC4 - STRING #105 @ $28B8
 
 #W32($EC4)
@@ -438,11 +438,11 @@
 //POINTER #107 @ $F0C - STRING #107 @ $291E
 
 #W32($F0C)
-<COLOR><PALE_CHESTNUT>LEADER<COLOR><DUSTY_GRAY> appears at <COLOR><PALE_CHESTNUT>OSAKAーKANJO！<END>
+<COLOR><PALE_CHESTNUT>LEADER<COLOR><DUSTY_GRAY> appears at <COLOR><PALE_CHESTNUT>OSAKA-KANJO！<END>
 //POINTER #108 @ $F30 - STRING #108 @ $2952
 
 #W32($F30)
-<COLOR><PALE_CHESTNUT>LEADER<COLOR><DUSTY_GRAY> appears at <COLOR><PALE_CHESTNUT>OSAKAーKANJO！<END>
+<COLOR><PALE_CHESTNUT>LEADER<COLOR><DUSTY_GRAY> appears at <COLOR><PALE_CHESTNUT>OSAKA-KANJO！<END>
 //POINTER #109 @ $F54 - STRING #109 @ $2986
 
 #W32($F54)
@@ -462,7 +462,7 @@
 //POINTER #113 @ $FE4 - STRING #113 @ $2A72
 
 #W32($FE4)
-<COLOR><PALE_CHESTNUT>LEADER<COLOR><DUSTY_GRAY> appears at <COLOR><PALE_CHESTNUT>SHUTOKOーINNER！<END>
+<COLOR><PALE_CHESTNUT>LEADER<COLOR><DUSTY_GRAY> appears at <COLOR><PALE_CHESTNUT>SHUTOKO-INNER！<END>
 //POINTER #114 @ $1008 - STRING #114 @ $2AAA
 
 #W32($1008)
@@ -474,11 +474,11 @@
 //POINTER #116 @ $1050 - STRING #116 @ $2B0A
 
 #W32($1050)
-<COLOR><PALE_CHESTNUT>LEADER<COLOR><DUSTY_GRAY> appears at <COLOR><PALE_CHESTNUT>SHUTOKOーOUTER！<END>
+<COLOR><PALE_CHESTNUT>LEADER<COLOR><DUSTY_GRAY> appears at <COLOR><PALE_CHESTNUT>SHUTOKO-OUTER！<END>
 //POINTER #117 @ $1074 - STRING #117 @ $2B42
 
 #W32($1074)
-<COLOR><PALE_CHESTNUT>LEADER<COLOR><DUSTY_GRAY> appears at <COLOR><PALE_CHESTNUT>SHUTOKOーOUTER！<END>
+<COLOR><PALE_CHESTNUT>LEADER<COLOR><DUSTY_GRAY> appears at <COLOR><PALE_CHESTNUT>SHUTOKO-OUTER！<END>
 //POINTER #118 @ $1098 - STRING #118 @ $2B7A
 
 #W32($1098)
@@ -498,11 +498,11 @@
 //POINTER #122 @ $1128 - STRING #122 @ $2C46
 
 #W32($1128)
-<COLOR><PALE_CHESTNUT>LEADER<COLOR><DUSTY_GRAY> appears at <COLOR><PALE_CHESTNUT>OSAKAーKANJO！<END>
+<COLOR><PALE_CHESTNUT>LEADER<COLOR><DUSTY_GRAY> appears at <COLOR><PALE_CHESTNUT>OSAKA-KANJO！<END>
 //POINTER #123 @ $114C - STRING #123 @ $2C7A
 
 #W32($114C)
-<COLOR><PALE_CHESTNUT>LEADER<COLOR><DUSTY_GRAY> appears at <COLOR><PALE_CHESTNUT>OSAKAーKANJO！<END>
+<COLOR><PALE_CHESTNUT>LEADER<COLOR><DUSTY_GRAY> appears at <COLOR><PALE_CHESTNUT>OSAKA-KANJO！<END>
 //POINTER #124 @ $1170 - STRING #124 @ $2CAE
 
 #W32($1170)
@@ -522,11 +522,11 @@
 //POINTER #128 @ $1200 - STRING #128 @ $2D9A
 
 #W32($1200)
-<COLOR><PALE_CHESTNUT>LEADER<COLOR><DUSTY_GRAY> appears at <COLOR><PALE_CHESTNUT>SHUTOKOーINNER！<END>
+<COLOR><PALE_CHESTNUT>LEADER<COLOR><DUSTY_GRAY> appears at <COLOR><PALE_CHESTNUT>SHUTOKO-INNER！<END>
 //POINTER #129 @ $1224 - STRING #129 @ $2DD2
 
 #W32($1224)
-<COLOR><PALE_CHESTNUT>LEADER<COLOR><DUSTY_GRAY> appears at <COLOR><PALE_CHESTNUT>SHUTOKOーINNER！<END>
+<COLOR><PALE_CHESTNUT>LEADER<COLOR><DUSTY_GRAY> appears at <COLOR><PALE_CHESTNUT>SHUTOKO-INNER！<END>
 //POINTER #130 @ $1248 - STRING #130 @ $2E0A
 
 #W32($1248)
@@ -546,7 +546,7 @@
 //POINTER #134 @ $12D8 - STRING #134 @ $2ECA
 
 #W32($12D8)
-<COLOR><PALE_CHESTNUT>MASTER<COLOR><DUSTY_GRAY> appears at <COLOR><PALE_CHESTNUT>SHUTOKOーOUTER！<END>
+<COLOR><PALE_CHESTNUT>MASTER<COLOR><DUSTY_GRAY> appears at <COLOR><PALE_CHESTNUT>SHUTOKO-OUTER！<END>
 //POINTER #135 @ $12FC - STRING #135 @ $2F02
 
 #W32($12FC)
@@ -566,7 +566,7 @@
 //POINTER #139 @ $138C - STRING #139 @ $2FDE
 
 #W32($138C)
-<COLOR><PALE_CHESTNUT>MASTER<COLOR><DUSTY_GRAY> appears at <COLOR><PALE_CHESTNUT>SHUTOKOーINNER！<END>
+<COLOR><PALE_CHESTNUT>MASTER<COLOR><DUSTY_GRAY> appears at <COLOR><PALE_CHESTNUT>SHUTOKO-INNER！<END>
 //POINTER #140 @ $13B0 - STRING #140 @ $3016
 
 #W32($13B0)
@@ -574,7 +574,7 @@
 //POINTER #141 @ $13D4 - STRING #141 @ $3046
 
 #W32($13D4)
-<COLOR><PALE_CHESTNUT>MASTER<COLOR><DUSTY_GRAY> appears at <COLOR><PALE_CHESTNUT>OSAKAーKANJO！<END>
+<COLOR><PALE_CHESTNUT>MASTER<COLOR><DUSTY_GRAY> appears at <COLOR><PALE_CHESTNUT>OSAKA-KANJO！<END>
 //POINTER #142 @ $13F8 - STRING #142 @ $307A
 
 #W32($13F8)
@@ -912,7 +912,7 @@ The racing muffler is installed．Titanium is<END>
 //POINTER #71 @ $A00 - STRING #71 @ $39C2
 
 #W32($A00)
-Allーtitanium racing muffler is installed、<END>
+All-titanium racing muffler is installed、<END>
 //POINTER #72 @ $A24 - STRING #72 @ $39F4
 
 #W32($A24)
@@ -932,15 +932,15 @@ Ignition timing and fuel map are set up<END>
 //POINTER #76 @ $AB4 - STRING #76 @ $3AB6
 
 #W32($AB4)
-A 2ーRow aluminum radiator is installed、<END>
+A 2-Row aluminum radiator is installed、<END>
 //POINTER #77 @ $AD8 - STRING #77 @ $3AE6
 
 #W32($AD8)
-A 3ーRow copper radiator is installed、<END>
+A 3-Row copper radiator is installed、<END>
 //POINTER #78 @ $AFC - STRING #78 @ $3B18
 
 #W32($AFC)
-Inーline、Vーtype、boxer and rotary racing engines<END>
+In-line、V-type、boxer and rotary racing engines<END>
 //POINTER #79 @ $B20 - STRING #79 @ $3B4A
 
 #W32($B20)
@@ -972,7 +972,7 @@ A set of brake pads and discs for intermediate<END>
 //POINTER #86 @ $C1C - STRING #86 @ $3C8E
 
 #W32($C1C)
-A big caliper kit with largeーcapacity pistons is<END>
+A big caliper kit with large-capacity pistons is<END>
 //POINTER #87 @ $C40 - STRING #87 @ $3CBE
 
 #W32($C40)
@@ -1274,7 +1274,7 @@ The offered prize、<COLOR><PALE_CHESTNUT>The Compact Cabinet<COLOR_END>、incre
 //POINTER #7 @ $104 - STRING #7 @ $4024
 
 #W32($104)
-The offered prize、<COLOR><PALE_CHESTNUT>The Mediumーsized Cabinet<COLOR_END>、increases the<END>
+The offered prize、<COLOR><PALE_CHESTNUT>The Medium-sized Cabinet<COLOR_END>、increases the<END>
 //POINTER #8 @ $128 - STRING #8 @ $405C
 
 #W32($128)
@@ -1514,7 +1514,7 @@ the NA engine undergoes <END>
 //POINTER #67 @ $974 - STRING #67 @ $4A4E
 
 #W32($974)
-the NA engine gets highーcompression pistons<END> 
+the NA engine gets high-compression pistons<END> 
 //POINTER #68 @ $998 - STRING #68 @ $4A78
 
 #W32($998)
@@ -1900,131 +1900,131 @@ number of available car item equipment slots、<END>
 //POINTER #9 @ $150 - STRING #9 @ $5192
 
 #W32($150)
-The offered prize is a preーrelease<END>
+The offered prize is a pre-release<END>
 //POINTER #10 @ $174 - STRING #10 @ $51BC
 
 #W32($174)
-The offered prize is a preーrelease<END>
+The offered prize is a pre-release<END>
 //POINTER #11 @ $198 - STRING #11 @ $51E6
 
 #W32($198)
-The offered prize is a preーrelease<END>
+The offered prize is a pre-release<END>
 //POINTER #12 @ $1BC - STRING #12 @ $5210
 
 #W32($1BC)
-The offered prize is a preーrelease<END>
+The offered prize is a pre-release<END>
 //POINTER #13 @ $1E0 - STRING #13 @ $523A
 
 #W32($1E0)
-The offered prize is a preーrelease<END>
+The offered prize is a pre-release<END>
 //POINTER #14 @ $204 - STRING #14 @ $5264
 
 #W32($204)
-The offered prize is a preーrelease<END>
+The offered prize is a pre-release<END>
 //POINTER #15 @ $228 - STRING #15 @ $528E
 
 #W32($228)
-The offered prize is a preーrelease<END>
+The offered prize is a pre-release<END>
 //POINTER #16 @ $24C - STRING #16 @ $52B8
 
 #W32($24C)
-The offered prize is a preーrelease<END>
+The offered prize is a pre-release<END>
 //POINTER #17 @ $270 - STRING #17 @ $52E2
 
 #W32($270)
-The offered prize is a preーrelease<END>
+The offered prize is a pre-release<END>
 //POINTER #18 @ $294 - STRING #18 @ $530C
 
 #W32($294)
-The offered prize is a preーrelease<END>
+The offered prize is a pre-release<END>
 //POINTER #19 @ $2B8 - STRING #19 @ $5336
 
 #W32($2B8)
-The offered prize is a preーrelease<END>
+The offered prize is a pre-release<END>
 //POINTER #20 @ $2DC - STRING #20 @ $5360
 
 #W32($2DC)
-The offered prize is a preーrelease<END>
+The offered prize is a pre-release<END>
 //POINTER #21 @ $300 - STRING #21 @ $538A
 
 #W32($300)
-The offered prize is a preーrelease<END>
+The offered prize is a pre-release<END>
 //POINTER #22 @ $324 - STRING #22 @ $53B4
 
 #W32($324)
-The offered prize is a preーrelease<END>
+The offered prize is a pre-release<END>
 //POINTER #23 @ $348 - STRING #23 @ $53DE
 
 #W32($348)
-The offered prize is a preーrelease<END>
+The offered prize is a pre-release<END>
 //POINTER #24 @ $36C - STRING #24 @ $5408
 
 #W32($36C)
-The offered prize is a preーrelease<END>
+The offered prize is a pre-release<END>
 //POINTER #25 @ $390 - STRING #25 @ $5432
 
 #W32($390)
-The offered prize is a preーrelease<END>
+The offered prize is a pre-release<END>
 //POINTER #26 @ $3B4 - STRING #26 @ $545C
 
 #W32($3B4)
-The offered prize is a preーrelease<END>
+The offered prize is a pre-release<END>
 //POINTER #27 @ $3D8 - STRING #27 @ $5486
 
 #W32($3D8)
-The offered prize is a preーrelease<END>
+The offered prize is a pre-release<END>
 //POINTER #28 @ $3FC - STRING #28 @ $54B0
 
 #W32($3FC)
-The offered prize is a preーrelease<END>
+The offered prize is a pre-release<END>
 //POINTER #29 @ $420 - STRING #29 @ $54DA
 
 #W32($420)
-The offered prize is a preーrelease<END>
+The offered prize is a pre-release<END>
 //POINTER #30 @ $444 - STRING #30 @ $5504
 
 #W32($444)
-The offered prize is a preーrelease<END>
+The offered prize is a pre-release<END>
 //POINTER #31 @ $468 - STRING #31 @ $552E
 
 #W32($468)
-The offered prize is a preーrelease<END>
+The offered prize is a pre-release<END>
 //POINTER #32 @ $48C - STRING #32 @ $5558
 
 #W32($48C)
-The offered prize is a preーrelease<END>
+The offered prize is a pre-release<END>
 //POINTER #33 @ $4B0 - STRING #33 @ $5582
 
 #W32($4B0)
-The offered prize is a preーrelease<END>
+The offered prize is a pre-release<END>
 //POINTER #34 @ $4D4 - STRING #34 @ $55AC
 
 #W32($4D4)
-The offered prize is a preーrelease<END>
+The offered prize is a pre-release<END>
 //POINTER #35 @ $4F8 - STRING #35 @ $55D6
 
 #W32($4F8)
-The offered prize is a preーrelease<END>
+The offered prize is a pre-release<END>
 //POINTER #36 @ $51C - STRING #36 @ $5600
 
 #W32($51C)
-The offered prize is a preーrelease<END>
+The offered prize is a pre-release<END>
 //POINTER #37 @ $540 - STRING #37 @ $562A
 
 #W32($540)
-The offered prize is a preーrelease<END>
+The offered prize is a pre-release<END>
 //POINTER #38 @ $564 - STRING #38 @ $5654
 
 #W32($564)
-The offered prize is a preーrelease<END>
+The offered prize is a pre-release<END>
 //POINTER #39 @ $588 - STRING #39 @ $567E
 
 #W32($588)
-The offered prize is a preーrelease<END>
+The offered prize is a pre-release<END>
 //POINTER #40 @ $5AC - STRING #40 @ $56A8
 
 #W32($5AC)
-The offered prize is a preーrelease<END>
+The offered prize is a pre-release<END>
 //POINTER #41 @ $5D0 - STRING #41 @ $56D2
 
 #W32($5D0)
@@ -2212,7 +2212,7 @@ of the pads、it achieves a level close to those<END>
 //POINTER #87 @ $C48 - STRING #87 @ $5BE6
 
 #W32($C48)
-A pillar bar is installed between the Cーpillars<END>
+A pillar bar is installed between the C-pillars<END>
 //POINTER #88 @ $C6C - STRING #88 @ $5C16
 
 #W32($C6C)
@@ -2666,7 +2666,7 @@ and can only be obtained through this event．<END>
 //POINTER #46 @ $688 - STRING #46 @ $6492
 
 #W32($688)
-<COLOR><PALE_CHESTNUT>『CーWEST　S2000』<END>
+<COLOR><PALE_CHESTNUT>『C-WEST　S2000』<END>
 //POINTER #47 @ $6AC - STRING #47 @ $64B6
 
 #W32($6AC)
@@ -2710,7 +2710,7 @@ and can only be obtained through this event．<END>
 //POINTER #57 @ $814 - STRING #57 @ $6676
 
 #W32($814)
-<COLOR><PALE_CHESTNUT>『SAB SUPER STREET RXー8』<END>
+<COLOR><PALE_CHESTNUT>『SAB SUPER STREET RX-8』<END>
 //POINTER #58 @ $838 - STRING #58 @ $66AC
 
 #W32($838)
@@ -2718,7 +2718,7 @@ and can only be obtained through this event．<END>
 //POINTER #59 @ $85C - STRING #59 @ $66D8
 
 #W32($85C)
-<COLOR><PALE_CHESTNUT>『RSーR S15』<END>
+<COLOR><PALE_CHESTNUT>『RS-R S15』<END>
 //POINTER #60 @ $880 - STRING #60 @ $66F4
 
 #W32($880)
@@ -2766,7 +2766,7 @@ also replaced、increasing torque at high RPM．<END>
 //POINTER #71 @ $A0C - STRING #71 @ $68F2
 
 #W32($A0C)
-changed to allーtitanium、increasing power<END>
+changed to all-titanium、increasing power<END>
 //POINTER #72 @ $A30 - STRING #72 @ $6924
 
 #W32($A30)
@@ -4640,7 +4640,7 @@ something to look forward to！<END>
 //POINTER #76 @ $ACC - STRING #76 @ $8ACE
 
 #W32($ACC)
-and perform a wellーbalanced tuning．<END>
+and perform a well-balanced tuning．<END>
 //POINTER #77 @ $AF0 - STRING #77 @ $8AD0
 
 #W32($AF0)

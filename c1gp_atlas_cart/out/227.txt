@@ -70,7 +70,7 @@ Installs normal tires．<END>
 //POINTER #15 @ $3C - STRING #15 @ $8DE
 
 #W32($3C)
-Installs highーgrip tires．Suitable for wet conditions．<END>
+Installs high-grip tires．Suitable for wet conditions．<END>
 //POINTER #16 @ $40 - STRING #16 @ $938
 
 #W32($40)
@@ -186,11 +186,11 @@ Select the intake type of the engine you want to install．<END>
 //POINTER #44 @ $B0 - STRING #44 @ $10F8
 
 #W32($B0)
-Install a tuned inline 4ーcylinder engine．<END>
+Install a tuned inline 4-cylinder engine．<END>
 //POINTER #45 @ $B4 - STRING #45 @ $1124
 
 #W32($B4)
-Install a tuned inline 6ーcylinder engine．<END>
+Install a tuned inline 6-cylinder engine．<END>
 //POINTER #46 @ $B8 - STRING #46 @ $1150
 
 #W32($B8)
@@ -206,11 +206,11 @@ Install a tuned rotary engine．<END>
 //POINTER #49 @ $C4 - STRING #49 @ $11D4
 
 #W32($C4)
-Install a tuned 4ーcylinder boxer engine．<END>
+Install a tuned 4-cylinder boxer engine．<END>
 //POINTER #50 @ $C8 - STRING #50 @ $1204
 
 #W32($C8)
-Install a tuned 6ーcylinder boxer engine．<END>
+Install a tuned 6-cylinder boxer engine．<END>
 //POINTER #51 @ $CC - STRING #51 @ $1234
 
 #W32($CC)
@@ -270,7 +270,7 @@ Select the manufacturer of the part you wish to buy．<END>
 //POINTER #65 @ $104 - STRING #65 @ $1708
 
 #W32($104)
-Replace the tieーrods．This will increase the steering angle and improve cornering．<END>
+Replace the tie-rods．This will increase the steering angle and improve cornering．<END>
 //POINTER #66 @ $108 - STRING #66 @ $174C
 
 #W32($108)
@@ -322,7 +322,7 @@ Install the set of tires you bought．<END>
 //POINTER #78 @ $138 - STRING #78 @ $1AC2
 
 #W32($138)
-Buy a set of wheels．Makes the ”InchーUp” adjustment available．<END>
+Buy a set of wheels．Makes the ”Inch-Up” adjustment available．<END>
 //POINTER #79 @ $13C - STRING #79 @ $1AF8
 
 #W32($13C)
@@ -338,11 +338,11 @@ Select the wheels you want to mount．<END>
 //POINTER #82 @ $148 - STRING #82 @ $1B64
 
 #W32($148)
-”InchーUp” the wheel size．Increasing the inch size enhances lateral rigidity of the tires and changes the appearence．<END>
+”Inch-Up” the wheel size．Increasing the inch size enhances lateral rigidity of the tires and changes the appearence．<END>
 //POINTER #83 @ $14C - STRING #83 @ $1BCE
 
 #W32($14C)
-Select a size for the ”InchーUp”．<END>
+Select a size for the ”Inch-Up”．<END>
 //POINTER #84 @ $150 - STRING #84 @ $1BFA
 
 #W32($150)
@@ -430,7 +430,7 @@ Add an oil temperature gauge．<END>
 //POINTER #105 @ $1A4 - STRING #105 @ $1F12
 
 #W32($1A4)
-Replace gauges with an allーinーone meter．It includes speed、RPM、water and oil temperature．<END>
+Replace gauges with an all-in-one meter．It includes speed、RPM、water and oil temperature．<END>
 //POINTER #106 @ $1A8 - STRING #106 @ $1F64
 
 #W32($1A8)
@@ -614,7 +614,7 @@ Rotates the model to the back．<END>
 //POINTER #151 @ $25C - STRING #151 @ $29E6
 
 #W32($25C)
-Turns the model autoーrotation ON or OFF．<END>
+Turns the model auto-rotation ON or OFF．<END>
 //POINTER #152 @ $260 - STRING #152 @ $2A14
 
 #W32($260)
@@ -694,7 +694,7 @@ Choose the size of the picture between 128x32 and 64x64．<END>
 //POINTER #171 @ $2AC - STRING #171 @ $2EF6
 
 #W32($2AC)
-Restores the car’s default paint．This tool can be run on a textureーbyーtexture basis．<END>
+Restores the car’s default paint．This tool can be run on a texture-by-texture basis．<END>
 //POINTER #172 @ $2B0 - STRING #172 @ $2F54
 
 #W32($2B0)
@@ -806,11 +806,11 @@ Sort the car list by price、descending．<END>
 //POINTER #199 @ $31C - STRING #199 @ $3612
 
 #W32($31C)
-Sort the car list by the weightーtoーpower ratio．<END>
+Sort the car list by the weight-to-power ratio．<END>
 //POINTER #200 @ $320 - STRING #200 @ $3658
 
 #W32($320)
-Sort the car list by the weightーtoーtorque ratio．<END>
+Sort the car list by the weight-to-torque ratio．<END>
 //POINTER #201 @ $324 - STRING #201 @ $369C
 
 #W32($324)
@@ -1062,7 +1062,7 @@ Select the car you want to switch to．<END>
 //POINTER #263 @ $41C - STRING #263 @ $4724
 
 #W32($41C)
-Move cars between the main and sub garage．SubーGarage data is added to Game Data．<END>
+Move cars between the main and sub garage．Sub-Garage data is added to Game Data．<END>
 //POINTER #264 @ $420 - STRING #264 @ $4786
 
 #W32($420)
@@ -1094,7 +1094,7 @@ Topics related to event impressions and any incidents that occur．<END>
 //POINTER #271 @ $43C - STRING #271 @ $4988
 
 #W32($43C)
-OffーTopic chit－chat that does not apply to other board categories．<END>
+Off-Topic chit－chat that does not apply to other board categories．<END>
 //POINTER #272 @ $440 - STRING #272 @ $49C6
 
 #W32($440)
@@ -1198,11 +1198,11 @@ Viewpoint from the rear of the car with a slight angle．<END>
 //POINTER #297 @ $4A4 - STRING #297 @ $4E40
 
 #W32($4A4)
-Firstーperson viewpoint with no car displayed．<END>
+First-person viewpoint with no car displayed．<END>
 //POINTER #298 @ $4A8 - STRING #298 @ $4E64
 
 #W32($4A8)
-Firstーperson viewpoint from the driver's seat．<END>
+First-person viewpoint from the driver's seat．<END>
 //POINTER #299 @ $4AC - STRING #299 @ $4E82
 
 #W32($4AC)
@@ -1382,7 +1382,7 @@ Select from the cars used in Quest Mode．<END>
 //POINTER #343 @ $55C - STRING #343 @ $5656
 
 #W32($55C)
-Select from the cars stored in the SubーGarage．<END>
+Select from the cars stored in the Sub-Garage．<END>
 //POINTER #344 @ $560 - STRING #344 @ $5684
 
 #W32($560)

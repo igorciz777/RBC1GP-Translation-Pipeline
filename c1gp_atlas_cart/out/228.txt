@@ -164,7 +164,7 @@ DIFFERENTIAL<END>
 //POINTER #38 @ $98 - STRING #38 @ $17F0
 
 #W32($98)
-TIEーROD<END>
+TIE-ROD<END>
 //POINTER #39 @ $9C - STRING #39 @ $17FC
 
 #W32($9C)
@@ -224,7 +224,7 @@ EQUIP WHEEL<END>
 //POINTER #53 @ $D4 - STRING #53 @ $18A8
 
 #W32($D4)
-INCHーUP<END>
+INCH-UP<END>
 //POINTER #54 @ $D8 - STRING #54 @ $18B6
 
 #W32($D8)
@@ -276,7 +276,7 @@ OIL GAUGE<END>
 //POINTER #66 @ $108 - STRING #66 @ $194E
 
 #W32($108)
-ALLーINーONE<END>
+ALL-IN-ONE<END>
 //POINTER #67 @ $10C - STRING #67 @ $195E
 
 #W32($10C)
@@ -300,11 +300,11 @@ STANDARD<END>
 //POINTER #72 @ $120 - STRING #72 @ $1992
 
 #W32($120)
-SPEEDーUP<END>
+SPEED-UP<END>
 //POINTER #73 @ $124 - STRING #73 @ $19A2
 
 #W32($124)
-HANDLINGーUP<END>
+HANDLING-UP<END>
 //POINTER #74 @ $128 - STRING #74 @ $19B6
 
 #W32($128)
@@ -432,7 +432,7 @@ SELL<END>
 //POINTER #105 @ $1A4 - STRING #105 @ $1B5A
 
 #W32($1A4)
-SHUTOKOーOUTER　<END>
+SHUTOKO-OUTER　<END>
 //POINTER #106 @ $1A8 - STRING #106 @ $1B72
 
 #W32($1A8)
@@ -444,7 +444,7 @@ SUZUKA EAST CIRCUIT　<END>
 //POINTER #108 @ $1B0 - STRING #108 @ $1B98
 
 #W32($1B0)
-OSAKAーKANJO CIRCUIT　<END>
+OSAKA-KANJO CIRCUIT　<END>
 //POINTER #109 @ $1B4 - STRING #109 @ $1BAC
 
 #W32($1B4)
@@ -456,7 +456,7 @@ SUZUKA WEST CIRCUIT　<END>
 //POINTER #111 @ $1BC - STRING #111 @ $1BD6
 
 #W32($1BC)
-SHUTOKOーINNER　<END>
+SHUTOKO-INNER　<END>
 //POINTER #112 @ $1C0 - STRING #112 @ $1BEE
 
 #W32($1C0)
@@ -680,11 +680,11 @@ SCREEN EFFECTS<END>
 //POINTER #167 @ $29C - STRING #167 @ $1F5C
 
 #W32($29C)
-HEADSーUP<END>
+HEADS-UP<END>
 //POINTER #168 @ $2A0 - STRING #168 @ $1F6E
 
 #W32($2A0)
-NORTHーUP<END>
+NORTH-UP<END>
 //POINTER #169 @ $2A4 - STRING #169 @ $1F7C
 
 #W32($2A4)
@@ -1104,7 +1104,7 @@ REAR DIFF<END>
 //POINTER #273 @ $444 - STRING #273 @ $2572
 
 #W32($444)
-TIEーROD<END>
+TIE-ROD<END>
 //POINTER #274 @ $448 - STRING #274 @ $257E
 
 #W32($448)
@@ -1140,7 +1140,7 @@ WEIGHT REDUCTION<END>
 //POINTER #282 @ $468 - STRING #282 @ $25E0
 
 #W32($468)
-TIRE／INCHーUP<END>
+TIRE／INCH-UP<END>
 //POINTER #283 @ $46C - STRING #283 @ $25F6
 
 #W32($46C)
@@ -1496,7 +1496,7 @@ WET<END>
 //POINTER #371 @ $5CC - STRING #371 @ $29CE
 
 #W32($5CC)
-SHUTOKOーOUTER<END>
+SHUTOKO-OUTER<END>
 //POINTER #372 @ $5D0 - STRING #372 @ $29E2
 
 #W32($5D0)
@@ -1508,7 +1508,7 @@ SUZUKA EAST CIRCUIT<END>
 //POINTER #374 @ $5D8 - STRING #374 @ $2A04
 
 #W32($5D8)
-OSAKAーKANJO CIRCUIT<END>
+OSAKA-KANJO CIRCUIT<END>
 //POINTER #375 @ $5DC - STRING #375 @ $2A18
 
 #W32($5DC)
@@ -1520,7 +1520,7 @@ SUZUKA WEST CIRCUIT<END>
 //POINTER #377 @ $5E4 - STRING #377 @ $2A3E
 
 #W32($5E4)
-SHUTOKOーINNER<END>
+SHUTOKO-INNER<END>
 //POINTER #378 @ $5E8 - STRING #378 @ $2A52
 
 #W32($5E8)
@@ -1668,7 +1668,7 @@ NO<END>
 //POINTER #414 @ $678 - STRING #414 @ $2C3C
 
 #W32($678)
-SHUTOKOーOUTER<END>
+SHUTOKO-OUTER<END>
 //POINTER #415 @ $67C - STRING #415 @ $2C50
 
 #W32($67C)
@@ -1680,7 +1680,7 @@ SUZUKA EAST CIRCUIT<END>
 //POINTER #417 @ $684 - STRING #417 @ $2C72
 
 #W32($684)
-OSAKAーKANJO CIRCUIT<END>
+OSAKA-KANJO CIRCUIT<END>
 //POINTER #418 @ $688 - STRING #418 @ $2C86
 
 #W32($688)
@@ -1692,7 +1692,7 @@ SUZUKA WEST CIRCUIT<END>
 //POINTER #420 @ $690 - STRING #420 @ $2CAC
 
 #W32($690)
-SHUTOKOーINNER<END>
+SHUTOKO-INNER<END>
 //POINTER #421 @ $694 - STRING #421 @ $2CC0
 
 #W32($694)
@@ -2032,7 +2032,7 @@ CAR<END>
 //POINTER #505 @ $7E4 - STRING #505 @ $3116
 
 #W32($7E4)
-NONーPARTICIPATION<END>
+NON-PARTICIPATION<END>
 //POINTER #506 @ $7E8 - STRING #506 @ $3126
 
 #W32($7E8)
@@ -2344,15 +2344,15 @@ SUZUKA WEST<END>
 //POINTER #583 @ $91C - STRING #583 @ $35A6
 
 #W32($91C)
-OSAKAーKANJO<END>
+OSAKA-KANJO<END>
 //POINTER #584 @ $920 - STRING #584 @ $35B0
 
 #W32($920)
-SHUTOKOーINNER<END>
+SHUTOKO-INNER<END>
 //POINTER #585 @ $924 - STRING #585 @ $35BC
 
 #W32($924)
-SHUTOKOーOUTER<END>
+SHUTOKO-OUTER<END>
 //POINTER #586 @ $928 - STRING #586 @ $35C8
 
 #W32($928)
@@ -2436,7 +2436,7 @@ NO RESTRICTIONS<END>
 //POINTER #606 @ $978 - STRING #606 @ $36C0
 
 #W32($978)
-ーー<END>
+--<END>
 //POINTER #607 @ $97C - STRING #607 @ $36C6
 
 #W32($97C)
@@ -3380,7 +3380,7 @@ Please connect a MEMORY CARD（PS2）<END>
 //POINTER #842 @ $D28 - STRING #842 @ $525C
 
 #W32($D28)
-Select the MEMORY CARD（PS2）to load SubーGarage Data．<END>
+Select the MEMORY CARD（PS2）to load Sub-Garage Data．<END>
 //POINTER #843 @ $D2C - STRING #843 @ $52A6
 
 #W32($D2C)
@@ -3388,19 +3388,19 @@ MEMORY CARD（PS2）connected to MEMORY CARD Slot ＃<END>
 //POINTER #844 @ $D30 - STRING #844 @ $52EA
 
 #W32($D30)
-has no RACING BATTLE SubーGarage Data<END>
+has no RACING BATTLE Sub-Garage Data<END>
 //POINTER #845 @ $D34 - STRING #845 @ $531E
 
 #W32($D34)
-When new SubーGarage Data is created、<END>
+When new Sub-Garage Data is created、<END>
 //POINTER #846 @ $D38 - STRING #846 @ $5346
 
 #W32($D38)
-previously created SubーGarage Data will no longer exist．<END>
+previously created Sub-Garage Data will no longer exist．<END>
 //POINTER #847 @ $D3C - STRING #847 @ $537C
 
 #W32($D3C)
-Create new SubーGarage Data on MEMORY CARD（PS2）connected<END>
+Create new Sub-Garage Data on MEMORY CARD（PS2）connected<END>
 //POINTER #848 @ $D40 - STRING #848 @ $53BE
 
 #W32($D40)
@@ -3408,7 +3408,7 @@ to MEMORY CARD Slot ＃ and perform a garage move？<END>
 //POINTER #849 @ $D44 - STRING #849 @ $53FC
 
 #W32($D44)
-RACING BATTLE SubーGarage Data on MEMORY CARD（PS2）connected<END>
+RACING BATTLE Sub-Garage Data on MEMORY CARD（PS2）connected<END>
 //POINTER #850 @ $D48 - STRING #850 @ $5446
 
 #W32($D48)
@@ -3416,7 +3416,7 @@ to MEMORY CARD Slot ＃ is corrupted．<END>
 //POINTER #851 @ $D4C - STRING #851 @ $547C
 
 #W32($D4C)
-SubーGarage Data in the MEMORY CARD（PS2）connected to MEMORY CARD Slot ＃<END>
+Sub-Garage Data in the MEMORY CARD（PS2）connected to MEMORY CARD Slot ＃<END>
 //POINTER #852 @ $D50 - STRING #852 @ $54C6
 
 #W32($D50)
@@ -3424,15 +3424,15 @@ cannot be used with current Game Data．<END>
 //POINTER #853 @ $D54 - STRING #853 @ $5500
 
 #W32($D54)
-When new SubーGarage Data is created、<END>
+When new Sub-Garage Data is created、<END>
 //POINTER #854 @ $D58 - STRING #854 @ $5528
 
 #W32($D58)
-previously created SubーGarage Data will no longer exist．<END>
+previously created Sub-Garage Data will no longer exist．<END>
 //POINTER #855 @ $D5C - STRING #855 @ $555E
 
 #W32($D5C)
-SubーGarage Data in the MEMORY CARD（PS2）connected to MEMORY CARD Slot ＃<END>
+Sub-Garage Data in the MEMORY CARD（PS2）connected to MEMORY CARD Slot ＃<END>
 //POINTER #856 @ $D60 - STRING #856 @ $55A8
 
 #W32($D60)
@@ -3440,7 +3440,7 @@ cannot be used with current Game Data．<END>
 //POINTER #857 @ $D64 - STRING #857 @ $55E2
 
 #W32($D64)
-Checking the SubーGarage Data in the MEMORY CARD（PS2）<END>
+Checking the Sub-Garage Data in the MEMORY CARD（PS2）<END>
 //POINTER #858 @ $D68 - STRING #858 @ $562C
 
 #W32($D68)
@@ -3460,7 +3460,7 @@ MEMORY CARD（PS2）at MEMORY CARD Slot ＃<END>
 //POINTER #862 @ $D78 - STRING #862 @ $5716
 
 #W32($D78)
-Loading SubーGarage Data．<END>
+Loading Sub-Garage Data．<END>
 //POINTER #863 @ $D7C - STRING #863 @ $573C
 
 #W32($D7C)
@@ -3484,7 +3484,7 @@ Select a car to move it from the<END>
 //POINTER #868 @ $D90 - STRING #868 @ $582A
 
 #W32($D90)
-Main Garage to the SubーGarage．<END>
+Main Garage to the Sub-Garage．<END>
 //POINTER #869 @ $D94 - STRING #869 @ $584C
 
 #W32($D94)
@@ -3492,11 +3492,11 @@ Select ”NO DATA” to move the car from the<END>
 //POINTER #870 @ $D98 - STRING #870 @ $5864
 
 #W32($D98)
-SubーGarage to the Main Garage<END>
+Sub-Garage to the Main Garage<END>
 //POINTER #871 @ $D9C - STRING #871 @ $589A
 
 #W32($D9C)
-（There are ＃＃ cars stored in the SubーGarage）<END>
+（There are ＃＃ cars stored in the Sub-Garage）<END>
 //POINTER #872 @ $DA0 - STRING #872 @ $58C6
 
 #W32($DA0)
@@ -3512,7 +3512,7 @@ Move car to Main Garage？<END>
 //POINTER #875 @ $DAC - STRING #875 @ $5942
 
 #W32($DAC)
-Move car to SubーGarage？<END>
+Move car to Sub-Garage？<END>
 //POINTER #876 @ $DB0 - STRING #876 @ $5964
 
 #W32($DB0)
@@ -3536,7 +3536,7 @@ Are you sure you want to cancel？<END>
 //POINTER #881 @ $DC4 - STRING #881 @ $59F6
 
 #W32($DC4)
-No data exists in the SubーGarage<END>
+No data exists in the Sub-Garage<END>
 //POINTER #882 @ $DC8 - STRING #882 @ $5A1A
 
 #W32($DC8)
@@ -3596,7 +3596,7 @@ Are you sure you want to overwrite？<END>
 //POINTER #896 @ $E00 - STRING #896 @ $5CB8
 
 #W32($E00)
-Select the MEMORY CARD（PS2）to save the SubーGarage Data<END>
+Select the MEMORY CARD（PS2）to save the Sub-Garage Data<END>
 //POINTER #897 @ $E04 - STRING #897 @ $5D02
 
 #W32($E04)
@@ -3612,11 +3612,11 @@ You must have at least ２０４０ＫＢ of free space to<END>
 //POINTER #900 @ $E10 - STRING #900 @ $5D94
 
 #W32($E10)
-save the RACING BATTLE SubーGarage Data．<END>
+save the RACING BATTLE Sub-Garage Data．<END>
 //POINTER #901 @ $E14 - STRING #901 @ $5DBA
 
 #W32($E14)
-Are you sure you want to create RACING BATTLE SubーGarage Data<END>
+Are you sure you want to create RACING BATTLE Sub-Garage Data<END>
 //POINTER #902 @ $E18 - STRING #902 @ $5DFC
 
 #W32($E18)
@@ -3628,7 +3628,7 @@ The MEMORY CARD（PS2）connected to the MEMORY CARD Slot ＃<END>
 //POINTER #904 @ $E20 - STRING #904 @ $5E80
 
 #W32($E20)
-contains RACING BATTLE SubーGarage Data．<END>
+contains RACING BATTLE Sub-Garage Data．<END>
 //POINTER #905 @ $E24 - STRING #905 @ $5EB2
 
 #W32($E24)
@@ -3700,7 +3700,7 @@ Failed to save Game Data．<END>
 //POINTER #922 @ $E68 - STRING #922 @ $61F0
 
 #W32($E68)
-Creating SubーGarage Data on MEMORY CARD（PS2）<END>
+Creating Sub-Garage Data on MEMORY CARD（PS2）<END>
 //POINTER #923 @ $E6C - STRING #923 @ $6232
 
 #W32($E6C)
@@ -3716,7 +3716,7 @@ Do not turn off the ”PlayStation 2” console<END>
 //POINTER #926 @ $E78 - STRING #926 @ $62D4
 
 #W32($E78)
-Failed creating SubーGarage Data．<END>
+Failed creating Sub-Garage Data．<END>
 //POINTER #927 @ $E7C - STRING #927 @ $62FC
 
 #W32($E7C)
@@ -3724,7 +3724,7 @@ Abandon saving Game Data？<END>
 //POINTER #928 @ $E80 - STRING #928 @ $631E
 
 #W32($E80)
-Saving SubーGarage Data to MEMORY CARD（PS2）<END>
+Saving Sub-Garage Data to MEMORY CARD（PS2）<END>
 //POINTER #929 @ $E84 - STRING #929 @ $6360
 
 #W32($E84)
@@ -3740,7 +3740,7 @@ Do not turn off the ”PlayStation 2” console<END>
 //POINTER #932 @ $E90 - STRING #932 @ $6404
 
 #W32($E90)
-Failed to save SubーGarage Data．<END>
+Failed to save Sub-Garage Data．<END>
 //POINTER #933 @ $E94 - STRING #933 @ $642E
 
 #W32($E94)
@@ -3752,7 +3752,7 @@ Select the MEMORY CARD（PS2）where the<END>
 //POINTER #935 @ $E9C - STRING #935 @ $648E
 
 #W32($E9C)
-RACING BATTLE Game Data and SubーGarage Data will be saved．<END>
+RACING BATTLE Game Data and Sub-Garage Data will be saved．<END>
 //POINTER #936 @ $EA0 - STRING #936 @ $64A0
 
 #W32($EA0)
@@ -3760,11 +3760,11 @@ You must have at least ２５００ＫＢ of free space to<END>
 //POINTER #937 @ $EA4 - STRING #937 @ $64E6
 
 #W32($EA4)
-save RACING BATTLE Game Data and SubーGarage Data．<END>
+save RACING BATTLE Game Data and Sub-Garage Data．<END>
 //POINTER #938 @ $EA8 - STRING #938 @ $650C
 
 #W32($EA8)
-Create RACING BATTLE Game Data and SubーGarage Data on<END>
+Create RACING BATTLE Game Data and Sub-Garage Data on<END>
 //POINTER #939 @ $EAC - STRING #939 @ $654E
 
 #W32($EAC)
@@ -3780,7 +3780,7 @@ contains RACING BATTLE Game Data．Are you sure you want<END>
 //POINTER #942 @ $EB8 - STRING #942 @ $660C
 
 #W32($EB8)
-to overwrite Game Data and create SubーGarage Data？<END>
+to overwrite Game Data and create Sub-Garage Data？<END>
 //POINTER #943 @ $EBC - STRING #943 @ $6654
 
 #W32($EBC)
@@ -3788,7 +3788,7 @@ The MEMORY CARD（PS2）connected to the MEMORY CARD Slot ＃<END>
 //POINTER #944 @ $EC0 - STRING #944 @ $6698
 
 #W32($EC0)
-contains RACING BATTLE Game Data and SubーGarage Data<END>
+contains RACING BATTLE Game Data and Sub-Garage Data<END>
 //POINTER #945 @ $EC4 - STRING #945 @ $66DA
 
 #W32($EC4)
@@ -3964,11 +3964,11 @@ Loading finished．<END>
 //POINTER #988 @ $F70 - STRING #988 @ $6F50
 
 #W32($F70)
-Saving Game Data does not save SubーGarage Data<END>
+Saving Game Data does not save Sub-Garage Data<END>
 //POINTER #989 @ $F74 - STRING #989 @ $6F90
 
 #W32($F74)
-To use SubーGarage Data on a new MEMORY CARD（PS2）<END>
+To use Sub-Garage Data on a new MEMORY CARD（PS2）<END>
 //POINTER #990 @ $F78 - STRING #990 @ $6FD8
 
 #W32($F78)
@@ -4044,7 +4044,7 @@ Choose this car？<END>
 //POINTER #1008 @ $FC0 - STRING #1008 @ $72A4
 
 #W32($FC0)
-Loading SubーGarage Data．<END>
+Loading Sub-Garage Data．<END>
 //POINTER #1009 @ $FC4 - STRING #1009 @ $72CA
 
 #W32($FC4)
