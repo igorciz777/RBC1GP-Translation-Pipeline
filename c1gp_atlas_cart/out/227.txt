@@ -694,7 +694,7 @@ Choose the size of the picture between 128x32 and 64x64．<END>
 //POINTER #171 @ $2AC - STRING #171 @ $2EF6
 
 #W32($2AC)
-Restores the car’s default paint．This tool can be run on a texture-by-texture basis．<END>
+Restores the car's default paint．This tool can be run on a texture-by-texture basis．<END>
 //POINTER #172 @ $2B0 - STRING #172 @ $2F54
 
 #W32($2B0)
@@ -862,7 +862,7 @@ Sells the selected car．<END>
 //POINTER #213 @ $354 - STRING #213 @ $3822
 
 #W32($354)
-Use the garage to change cars、adjust car settings、equip accessories、and change the garage’s layout．<END>
+Use the garage to change cars、adjust car settings、equip accessories、and change the garage's layout．<END>
 //POINTER #214 @ $358 - STRING #214 @ $3880
 
 #W32($358)
@@ -1002,7 +1002,7 @@ Set up your car in the garage．<END>
 //POINTER #248 @ $3E0 - STRING #248 @ $4452
 
 #W32($3E0)
-Check the car’s behaviour on the course．<END>
+Check the car's behaviour on the course．<END>
 //POINTER #249 @ $3E4 - STRING #249 @ $4476
 
 #W32($3E4)
@@ -1454,11 +1454,11 @@ Enter the course and start the battle．<END>
 //POINTER #361 @ $5A4 - STRING #361 @ $5A00
 
 #W32($5A4)
-Replaces Player 1’s car．<END>
+Replaces Player 1's car．<END>
 //POINTER #362 @ $5A8 - STRING #362 @ $5A28
 
 #W32($5A8)
-Replaces Player 2’s car．<END>
+Replaces Player 2's car．<END>
 //POINTER #363 @ $5AC - STRING #363 @ $5A50
 
 #W32($5AC)
