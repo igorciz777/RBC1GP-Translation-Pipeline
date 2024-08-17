@@ -16,7 +16,7 @@ not real calculated %, just a guess :D
 | `230.bin` | $\color{green}{\textsf{100}}$% |
 | `231.bin` |   0% |
 | `737.bin` | $\color{green}{\textsf{100}}$% |
-| `Textures` | 17.5% |
+| `Textures` | 20% |
 | `Cutscenes` |   0% |
 | `Executable` |  99% |
 ---
