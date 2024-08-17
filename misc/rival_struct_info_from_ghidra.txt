@@ -12,11 +12,12 @@ field offsets:
 0x4 - some rival type setting, used in an if to check if its lesser than 0
 0x5 - some rival type setting, used in an if to check if its equal to 0, 1 or 2
 0x6 - team id
+0x8 - unknown
 0xC - controlls the rival's car chassis and wheel size in some wacky way
 0x10 - unknown
 0x128 - unknown
 0x148 - unknown
-0x1d8 - unknown
+0x1d8 - sticker_id
 0x214 - nickname
 0x27e - amount of experience in months
 0x280 - full name

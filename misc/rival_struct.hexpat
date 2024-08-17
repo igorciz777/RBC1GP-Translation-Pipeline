@@ -15,7 +15,7 @@ struct RivalData{
     char unknwn_blk4[59];  // 0x1d8
     char nickname[26];  // 0x214
     char unknwn_blk5[80];
-	u16 unknwn6;  // 0x27e
+	u16 experience;  // 0x27e
 	char name[26];  // 0x280
     char occupation[34];  // 0x29a
 	char motto[34];  // 0x2bc
@@ -34,7 +34,13 @@ struct RivalData{
     char dialogShort2[24];
     };
     
+    struct Teams{
+        char teamName[0x22];
+    };
+    
     struct Rivals{
         RivalData rivals[713];
+        Teams teams[129];
+        char unkwn_data[738];
     };
     Rivals rivals @ 0x00;
