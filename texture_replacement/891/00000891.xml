@@ -1,0 +1,938 @@
+<?xml version="1.0" encoding="utf-8"?>
+<textureFormatMetadata>
+  <section name="TIM2">
+    <attribute name="Version" type="System.Int32">4</attribute>
+    <attribute name="Alignment" type="System.Int32">1</attribute>
+    <attribute name="Basename" type="System.String">00000891</attribute>
+    <attribute name="Swizzled" type="System.Boolean">False</attribute>
+    <attribute name="Textures" type="System.Int32">58</attribute>
+    <section name="TIM2Texture">
+      <attribute name="Basename" type="System.String">00000891_layer0</attribute>
+      <attribute name="Cluts" type="System.Int32">1</attribute>
+      <attribute name="LinearClut" type="System.Boolean">False</attribute>
+      <data name="Width" type="System.Int32">64</data>
+      <data name="Height" type="System.Int32">64</data>
+      <data name="Bpp" type="System.Byte">4</data>
+      <data name="ColorSize" type="System.Int32">4</data>
+      <data name="MipmapCount" type="System.Byte">1</data>
+      <data name="Format" type="System.Byte">0</data>
+      <data name="GsTEX0" type="System.Byte[]">IIBAmQEAAAA=</data>
+      <data name="GsTEX1" type="System.Byte[]">YAIAAAAAAAA=</data>
+      <data name="GsRegs" type="System.UInt32">0</data>
+      <data name="GsTexClut" type="System.UInt32">1</data>
+      <data name="UserData" type="System.Byte[]">AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</data>
+    </section>
+    <section name="TIM2Texture">
+      <attribute name="Basename" type="System.String">00000891_layer1</attribute>
+      <attribute name="Cluts" type="System.Int32">2</attribute>
+      <attribute name="LinearClut" type="System.Boolean">False</attribute>
+      <data name="Width" type="System.Int32">144</data>
+      <data name="Height" type="System.Int32">16</data>
+      <data name="Bpp" type="System.Byte">4</data>
+      <data name="ColorSize" type="System.Int32">4</data>
+      <data name="MipmapCount" type="System.Byte">1</data>
+      <data name="Format" type="System.Byte">0</data>
+      <data name="GsTEX0" type="System.Byte[]">IABBIQEAAAA=</data>
+      <data name="GsTEX1" type="System.Byte[]">YAIAAAAAAAA=</data>
+      <data name="GsRegs" type="System.UInt32">0</data>
+      <data name="GsTexClut" type="System.UInt32">1</data>
+      <data name="UserData" type="System.Byte[]">AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</data>
+    </section>
+    <section name="TIM2Texture">
+      <attribute name="Basename" type="System.String">00000891_layer2</attribute>
+      <attribute name="Cluts" type="System.Int32">2</attribute>
+      <attribute name="LinearClut" type="System.Boolean">False</attribute>
+      <data name="Width" type="System.Int32">160</data>
+      <data name="Height" type="System.Int32">24</data>
+      <data name="Bpp" type="System.Byte">4</data>
+      <data name="ColorSize" type="System.Int32">4</data>
+      <data name="MipmapCount" type="System.Byte">1</data>
+      <data name="Format" type="System.Byte">0</data>
+      <data name="GsTEX0" type="System.Byte[]">IABBYQEAAAA=</data>
+      <data name="GsTEX1" type="System.Byte[]">YAIAAAAAAAA=</data>
+      <data name="GsRegs" type="System.UInt32">0</data>
+      <data name="GsTexClut" type="System.UInt32">1</data>
+      <data name="UserData" type="System.Byte[]">AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</data>
+    </section>
+    <section name="TIM2Texture">
+      <attribute name="Basename" type="System.String">00000891_layer3</attribute>
+      <attribute name="Cluts" type="System.Int32">1</attribute>
+      <attribute name="LinearClut" type="System.Boolean">False</attribute>
+      <data name="Width" type="System.Int32">32</data>
+      <data name="Height" type="System.Int32">16</data>
+      <data name="Bpp" type="System.Byte">4</data>
+      <data name="ColorSize" type="System.Int32">4</data>
+      <data name="MipmapCount" type="System.Byte">1</data>
+      <data name="Format" type="System.Byte">0</data>
+      <data name="GsTEX0" type="System.Byte[]">IIBAFQEAAAA=</data>
+      <data name="GsTEX1" type="System.Byte[]">YAIAAAAAAAA=</data>
+      <data name="GsRegs" type="System.UInt32">0</data>
+      <data name="GsTexClut" type="System.UInt32">1</data>
+      <data name="UserData" type="System.Byte[]">AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</data>
+    </section>
+    <section name="TIM2Texture">
+      <attribute name="Basename" type="System.String">00000891_layer4</attribute>
+      <attribute name="Cluts" type="System.Int32">1</attribute>
+      <attribute name="LinearClut" type="System.Boolean">False</attribute>
+      <data name="Width" type="System.Int32">16</data>
+      <data name="Height" type="System.Int32">16</data>
+      <data name="Bpp" type="System.Byte">4</data>
+      <data name="ColorSize" type="System.Int32">4</data>
+      <data name="MipmapCount" type="System.Byte">1</data>
+      <data name="Format" type="System.Byte">0</data>
+      <data name="GsTEX0" type="System.Byte[]">IIBAEQEAAAA=</data>
+      <data name="GsTEX1" type="System.Byte[]">YAIAAAAAAAA=</data>
+      <data name="GsRegs" type="System.UInt32">0</data>
+      <data name="GsTexClut" type="System.UInt32">1</data>
+      <data name="UserData" type="System.Byte[]">AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</data>
+    </section>
+    <section name="TIM2Texture">
+      <attribute name="Basename" type="System.String">00000891_layer5</attribute>
+      <attribute name="Cluts" type="System.Int32">1</attribute>
+      <attribute name="LinearClut" type="System.Boolean">False</attribute>
+      <data name="Width" type="System.Int32">192</data>
+      <data name="Height" type="System.Int32">128</data>
+      <data name="Bpp" type="System.Byte">4</data>
+      <data name="ColorSize" type="System.Int32">4</data>
+      <data name="MipmapCount" type="System.Byte">1</data>
+      <data name="Format" type="System.Byte">0</data>
+      <data name="GsTEX0" type="System.Byte[]">IABB4QEAAAA=</data>
+      <data name="GsTEX1" type="System.Byte[]">YAIAAAAAAAA=</data>
+      <data name="GsRegs" type="System.UInt32">0</data>
+      <data name="GsTexClut" type="System.UInt32">1</data>
+      <data name="UserData" type="System.Byte[]">AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</data>
+    </section>
+    <section name="TIM2Texture">
+      <attribute name="Basename" type="System.String">00000891_layer6</attribute>
+      <attribute name="Cluts" type="System.Int32">1</attribute>
+      <attribute name="LinearClut" type="System.Boolean">False</attribute>
+      <data name="Width" type="System.Int32">192</data>
+      <data name="Height" type="System.Int32">232</data>
+      <data name="Bpp" type="System.Byte">4</data>
+      <data name="ColorSize" type="System.Int32">4</data>
+      <data name="MipmapCount" type="System.Byte">1</data>
+      <data name="Format" type="System.Byte">0</data>
+      <data name="GsTEX0" type="System.Byte[]">IABBIQIAAAA=</data>
+      <data name="GsTEX1" type="System.Byte[]">YAIAAAAAAAA=</data>
+      <data name="GsRegs" type="System.UInt32">0</data>
+      <data name="GsTexClut" type="System.UInt32">1</data>
+      <data name="UserData" type="System.Byte[]">AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</data>
+    </section>
+    <section name="TIM2Texture">
+      <attribute name="Basename" type="System.String">00000891_layer7</attribute>
+      <attribute name="Cluts" type="System.Int32">2</attribute>
+      <attribute name="LinearClut" type="System.Boolean">False</attribute>
+      <data name="Width" type="System.Int32">40</data>
+      <data name="Height" type="System.Int32">40</data>
+      <data name="Bpp" type="System.Byte">4</data>
+      <data name="ColorSize" type="System.Int32">4</data>
+      <data name="MipmapCount" type="System.Byte">1</data>
+      <data name="Format" type="System.Byte">0</data>
+      <data name="GsTEX0" type="System.Byte[]">IIBAmQEAAAA=</data>
+      <data name="GsTEX1" type="System.Byte[]">YAIAAAAAAAA=</data>
+      <data name="GsRegs" type="System.UInt32">0</data>
+      <data name="GsTexClut" type="System.UInt32">1</data>
+      <data name="UserData" type="System.Byte[]">AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</data>
+    </section>
+    <section name="TIM2Texture">
+      <attribute name="Basename" type="System.String">00000891_layer8</attribute>
+      <attribute name="Cluts" type="System.Int32">2</attribute>
+      <attribute name="LinearClut" type="System.Boolean">False</attribute>
+      <data name="Width" type="System.Int32">16</data>
+      <data name="Height" type="System.Int32">8</data>
+      <data name="Bpp" type="System.Byte">4</data>
+      <data name="ColorSize" type="System.Int32">4</data>
+      <data name="MipmapCount" type="System.Byte">1</data>
+      <data name="Format" type="System.Byte">0</data>
+      <data name="GsTEX0" type="System.Byte[]">IIBA0QAAAAA=</data>
+      <data name="GsTEX1" type="System.Byte[]">YAIAAAAAAAA=</data>
+      <data name="GsRegs" type="System.UInt32">0</data>
+      <data name="GsTexClut" type="System.UInt32">1</data>
+      <data name="UserData" type="System.Byte[]">AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</data>
+    </section>
+    <section name="TIM2Texture">
+      <attribute name="Basename" type="System.String">00000891_layer9</attribute>
+      <attribute name="Cluts" type="System.Int32">2</attribute>
+      <attribute name="LinearClut" type="System.Boolean">False</attribute>
+      <data name="Width" type="System.Int32">16</data>
+      <data name="Height" type="System.Int32">48</data>
+      <data name="Bpp" type="System.Byte">4</data>
+      <data name="ColorSize" type="System.Int32">4</data>
+      <data name="MipmapCount" type="System.Byte">1</data>
+      <data name="Format" type="System.Byte">0</data>
+      <data name="GsTEX0" type="System.Byte[]">IIBAkQEAAAA=</data>
+      <data name="GsTEX1" type="System.Byte[]">YAIAAAAAAAA=</data>
+      <data name="GsRegs" type="System.UInt32">0</data>
+      <data name="GsTexClut" type="System.UInt32">1</data>
+      <data name="UserData" type="System.Byte[]">AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</data>
+    </section>
+    <section name="TIM2Texture">
+      <attribute name="Basename" type="System.String">00000891_layer10</attribute>
+      <attribute name="Cluts" type="System.Int32">2</attribute>
+      <attribute name="LinearClut" type="System.Boolean">False</attribute>
+      <data name="Width" type="System.Int32">16</data>
+      <data name="Height" type="System.Int32">48</data>
+      <data name="Bpp" type="System.Byte">4</data>
+      <data name="ColorSize" type="System.Int32">4</data>
+      <data name="MipmapCount" type="System.Byte">1</data>
+      <data name="Format" type="System.Byte">0</data>
+      <data name="GsTEX0" type="System.Byte[]">IIBAkQEAAAA=</data>
+      <data name="GsTEX1" type="System.Byte[]">YAIAAAAAAAA=</data>
+      <data name="GsRegs" type="System.UInt32">0</data>
+      <data name="GsTexClut" type="System.UInt32">1</data>
+      <data name="UserData" type="System.Byte[]">AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</data>
+    </section>
+    <section name="TIM2Texture">
+      <attribute name="Basename" type="System.String">00000891_layer11</attribute>
+      <attribute name="Cluts" type="System.Int32">2</attribute>
+      <attribute name="LinearClut" type="System.Boolean">False</attribute>
+      <data name="Width" type="System.Int32">72</data>
+      <data name="Height" type="System.Int32">32</data>
+      <data name="Bpp" type="System.Byte">4</data>
+      <data name="ColorSize" type="System.Int32">4</data>
+      <data name="MipmapCount" type="System.Byte">1</data>
+      <data name="Format" type="System.Byte">0</data>
+      <data name="GsTEX0" type="System.Byte[]">IIBAXQEAAAA=</data>
+      <data name="GsTEX1" type="System.Byte[]">YAIAAAAAAAA=</data>
+      <data name="GsRegs" type="System.UInt32">0</data>
+      <data name="GsTexClut" type="System.UInt32">1</data>
+      <data name="UserData" type="System.Byte[]">AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</data>
+    </section>
+    <section name="TIM2Texture">
+      <attribute name="Basename" type="System.String">00000891_layer12</attribute>
+      <attribute name="Cluts" type="System.Int32">2</attribute>
+      <attribute name="LinearClut" type="System.Boolean">False</attribute>
+      <data name="Width" type="System.Int32">48</data>
+      <data name="Height" type="System.Int32">32</data>
+      <data name="Bpp" type="System.Byte">4</data>
+      <data name="ColorSize" type="System.Int32">4</data>
+      <data name="MipmapCount" type="System.Byte">1</data>
+      <data name="Format" type="System.Byte">0</data>
+      <data name="GsTEX0" type="System.Byte[]">IIBAWQEAAAA=</data>
+      <data name="GsTEX1" type="System.Byte[]">YAIAAAAAAAA=</data>
+      <data name="GsRegs" type="System.UInt32">0</data>
+      <data name="GsTexClut" type="System.UInt32">1</data>
+      <data name="UserData" type="System.Byte[]">AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</data>
+    </section>
+    <section name="TIM2Texture">
+      <attribute name="Basename" type="System.String">00000891_layer13</attribute>
+      <attribute name="Cluts" type="System.Int32">1</attribute>
+      <attribute name="LinearClut" type="System.Boolean">False</attribute>
+      <data name="Width" type="System.Int32">48</data>
+      <data name="Height" type="System.Int32">32</data>
+      <data name="Bpp" type="System.Byte">4</data>
+      <data name="ColorSize" type="System.Int32">4</data>
+      <data name="MipmapCount" type="System.Byte">1</data>
+      <data name="Format" type="System.Byte">0</data>
+      <data name="GsTEX0" type="System.Byte[]">IIBAWQEAAAA=</data>
+      <data name="GsTEX1" type="System.Byte[]">YAIAAAAAAAA=</data>
+      <data name="GsRegs" type="System.UInt32">0</data>
+      <data name="GsTexClut" type="System.UInt32">1</data>
+      <data name="UserData" type="System.Byte[]">AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</data>
+    </section>
+    <section name="TIM2Texture">
+      <attribute name="Basename" type="System.String">00000891_layer14</attribute>
+      <attribute name="Cluts" type="System.Int32">2</attribute>
+      <attribute name="LinearClut" type="System.Boolean">False</attribute>
+      <data name="Width" type="System.Int32">48</data>
+      <data name="Height" type="System.Int32">32</data>
+      <data name="Bpp" type="System.Byte">4</data>
+      <data name="ColorSize" type="System.Int32">4</data>
+      <data name="MipmapCount" type="System.Byte">1</data>
+      <data name="Format" type="System.Byte">0</data>
+      <data name="GsTEX0" type="System.Byte[]">IIBAWQEAAAA=</data>
+      <data name="GsTEX1" type="System.Byte[]">YAIAAAAAAAA=</data>
+      <data name="GsRegs" type="System.UInt32">0</data>
+      <data name="GsTexClut" type="System.UInt32">1</data>
+      <data name="UserData" type="System.Byte[]">AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</data>
+    </section>
+    <section name="TIM2Texture">
+      <attribute name="Basename" type="System.String">00000891_layer15</attribute>
+      <attribute name="Cluts" type="System.Int32">2</attribute>
+      <attribute name="LinearClut" type="System.Boolean">False</attribute>
+      <data name="Width" type="System.Int32">72</data>
+      <data name="Height" type="System.Int32">24</data>
+      <data name="Bpp" type="System.Byte">4</data>
+      <data name="ColorSize" type="System.Int32">4</data>
+      <data name="MipmapCount" type="System.Byte">1</data>
+      <data name="Format" type="System.Byte">0</data>
+      <data name="GsTEX0" type="System.Byte[]">IIBAXQEAAAA=</data>
+      <data name="GsTEX1" type="System.Byte[]">YAIAAAAAAAA=</data>
+      <data name="GsRegs" type="System.UInt32">0</data>
+      <data name="GsTexClut" type="System.UInt32">1</data>
+      <data name="UserData" type="System.Byte[]">AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</data>
+    </section>
+    <section name="TIM2Texture">
+      <attribute name="Basename" type="System.String">00000891_layer16</attribute>
+      <attribute name="Cluts" type="System.Int32">1</attribute>
+      <attribute name="LinearClut" type="System.Boolean">False</attribute>
+      <data name="Width" type="System.Int32">56</data>
+      <data name="Height" type="System.Int32">24</data>
+      <data name="Bpp" type="System.Byte">4</data>
+      <data name="ColorSize" type="System.Int32">4</data>
+      <data name="MipmapCount" type="System.Byte">1</data>
+      <data name="Format" type="System.Byte">0</data>
+      <data name="GsTEX0" type="System.Byte[]">IIBAWQEAAAA=</data>
+      <data name="GsTEX1" type="System.Byte[]">YAIAAAAAAAA=</data>
+      <data name="GsRegs" type="System.UInt32">0</data>
+      <data name="GsTexClut" type="System.UInt32">1</data>
+      <data name="UserData" type="System.Byte[]">AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</data>
+    </section>
+    <section name="TIM2Texture">
+      <attribute name="Basename" type="System.String">00000891_layer17</attribute>
+      <attribute name="Cluts" type="System.Int32">2</attribute>
+      <attribute name="LinearClut" type="System.Boolean">False</attribute>
+      <data name="Width" type="System.Int32">56</data>
+      <data name="Height" type="System.Int32">24</data>
+      <data name="Bpp" type="System.Byte">4</data>
+      <data name="ColorSize" type="System.Int32">4</data>
+      <data name="MipmapCount" type="System.Byte">1</data>
+      <data name="Format" type="System.Byte">0</data>
+      <data name="GsTEX0" type="System.Byte[]">IIBAWQEAAAA=</data>
+      <data name="GsTEX1" type="System.Byte[]">YAIAAAAAAAA=</data>
+      <data name="GsRegs" type="System.UInt32">0</data>
+      <data name="GsTexClut" type="System.UInt32">1</data>
+      <data name="UserData" type="System.Byte[]">AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</data>
+    </section>
+    <section name="TIM2Texture">
+      <attribute name="Basename" type="System.String">00000891_layer18</attribute>
+      <attribute name="Cluts" type="System.Int32">2</attribute>
+      <attribute name="LinearClut" type="System.Boolean">False</attribute>
+      <data name="Width" type="System.Int32">24</data>
+      <data name="Height" type="System.Int32">16</data>
+      <data name="Bpp" type="System.Byte">4</data>
+      <data name="ColorSize" type="System.Int32">4</data>
+      <data name="MipmapCount" type="System.Byte">1</data>
+      <data name="Format" type="System.Byte">0</data>
+      <data name="GsTEX0" type="System.Byte[]">IIBAFQEAAAA=</data>
+      <data name="GsTEX1" type="System.Byte[]">YAIAAAAAAAA=</data>
+      <data name="GsRegs" type="System.UInt32">0</data>
+      <data name="GsTexClut" type="System.UInt32">1</data>
+      <data name="UserData" type="System.Byte[]">AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</data>
+    </section>
+    <section name="TIM2Texture">
+      <attribute name="Basename" type="System.String">00000891_layer19</attribute>
+      <attribute name="Cluts" type="System.Int32">1</attribute>
+      <attribute name="LinearClut" type="System.Boolean">False</attribute>
+      <data name="Width" type="System.Int32">40</data>
+      <data name="Height" type="System.Int32">40</data>
+      <data name="Bpp" type="System.Byte">4</data>
+      <data name="ColorSize" type="System.Int32">4</data>
+      <data name="MipmapCount" type="System.Byte">1</data>
+      <data name="Format" type="System.Byte">0</data>
+      <data name="GsTEX0" type="System.Byte[]">IIBAmQEAAAA=</data>
+      <data name="GsTEX1" type="System.Byte[]">YAIAAAAAAAA=</data>
+      <data name="GsRegs" type="System.UInt32">0</data>
+      <data name="GsTexClut" type="System.UInt32">1</data>
+      <data name="UserData" type="System.Byte[]">AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</data>
+    </section>
+    <section name="TIM2Texture">
+      <attribute name="Basename" type="System.String">00000891_layer20</attribute>
+      <attribute name="Cluts" type="System.Int32">2</attribute>
+      <attribute name="LinearClut" type="System.Boolean">False</attribute>
+      <data name="Width" type="System.Int32">96</data>
+      <data name="Height" type="System.Int32">24</data>
+      <data name="Bpp" type="System.Byte">4</data>
+      <data name="ColorSize" type="System.Int32">4</data>
+      <data name="MipmapCount" type="System.Byte">1</data>
+      <data name="Format" type="System.Byte">0</data>
+      <data name="GsTEX0" type="System.Byte[]">IIBAXQEAAAA=</data>
+      <data name="GsTEX1" type="System.Byte[]">YAIAAAAAAAA=</data>
+      <data name="GsRegs" type="System.UInt32">0</data>
+      <data name="GsTexClut" type="System.UInt32">1</data>
+      <data name="UserData" type="System.Byte[]">AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</data>
+    </section>
+    <section name="TIM2Texture">
+      <attribute name="Basename" type="System.String">00000891_layer21</attribute>
+      <attribute name="Cluts" type="System.Int32">2</attribute>
+      <attribute name="LinearClut" type="System.Boolean">False</attribute>
+      <data name="Width" type="System.Int32">40</data>
+      <data name="Height" type="System.Int32">40</data>
+      <data name="Bpp" type="System.Byte">4</data>
+      <data name="ColorSize" type="System.Int32">4</data>
+      <data name="MipmapCount" type="System.Byte">1</data>
+      <data name="Format" type="System.Byte">0</data>
+      <data name="GsTEX0" type="System.Byte[]">IIBAmQEAAAA=</data>
+      <data name="GsTEX1" type="System.Byte[]">YAIAAAAAAAA=</data>
+      <data name="GsRegs" type="System.UInt32">0</data>
+      <data name="GsTexClut" type="System.UInt32">1</data>
+      <data name="UserData" type="System.Byte[]">AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</data>
+    </section>
+    <section name="TIM2Texture">
+      <attribute name="Basename" type="System.String">00000891_layer22</attribute>
+      <attribute name="Cluts" type="System.Int32">2</attribute>
+      <attribute name="LinearClut" type="System.Boolean">False</attribute>
+      <data name="Width" type="System.Int32">96</data>
+      <data name="Height" type="System.Int32">16</data>
+      <data name="Bpp" type="System.Byte">4</data>
+      <data name="ColorSize" type="System.Int32">4</data>
+      <data name="MipmapCount" type="System.Byte">1</data>
+      <data name="Format" type="System.Byte">0</data>
+      <data name="GsTEX0" type="System.Byte[]">IIBAHQEAAAA=</data>
+      <data name="GsTEX1" type="System.Byte[]">YAIAAAAAAAA=</data>
+      <data name="GsRegs" type="System.UInt32">0</data>
+      <data name="GsTexClut" type="System.UInt32">1</data>
+      <data name="UserData" type="System.Byte[]">AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</data>
+    </section>
+    <section name="TIM2Texture">
+      <attribute name="Basename" type="System.String">00000891_layer23</attribute>
+      <attribute name="Cluts" type="System.Int32">2</attribute>
+      <attribute name="LinearClut" type="System.Boolean">False</attribute>
+      <data name="Width" type="System.Int32">40</data>
+      <data name="Height" type="System.Int32">40</data>
+      <data name="Bpp" type="System.Byte">4</data>
+      <data name="ColorSize" type="System.Int32">4</data>
+      <data name="MipmapCount" type="System.Byte">1</data>
+      <data name="Format" type="System.Byte">0</data>
+      <data name="GsTEX0" type="System.Byte[]">IIBAmQEAAAA=</data>
+      <data name="GsTEX1" type="System.Byte[]">YAIAAAAAAAA=</data>
+      <data name="GsRegs" type="System.UInt32">0</data>
+      <data name="GsTexClut" type="System.UInt32">1</data>
+      <data name="UserData" type="System.Byte[]">AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</data>
+    </section>
+    <section name="TIM2Texture">
+      <attribute name="Basename" type="System.String">00000891_layer24</attribute>
+      <attribute name="Cluts" type="System.Int32">2</attribute>
+      <attribute name="LinearClut" type="System.Boolean">False</attribute>
+      <data name="Width" type="System.Int32">40</data>
+      <data name="Height" type="System.Int32">40</data>
+      <data name="Bpp" type="System.Byte">4</data>
+      <data name="ColorSize" type="System.Int32">4</data>
+      <data name="MipmapCount" type="System.Byte">1</data>
+      <data name="Format" type="System.Byte">0</data>
+      <data name="GsTEX0" type="System.Byte[]">IIBAmQEAAAA=</data>
+      <data name="GsTEX1" type="System.Byte[]">YAIAAAAAAAA=</data>
+      <data name="GsRegs" type="System.UInt32">0</data>
+      <data name="GsTexClut" type="System.UInt32">1</data>
+      <data name="UserData" type="System.Byte[]">AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</data>
+    </section>
+    <section name="TIM2Texture">
+      <attribute name="Basename" type="System.String">00000891_layer25</attribute>
+      <attribute name="Cluts" type="System.Int32">2</attribute>
+      <attribute name="LinearClut" type="System.Boolean">False</attribute>
+      <data name="Width" type="System.Int32">32</data>
+      <data name="Height" type="System.Int32">24</data>
+      <data name="Bpp" type="System.Byte">4</data>
+      <data name="ColorSize" type="System.Int32">4</data>
+      <data name="MipmapCount" type="System.Byte">1</data>
+      <data name="Format" type="System.Byte">0</data>
+      <data name="GsTEX0" type="System.Byte[]">IIBAVQEAAAA=</data>
+      <data name="GsTEX1" type="System.Byte[]">YAIAAAAAAAA=</data>
+      <data name="GsRegs" type="System.UInt32">0</data>
+      <data name="GsTexClut" type="System.UInt32">1</data>
+      <data name="UserData" type="System.Byte[]">AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</data>
+    </section>
+    <section name="TIM2Texture">
+      <attribute name="Basename" type="System.String">00000891_layer26</attribute>
+      <attribute name="Cluts" type="System.Int32">1</attribute>
+      <attribute name="LinearClut" type="System.Boolean">False</attribute>
+      <data name="Width" type="System.Int32">16</data>
+      <data name="Height" type="System.Int32">32</data>
+      <data name="Bpp" type="System.Byte">8</data>
+      <data name="ColorSize" type="System.Int32">4</data>
+      <data name="MipmapCount" type="System.Byte">1</data>
+      <data name="Format" type="System.Byte">0</data>
+      <data name="GsTEX0" type="System.Byte[]">IIAwUQEAAAA=</data>
+      <data name="GsTEX1" type="System.Byte[]">YAIAAAAAAAA=</data>
+      <data name="GsRegs" type="System.UInt32">0</data>
+      <data name="GsTexClut" type="System.UInt32">1</data>
+      <data name="UserData" type="System.Byte[]">AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</data>
+    </section>
+    <section name="TIM2Texture">
+      <attribute name="Basename" type="System.String">00000891_layer27</attribute>
+      <attribute name="Cluts" type="System.Int32">2</attribute>
+      <attribute name="LinearClut" type="System.Boolean">False</attribute>
+      <data name="Width" type="System.Int32">16</data>
+      <data name="Height" type="System.Int32">32</data>
+      <data name="Bpp" type="System.Byte">4</data>
+      <data name="ColorSize" type="System.Int32">4</data>
+      <data name="MipmapCount" type="System.Byte">1</data>
+      <data name="Format" type="System.Byte">0</data>
+      <data name="GsTEX0" type="System.Byte[]">IIBAUQEAAAA=</data>
+      <data name="GsTEX1" type="System.Byte[]">YAIAAAAAAAA=</data>
+      <data name="GsRegs" type="System.UInt32">0</data>
+      <data name="GsTexClut" type="System.UInt32">1</data>
+      <data name="UserData" type="System.Byte[]">AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</data>
+    </section>
+    <section name="TIM2Texture">
+      <attribute name="Basename" type="System.String">00000891_layer28</attribute>
+      <attribute name="Cluts" type="System.Int32">1</attribute>
+      <attribute name="LinearClut" type="System.Boolean">False</attribute>
+      <data name="Width" type="System.Int32">16</data>
+      <data name="Height" type="System.Int32">24</data>
+      <data name="Bpp" type="System.Byte">8</data>
+      <data name="ColorSize" type="System.Int32">4</data>
+      <data name="MipmapCount" type="System.Byte">1</data>
+      <data name="Format" type="System.Byte">0</data>
+      <data name="GsTEX0" type="System.Byte[]">IIAwUQEAAAA=</data>
+      <data name="GsTEX1" type="System.Byte[]">YAIAAAAAAAA=</data>
+      <data name="GsRegs" type="System.UInt32">0</data>
+      <data name="GsTexClut" type="System.UInt32">1</data>
+      <data name="UserData" type="System.Byte[]">AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</data>
+    </section>
+    <section name="TIM2Texture">
+      <attribute name="Basename" type="System.String">00000891_layer29</attribute>
+      <attribute name="Cluts" type="System.Int32">2</attribute>
+      <attribute name="LinearClut" type="System.Boolean">False</attribute>
+      <data name="Width" type="System.Int32">16</data>
+      <data name="Height" type="System.Int32">24</data>
+      <data name="Bpp" type="System.Byte">4</data>
+      <data name="ColorSize" type="System.Int32">4</data>
+      <data name="MipmapCount" type="System.Byte">1</data>
+      <data name="Format" type="System.Byte">0</data>
+      <data name="GsTEX0" type="System.Byte[]">IIBAUQEAAAA=</data>
+      <data name="GsTEX1" type="System.Byte[]">YAIAAAAAAAA=</data>
+      <data name="GsRegs" type="System.UInt32">0</data>
+      <data name="GsTexClut" type="System.UInt32">1</data>
+      <data name="UserData" type="System.Byte[]">AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</data>
+    </section>
+    <section name="TIM2Texture">
+      <attribute name="Basename" type="System.String">00000891_layer30</attribute>
+      <attribute name="Cluts" type="System.Int32">1</attribute>
+      <attribute name="LinearClut" type="System.Boolean">False</attribute>
+      <data name="Width" type="System.Int32">16</data>
+      <data name="Height" type="System.Int32">32</data>
+      <data name="Bpp" type="System.Byte">8</data>
+      <data name="ColorSize" type="System.Int32">4</data>
+      <data name="MipmapCount" type="System.Byte">1</data>
+      <data name="Format" type="System.Byte">0</data>
+      <data name="GsTEX0" type="System.Byte[]">IIAwUQEAAAA=</data>
+      <data name="GsTEX1" type="System.Byte[]">YAIAAAAAAAA=</data>
+      <data name="GsRegs" type="System.UInt32">0</data>
+      <data name="GsTexClut" type="System.UInt32">1</data>
+      <data name="UserData" type="System.Byte[]">AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</data>
+    </section>
+    <section name="TIM2Texture">
+      <attribute name="Basename" type="System.String">00000891_layer31</attribute>
+      <attribute name="Cluts" type="System.Int32">1</attribute>
+      <attribute name="LinearClut" type="System.Boolean">False</attribute>
+      <data name="Width" type="System.Int32">16</data>
+      <data name="Height" type="System.Int32">32</data>
+      <data name="Bpp" type="System.Byte">8</data>
+      <data name="ColorSize" type="System.Int32">4</data>
+      <data name="MipmapCount" type="System.Byte">1</data>
+      <data name="Format" type="System.Byte">0</data>
+      <data name="GsTEX0" type="System.Byte[]">IIAwUQEAAAA=</data>
+      <data name="GsTEX1" type="System.Byte[]">YAIAAAAAAAA=</data>
+      <data name="GsRegs" type="System.UInt32">0</data>
+      <data name="GsTexClut" type="System.UInt32">1</data>
+      <data name="UserData" type="System.Byte[]">AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</data>
+    </section>
+    <section name="TIM2Texture">
+      <attribute name="Basename" type="System.String">00000891_layer32</attribute>
+      <attribute name="Cluts" type="System.Int32">1</attribute>
+      <attribute name="LinearClut" type="System.Boolean">False</attribute>
+      <data name="Width" type="System.Int32">320</data>
+      <data name="Height" type="System.Int32">448</data>
+      <data name="Bpp" type="System.Byte">8</data>
+      <data name="ColorSize" type="System.Int32">4</data>
+      <data name="MipmapCount" type="System.Byte">1</data>
+      <data name="Format" type="System.Byte">0</data>
+      <data name="GsTEX0" type="System.Byte[]">IAAyZQIAAAA=</data>
+      <data name="GsTEX1" type="System.Byte[]">YAIAAAAAAAA=</data>
+      <data name="GsRegs" type="System.UInt32">0</data>
+      <data name="GsTexClut" type="System.UInt32">1</data>
+      <data name="UserData" type="System.Byte[]">AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</data>
+    </section>
+    <section name="TIM2Texture">
+      <attribute name="Basename" type="System.String">00000891_layer33</attribute>
+      <attribute name="Cluts" type="System.Int32">1</attribute>
+      <attribute name="LinearClut" type="System.Boolean">False</attribute>
+      <data name="Width" type="System.Int32">320</data>
+      <data name="Height" type="System.Int32">448</data>
+      <data name="Bpp" type="System.Byte">8</data>
+      <data name="ColorSize" type="System.Int32">4</data>
+      <data name="MipmapCount" type="System.Byte">1</data>
+      <data name="Format" type="System.Byte">0</data>
+      <data name="GsTEX0" type="System.Byte[]">IAAyZQIAAAA=</data>
+      <data name="GsTEX1" type="System.Byte[]">YAIAAAAAAAA=</data>
+      <data name="GsRegs" type="System.UInt32">0</data>
+      <data name="GsTexClut" type="System.UInt32">1</data>
+      <data name="UserData" type="System.Byte[]">AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</data>
+    </section>
+    <section name="TIM2Texture">
+      <attribute name="Basename" type="System.String">00000891_layer34</attribute>
+      <attribute name="Cluts" type="System.Int32">1</attribute>
+      <attribute name="LinearClut" type="System.Boolean">False</attribute>
+      <data name="Width" type="System.Int32">56</data>
+      <data name="Height" type="System.Int32">16</data>
+      <data name="Bpp" type="System.Byte">4</data>
+      <data name="ColorSize" type="System.Int32">4</data>
+      <data name="MipmapCount" type="System.Byte">1</data>
+      <data name="Format" type="System.Byte">0</data>
+      <data name="GsTEX0" type="System.Byte[]">IIBAGQEAAAA=</data>
+      <data name="GsTEX1" type="System.Byte[]">YAIAAAAAAAA=</data>
+      <data name="GsRegs" type="System.UInt32">0</data>
+      <data name="GsTexClut" type="System.UInt32">1</data>
+      <data name="UserData" type="System.Byte[]">AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</data>
+    </section>
+    <section name="TIM2Texture">
+      <attribute name="Basename" type="System.String">00000891_layer35</attribute>
+      <attribute name="Cluts" type="System.Int32">1</attribute>
+      <attribute name="LinearClut" type="System.Boolean">False</attribute>
+      <data name="Width" type="System.Int32">56</data>
+      <data name="Height" type="System.Int32">20</data>
+      <data name="Bpp" type="System.Byte">4</data>
+      <data name="ColorSize" type="System.Int32">4</data>
+      <data name="MipmapCount" type="System.Byte">1</data>
+      <data name="Format" type="System.Byte">0</data>
+      <data name="GsTEX0" type="System.Byte[]">IIBAWQEAAAA=</data>
+      <data name="GsTEX1" type="System.Byte[]">YAIAAAAAAAA=</data>
+      <data name="GsRegs" type="System.UInt32">0</data>
+      <data name="GsTexClut" type="System.UInt32">1</data>
+      <data name="UserData" type="System.Byte[]">AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</data>
+    </section>
+    <section name="TIM2Texture">
+      <attribute name="Basename" type="System.String">00000891_layer36</attribute>
+      <attribute name="Cluts" type="System.Int32">1</attribute>
+      <attribute name="LinearClut" type="System.Boolean">False</attribute>
+      <data name="Width" type="System.Int32">56</data>
+      <data name="Height" type="System.Int32">16</data>
+      <data name="Bpp" type="System.Byte">4</data>
+      <data name="ColorSize" type="System.Int32">4</data>
+      <data name="MipmapCount" type="System.Byte">1</data>
+      <data name="Format" type="System.Byte">0</data>
+      <data name="GsTEX0" type="System.Byte[]">IIBAGQEAAAA=</data>
+      <data name="GsTEX1" type="System.Byte[]">YAIAAAAAAAA=</data>
+      <data name="GsRegs" type="System.UInt32">0</data>
+      <data name="GsTexClut" type="System.UInt32">1</data>
+      <data name="UserData" type="System.Byte[]">AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</data>
+    </section>
+    <section name="TIM2Texture">
+      <attribute name="Basename" type="System.String">00000891_layer37</attribute>
+      <attribute name="Cluts" type="System.Int32">1</attribute>
+      <attribute name="LinearClut" type="System.Boolean">False</attribute>
+      <data name="Width" type="System.Int32">56</data>
+      <data name="Height" type="System.Int32">16</data>
+      <data name="Bpp" type="System.Byte">4</data>
+      <data name="ColorSize" type="System.Int32">4</data>
+      <data name="MipmapCount" type="System.Byte">1</data>
+      <data name="Format" type="System.Byte">0</data>
+      <data name="GsTEX0" type="System.Byte[]">IIBAGQEAAAA=</data>
+      <data name="GsTEX1" type="System.Byte[]">YAIAAAAAAAA=</data>
+      <data name="GsRegs" type="System.UInt32">0</data>
+      <data name="GsTexClut" type="System.UInt32">1</data>
+      <data name="UserData" type="System.Byte[]">AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</data>
+    </section>
+    <section name="TIM2Texture">
+      <attribute name="Basename" type="System.String">00000891_layer38</attribute>
+      <attribute name="Cluts" type="System.Int32">1</attribute>
+      <attribute name="LinearClut" type="System.Boolean">False</attribute>
+      <data name="Width" type="System.Int32">56</data>
+      <data name="Height" type="System.Int32">16</data>
+      <data name="Bpp" type="System.Byte">4</data>
+      <data name="ColorSize" type="System.Int32">4</data>
+      <data name="MipmapCount" type="System.Byte">1</data>
+      <data name="Format" type="System.Byte">0</data>
+      <data name="GsTEX0" type="System.Byte[]">IIBAGQEAAAA=</data>
+      <data name="GsTEX1" type="System.Byte[]">YAIAAAAAAAA=</data>
+      <data name="GsRegs" type="System.UInt32">0</data>
+      <data name="GsTexClut" type="System.UInt32">1</data>
+      <data name="UserData" type="System.Byte[]">AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</data>
+    </section>
+    <section name="TIM2Texture">
+      <attribute name="Basename" type="System.String">00000891_layer39</attribute>
+      <attribute name="Cluts" type="System.Int32">1</attribute>
+      <attribute name="LinearClut" type="System.Boolean">False</attribute>
+      <data name="Width" type="System.Int32">56</data>
+      <data name="Height" type="System.Int32">16</data>
+      <data name="Bpp" type="System.Byte">4</data>
+      <data name="ColorSize" type="System.Int32">4</data>
+      <data name="MipmapCount" type="System.Byte">1</data>
+      <data name="Format" type="System.Byte">0</data>
+      <data name="GsTEX0" type="System.Byte[]">IIBAGQEAAAA=</data>
+      <data name="GsTEX1" type="System.Byte[]">YAIAAAAAAAA=</data>
+      <data name="GsRegs" type="System.UInt32">0</data>
+      <data name="GsTexClut" type="System.UInt32">1</data>
+      <data name="UserData" type="System.Byte[]">AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</data>
+    </section>
+    <section name="TIM2Texture">
+      <attribute name="Basename" type="System.String">00000891_layer40</attribute>
+      <attribute name="Cluts" type="System.Int32">1</attribute>
+      <attribute name="LinearClut" type="System.Boolean">False</attribute>
+      <data name="Width" type="System.Int32">56</data>
+      <data name="Height" type="System.Int32">16</data>
+      <data name="Bpp" type="System.Byte">4</data>
+      <data name="ColorSize" type="System.Int32">4</data>
+      <data name="MipmapCount" type="System.Byte">1</data>
+      <data name="Format" type="System.Byte">0</data>
+      <data name="GsTEX0" type="System.Byte[]">IIBAGQEAAAA=</data>
+      <data name="GsTEX1" type="System.Byte[]">YAIAAAAAAAA=</data>
+      <data name="GsRegs" type="System.UInt32">0</data>
+      <data name="GsTexClut" type="System.UInt32">1</data>
+      <data name="UserData" type="System.Byte[]">AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</data>
+    </section>
+    <section name="TIM2Texture">
+      <attribute name="Basename" type="System.String">00000891_layer41</attribute>
+      <attribute name="Cluts" type="System.Int32">1</attribute>
+      <attribute name="LinearClut" type="System.Boolean">False</attribute>
+      <data name="Width" type="System.Int32">56</data>
+      <data name="Height" type="System.Int32">16</data>
+      <data name="Bpp" type="System.Byte">4</data>
+      <data name="ColorSize" type="System.Int32">4</data>
+      <data name="MipmapCount" type="System.Byte">1</data>
+      <data name="Format" type="System.Byte">0</data>
+      <data name="GsTEX0" type="System.Byte[]">IIBAGQEAAAA=</data>
+      <data name="GsTEX1" type="System.Byte[]">YAIAAAAAAAA=</data>
+      <data name="GsRegs" type="System.UInt32">0</data>
+      <data name="GsTexClut" type="System.UInt32">1</data>
+      <data name="UserData" type="System.Byte[]">AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</data>
+    </section>
+    <section name="TIM2Texture">
+      <attribute name="Basename" type="System.String">00000891_layer42</attribute>
+      <attribute name="Cluts" type="System.Int32">1</attribute>
+      <attribute name="LinearClut" type="System.Boolean">False</attribute>
+      <data name="Width" type="System.Int32">56</data>
+      <data name="Height" type="System.Int32">16</data>
+      <data name="Bpp" type="System.Byte">4</data>
+      <data name="ColorSize" type="System.Int32">4</data>
+      <data name="MipmapCount" type="System.Byte">1</data>
+      <data name="Format" type="System.Byte">0</data>
+      <data name="GsTEX0" type="System.Byte[]">IIBAGQEAAAA=</data>
+      <data name="GsTEX1" type="System.Byte[]">YAIAAAAAAAA=</data>
+      <data name="GsRegs" type="System.UInt32">0</data>
+      <data name="GsTexClut" type="System.UInt32">1</data>
+      <data name="UserData" type="System.Byte[]">AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</data>
+    </section>
+    <section name="TIM2Texture">
+      <attribute name="Basename" type="System.String">00000891_layer43</attribute>
+      <attribute name="Cluts" type="System.Int32">1</attribute>
+      <attribute name="LinearClut" type="System.Boolean">False</attribute>
+      <data name="Width" type="System.Int32">56</data>
+      <data name="Height" type="System.Int32">16</data>
+      <data name="Bpp" type="System.Byte">4</data>
+      <data name="ColorSize" type="System.Int32">4</data>
+      <data name="MipmapCount" type="System.Byte">1</data>
+      <data name="Format" type="System.Byte">0</data>
+      <data name="GsTEX0" type="System.Byte[]">IIBAGQEAAAA=</data>
+      <data name="GsTEX1" type="System.Byte[]">YAIAAAAAAAA=</data>
+      <data name="GsRegs" type="System.UInt32">0</data>
+      <data name="GsTexClut" type="System.UInt32">1</data>
+      <data name="UserData" type="System.Byte[]">AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</data>
+    </section>
+    <section name="TIM2Texture">
+      <attribute name="Basename" type="System.String">00000891_layer44</attribute>
+      <attribute name="Cluts" type="System.Int32">1</attribute>
+      <attribute name="LinearClut" type="System.Boolean">False</attribute>
+      <data name="Width" type="System.Int32">56</data>
+      <data name="Height" type="System.Int32">16</data>
+      <data name="Bpp" type="System.Byte">4</data>
+      <data name="ColorSize" type="System.Int32">4</data>
+      <data name="MipmapCount" type="System.Byte">1</data>
+      <data name="Format" type="System.Byte">0</data>
+      <data name="GsTEX0" type="System.Byte[]">IIBAGQEAAAA=</data>
+      <data name="GsTEX1" type="System.Byte[]">YAIAAAAAAAA=</data>
+      <data name="GsRegs" type="System.UInt32">0</data>
+      <data name="GsTexClut" type="System.UInt32">1</data>
+      <data name="UserData" type="System.Byte[]">AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</data>
+    </section>
+    <section name="TIM2Texture">
+      <attribute name="Basename" type="System.String">00000891_layer45</attribute>
+      <attribute name="Cluts" type="System.Int32">1</attribute>
+      <attribute name="LinearClut" type="System.Boolean">False</attribute>
+      <data name="Width" type="System.Int32">56</data>
+      <data name="Height" type="System.Int32">16</data>
+      <data name="Bpp" type="System.Byte">4</data>
+      <data name="ColorSize" type="System.Int32">4</data>
+      <data name="MipmapCount" type="System.Byte">1</data>
+      <data name="Format" type="System.Byte">0</data>
+      <data name="GsTEX0" type="System.Byte[]">IIBAGQEAAAA=</data>
+      <data name="GsTEX1" type="System.Byte[]">YAIAAAAAAAA=</data>
+      <data name="GsRegs" type="System.UInt32">0</data>
+      <data name="GsTexClut" type="System.UInt32">1</data>
+      <data name="UserData" type="System.Byte[]">AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</data>
+    </section>
+    <section name="TIM2Texture">
+      <attribute name="Basename" type="System.String">00000891_layer46</attribute>
+      <attribute name="Cluts" type="System.Int32">1</attribute>
+      <attribute name="LinearClut" type="System.Boolean">False</attribute>
+      <data name="Width" type="System.Int32">56</data>
+      <data name="Height" type="System.Int32">16</data>
+      <data name="Bpp" type="System.Byte">4</data>
+      <data name="ColorSize" type="System.Int32">4</data>
+      <data name="MipmapCount" type="System.Byte">1</data>
+      <data name="Format" type="System.Byte">0</data>
+      <data name="GsTEX0" type="System.Byte[]">IIBAGQEAAAA=</data>
+      <data name="GsTEX1" type="System.Byte[]">YAIAAAAAAAA=</data>
+      <data name="GsRegs" type="System.UInt32">0</data>
+      <data name="GsTexClut" type="System.UInt32">1</data>
+      <data name="UserData" type="System.Byte[]">AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</data>
+    </section>
+    <section name="TIM2Texture">
+      <attribute name="Basename" type="System.String">00000891_layer47</attribute>
+      <attribute name="Cluts" type="System.Int32">1</attribute>
+      <attribute name="LinearClut" type="System.Boolean">False</attribute>
+      <data name="Width" type="System.Int32">56</data>
+      <data name="Height" type="System.Int32">16</data>
+      <data name="Bpp" type="System.Byte">4</data>
+      <data name="ColorSize" type="System.Int32">4</data>
+      <data name="MipmapCount" type="System.Byte">1</data>
+      <data name="Format" type="System.Byte">0</data>
+      <data name="GsTEX0" type="System.Byte[]">IIBAGQEAAAA=</data>
+      <data name="GsTEX1" type="System.Byte[]">YAIAAAAAAAA=</data>
+      <data name="GsRegs" type="System.UInt32">0</data>
+      <data name="GsTexClut" type="System.UInt32">1</data>
+      <data name="UserData" type="System.Byte[]">AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</data>
+    </section>
+    <section name="TIM2Texture">
+      <attribute name="Basename" type="System.String">00000891_layer48</attribute>
+      <attribute name="Cluts" type="System.Int32">1</attribute>
+      <attribute name="LinearClut" type="System.Boolean">False</attribute>
+      <data name="Width" type="System.Int32">56</data>
+      <data name="Height" type="System.Int32">16</data>
+      <data name="Bpp" type="System.Byte">4</data>
+      <data name="ColorSize" type="System.Int32">4</data>
+      <data name="MipmapCount" type="System.Byte">1</data>
+      <data name="Format" type="System.Byte">0</data>
+      <data name="GsTEX0" type="System.Byte[]">IIBAGQEAAAA=</data>
+      <data name="GsTEX1" type="System.Byte[]">YAIAAAAAAAA=</data>
+      <data name="GsRegs" type="System.UInt32">0</data>
+      <data name="GsTexClut" type="System.UInt32">1</data>
+      <data name="UserData" type="System.Byte[]">AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</data>
+    </section>
+    <section name="TIM2Texture">
+      <attribute name="Basename" type="System.String">00000891_layer49</attribute>
+      <attribute name="Cluts" type="System.Int32">1</attribute>
+      <attribute name="LinearClut" type="System.Boolean">False</attribute>
+      <data name="Width" type="System.Int32">56</data>
+      <data name="Height" type="System.Int32">16</data>
+      <data name="Bpp" type="System.Byte">4</data>
+      <data name="ColorSize" type="System.Int32">4</data>
+      <data name="MipmapCount" type="System.Byte">1</data>
+      <data name="Format" type="System.Byte">0</data>
+      <data name="GsTEX0" type="System.Byte[]">IIBAGQEAAAA=</data>
+      <data name="GsTEX1" type="System.Byte[]">YAIAAAAAAAA=</data>
+      <data name="GsRegs" type="System.UInt32">0</data>
+      <data name="GsTexClut" type="System.UInt32">1</data>
+      <data name="UserData" type="System.Byte[]">AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</data>
+    </section>
+    <section name="TIM2Texture">
+      <attribute name="Basename" type="System.String">00000891_layer50</attribute>
+      <attribute name="Cluts" type="System.Int32">1</attribute>
+      <attribute name="LinearClut" type="System.Boolean">False</attribute>
+      <data name="Width" type="System.Int32">56</data>
+      <data name="Height" type="System.Int32">16</data>
+      <data name="Bpp" type="System.Byte">4</data>
+      <data name="ColorSize" type="System.Int32">4</data>
+      <data name="MipmapCount" type="System.Byte">1</data>
+      <data name="Format" type="System.Byte">0</data>
+      <data name="GsTEX0" type="System.Byte[]">IIBAGQEAAAA=</data>
+      <data name="GsTEX1" type="System.Byte[]">YAIAAAAAAAA=</data>
+      <data name="GsRegs" type="System.UInt32">0</data>
+      <data name="GsTexClut" type="System.UInt32">1</data>
+      <data name="UserData" type="System.Byte[]">AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</data>
+    </section>
+    <section name="TIM2Texture">
+      <attribute name="Basename" type="System.String">00000891_layer51</attribute>
+      <attribute name="Cluts" type="System.Int32">1</attribute>
+      <attribute name="LinearClut" type="System.Boolean">False</attribute>
+      <data name="Width" type="System.Int32">56</data>
+      <data name="Height" type="System.Int32">16</data>
+      <data name="Bpp" type="System.Byte">4</data>
+      <data name="ColorSize" type="System.Int32">4</data>
+      <data name="MipmapCount" type="System.Byte">1</data>
+      <data name="Format" type="System.Byte">0</data>
+      <data name="GsTEX0" type="System.Byte[]">IIBAGQEAAAA=</data>
+      <data name="GsTEX1" type="System.Byte[]">YAIAAAAAAAA=</data>
+      <data name="GsRegs" type="System.UInt32">0</data>
+      <data name="GsTexClut" type="System.UInt32">1</data>
+      <data name="UserData" type="System.Byte[]">AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</data>
+    </section>
+    <section name="TIM2Texture">
+      <attribute name="Basename" type="System.String">00000891_layer52</attribute>
+      <attribute name="Cluts" type="System.Int32">1</attribute>
+      <attribute name="LinearClut" type="System.Boolean">False</attribute>
+      <data name="Width" type="System.Int32">56</data>
+      <data name="Height" type="System.Int32">16</data>
+      <data name="Bpp" type="System.Byte">4</data>
+      <data name="ColorSize" type="System.Int32">4</data>
+      <data name="MipmapCount" type="System.Byte">1</data>
+      <data name="Format" type="System.Byte">0</data>
+      <data name="GsTEX0" type="System.Byte[]">IIBAGQEAAAA=</data>
+      <data name="GsTEX1" type="System.Byte[]">YAIAAAAAAAA=</data>
+      <data name="GsRegs" type="System.UInt32">0</data>
+      <data name="GsTexClut" type="System.UInt32">1</data>
+      <data name="UserData" type="System.Byte[]">AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</data>
+    </section>
+    <section name="TIM2Texture">
+      <attribute name="Basename" type="System.String">00000891_layer53</attribute>
+      <attribute name="Cluts" type="System.Int32">1</attribute>
+      <attribute name="LinearClut" type="System.Boolean">False</attribute>
+      <data name="Width" type="System.Int32">56</data>
+      <data name="Height" type="System.Int32">16</data>
+      <data name="Bpp" type="System.Byte">4</data>
+      <data name="ColorSize" type="System.Int32">4</data>
+      <data name="MipmapCount" type="System.Byte">1</data>
+      <data name="Format" type="System.Byte">0</data>
+      <data name="GsTEX0" type="System.Byte[]">IIBAGQEAAAA=</data>
+      <data name="GsTEX1" type="System.Byte[]">YAIAAAAAAAA=</data>
+      <data name="GsRegs" type="System.UInt32">0</data>
+      <data name="GsTexClut" type="System.UInt32">1</data>
+      <data name="UserData" type="System.Byte[]">AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</data>
+    </section>
+    <section name="TIM2Texture">
+      <attribute name="Basename" type="System.String">00000891_layer54</attribute>
+      <attribute name="Cluts" type="System.Int32">1</attribute>
+      <attribute name="LinearClut" type="System.Boolean">False</attribute>
+      <data name="Width" type="System.Int32">56</data>
+      <data name="Height" type="System.Int32">16</data>
+      <data name="Bpp" type="System.Byte">4</data>
+      <data name="ColorSize" type="System.Int32">4</data>
+      <data name="MipmapCount" type="System.Byte">1</data>
+      <data name="Format" type="System.Byte">0</data>
+      <data name="GsTEX0" type="System.Byte[]">IIBAGQEAAAA=</data>
+      <data name="GsTEX1" type="System.Byte[]">YAIAAAAAAAA=</data>
+      <data name="GsRegs" type="System.UInt32">0</data>
+      <data name="GsTexClut" type="System.UInt32">1</data>
+      <data name="UserData" type="System.Byte[]">AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</data>
+    </section>
+    <section name="TIM2Texture">
+      <attribute name="Basename" type="System.String">00000891_layer55</attribute>
+      <attribute name="Cluts" type="System.Int32">1</attribute>
+      <attribute name="LinearClut" type="System.Boolean">False</attribute>
+      <data name="Width" type="System.Int32">56</data>
+      <data name="Height" type="System.Int32">16</data>
+      <data name="Bpp" type="System.Byte">4</data>
+      <data name="ColorSize" type="System.Int32">4</data>
+      <data name="MipmapCount" type="System.Byte">1</data>
+      <data name="Format" type="System.Byte">0</data>
+      <data name="GsTEX0" type="System.Byte[]">IIBAGQEAAAA=</data>
+      <data name="GsTEX1" type="System.Byte[]">YAIAAAAAAAA=</data>
+      <data name="GsRegs" type="System.UInt32">0</data>
+      <data name="GsTexClut" type="System.UInt32">1</data>
+      <data name="UserData" type="System.Byte[]">AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</data>
+    </section>
+    <section name="TIM2Texture">
+      <attribute name="Basename" type="System.String">00000891_layer56</attribute>
+      <attribute name="Cluts" type="System.Int32">1</attribute>
+      <attribute name="LinearClut" type="System.Boolean">False</attribute>
+      <data name="Width" type="System.Int32">56</data>
+      <data name="Height" type="System.Int32">16</data>
+      <data name="Bpp" type="System.Byte">4</data>
+      <data name="ColorSize" type="System.Int32">4</data>
+      <data name="MipmapCount" type="System.Byte">1</data>
+      <data name="Format" type="System.Byte">0</data>
+      <data name="GsTEX0" type="System.Byte[]">IIBAGQEAAAA=</data>
+      <data name="GsTEX1" type="System.Byte[]">YAIAAAAAAAA=</data>
+      <data name="GsRegs" type="System.UInt32">0</data>
+      <data name="GsTexClut" type="System.UInt32">1</data>
+      <data name="UserData" type="System.Byte[]">AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</data>
+    </section>
+    <section name="TIM2Texture">
+      <attribute name="Basename" type="System.String">00000891_layer57</attribute>
+      <attribute name="Cluts" type="System.Int32">1</attribute>
+      <attribute name="LinearClut" type="System.Boolean">False</attribute>
+      <data name="Width" type="System.Int32">56</data>
+      <data name="Height" type="System.Int32">16</data>
+      <data name="Bpp" type="System.Byte">4</data>
+      <data name="ColorSize" type="System.Int32">4</data>
+      <data name="MipmapCount" type="System.Byte">1</data>
+      <data name="Format" type="System.Byte">0</data>
+      <data name="GsTEX0" type="System.Byte[]">IIBAGQEAAAA=</data>
+      <data name="GsTEX1" type="System.Byte[]">YAIAAAAAAAA=</data>
+      <data name="GsRegs" type="System.UInt32">0</data>
+      <data name="GsTexClut" type="System.UInt32">1</data>
+      <data name="UserData" type="System.Byte[]">AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</data>
+    </section>
+  </section>
+</textureFormatMetadata>
