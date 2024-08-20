@@ -1,0 +1,161 @@
+{
+    "links": {
+        "1": {
+            "from": 6,
+            "id": 1,
+            "to": 1
+        },
+        "14": {
+            "from": 34,
+            "id": 14,
+            "to": 2
+        },
+        "15": {
+            "from": 35,
+            "id": 15,
+            "to": 3
+        },
+        "16": {
+            "from": 36,
+            "id": 16,
+            "to": 5
+        },
+        "2": {
+            "from": 7,
+            "id": 2,
+            "to": 9
+        },
+        "3": {
+            "from": 8,
+            "id": 3,
+            "to": 10
+        },
+        "4": {
+            "from": 11,
+            "id": 4,
+            "to": 4
+        }
+    },
+    "nodes": {
+        "1": {
+            "attrs": [
+                1,
+                2,
+                3
+            ],
+            "data": null,
+            "id": 1,
+            "name": "hex.builtin.nodes.visualizer.image_rgba.header",
+            "pos": {
+                "x": 472.0,
+                "y": 244.0
+            },
+            "type": "hex.builtin.nodes.visualizer.image_rgba"
+        },
+        "16": {
+            "attrs": [
+                34
+            ],
+            "data": {
+                "input": "0x04"
+            },
+            "id": 16,
+            "name": "hex.builtin.nodes.constants.int.header",
+            "pos": {
+                "x": 497.0,
+                "y": 119.0
+            },
+            "type": "hex.builtin.nodes.constants.int"
+        },
+        "17": {
+            "attrs": [
+                35
+            ],
+            "data": {
+                "input": "0x04"
+            },
+            "id": 17,
+            "name": "hex.builtin.nodes.constants.int.header",
+            "pos": {
+                "x": 497.0,
+                "y": 23.0
+            },
+            "type": "hex.builtin.nodes.constants.int"
+        },
+        "18": {
+            "attrs": [
+                36
+            ],
+            "data": {
+                "input": "0x40"
+            },
+            "id": 18,
+            "name": "hex.builtin.nodes.constants.int.header",
+            "pos": {
+                "x": 147.0,
+                "y": 667.0
+            },
+            "type": "hex.builtin.nodes.constants.int"
+        },
+        "2": {
+            "attrs": [
+                4,
+                5,
+                6
+            ],
+            "data": null,
+            "id": 2,
+            "name": "hex.builtin.nodes.data_access.read.header",
+            "pos": {
+                "x": 383.0,
+                "y": 597.0
+            },
+            "type": "hex.builtin.nodes.data_access.read"
+        },
+        "3": {
+            "attrs": [
+                7
+            ],
+            "data": {
+                "input": "0x0000B380"
+            },
+            "id": 3,
+            "name": "hex.builtin.nodes.constants.int.header",
+            "pos": {
+                "x": 49.0,
+                "y": 132.0
+            },
+            "type": "hex.builtin.nodes.constants.int"
+        },
+        "4": {
+            "attrs": [
+                8
+            ],
+            "data": {
+                "input": "0x00"
+            },
+            "id": 4,
+            "name": "hex.builtin.nodes.constants.int.header",
+            "pos": {
+                "x": 48.0,
+                "y": 316.0
+            },
+            "type": "hex.builtin.nodes.constants.int"
+        },
+        "5": {
+            "attrs": [
+                9,
+                10,
+                11
+            ],
+            "data": null,
+            "id": 5,
+            "name": "hex.builtin.nodes.arithmetic.add.header",
+            "pos": {
+                "x": 283.0,
+                "y": 540.0
+            },
+            "type": "hex.builtin.nodes.arithmetic.add"
+        }
+    }
+}
