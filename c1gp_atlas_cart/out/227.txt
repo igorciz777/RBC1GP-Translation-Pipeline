@@ -26,7 +26,7 @@ TOPICS displays information on featured events．<END>
 //POINTER #4 @ $10 - STRING #4 @ $704
 
 #W32($10)
-Earn CP and NP points by participating in Official RACING BATTLE events．<END>
+Earn CP and NP by participating in Official RACING BATTLE events．<END>
 //POINTER #5 @ $14 - STRING #5 @ $738
 
 #W32($14)
@@ -122,7 +122,7 @@ None．<END>
 //POINTER #28 @ $70 - STRING #28 @ $C0C
 
 #W32($70)
-Enter a Special Event．Your amount of NP points needs to be above the required number．<END>
+Enter a Special Event．Your amount of NP needs to be above the required number．<END>
 //POINTER #29 @ $74 - STRING #29 @ $C62
 
 #W32($74)
@@ -750,7 +750,7 @@ Car accessories related to upkeeping your car's condition．<END>
 //POINTER #185 @ $2E4 - STRING #185 @ $3358
 
 #W32($2E4)
-Car accessories related to NP points and used car sales．<END>
+Car accessories related to NP and used car sales．<END>
 //POINTER #186 @ $2E8 - STRING #186 @ $3386
 
 #W32($2E8)
@@ -1394,7 +1394,7 @@ Measures the time to run one lap of the circuit．<END>
 //POINTER #346 @ $568 - STRING #346 @ $56D0
 
 #W32($568)
-Earn the highest possible amount of DP points by drifting in given sections of the circuit．<END>
+Earn the highest possible amount of DP by drifting in given sections of the circuit．<END>
 //POINTER #347 @ $56C - STRING #347 @ $5728
 
 #W32($56C)

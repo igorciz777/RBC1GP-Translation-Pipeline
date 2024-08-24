@@ -3712,7 +3712,7 @@ find advantage and gain progress．<END>
 //POINTER #153 @ $1598 - STRING #153 @ $7992
 
 #W32($1598)
-your current car、CP points、NP points、<END>
+your current car、CP、NP、<END>
 //BLOCK #006 NAME:		230.bin File - Encoded Topics Text 7
 
 //POINTER #0 @ $18 - STRING #0 @ $79C2

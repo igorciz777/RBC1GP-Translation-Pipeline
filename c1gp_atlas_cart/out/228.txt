@@ -2920,7 +2920,7 @@ Regulations not met<END>
 //POINTER #727 @ $B5C - STRING #727 @ $404C
 
 #W32($B5C)
-No prize will be awarded as<END>
+No prize will be awarded<END>
 //POINTER #728 @ $B60 - STRING #728 @ $4074
 
 #W32($B60)
