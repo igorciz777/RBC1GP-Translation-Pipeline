@@ -38,16 +38,16 @@ To repack the game files you will need ImgBurn
 		
 	Use this command on your game files to patch them (modify the command according to your directiories):
 	
-		```.\gut_archive.exe -r .\BUILD.TOC .\BUILD.DAT .\in\```
+		.\gut_archive.exe -r .\BUILD.TOC .\BUILD.DAT .\in\
 		
 	If you did everything correctly the commandline should output:
 	
-		```Reading file info from TOC...
+		Reading file info from TOC...
 		Rebuilding GUT Archive...
 		Processing file id:224
 		Block size: 16384
 		(.......)
-		GUT Archive rebuilt successfully```
+		GUT Archive rebuilt successfully
 	
 		
 		
