@@ -21,8 +21,6 @@
 | `Executable` |  99% |
 ---
 ## Installation
-## Installation:
-
 Extract your copy of RACING BATTLE -C1 GRAND PRIX- into a folder.
 
 To patch your game files you will need GUT Archive Tools (WARNING !!! v0.3.1 and up, very big changes were made to allow bigger files):
@@ -35,39 +33,26 @@ To repack the game files you will need ImgBurn
 ### Inside this archive there are two folders: 
 
 - in:
+  
 	This folder contains the main translation files. These files come from BUILD.DAT and need to be reinserted using GUT Archive Tool.
-	Easiest way is to place the folder and GUT Archive Tool inside your game files so that the directory looks as follows:
-	
-	<your game folder>/
-		in/
-		IRX/
-		MOV/
-		BUILD.DAT
-		BUILD.TOC
-		SLPM_658.97
-		SYSTEM.CNF
-		gut_archive.exe
 		
-	Next open the commandline in this folder (Shift + Right Click -> Open CMD (or PowerShell) here)
-	and execute this command:
+	Use this command on your game files to patch them (modify the command according to your directiories):
 	
-		.\gut_archive.exe -r .\BUILD.TOC .\BUILD.DAT .\in\
+		```.\gut_archive.exe -r .\BUILD.TOC .\BUILD.DAT .\in\```
 		
 	If you did everything correctly the commandline should output:
 	
-		Reading file info from TOC...
+		```Reading file info from TOC...
 		Rebuilding GUT Archive...
 		Processing file id:224
 		Block size: 16384
 		(.......)
-		GUT Archive rebuilt successfully
-		
-	
-	IMPORTANT! Remove the in\ folder and gut_archive.exe from the game folder after you've patched the files.
+		GUT Archive rebuilt successfully```
 	
 		
 		
 - elf:
+- 
 	This folder contains two ways of patching the executable.
 	
 	---
