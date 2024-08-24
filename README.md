@@ -3,7 +3,7 @@
 ### Any translations released by me are at [Releases](https://github.com/igorciz777/RBC1GP-Translation-Pipeline/releases)
 ---
 ## Translation status
-not real calculated %, just a guess :D
+(99% is pretty much 100% but with issues, possible glitches etc.)
 | File | Translated |
 | ---- | ----------- |
 | `210.bin` |   0% |
@@ -17,7 +17,7 @@ not real calculated %, just a guess :D
 | `231.bin` |   0% |
 | `737.bin` | $\color{green}{\textsf{100}}$% |
 | `Textures` |  99% |
-| `Cutscenes` |   0% |
+| `Cutscenes` |   99% |
 | `Executable` |  99% |
 ---
 ### Tools that made this possible
