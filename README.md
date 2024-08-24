@@ -30,7 +30,7 @@ To repack the game files you will need ImgBurn
 (https://www.imgburn.com/)
 
 
-### Inside this archive there are two folders: 
+### Inside this archive there are three folders: 
 
 - in:
   
@@ -71,9 +71,14 @@ To repack the game files you will need ImgBurn
 	
 	Rename the file to `SLPM_658.97` and with it replace the executable inside your game folder.
 	
-	
-### Repack
+- MOV:
 
+	This folder contains modified, translated cutscenes.
+
+ 	Simply drag the contents to the `MOV` folder inside your game files and replace the files.
+  
+  ### Repack
+  
 	Now you need to repack the game files using ImgBurn with default ISO settings
 
 	"Create image file from files/folders" -> Add your game folder as the source -> "Build" -> Select your save destination -> Select "Yes" on everything
