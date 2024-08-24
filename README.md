@@ -52,7 +52,7 @@ To repack the game files you will need ImgBurn
 		
 		
 - elf:
-- 
+  
 	This folder contains two ways of patching the executable.
 	
 	---
