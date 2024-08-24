@@ -20,6 +20,81 @@
 | `Cutscenes` |   99% |
 | `Executable` |  99% |
 ---
+## Installation
+## Installation:
+
+Extract your copy of RACING BATTLE -C1 GRAND PRIX- into a folder.
+
+To patch your game files you will need GUT Archive Tools (WARNING !!! v0.3.1 and up, very big changes were made to allow bigger files):
+(https://github.com/igorciz777/GUTArchiveTools/releases) 
+
+To repack the game files you will need ImgBurn
+(https://www.imgburn.com/)
+
+
+### Inside this archive there are two folders: 
+
+- in:
+	This folder contains the main translation files. These files come from BUILD.DAT and need to be reinserted using GUT Archive Tool.
+	Easiest way is to place the folder and GUT Archive Tool inside your game files so that the directory looks as follows:
+	
+	<your game folder>/
+		in/
+		IRX/
+		MOV/
+		BUILD.DAT
+		BUILD.TOC
+		SLPM_658.97
+		SYSTEM.CNF
+		gut_archive.exe
+		
+	Next open the commandline in this folder (Shift + Right Click -> Open CMD (or PowerShell) here)
+	and execute this command:
+	
+		.\gut_archive.exe -r .\BUILD.TOC .\BUILD.DAT .\in\
+		
+	If you did everything correctly the commandline should output:
+	
+		Reading file info from TOC...
+		Rebuilding GUT Archive...
+		Processing file id:224
+		Block size: 16384
+		(.......)
+		GUT Archive rebuilt successfully
+		
+	
+	IMPORTANT! Remove the in\ folder and gut_archive.exe from the game folder after you've patched the files.
+	
+		
+		
+- elf:
+	This folder contains two ways of patching the executable.
+	
+	---
+	
+	For PCSX2 use the .pnach file. 
+	
+	Simply put it inside your PCSX2\cheats\ folder
+	
+	After moving the file activate it in Game Properties > Cheats.
+	
+	---
+	
+	For OPL there is a pre-patched executable file `SLPM_658.97_patchedElf`.
+	
+	It was patched with PS2PatchElf using the .pnach file mentioned above.
+	
+	Rename the file to `SLPM_658.97` and with it replace the executable inside your game folder.
+	
+	
+### Repack
+
+	Now you need to repack the game files using ImgBurn with default ISO settings
+
+	"Create image file from files/folders" -> Add your game folder as the source -> "Build" -> Select your save destination -> Select "Yes" on everything
+	
+	
+	
 ### Tools that made this possible
 - [GUTArchiveTools](https://github.com/igorciz777/GUTArchiveTools)
 - [Cartographer](https://www.romhacking.net/utilities/647/)
