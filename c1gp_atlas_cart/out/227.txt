@@ -306,7 +306,7 @@ Buy a set of high grip tires．They increase grip and are suited for wet conditi
 //POINTER #74 @ $128 - STRING #74 @ $1952
 
 #W32($128)
-Buy a set of hard compound S tires．They have better grip compared to HG tires、but worse have durability．<END>
+Buy a set of hard compound S tires．They have better grip compared to HG tires、but have worse durability．<END>
 //POINTER #75 @ $12C - STRING #75 @ $19C8
 
 #W32($12C)

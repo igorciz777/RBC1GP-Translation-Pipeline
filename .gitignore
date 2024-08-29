@@ -6,3 +6,4 @@ __pycache__
 *.sfvx
 *.sfk
 *.PSS
+.vscode
