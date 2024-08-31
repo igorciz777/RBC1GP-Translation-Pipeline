@@ -9894,79 +9894,79 @@
 //POINTER #0 @ $2B198 - STRING #0 @ $F168
 
 #W32($2B198)
-<COLOR><DUSTY_GRAY>デビューしたばっかりなんだけど、<END>
+<COLOR><DUSTY_GRAY>I just debuted、so my main<END>
 //POINTER #1 @ $2B1BC - STRING #1 @ $F190
 
 #W32($2B1BC)
-<COLOR><DUSTY_GRAY>最初はそれでいいよ。<END>
+<COLOR><DUSTY_GRAY>Yeah、that's fine at the start．<END>
 //POINTER #2 @ $2B1E0 - STRING #2 @ $F1AC
 
 #W32($2B1E0)
-<COLOR><DUSTY_GRAY>ライバルが多くて、<END>
+<COLOR><DUSTY_GRAY>There are so many rivals、<END>
 //POINTER #3 @ $2B204 - STRING #3 @ $F1C6
 
 #W32($2B204)
-<COLOR><DUSTY_GRAY>参加するイベントを選ぶときに<COLOR><DUSTY_PINK>Ｒ１ボタン<COLOR><DUSTY_GRAY>を押すと、<END>
+<COLOR><DUSTY_GRAY>When looking at events、press the <COLOR><DUSTY_PINK>R1 Button<COLOR><DUSTY_GRAY> to see the<END>
 //POINTER #4 @ $2B228 - STRING #4 @ $F20A
 
 #W32($2B228)
-<COLOR><DUSTY_GRAY>結構頑張って<END>
+<COLOR><DUSTY_GRAY>I've been working hard<END>
 //POINTER #5 @ $2B24C - STRING #5 @ $F21E
 
 #W32($2B24C)
-<COLOR><DUSTY_GRAY>そのフィールドの同一ランクに登録されている<END>
+<COLOR><DUSTY_GRAY>If you defeat all rivals of the same rank in a field、<END>
 //POINTER #6 @ $2B270 - STRING #6 @ $F250
 
 #W32($2B270)
-<COLOR><DUSTY_GRAY>もしかして、<END>
+<COLOR><DUSTY_GRAY>Wait、<END>
 //POINTER #7 @ $2B294 - STRING #7 @ $F264
 
 #W32($2B294)
-<COLOR><DUSTY_GRAY>ありゃ、<END>
+<COLOR><DUSTY_GRAY>Ahh、<END>
 //POINTER #8 @ $2B2B8 - STRING #8 @ $F274
 
 #W32($2B2B8)
-<COLOR><DUSTY_GRAY>他の２つのサーキットにも行くべし！<END>
+<COLOR><DUSTY_GRAY>Go check out the other two circuits！<END>
 //POINTER #9 @ $2B2DC - STRING #9 @ $F29E
 
 #W32($2B2DC)
-<COLOR><DUSTY_GRAY>首都高サーキットって<END>
+<COLOR><DUSTY_GRAY>The Shutoko circuit has too many walls、<END>
 //POINTER #10 @ $2B300 - STRING #10 @ $F2BA
 
 #W32($2B300)
-<COLOR><DUSTY_GRAY>ランクが上がったら急に選べるところが増えて<END>
+<COLOR><DUSTY_GRAY>After ranking up、so many new options appeared<END>
 //POINTER #11 @ $2B324 - STRING #11 @ $F2EC
 
 #W32($2B324)
-<COLOR><DUSTY_GRAY>ランクをＢからＡに上げるには、<END>
+<COLOR><DUSTY_GRAY>To get your rank from B to A、you only need to<END>
 //POINTER #12 @ $2B348 - STRING #12 @ $F312
 
 #W32($2B348)
-<COLOR><DUSTY_GRAY>フィールド２行ったけど<END>
+<COLOR><DUSTY_GRAY>I tried Field 2、<END>
 //POINTER #13 @ $2B36C - STRING #13 @ $F330
 
 #W32($2B36C)
-<COLOR><DUSTY_GRAY>フィールド２は速い奴が多いからな（笑）<END>
+<COLOR><DUSTY_GRAY>Field 2 has a lot of fast drivers lol<END>
 //POINTER #14 @ $2B390 - STRING #14 @ $F35E
 
 #W32($2B390)
-<COLOR><DUSTY_GRAY>もし、Field 1でもランクＢのライバルには<END>
+<COLOR><DUSTY_GRAY>If you can't beat Rank B even in Field 1、<END>
 //POINTER #15 @ $2B3B4 - STRING #15 @ $F392
 
 #W32($2B3B4)
-<COLOR><DUSTY_GRAY>そこでじっくり実績を蓄えれば、より高性能な<END>
+<COLOR><DUSTY_GRAY>If you build up your wins there、<END>
 //POINTER #16 @ $2B3D8 - STRING #16 @ $F3C4
 
 #W32($2B3D8)
-<COLOR><DUSTY_GRAY>サーキットって走るのってムズカシイっす！<END>
+<COLOR><DUSTY_GRAY>Driving on the circuit is so difficult！<END>
 //POINTER #17 @ $2B3FC - STRING #17 @ $F3F4
 
 #W32($2B3FC)
-<COLOR><DUSTY_GRAY><COLOR><DUSTY_PINK>オプション<COLOR><DUSTY_GRAY>の<COLOR><DUSTY_PINK>画面表示設定<COLOR><DUSTY_GRAY>で<COLOR><DUSTY_PINK>ベストライン<COLOR><DUSTY_GRAY>を<END>
+<COLOR><DUSTY_GRAY>If you turn ON the <COLOR><DUSTY_PINK>BEST LINE<COLOR><DUSTY_GRAY> option inside the <COLOR><DUSTY_PINK>VIEW CONFIG<COLOR><DUSTY_GRAY>、<END>
 //POINTER #18 @ $2B420 - STRING #18 @ $F448
 
 #W32($2B420)
-<COLOR><DUSTY_GRAY>それでも、コースアウトしちゃうんだよおぉ！<END>
+<COLOR><DUSTY_GRAY>Even with that、I'm still ending up off-track！<END>
 //POINTER #19 @ $2B444 - STRING #19 @ $F47A
 
 #W32($2B444)
@@ -14836,75 +14836,75 @@
 //POINTER #0 @ $2B19C - STRING #0 @ $19D0C
 
 #W32($2B19C)
-<COLOR><DUSTY_GRAY>まずは<COLOR><DUSTY_PINK>ランクを上げるのが目的<COLOR><DUSTY_GRAY>なんだよね。<END>
+<COLOR><DUSTY_GRAY><COLOR><DUSTY_PINK>goal is to raise my rank<COLOR><DUSTY_GRAY>，right？<END>
 //POINTER #1 @ $2B1C0 - STRING #1 @ $19D48
 
 #W32($2B1C0)
-<COLOR><DUSTY_GRAY><COLOR><DUSTY_PINK>どのバトル形式でも良い<COLOR><DUSTY_GRAY>ので、<END>
+<COLOR><DUSTY_GRAY>Doesn't matter which <COLOR><DUSTY_PINK>battle type<COLOR><DUSTY_GRAY> you compete in、<END>
 //POINTER #2 @ $2B1E4 - STRING #2 @ $19D78
 
 #W32($2B1E4)
-<COLOR><DUSTY_GRAY>どいつを倒したのか判んないよ（’з’）<END>
+<COLOR><DUSTY_GRAY>I can't tell which ones I've beaten（’з’）<END>
 //POINTER #3 @ $2B208 - STRING #3 @ $19DA6
 
 #W32($2B208)
-<COLOR><DUSTY_GRAY>そのイベントに参加する<COLOR><DUSTY_PINK>ライバルのリスト<COLOR><DUSTY_GRAY>がみられる。<END>
+<COLOR><DUSTY_GRAY><COLOR><DUSTY_PINK>list of rivals<COLOR><DUSTY_GRAY> competing in there．<END>
 //POINTER #4 @ $2B22C - STRING #4 @ $19DEC
 
 #W32($2B22C)
-<COLOR><DUSTY_GRAY>出てくるライバルはみんな倒したけど、<END>
+<COLOR><DUSTY_GRAY>and defeated all the rivals that showed up、<END>
 //POINTER #5 @ $2B250 - STRING #5 @ $19E18
 
 #W32($2B250)
-<COLOR><DUSTY_GRAY>ドライバーを全員倒せば、マスターが登場する。<END>
+<COLOR><DUSTY_GRAY>the MASTER will show up．<END>
 //POINTER #6 @ $2B274 - STRING #6 @ $19E4C
 
 #W32($2B274)
-<COLOR><DUSTY_GRAY>同じサーキットにばっかり行ってない？<END>
+<COLOR><DUSTY_GRAY>could it be that you've been going<END>
 //POINTER #7 @ $2B298 - STRING #7 @ $19E78
 
 #W32($2B298)
-<COLOR><DUSTY_GRAY>同じサーキットだけじゃダメなのか。<END>
+<COLOR><DUSTY_GRAY>going to the same circuit won't do、right？<END>
 //POINTER #8 @ $2B2BC - STRING #8 @ $19EA2
 
 #W32($2B2BC)
-<COLOR><DUSTY_GRAY>俺も前にそれに引っかかった（笑）<END>
+<COLOR><DUSTY_GRAY>Did the same mistake before lol<END>
 //POINTER #9 @ $2B2E0 - STRING #9 @ $19ECA
 
 #W32($2B2E0)
-<COLOR><DUSTY_GRAY>壁が多くて苦手なんだよね。<END>
+<COLOR><DUSTY_GRAY>so i'm not a big fan．<END>
 //POINTER #10 @ $2B304 - STRING #10 @ $19EEC
 
 #W32($2B304)
-<COLOR><DUSTY_GRAY>もてあまし気味～。<END>
+<COLOR><DUSTY_GRAY>that I'm feeling a bit overwhelmed～．<END>
 //POINTER #11 @ $2B328 - STRING #11 @ $19F06
 
 #W32($2B328)
-<COLOR><DUSTY_GRAY>ランクＢのマスター２人を倒せばよいので<END>
+<COLOR><DUSTY_GRAY>defeat two Rank B MASTERS、<END>
 //POINTER #12 @ $2B34C - STRING #12 @ $19F34
 
 #W32($2B34C)
-<COLOR><DUSTY_GRAY>歯が立ちません（ノ∀｀）タハー<END>
+<COLOR><DUSTY_GRAY>but it's hopeless（ノ∀｀）teeheeー<END>
 //POINTER #13 @ $2B370 - STRING #13 @ $19F5A
 
 #W32($2B370)
-<COLOR><DUSTY_GRAY>いきなり遠征しないで、まずは<END>
+<COLOR><DUSTY_GRAY>Don't jump straight into it、<END>
 //POINTER #14 @ $2B394 - STRING #14 @ $19F7E
 
 #W32($2B394)
-<COLOR><DUSTY_GRAY>勝てないようなら、ランクＣに参戦してみな。<END>
+<COLOR><DUSTY_GRAY>try to compete in Rank C again．<END>
 //POINTER #15 @ $2B3B8 - STRING #15 @ $19FB0
 
 #W32($2B3B8)
-<COLOR><DUSTY_GRAY>チューニングパーツが購入できるようになるはず。<END>
+<COLOR><DUSTY_GRAY>you should be able to buy higher-performance<END>
 //POINTER #16 @ $2B3DC - STRING #16 @ $19FE6
 
 #W32($2B3DC)
-<COLOR><DUSTY_GRAY>どこ走ったらいいか判んないよヽ（；´Д｀）ノ<END>
+<COLOR><DUSTY_GRAY>I don't know where to turn ヽ（；´Д｀）ノ<END>
 //POINTER #17 @ $2B400 - STRING #17 @ $1A01A
 
 #W32($2B400)
-<COLOR><DUSTY_GRAY><COLOR><DUSTY_PINK>ＯＮ<COLOR><DUSTY_GRAY>にすれば、初めて走るサーキットでも<END>
+<COLOR><DUSTY_GRAY>you will be able to take lines like a veteran、<END>
 //POINTER #18 @ $2B424 - STRING #18 @ $1A054
 
 #W32($2B424)
@@ -19780,11 +19780,11 @@
 //POINTER #0 @ $2B1A0 - STRING #0 @ $23D12
 
 #W32($2B1A0)
-<COLOR><DUSTY_GRAY>適当にイベント参加してていいの？<END>
+<COLOR><DUSTY_GRAY>Is it okay if I just participate in events randomly？<END>
 //POINTER #1 @ $2B1C4 - STRING #1 @ $23D3A
 
 #W32($2B1C4)
-<COLOR><DUSTY_GRAY>とりあえずライバルを倒せ！<END>
+<COLOR><DUSTY_GRAY>just beat your rivals！<END>
 //POINTER #2 @ $2B1E8 - STRING #2 @ $23D5C
 
 #W32($2B1E8)
@@ -19792,19 +19792,19 @@
 //POINTER #3 @ $2B20C - STRING #3 @ $23D5E
 
 #W32($2B20C)
-<COLOR><DUSTY_GRAY>そこで「○」がついてないライバルを倒せ！<END>
+<COLOR><DUSTY_GRAY>Defeat the ones that don't have an '○' near their name！<END>
 //POINTER #4 @ $2B230 - STRING #4 @ $23D8E
 
 #W32($2B230)
-<COLOR><DUSTY_GRAY>ランク上がらないよ？<END>
+<COLOR><DUSTY_GRAY>but im not ranking up、you see？<END>
 //POINTER #5 @ $2B254 - STRING #5 @ $23DAA
 
 #W32($2B254)
-<COLOR><DUSTY_GRAY><COLOR><DUSTY_PINK>マスターを倒したらランクＵＰ<COLOR><DUSTY_GRAY>な。<END>
+<COLOR><DUSTY_GRAY><COLOR><DUSTY_PINK>Defeat the MASTER to rank up．<COLOR><DUSTY_GRAY><END>
 //POINTER #6 @ $2B278 - STRING #6 @ $23DDE
 
 #W32($2B278)
-<END>
+<COLOR><DUSTY_GRAY>to the same circuit all this time？<END>
 //POINTER #7 @ $2B29C - STRING #7 @ $23DE0
 
 #W32($2B29C)
@@ -19816,7 +19816,7 @@
 //POINTER #9 @ $2B2E4 - STRING #9 @ $23DE4
 
 #W32($2B2E4)
-<COLOR><DUSTY_GRAY>でも、いってきます（°∀°）ゝ<END>
+<COLOR><DUSTY_GRAY>But i'm going there anyway！（°∀°）ゝ<END>
 //POINTER #10 @ $2B308 - STRING #10 @ $23E0A
 
 #W32($2B308)
@@ -19824,7 +19824,7 @@
 //POINTER #11 @ $2B32C - STRING #11 @ $23E0C
 
 #W32($2B32C)
-<COLOR><DUSTY_GRAY><COLOR><DUSTY_PINK>ランクＢのイベントに優先的に参加すべし。<END>
+<COLOR><DUSTY_GRAY>so you should <COLOR><DUSTY_PINK>focus on Rank B events．<END>
 //POINTER #12 @ $2B350 - STRING #12 @ $23E42
 
 #W32($2B350)
@@ -19832,15 +19832,15 @@
 //POINTER #13 @ $2B374 - STRING #13 @ $23E44
 
 #W32($2B374)
-<COLOR><DUSTY_GRAY>Field 1のライバルと戦いなよ。<END>
+<COLOR><DUSTY_GRAY>battle all your Field 1 rivals first．<END>
 //POINTER #14 @ $2B398 - STRING #14 @ $23E6E
 
 #W32($2B398)
-<COLOR><DUSTY_GRAY>フィールド２なら新顔もいるし（笑）<END>
+<COLOR><DUSTY_GRAY>There are some new faces in Field 2 too lol<END>
 //POINTER #15 @ $2B3BC - STRING #15 @ $23E98
 
 #W32($2B3BC)
-<COLOR><DUSTY_GRAY>ライバルを倒すのはその後でも遅くないぜ！<END>
+<COLOR><DUSTY_GRAY>tuning parts．Defeating rivals can wait until then！<END>
 //POINTER #16 @ $2B3E0 - STRING #16 @ $23EC8
 
 #W32($2B3E0)
@@ -19848,7 +19848,7 @@
 //POINTER #17 @ $2B404 - STRING #17 @ $23ECA
 
 #W32($2B404)
-<COLOR><DUSTY_GRAY>ベテラン顔負けのライン取りができる……かも（笑）<END>
+<COLOR><DUSTY_GRAY>even on a circuit you've never raced at  ．．．maybe lol<END>
 //POINTER #18 @ $2B428 - STRING #18 @ $23F02
 
 #W32($2B428)
