@@ -10,148 +10,64 @@
 //POINTER #0 @ $2B190 - STRING #0 @ $10
 
 #W32($2B190)
+#W32($2B1D8)
+#W32($2B220)
+#W32($2B28C)
+#W32($2B2D4)
+#W32($2B2F8)
+#W32($2B340)
+#W32($2B3D0)
+#W32($2B418)
+#W32($2B4CC)
+#W32($2B67C)
 <COLOR><GRAY>RB Newbie<END>
 //POINTER #1 @ $2B1B4 - STRING #1 @ $22
 
 #W32($2B1B4)
+#W32($2B1FC)
+#W32($2B244)
+#W32($2B268)
+#W32($2B2B0)
+#W32($2B31C)
+#W32($2B364)
+#W32($2B388)
+#W32($2B3AC)
 <COLOR><GRAY>Former RB Newbie<END>
 //POINTER #2 @ $2B1D8 - STRING #2 @ $36
 
-#W32($2B1D8)
-<COLOR><GRAY>RB Newbie<END>
-//POINTER #3 @ $2B1FC - STRING #3 @ $48
-
-#W32($2B1FC)
-<COLOR><GRAY>Former RB Newbie<END>
-//POINTER #4 @ $2B220 - STRING #4 @ $5C
-
-#W32($2B220)
-<COLOR><GRAY>RB Newbie<END>
-//POINTER #5 @ $2B244 - STRING #5 @ $6E
-
-#W32($2B244)
-<COLOR><GRAY>Former RB Newbie<END>
-//POINTER #6 @ $2B268 - STRING #6 @ $82
-
-#W32($2B268)
-<COLOR><GRAY>Former RB Newbie<END>
-//POINTER #7 @ $2B28C - STRING #7 @ $96
-
-#W32($2B28C)
-<COLOR><GRAY>RB Newbie<END>
-//POINTER #8 @ $2B2B0 - STRING #8 @ $A8
-
-#W32($2B2B0)
-<COLOR><GRAY>Former RB Newbie<END>
-//POINTER #9 @ $2B2D4 - STRING #9 @ $BC
-
-#W32($2B2D4)
-<COLOR><GRAY>RB Newbie<END>
-//POINTER #10 @ $2B2F8 - STRING #10 @ $CE
-
-#W32($2B2F8)
-<COLOR><GRAY>RB Newbie<END>
-//POINTER #11 @ $2B31C - STRING #11 @ $E0
-
-#W32($2B31C)
-<COLOR><GRAY>Former RB Newbie<END>
-//POINTER #12 @ $2B340 - STRING #12 @ $F4
-
-#W32($2B340)
-<COLOR><GRAY>RB Newbie<END>
-//POINTER #13 @ $2B364 - STRING #13 @ $106
-
-#W32($2B364)
-<COLOR><GRAY>Former RB Newbie<END>
-//POINTER #14 @ $2B388 - STRING #14 @ $11A
-
-#W32($2B388)
-<COLOR><GRAY>Former RB Newbie<END>
-//POINTER #15 @ $2B3AC - STRING #15 @ $12E
-
-#W32($2B3AC)
-<COLOR><GRAY>Former RB Newbie<END>
-//POINTER #16 @ $2B3D0 - STRING #16 @ $142
-
-#W32($2B3D0)
-<COLOR><GRAY>RB Newbie<END>
-//POINTER #17 @ $2B3F4 - STRING #17 @ $154
-
 #W32($2B3F4)
+#W32($2B43C)
+#W32($2B514)
+#W32($2B5A4)
 <COLOR><GRAY>Shimokitazawa 2000cc<END>
 //POINTER #18 @ $2B418 - STRING #18 @ $16E
 
-#W32($2B418)
-<COLOR><GRAY>RB Newbie<END>
-//POINTER #19 @ $2B43C - STRING #19 @ $180
-
-#W32($2B43C)
-<COLOR><GRAY>Shimokitazawa 2000cc<END>
-//POINTER #20 @ $2B460 - STRING #20 @ $19A
-
 #W32($2B460)
+#W32($2B4F0)
+#W32($2B610)
 <COLOR><GRAY>Silvester<END>
 //POINTER #21 @ $2B484 - STRING #21 @ $1AC
 
 #W32($2B484)
+#W32($2B5EC)
 <COLOR><GRAY>Funky Monkey<END>
 //POINTER #22 @ $2B4A8 - STRING #22 @ $1C6
 
 #W32($2B4A8)
+#W32($2B55C)
+#W32($2B580)
 <COLOR><GRAY>☆Crimson Meteor<END>
 //POINTER #23 @ $2B4CC - STRING #23 @ $1D8
 
-#W32($2B4CC)
-<COLOR><GRAY>RB Newbie<END>
-//POINTER #24 @ $2B4F0 - STRING #24 @ $1EA
-
-#W32($2B4F0)
-<COLOR><GRAY>Silvester<END>
-//POINTER #25 @ $2B514 - STRING #25 @ $1FC
-
-#W32($2B514)
-<COLOR><GRAY>Shimokitazawa 2000cc<END>
-//POINTER #26 @ $2B538 - STRING #26 @ $216
-
 #W32($2B538)
-<COLOR><GRAY>Hell's Drifter<END>
-//POINTER #27 @ $2B55C - STRING #27 @ $22E
-
-#W32($2B55C)
-<COLOR><GRAY>☆Crimson Meteor<END>
-//POINTER #28 @ $2B580 - STRING #28 @ $240
-
-#W32($2B580)
-<COLOR><GRAY>☆Crimson Meteor<END>
-//POINTER #29 @ $2B5A4 - STRING #29 @ $252
-
-#W32($2B5A4)
-<COLOR><GRAY>Shimokitazawa 2000cc<END>
-//POINTER #30 @ $2B5C8 - STRING #30 @ $26C
-
 #W32($2B5C8)
-<COLOR><GRAY>Hell's Drifter<END>
-//POINTER #31 @ $2B5EC - STRING #31 @ $284
-
-#W32($2B5EC)
-<COLOR><GRAY>Funky Monkey<END>
-//POINTER #32 @ $2B610 - STRING #32 @ $29E
-
-#W32($2B610)
-<COLOR><GRAY>Silvester<END>
-//POINTER #33 @ $2B634 - STRING #33 @ $2B0
-
 #W32($2B634)
 <COLOR><GRAY>Hell's Drifter<END>
-//POINTER #34 @ $2B658 - STRING #34 @ $2C8
+//POINTER #27 @ $2B55C - STRING #27 @ $22E
 
 #W32($2B658)
 <COLOR><GRAY>☆Crimson Meteor＠Heavenly<END>
 //POINTER #35 @ $2B67C - STRING #35 @ $2E2
-
-#W32($2B67C)
-<COLOR><GRAY>RB Newbie<END>
-//POINTER #36 @ $2B6A0 - STRING #36 @ $2F4
 
 #W32($2B6A0)
 <COLOR><GRAY>Hell's Drifter＠Honorable<END>
@@ -4956,671 +4872,236 @@
 //POINTER #1 @ $2B1B8 - STRING #1 @ $6AEE
 
 #W32($2B1B8)
-<COLOR><GRAY>re：Rank Up<END>
-//POINTER #2 @ $2B1DC - STRING #2 @ $6B08
-
 #W32($2B1DC)
-<COLOR><GRAY>re：Rank Up<END>
-//POINTER #3 @ $2B200 - STRING #3 @ $6B22
-
 #W32($2B200)
-<COLOR><GRAY>re：Rank Up<END>
-//POINTER #4 @ $2B224 - STRING #4 @ $6B3C
-
 #W32($2B224)
-<COLOR><GRAY>re：Rank Up<END>
-//POINTER #5 @ $2B248 - STRING #5 @ $6B56
-
 #W32($2B248)
-<COLOR><GRAY>re：Rank Up<END>
-//POINTER #6 @ $2B26C - STRING #6 @ $6B70
-
 #W32($2B26C)
-<COLOR><GRAY>re：Rank Up<END>
-//POINTER #7 @ $2B290 - STRING #7 @ $6B8A
-
 #W32($2B290)
-<COLOR><GRAY>re：Rank Up<END>
-//POINTER #8 @ $2B2B4 - STRING #8 @ $6BA4
-
 #W32($2B2B4)
-<COLOR><GRAY>re：Rank Up<END>
-//POINTER #9 @ $2B2D8 - STRING #9 @ $6BBE
-
 #W32($2B2D8)
-<COLOR><GRAY>re：Rank Up<END>
-//POINTER #10 @ $2B2FC - STRING #10 @ $6BD8
-
 #W32($2B2FC)
-<COLOR><GRAY>re：Rank Up<END>
-//POINTER #11 @ $2B320 - STRING #11 @ $6BF2
-
 #W32($2B320)
-<COLOR><GRAY>re：Rank Up<END>
-//POINTER #12 @ $2B344 - STRING #12 @ $6C0C
-
 #W32($2B344)
-<COLOR><GRAY>re：Rank Up<END>
-//POINTER #13 @ $2B368 - STRING #13 @ $6C26
-
 #W32($2B368)
-<COLOR><GRAY>re：Rank Up<END>
-//POINTER #14 @ $2B38C - STRING #14 @ $6C40
-
 #W32($2B38C)
-<COLOR><GRAY>re：Rank Up<END>
-//POINTER #15 @ $2B3B0 - STRING #15 @ $6C5A
-
 #W32($2B3B0)
 <COLOR><GRAY>re：Rank Up<END>
-//POINTER #16 @ $2B3D4 - STRING #16 @ $6C74
+//POINTER #2 @ $2B1DC - STRING #2 @ $6B08
 
 #W32($2B3D4)
 <COLOR><GRAY>Circuit things<END>
 //POINTER #17 @ $2B3F8 - STRING #17 @ $6C8A
 
 #W32($2B3F8)
-<COLOR><GRAY>re：Circuit things<END>
-//POINTER #18 @ $2B41C - STRING #18 @ $6CA6
-
 #W32($2B41C)
-<COLOR><GRAY>re：Circuit things<END>
-//POINTER #19 @ $2B440 - STRING #19 @ $6CC2
-
 #W32($2B440)
-<COLOR><GRAY>re：Circuit things<END>
-//POINTER #20 @ $2B464 - STRING #20 @ $6CDE
-
 #W32($2B464)
-<COLOR><GRAY>re：Circuit things<END>
-//POINTER #21 @ $2B488 - STRING #21 @ $6CFA
-
 #W32($2B488)
-<COLOR><GRAY>re：Circuit things<END>
-//POINTER #22 @ $2B4AC - STRING #22 @ $6D16
-
 #W32($2B4AC)
-<COLOR><GRAY>re：Circuit things<END>
-//POINTER #23 @ $2B4D0 - STRING #23 @ $6D32
-
 #W32($2B4D0)
-<COLOR><GRAY>re：Circuit things<END>
-//POINTER #24 @ $2B4F4 - STRING #24 @ $6D4E
-
 #W32($2B4F4)
-<COLOR><GRAY>re：Circuit things<END>
-//POINTER #25 @ $2B518 - STRING #25 @ $6D6A
-
 #W32($2B518)
-<COLOR><GRAY>re：Circuit things<END>
-//POINTER #26 @ $2B53C - STRING #26 @ $6D86
-
 #W32($2B53C)
-<COLOR><GRAY>re：Circuit things<END>
-//POINTER #27 @ $2B560 - STRING #27 @ $6DA2
-
 #W32($2B560)
-<COLOR><GRAY>re：Circuit things<END>
-//POINTER #28 @ $2B584 - STRING #28 @ $6DBE
-
 #W32($2B584)
-<COLOR><GRAY>re：Circuit things<END>
-//POINTER #29 @ $2B5A8 - STRING #29 @ $6DDA
-
 #W32($2B5A8)
-<COLOR><GRAY>re：Circuit things<END>
-//POINTER #30 @ $2B5CC - STRING #30 @ $6DF6
-
 #W32($2B5CC)
-<COLOR><GRAY>re：Circuit things<END>
-//POINTER #31 @ $2B5F0 - STRING #31 @ $6E12
-
 #W32($2B5F0)
-<COLOR><GRAY>re：Circuit things<END>
-//POINTER #32 @ $2B614 - STRING #32 @ $6E2E
-
 #W32($2B614)
-<COLOR><GRAY>re：Circuit things<END>
-//POINTER #33 @ $2B638 - STRING #33 @ $6E4A
-
 #W32($2B638)
-<COLOR><GRAY>re：Circuit things<END>
-//POINTER #34 @ $2B65C - STRING #34 @ $6E66
-
 #W32($2B65C)
-<COLOR><GRAY>re：Circuit things<END>
-//POINTER #35 @ $2B680 - STRING #35 @ $6E82
-
 #W32($2B680)
-<COLOR><GRAY>re：Circuit things<END>
-//POINTER #36 @ $2B6A4 - STRING #36 @ $6E9E
-
 #W32($2B6A4)
 <COLOR><GRAY>re：Circuit things<END>
-//POINTER #37 @ $2B6C8 - STRING #37 @ $6EBA
+//POINTER #18 @ $2B41C - STRING #18 @ $6CA6
 
 #W32($2B6C8)
 <COLOR><GRAY>SP Battle<END>
 //POINTER #38 @ $2B6EC - STRING #38 @ $6ECC
 
 #W32($2B6EC)
+#W32($2B710)
+#W32($2B734)
+#W32($2B758)
+#W32($2B77C)
+#W32($2B7A0)
+#W32($2B7C4)
+#W32($2B7E8)
+#W32($2B80C)
+#W32($2B950)
+#W32($2B974)
 <COLOR><GRAY>re：SP Battle<END>
 //POINTER #39 @ $2B710 - STRING #39 @ $6EE4
-
-#W32($2B710)
-<COLOR><GRAY>re：SP Battle<END>
-//POINTER #40 @ $2B734 - STRING #40 @ $6EFC
-
-#W32($2B734)
-<COLOR><GRAY>re：SP Battle<END>
-//POINTER #41 @ $2B758 - STRING #41 @ $6F14
-
-#W32($2B758)
-<COLOR><GRAY>re：SP Battle<END>
-//POINTER #42 @ $2B77C - STRING #42 @ $6F2C
-
-#W32($2B77C)
-<COLOR><GRAY>re：SP Battle<END>
-//POINTER #43 @ $2B7A0 - STRING #43 @ $6F44
-
-#W32($2B7A0)
-<COLOR><GRAY>re：SP Battle<END>
-//POINTER #44 @ $2B7C4 - STRING #44 @ $6F5C
-
-#W32($2B7C4)
-<COLOR><GRAY>re：SP Battle<END>
-//POINTER #45 @ $2B7E8 - STRING #45 @ $6F74
-
-#W32($2B7E8)
-<COLOR><GRAY>re：SP Battle<END>
-//POINTER #46 @ $2B80C - STRING #46 @ $6F8C
-
-#W32($2B80C)
-<COLOR><GRAY>re：SP Battle<END>
-//POINTER #47 @ $2B830 - STRING #47 @ $6FA4
 
 #W32($2B830)
 <COLOR><GRAY>After Battle Request<END>
 //POINTER #48 @ $2B854 - STRING #48 @ $6FC0
 
 #W32($2B854)
-<COLOR><GRAY>re：After Battle Request<END>
-//POINTER #49 @ $2B878 - STRING #49 @ $6FE2
-
 #W32($2B878)
-<COLOR><GRAY>re：After Battle Request<END>
-//POINTER #50 @ $2B89C - STRING #50 @ $7004
-
 #W32($2B89C)
 <COLOR><GRAY>re：After Battle Request<END>
-//POINTER #51 @ $2B8C0 - STRING #51 @ $7026
+//POINTER #49 @ $2B878 - STRING #49 @ $6FE2
 
 #W32($2B8C0)
 <COLOR><GRAY>Multi-Battle<END>
 //POINTER #52 @ $2B8E4 - STRING #52 @ $703A
 
 #W32($2B8E4)
-<COLOR><GRAY>re：Multi-Battle<END>
-//POINTER #53 @ $2B908 - STRING #53 @ $7054
-
 #W32($2B908)
-<COLOR><GRAY>re：Multi-Battle<END>
-//POINTER #54 @ $2B92C - STRING #54 @ $706E
-
 #W32($2B92C)
 <COLOR><GRAY>re：Multi-Battle<END>
-//POINTER #55 @ $2B950 - STRING #55 @ $7088
-
-#W32($2B950)
-<COLOR><GRAY>re：SP Battle<END>
-//POINTER #56 @ $2B974 - STRING #56 @ $70A0
-
-#W32($2B974)
-<COLOR><GRAY>re：SP Battle<END>
-//POINTER #57 @ $2B998 - STRING #57 @ $70B8
+//POINTER #53 @ $2B908 - STRING #53 @ $7054
 
 #W32($2B998)
 <COLOR><GRAY>RP Battle<END>
 //POINTER #58 @ $2B9BC - STRING #58 @ $70CA
 
 #W32($2B9BC)
+#W32($2B9E0)
+#W32($2BA04)
+#W32($2BA28)
+#W32($2BA4C)
+#W32($2BA70)
+#W32($2BA94)
+#W32($2BAB8)
+#W32($2BADC)
+#W32($2BB00)
+#W32($2BBD8)
+#W32($2BBFC)
+#W32($2BC20)
+#W32($2BC44)
 <COLOR><GRAY>re：RP Battle<END>
 //POINTER #59 @ $2B9E0 - STRING #59 @ $70E2
 
-#W32($2B9E0)
-<COLOR><GRAY>re：RP Battle<END>
-//POINTER #60 @ $2BA04 - STRING #60 @ $70FA
-
-#W32($2BA04)
-<COLOR><GRAY>re：RP Battle<END>
-//POINTER #61 @ $2BA28 - STRING #61 @ $7112
-
-#W32($2BA28)
-<COLOR><GRAY>re：RP Battle<END>
-//POINTER #62 @ $2BA4C - STRING #62 @ $712A
-
-#W32($2BA4C)
-<COLOR><GRAY>re：RP Battle<END>
-//POINTER #63 @ $2BA70 - STRING #63 @ $7142
-
-#W32($2BA70)
-<COLOR><GRAY>re：RP Battle<END>
-//POINTER #64 @ $2BA94 - STRING #64 @ $715A
-
-#W32($2BA94)
-<COLOR><GRAY>re：RP Battle<END>
-//POINTER #65 @ $2BAB8 - STRING #65 @ $7172
-
-#W32($2BAB8)
-<COLOR><GRAY>re：RP Battle<END>
-//POINTER #66 @ $2BADC - STRING #66 @ $718A
-
-#W32($2BADC)
-<COLOR><GRAY>re：RP Battle<END>
-//POINTER #67 @ $2BB00 - STRING #67 @ $71A2
-
-#W32($2BB00)
-<COLOR><GRAY>re：RP Battle<END>
-//POINTER #68 @ $2BB24 - STRING #68 @ $71BA
-
 #W32($2BB24)
-<COLOR><GRAY>ＲＰ１００<END>
+<COLOR><GRAY>RP 100<END>
 //POINTER #69 @ $2BB48 - STRING #69 @ $71CC
 
 #W32($2BB48)
-<COLOR><GRAY>re：ＲＰ１００<END>
-//POINTER #70 @ $2BB6C - STRING #70 @ $71E4
-
 #W32($2BB6C)
-<COLOR><GRAY>re：ＲＰ１００<END>
-//POINTER #71 @ $2BB90 - STRING #71 @ $71FC
-
 #W32($2BB90)
-<COLOR><GRAY>re：ＲＰ１００<END>
-//POINTER #72 @ $2BBB4 - STRING #72 @ $7214
-
 #W32($2BBB4)
-<COLOR><GRAY>re：ＲＰ１００<END>
-//POINTER #73 @ $2BBD8 - STRING #73 @ $722C
-
-#W32($2BBD8)
-<COLOR><GRAY>re：RP Battle<END>
-//POINTER #74 @ $2BBFC - STRING #74 @ $7244
-
-#W32($2BBFC)
-<COLOR><GRAY>re：RP Battle<END>
-//POINTER #75 @ $2BC20 - STRING #75 @ $725C
-
-#W32($2BC20)
-<COLOR><GRAY>re：RP Battle<END>
-//POINTER #76 @ $2BC44 - STRING #76 @ $7274
-
-#W32($2BC44)
-<COLOR><GRAY>re：RP Battle<END>
-//POINTER #77 @ $2BC68 - STRING #77 @ $728C
+<COLOR><GRAY>re：RP 100<END>
+//POINTER #70 @ $2BB6C - STRING #70 @ $71E4
 
 #W32($2BC68)
 <COLOR><GRAY>DP Battle<END>
 //POINTER #78 @ $2BC8C - STRING #78 @ $729E
 
 #W32($2BC8C)
-<COLOR><GRAY>re：DP Battle<END>
-//POINTER #79 @ $2BCB0 - STRING #79 @ $72B6
-
 #W32($2BCB0)
-<COLOR><GRAY>re：DP Battle<END>
-//POINTER #80 @ $2BCD4 - STRING #80 @ $72CE
-
 #W32($2BCD4)
-<COLOR><GRAY>re：DP Battle<END>
-//POINTER #81 @ $2BCF8 - STRING #81 @ $72E6
-
 #W32($2BCF8)
-<COLOR><GRAY>re：DP Battle<END>
-//POINTER #82 @ $2BD1C - STRING #82 @ $72FE
-
 #W32($2BD1C)
-<COLOR><GRAY>re：DP Battle<END>
-//POINTER #83 @ $2BD40 - STRING #83 @ $7316
-
 #W32($2BD40)
-<COLOR><GRAY>re：DP Battle<END>
-//POINTER #84 @ $2BD64 - STRING #84 @ $732E
-
 #W32($2BD64)
-<COLOR><GRAY>re：DP Battle<END>
-//POINTER #85 @ $2BD88 - STRING #85 @ $7346
-
 #W32($2BD88)
-<COLOR><GRAY>re：DP Battle<END>
-//POINTER #86 @ $2BDAC - STRING #86 @ $735E
-
 #W32($2BDAC)
-<COLOR><GRAY>re：DP Battle<END>
-//POINTER #87 @ $2BDD0 - STRING #87 @ $7376
-
 #W32($2BDD0)
-<COLOR><GRAY>re：DP Battle<END>
-//POINTER #88 @ $2BDF4 - STRING #88 @ $738E
-
 #W32($2BDF4)
-<COLOR><GRAY>re：DP Battle<END>
-//POINTER #89 @ $2BE18 - STRING #89 @ $73A6
-
 #W32($2BE18)
-<COLOR><GRAY>re：DP Battle<END>
-//POINTER #90 @ $2BE3C - STRING #90 @ $73BE
-
 #W32($2BE3C)
-<COLOR><GRAY>re：DP Battle<END>
-//POINTER #91 @ $2BE60 - STRING #91 @ $73D6
-
 #W32($2BE60)
-<COLOR><GRAY>re：DP Battle<END>
-//POINTER #92 @ $2BE84 - STRING #92 @ $73EE
-
 #W32($2BE84)
-<COLOR><GRAY>re：DP Battle<END>
-//POINTER #93 @ $2BEA8 - STRING #93 @ $7406
-
 #W32($2BEA8)
-<COLOR><GRAY>re：DP Battle<END>
-//POINTER #94 @ $2BECC - STRING #94 @ $741E
-
 #W32($2BECC)
-<COLOR><GRAY>re：DP Battle<END>
-//POINTER #95 @ $2BEF0 - STRING #95 @ $7436
-
 #W32($2BEF0)
-<COLOR><GRAY>re：DP Battle<END>
-//POINTER #96 @ $2BF14 - STRING #96 @ $744E
-
 #W32($2BF14)
-<COLOR><GRAY>re：DP Battle<END>
-//POINTER #97 @ $2BF38 - STRING #97 @ $7466
-
 #W32($2BF38)
-<COLOR><GRAY>re：DP Battle<END>
-//POINTER #98 @ $2BF5C - STRING #98 @ $747E
-
 #W32($2BF5C)
 <COLOR><GRAY>re：DP Battle<END>
-//POINTER #99 @ $2BF80 - STRING #99 @ $7496
+//POINTER #79 @ $2BCB0 - STRING #79 @ $72B6
 
 #W32($2BF80)
 <COLOR><GRAY>Ask a Racing Ranger<END>
 //POINTER #100 @ $2BFA4 - STRING #100 @ $74B8
 
 #W32($2BFA4)
-<COLOR><GRAY>re：Ask a Racing Ranger<END>
-//POINTER #101 @ $2BFC8 - STRING #101 @ $74E0
-
 #W32($2BFC8)
-<COLOR><GRAY>re：Ask a Racing Ranger<END>
-//POINTER #102 @ $2BFEC - STRING #102 @ $7508
-
 #W32($2BFEC)
-<COLOR><GRAY>re：Ask a Racing Ranger<END>
-//POINTER #103 @ $2C010 - STRING #103 @ $7530
-
 #W32($2C010)
-<COLOR><GRAY>re：Ask a Racing Ranger<END>
-//POINTER #104 @ $2C034 - STRING #104 @ $7558
-
 #W32($2C034)
-<COLOR><GRAY>re：Ask a Racing Ranger<END>
-//POINTER #105 @ $2C058 - STRING #105 @ $7580
-
 #W32($2C058)
-<COLOR><GRAY>re：Ask a Racing Ranger<END>
-//POINTER #106 @ $2C07C - STRING #106 @ $75A8
-
 #W32($2C07C)
-<COLOR><GRAY>re：Ask a Racing Ranger<END>
-//POINTER #107 @ $2C0A0 - STRING #107 @ $75D0
-
 #W32($2C0A0)
-<COLOR><GRAY>re：Ask a Racing Ranger<END>
-//POINTER #108 @ $2C0C4 - STRING #108 @ $75F8
-
 #W32($2C0C4)
-<COLOR><GRAY>re：Ask a Racing Ranger<END>
-//POINTER #109 @ $2C0E8 - STRING #109 @ $7620
-
 #W32($2C0E8)
-<COLOR><GRAY>re：Ask a Racing Ranger<END>
-//POINTER #110 @ $2C10C - STRING #110 @ $7648
-
 #W32($2C10C)
-<COLOR><GRAY>re：Ask a Racing Ranger<END>
-//POINTER #111 @ $2C130 - STRING #111 @ $7670
-
 #W32($2C130)
-<COLOR><GRAY>re：Ask a Racing Ranger<END>
-//POINTER #112 @ $2C154 - STRING #112 @ $7698
-
 #W32($2C154)
-<COLOR><GRAY>re：Ask a Racing Ranger<END>
-//POINTER #113 @ $2C178 - STRING #113 @ $76C0
-
 #W32($2C178)
-<COLOR><GRAY>re：Ask a Racing Ranger<END>
-//POINTER #114 @ $2C19C - STRING #114 @ $76E8
-
 #W32($2C19C)
-<COLOR><GRAY>re：Ask a Racing Ranger<END>
-//POINTER #115 @ $2C1C0 - STRING #115 @ $7710
-
 #W32($2C1C0)
-<COLOR><GRAY>re：Ask a Racing Ranger<END>
-//POINTER #116 @ $2C1E4 - STRING #116 @ $7738
-
 #W32($2C1E4)
-<COLOR><GRAY>re：Ask a Racing Ranger<END>
-//POINTER #117 @ $2C208 - STRING #117 @ $7760
-
 #W32($2C208)
-<COLOR><GRAY>re：Ask a Racing Ranger<END>
-//POINTER #118 @ $2C22C - STRING #118 @ $7788
-
 #W32($2C22C)
-<COLOR><GRAY>re：Ask a Racing Ranger<END>
-//POINTER #119 @ $2C250 - STRING #119 @ $77B0
-
 #W32($2C250)
-<COLOR><GRAY>re：Ask a Racing Ranger<END>
-//POINTER #120 @ $2C274 - STRING #120 @ $77D8
-
 #W32($2C274)
-<COLOR><GRAY>re：Ask a Racing Ranger<END>
-//POINTER #121 @ $2C298 - STRING #121 @ $7800
-
 #W32($2C298)
-<COLOR><GRAY>re：Ask a Racing Ranger<END>
-//POINTER #122 @ $2C2BC - STRING #122 @ $7828
-
 #W32($2C2BC)
-<COLOR><GRAY>re：Ask a Racing Ranger<END>
-//POINTER #123 @ $2C2E0 - STRING #123 @ $7850
-
 #W32($2C2E0)
-<COLOR><GRAY>re：Ask a Racing Ranger<END>
-//POINTER #124 @ $2C304 - STRING #124 @ $7878
-
 #W32($2C304)
-<COLOR><GRAY>re：Ask a Racing Ranger<END>
-//POINTER #125 @ $2C328 - STRING #125 @ $78A0
-
 #W32($2C328)
-<COLOR><GRAY>re：Ask a Racing Ranger<END>
-//POINTER #126 @ $2C34C - STRING #126 @ $78C8
-
 #W32($2C34C)
-<COLOR><GRAY>re：Ask a Racing Ranger<END>
-//POINTER #127 @ $2C370 - STRING #127 @ $78F0
-
 #W32($2C370)
-<COLOR><GRAY>re：Ask a Racing Ranger<END>
-//POINTER #128 @ $2C394 - STRING #128 @ $7918
-
 #W32($2C394)
-<COLOR><GRAY>re：Ask a Racing Ranger<END>
-//POINTER #129 @ $2C3B8 - STRING #129 @ $7940
-
 #W32($2C3B8)
-<COLOR><GRAY>re：Ask a Racing Ranger<END>
-//POINTER #130 @ $2C3DC - STRING #130 @ $7968
-
 #W32($2C3DC)
-<COLOR><GRAY>re：Ask a Racing Ranger<END>
-//POINTER #131 @ $2C400 - STRING #131 @ $7990
-
 #W32($2C400)
-<COLOR><GRAY>re：Ask a Racing Ranger<END>
-//POINTER #132 @ $2C424 - STRING #132 @ $79B8
-
 #W32($2C424)
-<COLOR><GRAY>re：Ask a Racing Ranger<END>
-//POINTER #133 @ $2C448 - STRING #133 @ $79E0
-
 #W32($2C448)
-<COLOR><GRAY>re：Ask a Racing Ranger<END>
-//POINTER #134 @ $2C46C - STRING #134 @ $7A08
-
 #W32($2C46C)
-<COLOR><GRAY>re：Ask a Racing Ranger<END>
-//POINTER #135 @ $2C490 - STRING #135 @ $7A30
-
 #W32($2C490)
-<COLOR><GRAY>re：Ask a Racing Ranger<END>
-//POINTER #136 @ $2C4B4 - STRING #136 @ $7A58
-
 #W32($2C4B4)
-<COLOR><GRAY>re：Ask a Racing Ranger<END>
-//POINTER #137 @ $2C4D8 - STRING #137 @ $7A80
-
 #W32($2C4D8)
-<COLOR><GRAY>re：Ask a Racing Ranger<END>
-//POINTER #138 @ $2C4FC - STRING #138 @ $7AA8
-
 #W32($2C4FC)
 <COLOR><GRAY>re：Ask a Racing Ranger<END>
-//POINTER #139 @ $2C520 - STRING #139 @ $7AD0
+//POINTER #101 @ $2BFC8 - STRING #101 @ $74E0
 
 #W32($2C520)
 <COLOR><GRAY>Popularity Points<END>
 //POINTER #140 @ $2C544 - STRING #140 @ $7AE4
 
 #W32($2C544)
-<COLOR><GRAY>re：Popularity Points<END>
-//POINTER #141 @ $2C568 - STRING #141 @ $7AFE
-
 #W32($2C568)
-<COLOR><GRAY>re：Popularity Points<END>
-//POINTER #142 @ $2C58C - STRING #142 @ $7B18
-
 #W32($2C58C)
-<COLOR><GRAY>re：Popularity Points<END>
-//POINTER #143 @ $2C5B0 - STRING #143 @ $7B32
-
 #W32($2C5B0)
-<COLOR><GRAY>re：Popularity Points<END>
-//POINTER #144 @ $2C5D4 - STRING #144 @ $7B4C
-
 #W32($2C5D4)
-<COLOR><GRAY>re：Popularity Points<END>
-//POINTER #145 @ $2C5F8 - STRING #145 @ $7B66
-
 #W32($2C5F8)
-<COLOR><GRAY>re：Popularity Points<END>
-//POINTER #146 @ $2C61C - STRING #146 @ $7B80
-
 #W32($2C61C)
-<COLOR><GRAY>re：Popularity Points<END>
-//POINTER #147 @ $2C640 - STRING #147 @ $7B9A
-
 #W32($2C640)
-<COLOR><GRAY>re：Popularity Points<END>
-//POINTER #148 @ $2C664 - STRING #148 @ $7BB4
-
 #W32($2C664)
-<COLOR><GRAY>re：Popularity Points<END>
-//POINTER #149 @ $2C688 - STRING #149 @ $7BCE
-
 #W32($2C688)
-<COLOR><GRAY>re：Popularity Points<END>
-//POINTER #150 @ $2C6AC - STRING #150 @ $7BE8
-
 #W32($2C6AC)
-<COLOR><GRAY>re：Popularity Points<END>
-//POINTER #151 @ $2C6D0 - STRING #151 @ $7C02
-
 #W32($2C6D0)
-<COLOR><GRAY>re：Popularity Points<END>
-//POINTER #152 @ $2C6F4 - STRING #152 @ $7C1C
-
 #W32($2C6F4)
-<COLOR><GRAY>re：Popularity Points<END>
-//POINTER #153 @ $2C718 - STRING #153 @ $7C36
-
 #W32($2C718)
 <COLOR><GRAY>re：Popularity Points<END>
-//POINTER #154 @ $2C73C - STRING #154 @ $7C50
+//POINTER #141 @ $2C568 - STRING #141 @ $7AFE
 
 #W32($2C73C)
 <COLOR><GRAY>Car Accessories<END>
 //POINTER #155 @ $2C760 - STRING #155 @ $7C60
 
 #W32($2C760)
+#W32($2C784)
+#W32($2C7A8)
+#W32($2C7CC)
+#W32($2C7F0)
+#W32($2C814)
+#W32($2C838)
+#W32($2C85C)
+#W32($2C880)
+#W32($2C8A4)
+#W32($2C8C8)
+#W32($2C8EC)
 <COLOR><GRAY>re：Car Accessories<END>
 //POINTER #156 @ $2C784 - STRING #156 @ $7C76
 
-#W32($2C784)
-<COLOR><GRAY>re：Car Accessories<END>
-//POINTER #157 @ $2C7A8 - STRING #157 @ $7C8C
-
-#W32($2C7A8)
-<COLOR><GRAY>re：Car Accessories<END>
-//POINTER #158 @ $2C7CC - STRING #158 @ $7CA2
-
-#W32($2C7CC)
-<COLOR><GRAY>re：Car Accessories<END>
-//POINTER #159 @ $2C7F0 - STRING #159 @ $7CB8
-
-#W32($2C7F0)
-<COLOR><GRAY>re：Car Accessories<END>
-//POINTER #160 @ $2C814 - STRING #160 @ $7CCE
-
-#W32($2C814)
-<COLOR><GRAY>re：Car Accessories<END>
-//POINTER #161 @ $2C838 - STRING #161 @ $7CE4
-
-#W32($2C838)
-<COLOR><GRAY>re：Car Accessories<END>
-//POINTER #162 @ $2C85C - STRING #162 @ $7CFA
-
-#W32($2C85C)
-<COLOR><GRAY>re：Car Accessories<END>
-//POINTER #163 @ $2C880 - STRING #163 @ $7D10
-
-#W32($2C880)
-<COLOR><GRAY>re：Car Accessories<END>
-//POINTER #164 @ $2C8A4 - STRING #164 @ $7D26
-
-#W32($2C8A4)
-<COLOR><GRAY>re：Car Accessories<END>
-//POINTER #165 @ $2C8C8 - STRING #165 @ $7D3C
-
-#W32($2C8C8)
-<COLOR><GRAY>re：Car Accessories<END>
-//POINTER #166 @ $2C8EC - STRING #166 @ $7D52
-
-#W32($2C8EC)
-<COLOR><GRAY>re：Car Accessories<END>
-//POINTER #167 @ $2C910 - STRING #167 @ $7D68
-
 #W32($2C910)
-<COLOR><GRAY>ありがとうございます！<END>
+<COLOR><GRAY>Thank you very much！<END>
 //POINTER #168 @ $2C934 - STRING #168 @ $7D86
 
 #W32($2C934)
@@ -5628,76 +5109,25 @@
 //POINTER #169 @ $2C958 - STRING #169 @ $7D96
 
 #W32($2C958)
-<COLOR><GRAY>re：Drifting<END>
-//POINTER #170 @ $2C97C - STRING #170 @ $7DAC
-
 #W32($2C97C)
-<COLOR><GRAY>re：Drifting<END>
-//POINTER #171 @ $2C9A0 - STRING #171 @ $7DC2
-
 #W32($2C9A0)
-<COLOR><GRAY>re：Drifting<END>
-//POINTER #172 @ $2C9C4 - STRING #172 @ $7DD8
-
 #W32($2C9C4)
-<COLOR><GRAY>re：Drifting<END>
-//POINTER #173 @ $2C9E8 - STRING #173 @ $7DEE
-
 #W32($2C9E8)
-<COLOR><GRAY>re：Drifting<END>
-//POINTER #174 @ $2CA0C - STRING #174 @ $7E04
-
 #W32($2CA0C)
-<COLOR><GRAY>re：Drifting<END>
-//POINTER #175 @ $2CA30 - STRING #175 @ $7E1A
-
 #W32($2CA30)
-<COLOR><GRAY>re：Drifting<END>
-//POINTER #176 @ $2CA54 - STRING #176 @ $7E30
-
 #W32($2CA54)
-<COLOR><GRAY>re：Drifting<END>
-//POINTER #177 @ $2CA78 - STRING #177 @ $7E46
-
 #W32($2CA78)
-<COLOR><GRAY>re：Drifting<END>
-//POINTER #178 @ $2CA9C - STRING #178 @ $7E5C
-
 #W32($2CA9C)
-<COLOR><GRAY>re：Drifting<END>
-//POINTER #179 @ $2CAC0 - STRING #179 @ $7E72
-
 #W32($2CAC0)
-<COLOR><GRAY>re：Drifting<END>
-//POINTER #180 @ $2CAE4 - STRING #180 @ $7E88
-
 #W32($2CAE4)
-<COLOR><GRAY>re：Drifting<END>
-//POINTER #181 @ $2CB08 - STRING #181 @ $7E9E
-
 #W32($2CB08)
-<COLOR><GRAY>re：Drifting<END>
-//POINTER #182 @ $2CB2C - STRING #182 @ $7EB4
-
 #W32($2CB2C)
-<COLOR><GRAY>re：Drifting<END>
-//POINTER #183 @ $2CB50 - STRING #183 @ $7ECA
-
 #W32($2CB50)
-<COLOR><GRAY>re：Drifting<END>
-//POINTER #184 @ $2CB74 - STRING #184 @ $7EE0
-
 #W32($2CB74)
-<COLOR><GRAY>re：Drifting<END>
-//POINTER #185 @ $2CB98 - STRING #185 @ $7EF6
-
 #W32($2CB98)
-<COLOR><GRAY>re：Drifting<END>
-//POINTER #186 @ $2CBBC - STRING #186 @ $7F0C
-
 #W32($2CBBC)
 <COLOR><GRAY>re：Drifting<END>
-//POINTER #187 @ $2CBE0 - STRING #187 @ $7F22
+//POINTER #170 @ $2C97C - STRING #170 @ $7DAC
 
 #W32($2CBE0)
 <COLOR><GRAY>RP at Shutoko<END>
@@ -5876,44 +5306,17 @@
 //POINTER #231 @ $2D210 - STRING #231 @ $854C
 
 #W32($2D210)
-<COLOR><GRAY>Event Archive<END>
-//POINTER #232 @ $2D234 - STRING #232 @ $8560
-
 #W32($2D234)
-<COLOR><GRAY>Event Archive<END>
-//POINTER #233 @ $2D258 - STRING #233 @ $8574
-
 #W32($2D258)
-<COLOR><GRAY>Event Archive<END>
-//POINTER #234 @ $2D27C - STRING #234 @ $8588
-
 #W32($2D27C)
-<COLOR><GRAY>Event Archive<END>
-//POINTER #235 @ $2D2A0 - STRING #235 @ $859C
-
 #W32($2D2A0)
-<COLOR><GRAY>Event Archive<END>
-//POINTER #236 @ $2D2C4 - STRING #236 @ $85B0
-
 #W32($2D2C4)
-<COLOR><GRAY>Event Archive<END>
-//POINTER #237 @ $2D2E8 - STRING #237 @ $85C4
-
 #W32($2D2E8)
-<COLOR><GRAY>Event Archive<END>
-//POINTER #238 @ $2D30C - STRING #238 @ $85D8
-
 #W32($2D30C)
-<COLOR><GRAY>Event Archive<END>
-//POINTER #239 @ $2D330 - STRING #239 @ $85EC
-
 #W32($2D330)
-<COLOR><GRAY>Event Archive<END>
-//POINTER #240 @ $2D354 - STRING #240 @ $8600
-
 #W32($2D354)
 <COLOR><GRAY>Event Archive<END>
-//POINTER #241 @ $2D378 - STRING #241 @ $8614
+//POINTER #232 @ $2D234 - STRING #232 @ $8560
 
 #W32($2D378)
 <COLOR><GRAY>Buying first car<END>
@@ -10122,311 +9525,311 @@
 //POINTER #57 @ $2B99C - STRING #57 @ $FB4A
 
 #W32($2B99C)
-<COLOR><GRAY>「ＲＢ公認レース」<END>
+<COLOR><GRAY>「RB Official Race」<END>
 //POINTER #58 @ $2B9C0 - STRING #58 @ $FB64
 
 #W32($2B9C0)
-<COLOR><GRAY>ＲＰバトルの良いところは、<END>
+<COLOR><GRAY>The nice thing about RB Battles is when you finish first、<END>
 //POINTER #59 @ $2B9E4 - STRING #59 @ $FB86
 
 #W32($2B9E4)
-<COLOR><GRAY>ＲＰって一体何なの？<END>
+<COLOR><GRAY>What the heck is RP？<END>
 //POINTER #60 @ $2BA08 - STRING #60 @ $FBA2
 
 #W32($2BA08)
-<COLOR><GRAY>ＲＰ＝<COLOR><RED>レーシング・ペナルティ・ポイント<COLOR><GRAY>。<END>
+<COLOR><GRAY>RP＝<COLOR><RED>Racing Penalty Points<COLOR><GRAY>．<END>
 //POINTER #61 @ $2BA2C - STRING #61 @ $FBDE
 
 #W32($2BA2C)
-<COLOR><GRAY>ＲＰが<COLOR><RED>５０<COLOR><GRAY>を下回ると約１０秒間<COLOR><RED>ピットストップ<COLOR><GRAY>。<END>
+<COLOR><GRAY>If the RP falls below <COLOR><RED>50<COLOR><GRAY>、a driver will<END>
 //POINTER #62 @ $2BA50 - STRING #62 @ $FC2C
 
 #W32($2BA50)
-<COLOR><GRAY>リタイア！？（（（（°Д°；））））<END>
+<COLOR><GRAY>Retires！？（（（（°Д°；））））<END>
 //POINTER #63 @ $2BA74 - STRING #63 @ $FC58
 
 #W32($2BA74)
-<COLOR><GRAY>まあ、ランクＣだとそんなに気にする必要ないけど<END>
+<COLOR><GRAY>Well、no need to worry about it too much in Rank C、<END>
 //POINTER #64 @ $2BA98 - STRING #64 @ $FC8E
 
 #W32($2BA98)
-<COLOR><GRAY>あと、<COLOR><RED>残りＲＰ<COLOR><GRAY>が多い方が<COLOR><RED>賞金<COLOR><GRAY>は多くなるから<END>
+<COLOR><GRAY>Also、the more <COLOR><RED>remaining RP<COLOR><GRAY> you have、the bigger<END>
 //POINTER #65 @ $2BABC - STRING #65 @ $FCD8
 
 #W32($2BABC)
-<COLOR><GRAY>無謀な走りをせずに勝つには、<END>
+<COLOR><GRAY>To win without reckless driving、<END>
 //POINTER #66 @ $2BAE0 - STRING #66 @ $FCFC
 
 #W32($2BAE0)
-<COLOR><GRAY>ペナルティでピットストップしたら、<END>
+<COLOR><GRAY>If i take the pitstop penalty、will the tires、<END>
 //POINTER #67 @ $2BB04 - STRING #67 @ $FD26
 
 #W32($2BB04)
-<COLOR><GRAY>自分で<COLOR><RED>ピットロードをちゃんと走って<COLOR><GRAY>ピットインすれば<END>
+<COLOR><GRAY>If you pit by yourself、entering through the <COLOR><RED>pit road<COLOR><GRAY>、<END>
 //POINTER #68 @ $2BB28 - STRING #68 @ $FD6C
 
 #W32($2BB28)
-<COLOR><GRAY>ついに首都高サーキットでＲＰ１００でゴールした！<END>
+<COLOR><GRAY>Finally、I got through Shutoko Circuit with 100 RP left！<END>
 //POINTER #69 @ $2BB4C - STRING #69 @ $FDA4
 
 #W32($2BB4C)
-<COLOR><GRAY>すご～い。<END>
+<COLOR><GRAY>Niceee．<END>
 //POINTER #70 @ $2BB70 - STRING #70 @ $FDB6
 
 #W32($2BB70)
-<COLOR><GRAY>うっΣ（￣□￣；）<END>
+<COLOR><GRAY>Uhhh Σ（￣□￣；）<END>
 //POINTER #71 @ $2BB94 - STRING #71 @ $FDD0
 
 #W32($2BB94)
-<COLOR><GRAY>ダメダメじゃん（笑）<END>
+<COLOR><GRAY>That's no good（lol）<END>
 //POINTER #72 @ $2BBB8 - STRING #72 @ $FDEC
 
 #W32($2BBB8)
-<COLOR><GRAY>コーナーの手前でキッチリ減速すれば、<END>
+<COLOR><GRAY>If you go slow into the corners、<END>
 //POINTER #73 @ $2BBDC - STRING #73 @ $FE18
 
 #W32($2BBDC)
-<COLOR><GRAY>知ってる？<END>
+<COLOR><GRAY>Did you know？<END>
 //POINTER #74 @ $2BC00 - STRING #74 @ $FE2A
 
 #W32($2BC00)
-<COLOR><GRAY>なんでも、強大な魔力を持つ指輪を持っていてその<END>
+<COLOR><GRAY>Apparently、he has a ring with magical power、and he<END>
 //POINTER #75 @ $2BC24 - STRING #75 @ $FE60
 
 #W32($2BC24)
-<COLOR><GRAY>なんかの映画の影響受けすぎ。<END>
+<COLOR><GRAY>You got influenced from watching too many movies．<END>
 //POINTER #76 @ $2BC48 - STRING #76 @ $FE84
 
 #W32($2BC48)
-<COLOR><GRAY>ホントなのに～。<END>
+<COLOR><GRAY>You got me～．<END>
 //POINTER #77 @ $2BC6C - STRING #77 @ $FE9C
 
 #W32($2BC6C)
-<COLOR><GRAY>おいッス！<END>
+<COLOR><GRAY>Yo！<END>
 //POINTER #78 @ $2BC90 - STRING #78 @ $FEAE
 
 #W32($2BC90)
-<COLOR><GRAY>ＤＰバトルって、よく分からないんだけど。<END>
+<COLOR><GRAY>I'm not too sure what a DP Battle is．<END>
 //POINTER #79 @ $2BCB4 - STRING #79 @ $FEDE
 
 #W32($2BCB4)
-<COLOR><GRAY>簡単、簡単。<END>
+<COLOR><GRAY>Easy、easy．<END>
 //POINTER #80 @ $2BCD8 - STRING #80 @ $FEF2
 
 #W32($2BCD8)
-<COLOR><GRAY>ドリフトを競うのは分かるんだけど<END>
+<COLOR><GRAY>I know it's a drift competition、but I don't really<END>
 //POINTER #81 @ $2BCFC - STRING #81 @ $FF1A
 
 #W32($2BCFC)
-<COLOR><GRAY>ドリフトは、<END>
+<COLOR><GRAY>A drift is graded by three factors、<END>
 //POINTER #82 @ $2BD20 - STRING #82 @ $FF2E
 
 #W32($2BD20)
-<COLOR><GRAY>このうち、一番重要なのが「角度」だ。<END>
+<COLOR><GRAY>The most important out of these is the「Angle」．<END>
 //POINTER #83 @ $2BD44 - STRING #83 @ $FF5A
 
 #W32($2BD44)
-<COLOR><GRAY>「ライン取り」が良くても「スピード」が速くても<END>
+<COLOR><GRAY>Even if you take good lines and maintain high speed、<END>
 //POINTER #84 @ $2BD68 - STRING #84 @ $FF90
 
 #W32($2BD68)
-<COLOR><GRAY>ただし、あまり角度を付けすぎると<END>
+<COLOR><GRAY>However、too big of an angle can be seen as a spin and<END>
 //POINTER #85 @ $2BD8C - STRING #85 @ $FFB8
 
 #W32($2BD8C)
-<COLOR><GRAY>それができるようになったら<END>
+<COLOR><GRAY>Once you learn to do that、you can take care of<END>
 //POINTER #86 @ $2BDB0 - STRING #86 @ $FFDA
 
 #W32($2BDB0)
-<COLOR><GRAY>「ライン取り」の評価を上げるには<END>
+<COLOR><GRAY>To improve your line taking、<END>
 //POINTER #87 @ $2BDD4 - STRING #87 @ $10002
 
 #W32($2BDD4)
-<COLOR><GRAY>「スピード」の評価を上げるには、意識的に<END>
+<COLOR><GRAY>To improve your speed、<END>
 //POINTER #88 @ $2BDF8 - STRING #88 @ $10032
 
 #W32($2BDF8)
-<COLOR><GRAY>ありがとうございます。<END>
+<COLOR><GRAY>Thank you very much．<END>
 //POINTER #89 @ $2BE1C - STRING #89 @ $10050
 
 #W32($2BE1C)
-<COLOR><GRAY>俺みたいな天才じゃなかったら、<END>
+<COLOR><GRAY>If you're not a genius like me、<END>
 //POINTER #90 @ $2BE40 - STRING #90 @ $10076
 
 #W32($2BE40)
-<COLOR><GRAY>ＤＰバトルは、他の２つのバトルとは違うスキルを<END>
+<COLOR><GRAY>DP Battles require different skills compared<END>
 //POINTER #91 @ $2BE64 - STRING #91 @ $100AC
 
 #W32($2BE64)
-<COLOR><GRAY>でも、慣れればテクニック次第で、<END>
+<COLOR><GRAY>But the great thing is that once you get the hang of it、<END>
 //POINTER #92 @ $2BE88 - STRING #92 @ $100D4
 
 #W32($2BE88)
-<COLOR><GRAY>裏技……教えてあげる。<END>
+<COLOR><GRAY>Here's a trick……<END>
 //POINTER #93 @ $2BEAC - STRING #93 @ $100F2
 
 #W32($2BEAC)
-<COLOR><GRAY>今日、ツインドリって言うのを初めてやった。<END>
+<COLOR><GRAY>Today、I did my first Twin-Drift．<END>
 //POINTER #94 @ $2BED0 - STRING #94 @ $10124
 
 #W32($2BED0)
-<COLOR><GRAY>そいつは凄い。<END>
+<COLOR><GRAY>That's awesome．<END>
 //POINTER #95 @ $2BEF4 - STRING #95 @ $1013A
 
 #W32($2BEF4)
-<COLOR><GRAY>ツインドリでは、<END>
+<COLOR><GRAY>In Twin-Drift、apparently<END>
 //POINTER #96 @ $2BF18 - STRING #96 @ $10152
 
 #W32($2BF18)
-<COLOR><GRAY>らしいって言うのは、その……<END>
+<COLOR><GRAY>When i say apparently、well……<END>
 //POINTER #97 @ $2BF3C - STRING #97 @ $10176
 
 #W32($2BF3C)
-<COLOR><GRAY>いつの間にかランク抜かれてるよ。<END>
+<COLOR><GRAY>We've been out-ranked without even noticing．<END>
 //POINTER #98 @ $2BF60 - STRING #98 @ $1019E
 
 #W32($2BF60)
-<COLOR><GRAY>幻影を見たよ……。<END>
+<COLOR><GRAY>I saw a phantom……<END>
 //POINTER #99 @ $2BF84 - STRING #99 @ $101B8
 
 #W32($2BF84)
-<COLOR><GRAY>レーシングバトルに関する質問を募集中だ！<END>
+<COLOR><GRAY>We're taking questions about Racing Battle！<END>
 //POINTER #100 @ $2BFA8 - STRING #100 @ $101E8
 
 #W32($2BFA8)
-<COLOR><GRAY>チューニングパーツで<END>
+<COLOR><GRAY>What's up with the tuning parts that have<END>
 //POINTER #101 @ $2BFCC - STRING #101 @ $10204
 
 #W32($2BFCC)
-<COLOR><GRAY>それは、いわゆる<COLOR><RED>ブランドパーツ<COLOR><GRAY>だな。<END>
+<COLOR><GRAY>That's what we call <COLOR><RED>Brand Parts<COLOR><GRAY>．<END>
 //POINTER #102 @ $2BFF0 - STRING #102 @ $1023C
 
 #W32($2BFF0)
-<COLOR><GRAY>まずは通常パーツで一通り揃えて<END>
+<COLOR><GRAY>Start out with a set of normal parts and later replace<END>
 //POINTER #103 @ $2C014 - STRING #103 @ $10262
 
 #W32($2C014)
-<COLOR><GRAY>ブランドパーツは、ショップ以外に<END>
+<COLOR><GRAY>In addition to getting Brand Parts from the shop、<END>
 //POINTER #104 @ $2C038 - STRING #104 @ $1028A
 
 #W32($2C038)
-<COLOR><GRAY>そのメーカーのブランドパーツを初めて購入すると<END>
+<COLOR><GRAY>When you buy a Brand Part from a manufacturer<END>
 //POINTER #105 @ $2C05C - STRING #105 @ $102C0
 
 #W32($2C05C)
-<COLOR><GRAY>分かったかな？（´ー｀）ｂ<END>
+<COLOR><GRAY>Do you get it now？（´ー｀）ｂ<END>
 //POINTER #106 @ $2C080 - STRING #106 @ $102E2
 
 #W32($2C080)
-<COLOR><GRAY>パドックでタイヤ交換したはずなのに、<END>
+<COLOR><GRAY>I'm pretty sure i changed my tires in the paddock、<END>
 //POINTER #107 @ $2C0A4 - STRING #107 @ $1030E
 
 #W32($2C0A4)
-<COLOR><GRAY>タイヤを交換してから、<END>
+<COLOR><GRAY>After replacing the tires、<END>
 //POINTER #108 @ $2C0C8 - STRING #108 @ $1032C
 
 #W32($2C0C8)
-<COLOR><GRAY>セッティングには、どのタイヤを装着するか<END>
+<COLOR><GRAY>Your car's setting sets also include tire choice、<END>
 //POINTER #109 @ $2C0EC - STRING #109 @ $1035C
 
 #W32($2C0EC)
-<COLOR><GRAY>パドックでは、<END>
+<COLOR><GRAY>While in the paddock、<END>
 //POINTER #110 @ $2C110 - STRING #110 @ $10372
 
 #W32($2C110)
-<COLOR><GRAY>パセタって覚えてね！（´ー｀）ｂ<END>
+<COLOR><GRAY>Remember the order、PaSeTi！（´ー｀）ｂ<END>
 //POINTER #111 @ $2C134 - STRING #111 @ $1039A
 
 #W32($2C134)
-<COLOR><GRAY>縦書きかよ！<END>
+<COLOR><GRAY>A vertical writing？！<END>
 //POINTER #112 @ $2C158 - STRING #112 @ $103AE
 
 #W32($2C158)
-<COLOR><GRAY>サーキットを走り込んでいると、<END>
+<COLOR><GRAY>When i do laps on the circuit、the tires start to slip<END>
 //POINTER #113 @ $2C17C - STRING #113 @ $103D4
 
 #W32($2C17C)
-<COLOR><GRAY>タイヤもブレーキも長時間走り続けると<END>
+<COLOR><GRAY>Tires and brakes wear out from <COLOR><RED>heat generated<END>
 //POINTER #114 @ $2C1A0 - STRING #114 @ $10400
 
 #W32($2C1A0)
-<COLOR><GRAY>イベント中って言っても、ＤＰバトルとか<END>
+<COLOR><GRAY>You say during the event、but it's not possible<END>
 //POINTER #115 @ $2C1C4 - STRING #115 @ $1042E
 
 #W32($2C1C4)
-<COLOR><GRAY>特にタイヤは、グリップ力の高いＳタイヤほど<END>
+<COLOR><GRAY>The S tires heat up especially quickly．If you feel<END>
 //POINTER #116 @ $2C1E8 - STRING #116 @ $10460
 
 #W32($2C1E8)
-<COLOR><GRAY>レーシングレンジャーとの約束だ！（´ー｀）ｂ<END>
+<COLOR><GRAY>Fullfilling the Racing Ranger's promise！（´ー｀）ｂ<END>
 //POINTER #117 @ $2C20C - STRING #117 @ $10494
 
 #W32($2C20C)
-<COLOR><GRAY>よく、車のタイプで「ワゴン」とか「ミニバン」とか<END>
+<COLOR><GRAY>I often see names of car types、such as：<END>
 //POINTER #118 @ $2C230 - STRING #118 @ $104CC
 
 #W32($2C230)
-<COLOR><GRAY>あくまでもレーシングバトルの定義では、だけど<END>
+<COLOR><GRAY>According to Racing Battle definitions、<END>
 //POINTER #119 @ $2C254 - STRING #119 @ $10500
 
 #W32($2C254)
-<COLOR><GRAY>ＳＵＢＡＲＵの「ＬＥＧＡＣＹ　ＷＡＧＯＮ　ＢＨ５」<END>
+<COLOR><GRAY>SUBARU's「LEGACY WAGON BH5」、<END>
 //POINTER #120 @ $2C278 - STRING #120 @ $1053A
 
 #W32($2C278)
-<COLOR><GRAY>ＴＯＹＯＴＡの「ＮＯＡＨ」「ＥＳＴＩＭＡ」<END>
+<COLOR><GRAY>TOYOTA's「NOAH」、「ESTIMA」、<END>
 //POINTER #121 @ $2C29C - STRING #121 @ $1056C
 
 #W32($2C29C)
-<COLOR><GRAY>ＨＯＮＤＡの「Ｓｔｒｅａｍ」「ＳＴＥＰ　ＷＧＮ」<END>
+<COLOR><GRAY>HONDA's「Stream」、「STEP WGN」and<END>
 //POINTER #122 @ $2C2C0 - STRING #122 @ $105A4
 
 #W32($2C2C0)
-<COLOR><GRAY>「コンパクト」として分類されるのは<END>
+<COLOR><GRAY>The one's classified as “compact” would be<END>
 //POINTER #123 @ $2C2E4 - STRING #123 @ $105CE
 
 #W32($2C2E4)
-<COLOR><GRAY>それからＨＯＮＤＡの「Ｆｉｔ」辺りね。<END>
+<COLOR><GRAY>and HONDA's「Fit」．<END>
 //POINTER #124 @ $2C308 - STRING #124 @ $105FC
 
 #W32($2C308)
-<COLOR><GRAY>最後に「軽」として分類されるのは<END>
+<COLOR><GRAY>Lastly、the ones classified as “kei” would be<END>
 //POINTER #125 @ $2C32C - STRING #125 @ $10624
 
 #W32($2C32C)
-<COLOR><GRAY>ＳＵＺＵＫＩの「ＷＡＧＯＮ　Ｒ」<END>
+<COLOR><GRAY>SUZUKI's「WAGON R」、<END>
 //POINTER #126 @ $2C350 - STRING #126 @ $1064C
 
 #W32($2C350)
-<COLOR><GRAY>ＤＡＩＨＡＴＳＵの「Ｃｏｐｅｎ」「ＭＯＶＥ」<END>
+<COLOR><GRAY>DAIHATSU's「Copen」and「MOVE」、<END>
 //POINTER #127 @ $2C374 - STRING #127 @ $10680
 
 #W32($2C374)
-<COLOR><GRAY>レーシングバトルの定義では、だよ（´ー｀）ｂ<END>
+<COLOR><GRAY>By the Racing Battle definitions、that is（´ー｀）ｂ<END>
 //POINTER #128 @ $2C398 - STRING #128 @ $106B4
 
 #W32($2C398)
-<COLOR><GRAY>チャレンジモードのタイムアタックで、<END>
+<COLOR><GRAY>In Challenge Mode's Time Attack、<END>
 //POINTER #129 @ $2C3BC - STRING #129 @ $106E0
 
 #W32($2C3BC)
-<COLOR><GRAY>壁に当たったり、四輪全てがコースから出ちゃったり<END>
+<COLOR><GRAY>If you hit the wall or get all four wheels off-track、<END>
 //POINTER #130 @ $2C3E0 - STRING #130 @ $10718
 
 #W32($2C3E0)
-<COLOR><GRAY>つまり、タイムが速くても、<END>
+<COLOR><GRAY>So、even if the time is faster、the provisional<END>
 //POINTER #131 @ $2C404 - STRING #131 @ $1073A
 
 #W32($2C404)
-<COLOR><GRAY>サーキットによっては、壁に当たって曲がったり<END>
+<COLOR><GRAY>On some circuits、it's faster to get through<END>
 //POINTER #132 @ $2C428 - STRING #132 @ $1076E
 
 #W32($2C428)
-<COLOR><GRAY>分かったかな？（´ー｀）ｂ<END>
+<COLOR><GRAY>You understand now、right？（´ー｀）ｂ<END>
 //POINTER #133 @ $2C44C - STRING #133 @ $10790
 
 #W32($2C44C)
-<COLOR><GRAY>なんか、イエローって楽してるよね。<END>
+<COLOR><GRAY>Seems like Yellow is taking it easy、<END>
 //POINTER #134 @ $2C470 - STRING #134 @ $107BA
 
 #W32($2C470)
@@ -10434,79 +9837,79 @@
 //POINTER #135 @ $2C494 - STRING #135 @ $107D4
 
 #W32($2C494)
-<COLOR><GRAY>レーシングレンジャーって何？<END>
+<COLOR><GRAY>What's a Racing Ranger？<END>
 //POINTER #136 @ $2C4B8 - STRING #136 @ $107F8
 
 #W32($2C4B8)
-<COLOR><GRAY>ゲフー（吐血）<END>
+<COLOR><GRAY>Ughー（coughs blood）<END>
 //POINTER #137 @ $2C4DC - STRING #137 @ $1080E
 
 #W32($2C4DC)
-<COLOR><GRAY>好評ＯＡ中のラジオドラマ<END>
+<COLOR><GRAY>Best of luck towards the now airing<END>
 //POINTER #138 @ $2C500 - STRING #138 @ $1082E
 
 #W32($2C500)
-<COLOR><GRAY>ラジオドラマだったのかΣ（￣□￣；）<END>
+<COLOR><GRAY>It was all a radio drama Σ（￣□￣；）<END>
 //POINTER #139 @ $2C524 - STRING #139 @ $1085A
 
 #W32($2C524)
-<COLOR><GRAY>サーキットにおいて、一番重要なものとは何か？<END>
+<COLOR><GRAY>What is the most important thing on the circuit？<END>
 //POINTER #140 @ $2C548 - STRING #140 @ $1088E
 
 #W32($2C548)
-<COLOR><GRAY>人気って言われると、すごい気になるよね。<END>
+<COLOR><GRAY>When you say it's the popularity、it made me curious．<END>
 //POINTER #141 @ $2C56C - STRING #141 @ $108BE
 
 #W32($2C56C)
-<COLOR><GRAY>人気ドライバーは、女の子にモテモテだよ（笑）<END>
+<COLOR><GRAY>Popular drivers are irresistible to girls（lol）<END>
 //POINTER #142 @ $2C590 - STRING #142 @ $108F2
 
 #W32($2C590)
-<COLOR><GRAY>モテモテ（＊´д｀＊）<END>
+<COLOR><GRAY>irresistible（＊´д｀＊）<END>
 //POINTER #143 @ $2C5B4 - STRING #143 @ $10910
 
 #W32($2C5B4)
-<COLOR><GRAY>人気が高くて一番美味しいのは、<END>
+<COLOR><GRAY>The best perk of high popularity is getting<END>
 //POINTER #144 @ $2C5D8 - STRING #144 @ $10936
 
 #W32($2C5D8)
-<COLOR><GRAY>イベントをクリアしなくちゃいけないとはいえ<END>
+<COLOR><GRAY>Even though you need to beat the event、<END>
 //POINTER #145 @ $2C5FC - STRING #145 @ $10968
 
 #W32($2C5FC)
-<COLOR><GRAY>人気ポイントの上げ方を教えてください<END>
+<COLOR><GRAY>Please tell me how to raise my popularity points<END>
 //POINTER #146 @ $2C620 - STRING #146 @ $10994
 
 #W32($2C620)
-<COLOR><GRAY>まあ、基本的にバトルに勝てば<END>
+<COLOR><GRAY>Well、if you win battles、you will earn popularity points<END>
 //POINTER #147 @ $2C644 - STRING #147 @ $109B8
 
 #W32($2C644)
-<COLOR><GRAY>モテモテを目指そうって言うからには<END>
+<COLOR><GRAY>If you want to be irresistible、you'll need to aim higher<END>
 //POINTER #148 @ $2C668 - STRING #148 @ $109E2
 
 #W32($2C668)
-<COLOR><GRAY>サーキットで人気を集める要素と言えば、<END>
+<COLOR><GRAY>The elements to raise popularity on the circuits are、<END>
 //POINTER #149 @ $2C68C - STRING #149 @ $10A10
 
 #W32($2C68C)
-<COLOR><GRAY>逆に評判を落とすのは、他の車などへの接触だな。<END>
+<COLOR><GRAY>On the other hand、getting in contact with other cars<END>
 //POINTER #150 @ $2C6B0 - STRING #150 @ $10A46
 
 #W32($2C6B0)
-<COLOR><GRAY>クラッシュシーンは確かに迫力あるけど<END>
+<COLOR><GRAY>The crash scenes are certainly thrilling、<END>
 //POINTER #151 @ $2C6D4 - STRING #151 @ $10A72
 
 #W32($2C6D4)
-<COLOR><GRAY>俺たちが魅せるのは、迫力ある映像じゃなくて<END>
+<COLOR><GRAY>What we need to show are not thrilling scenes、<END>
 //POINTER #152 @ $2C6F8 - STRING #152 @ $10AA4
 
 #W32($2C6F8)
-<COLOR><GRAY>魅せる走りを目指すなら、ご機嫌なエアロは如何？<END>
+<COLOR><GRAY>If you're aiming for a car show、<END>
 //POINTER #153 @ $2C71C - STRING #153 @ $10ADA
 
 #W32($2C71C)
-<COLOR><GRAY>一応、おいらもエアロパーツ売ってるんで宣伝。<END>
+<COLOR><GRAY>It so happens that I'm also selling aero parts．<END>
 //POINTER #154 @ $2C740 - STRING #154 @ $10B0E
 
 #W32($2C740)
@@ -14833,6 +14236,8 @@
 <COLOR><GRAY>Reserved<END>
 //BLOCK #003 NAME:		231.bin File - Encoded BBS Text 4
 
+
+
 //POINTER #0 @ $2B19C - STRING #0 @ $19D0C
 
 #W32($2B19C)
@@ -15064,11 +14469,11 @@
 //POINTER #57 @ $2B9A0 - STRING #57 @ $1A68E
 
 #W32($2B9A0)
-<COLOR><GRAY>みんなの大好きなＲＰバトルのスレッドだよ。<END>
+<COLOR><GRAY>A thread for everyone's favourite RP Battle．<END>
 //POINTER #58 @ $2B9C4 - STRING #58 @ $1A6C0
 
 #W32($2B9C4)
-<COLOR><GRAY>１位になれば、そのレースで走ったライバル全員に<END>
+<COLOR><GRAY>all the rivals that also ran in that race<END>
 //POINTER #59 @ $2B9E8 - STRING #59 @ $1A6F6
 
 #W32($2B9E8)
@@ -15076,47 +14481,47 @@
 //POINTER #60 @ $2BA0C - STRING #60 @ $1A6F8
 
 #W32($2BA0C)
-<COLOR><GRAY>他車との接触、コースアウト、逆走と言った<COLOR><RED>危険な走行<END>
+<COLOR><GRAY>Those are points that you <COLOR><RED>lose <COLOR><GRAY>when <COLOR><RED>driving dangerously<COLOR><GRAY>、<END>
 //POINTER #61 @ $2BA30 - STRING #61 @ $1A738
 
 #W32($2BA30)
-<COLOR><GRAY>ＲＰが<COLOR><RED>０<COLOR><GRAY>になるとイベントから除外され<COLOR><RED>リタイア<COLOR><GRAY>。<END>
+<COLOR><GRAY>receive a 10 second pitstop penalty；if it falls to <COLOR><RED>0<COLOR><GRAY>、<END>
 //POINTER #62 @ $2BA54 - STRING #62 @ $1A786
 
 #W32($2BA54)
-<COLOR><GRAY>キビシイなぁ。<END>
+<COLOR><GRAY>That's rough、isn't it？<END>
 //POINTER #63 @ $2BA78 - STRING #63 @ $1A79C
 
 #W32($2BA78)
-<COLOR><GRAY>もっと上のランクの首都高サーキットなんかだと、<END>
+<COLOR><GRAY>but at higher ranks、at the Shutoko Circuit、<END>
 //POINTER #64 @ $2BA9C - STRING #64 @ $1A7D2
 
 #W32($2BA9C)
-<COLOR><GRAY>ペナルティまで余裕があっても、<END>
+<COLOR><GRAY>your <COLOR><RED>prize money<COLOR><GRAY> will be、so don't take <END>
 //POINTER #65 @ $2BAC0 - STRING #65 @ $1A7F8
 
 #W32($2BAC0)
-<COLOR><GRAY>車の性能だけじゃなくて<END>
+<COLOR><GRAY>not only is car performance needed、<END>
 //POINTER #66 @ $2BAE4 - STRING #66 @ $1A816
 
 #W32($2BAE4)
-<COLOR><GRAY>タイヤとか、油温、水温って回復するの？<END>
+<COLOR><GRAY>oil temperature and water temperature be recovered？<END>
 //POINTER #67 @ $2BB08 - STRING #67 @ $1A844
 
 #W32($2BB08)
-<COLOR><GRAY>タイヤも水温も油温も全て回復するけど……<COLOR><RED>ペナルティ<END>
+<COLOR><GRAY>you will recover the tires and oil／water temperatures<END>
 //POINTER #68 @ $2BB2C - STRING #68 @ $1A884
 
 #W32($2BB2C)
-<COLOR><GRAY>おめでとう、俺！<END>
+<COLOR><GRAY>Congrats、me！<END>
 //POINTER #69 @ $2BB50 - STRING #69 @ $1A89C
 
 #W32($2BB50)
-<COLOR><GRAY>おめでと～＼（＾－＾）／<END>
+<COLOR><GRAY>Congrats～ ＼（＾－＾）／<END>
 //POINTER #70 @ $2BB74 - STRING #70 @ $1A8BC
 
 #W32($2BB74)
-<COLOR><GRAY>それは……<END>
+<COLOR><GRAY>That would be……<END>
 //POINTER #71 @ $2BB98 - STRING #71 @ $1A8CE
 
 #W32($2BB98)
@@ -15124,15 +14529,15 @@
 //POINTER #72 @ $2BBBC - STRING #72 @ $1A8D0
 
 #W32($2BBBC)
-<COLOR><GRAY>意外といけるもんだよね。<END>
+<COLOR><GRAY>it's suprising how well it can go．As long as <END>
 //POINTER #73 @ $2BBE0 - STRING #73 @ $1A8F0
 
 #W32($2BBE0)
-<COLOR><GRAY>ＲＰバトルが凄く強いワンダラーがいるってウワサ。<END>
+<COLOR><GRAY>There is a rumor of a very strong Wanderer in RP Battles．<END>
 //POINTER #74 @ $2BC04 - STRING #74 @ $1A928
 
 #W32($2BC04)
-<COLOR><GRAY>後継者を探してるんだって。ＲＰバトルで５０勝<END>
+<COLOR><GRAY>is searching for a successor．If you win 50 RP Battles、<END>
 //POINTER #75 @ $2BC28 - STRING #75 @ $1A95C
 
 #W32($2BC28)
@@ -15144,115 +14549,115 @@
 //POINTER #77 @ $2BC70 - STRING #77 @ $1A998
 
 #W32($2BC70)
-<COLOR><GRAY>「ＲＢ公認ドリフト大会」<END>
+<COLOR><GRAY>「RB Official Drift Competition」<END>
 //POINTER #78 @ $2BC94 - STRING #78 @ $1A9B8
 
 #W32($2BC94)
-<COLOR><GRAY>どうすれば勝ちなの？<END>
+<COLOR><GRAY>How do I win there？<END>
 //POINTER #79 @ $2BCB8 - STRING #79 @ $1A9D4
 
 #W32($2BCB8)
-<COLOR><GRAY>相手より<COLOR><RED>華麗にドリフト<COLOR><GRAY>をすれば勝ちだよ。<END>
+<COLOR><GRAY>Pull off more <COLOR><RED>stylish drifts<COLOR><GRAY> than your rival、and you win．<END>
 //POINTER #80 @ $2BCDC - STRING #80 @ $1AA10
 
 #W32($2BCDC)
-<COLOR><GRAY>どうすれば、その華麗なドリフトになるのかが<END>
+<COLOR><GRAY>know how to make a stylish drift．<END>
 //POINTER #81 @ $2BD00 - STRING #81 @ $1AA42
 
 #W32($2BD00)
-<COLOR><GRAY>「<COLOR><RED>角度<COLOR><GRAY>」「<COLOR><RED>ライン取り<COLOR><GRAY>」「<COLOR><RED>スピード<COLOR><GRAY>」<END>
+<COLOR><GRAY>「<COLOR><RED>Angle<COLOR><GRAY>」、「<COLOR><RED>Line<COLOR><GRAY>」<END>
 //POINTER #82 @ $2BD24 - STRING #82 @ $1AA90
 
 #W32($2BD24)
-<COLOR><GRAY>ドリフトは、カーブに合わせた最適な「角度」を<END>
+<COLOR><GRAY>Drifting is all about maintaning the optimal angle<END>
 //POINTER #83 @ $2BD48 - STRING #83 @ $1AAC4
 
 #W32($2BD48)
-<COLOR><GRAY>「角度」が付いて無かったり、維持した時間が短い<END>
+<COLOR><GRAY>drifts with no angle or short-lived drifts<END>
 //POINTER #84 @ $2BD6C - STRING #84 @ $1AAFA
 
 #W32($2BD6C)
-<COLOR><GRAY>スピンに間違われたり、スピードも落ちたりするので<END>
+<COLOR><GRAY>can also reduce your speed．It's crucial to maintain the<END>
 //POINTER #85 @ $2BD90 - STRING #85 @ $1AB32
 
 #W32($2BD90)
-<COLOR><GRAY>「ライン取り」と「スピード」を意識して<END>
+<COLOR><GRAY>taking better lines and maintaning higher speeds<END>
 //POINTER #86 @ $2BDB4 - STRING #86 @ $1AB60
 
 #W32($2BDB4)
-<COLOR><GRAY>「インをなめるように走る」<END>
+<COLOR><GRAY>try to“kiss the apex” of the corner<END>
 //POINTER #87 @ $2BDD8 - STRING #87 @ $1AB82
 
 #W32($2BDD8)
-<COLOR><GRAY>「計測セクションに速度を上げて進入する」<END>
+<COLOR><GRAY>try to keep higher speeds when entering<END>
 //POINTER #88 @ $2BDFC - STRING #88 @ $1ABB2
 
 #W32($2BDFC)
-<COLOR><GRAY>憶えることが沢山だ～（笑）<END>
+<COLOR><GRAY>Soo much to remember～（lol）<END>
 //POINTER #89 @ $2BE20 - STRING #89 @ $1ABD4
 
 #W32($2BE20)
-<COLOR><GRAY>一つずつやっていけばいいでない？<END>
+<COLOR><GRAY>why not try to focus on one thing at a time？<END>
 //POINTER #90 @ $2BE44 - STRING #90 @ $1ABFC
 
 #W32($2BE44)
-<COLOR><GRAY>要求されるから、慣れるまでは勝ちがついてこなくて<END>
+<COLOR><GRAY>to the other two battle types、you might struggle<END>
 //POINTER #91 @ $2BE68 - STRING #91 @ $1AC34
 
 #W32($2BE68)
-<COLOR><GRAY>はるかにパワーが上のマシンにも勝てるのが魅力だ。<END>
+<COLOR><GRAY>you can use techniques to beat cars with<END>
 //POINTER #92 @ $2BE8C - STRING #92 @ $1AC6C
 
 #W32($2BE8C)
-<COLOR><GRAY>ドリフト中に<COLOR><RED>Ｌ１ボタン<COLOR><GRAY>か<COLOR><RED>Ｒ１ボタン<COLOR><GRAY>を押しっぱなしに<END>
+<COLOR><GRAY>If you hold the <COLOR><RED>L1 or R1 Button<COLOR><GRAY> down while drifting、<END>
 //POINTER #93 @ $2BEB0 - STRING #93 @ $1ACBE
 
 #W32($2BEB0)
-<COLOR><GRAY>接触しそうで怖かったよ。<END>
+<COLOR><GRAY>I was scared we were going to make contact．<END>
 //POINTER #94 @ $2BED4 - STRING #94 @ $1ACDE
 
 #W32($2BED4)
-<COLOR><GRAY>ツインドリと言えばＤＰバトルの華だからね。<END>
+<COLOR><GRAY>Twin-Drift is the glam of the DP Battle．<END>
 //POINTER #95 @ $2BEF8 - STRING #95 @ $1AD10
 
 #W32($2BEF8)
-<COLOR><GRAY>「先行」はライバルを引き離すと<END>
+<COLOR><GRAY>during「LEAD」you get positive score for pulling away、<END>
 //POINTER #96 @ $2BF1C - STRING #96 @ $1AD36
 
 #W32($2BF1C)
-<COLOR><GRAY>やったことがないから……<END>
+<COLOR><GRAY>It's because I've never actually done it……<END>
 //POINTER #97 @ $2BF40 - STRING #97 @ $1AD56
 
 #W32($2BF40)
-<COLOR><GRAY>レベル低いなぁ、俺ら（笑）<END>
+<COLOR><GRAY>We're at a low level、aren't we？（lol）<END>
 //POINTER #98 @ $2BF64 - STRING #98 @ $1AD78
 
 #W32($2BF64)
-<COLOR><GRAY>幻影と戦うにはＤＰバトルで沢山勝たないとダメ……。<END>
+<COLOR><GRAY>To fight it、you need lots of DP Battle wins……<END>
 //POINTER #99 @ $2BF88 - STRING #99 @ $1ADB2
 
 #W32($2BF88)
-<COLOR><GRAY>どんな質問でもレーシングレンジャーが<END>
+<COLOR><GRAY>The Racing Rangers will give serious answers<END>
 //POINTER #100 @ $2BFAC - STRING #100 @ $1ADDE
 
 #W32($2BFAC)
-<COLOR><GRAY>数字の後に<COLOR><RED>＋の付いているパーツ<COLOR><GRAY>があるんだけど<END>
+<COLOR><GRAY>a <COLOR><RED>＋ after the type number<COLOR><GRAY>？<END>
 //POINTER #101 @ $2BFD0 - STRING #101 @ $1AE1E
 
 #W32($2BFD0)
-<COLOR><GRAY>メーカー特製なので、同タイプの通常パーツに比べて<END>
+<COLOR><GRAY>They are manufacturer-specific、they offer higher<END>
 //POINTER #102 @ $2BFF4 - STRING #102 @ $1AE56
 
 #W32($2BFF4)
-<COLOR><GRAY>余裕がでてきたら気になる箇所を買い換える<END>
+<COLOR><GRAY>the parts you're concerned about、 when you<END>
 //POINTER #103 @ $2C018 - STRING #103 @ $1AE86
 
 #W32($2C018)
-<COLOR><GRAY><COLOR><RED>スペシャルイベント<COLOR><GRAY>の賞品としても<END>
+<COLOR><GRAY>they can be won as prizes at <COLOR><RED>Special Events<COLOR><GRAY>．<END>
 //POINTER #104 @ $2C03C - STRING #104 @ $1AEBA
 
 #W32($2C03C)
-<COLOR><GRAY>ステッカーを貰えるから、お気に入りのメーカーが<END>
+<COLOR><GRAY>for the first time、you get their sticker．So if you have<END>
 //POINTER #105 @ $2C060 - STRING #105 @ $1AEF0
 
 #W32($2C060)
@@ -15260,19 +14665,19 @@
 //POINTER #106 @ $2C084 - STRING #106 @ $1AEF2
 
 #W32($2C084)
-<COLOR><GRAY>出走したらタイヤが元に戻ってた。<END>
+<COLOR><GRAY>but when I started the race、<END>
 //POINTER #107 @ $2C0A8 - STRING #107 @ $1AF1A
 
 #W32($2C0A8)
-<COLOR><GRAY>セッティングを変更しなかったかい？<END>
+<COLOR><GRAY>did you change any car settings？<END>
 //POINTER #108 @ $2C0CC - STRING #108 @ $1AF44
 
 #W32($2C0CC)
-<COLOR><GRAY>と言う情報も含まれているので、<END>
+<COLOR><GRAY>so that's why they might have reverted<END>
 //POINTER #109 @ $2C0F0 - STRING #109 @ $1AF6A
 
 #W32($2C0F0)
-<COLOR><GRAY>セッティングを変更してから、<END>
+<COLOR><GRAY>change the setting first、<END>
 //POINTER #110 @ $2C114 - STRING #110 @ $1AF8E
 
 #W32($2C114)
@@ -15280,23 +14685,23 @@
 //POINTER #111 @ $2C138 - STRING #111 @ $1AF90
 
 #W32($2C138)
-<COLOR><GRAY>（　°д°）ポカーン<END>
+<COLOR><GRAY>（　°д°）＊Speechless＊<END>
 //POINTER #112 @ $2C15C - STRING #112 @ $1AFAC
 
 #W32($2C15C)
-<COLOR><GRAY>タイヤが滑りやすくなったり、<END>
+<COLOR><GRAY>more、and the brakes don't work as well．<END>
 //POINTER #113 @ $2C180 - STRING #113 @ $1AFD0
 
 #W32($2C180)
-<COLOR><GRAY><COLOR><RED>発熱して消耗<COLOR><GRAY>する。消耗はパドックに戻るか、<END>
+<COLOR><GRAY><COLOR><RED>by long runs<COLOR><GRAY>．Wear can be recovered by going back<END>
 //POINTER #114 @ $2C1A4 - STRING #114 @ $1B00E
 
 #W32($2C1A4)
-<COLOR><GRAY>ＳＰバトルでも、ライバルとバトルしてるときは<END>
+<COLOR><GRAY>during a SP Battle or a DP Battle、<END>
 //POINTER #115 @ $2C1C8 - STRING #115 @ $1B042
 
 #W32($2C1C8)
-<COLOR><GRAY>発熱が早い。消耗してきたなと感じたら<END>
+<COLOR><GRAY>them wearing out、don't push it and head back<END>
 //POINTER #116 @ $2C1EC - STRING #116 @ $1B06E
 
 #W32($2C1EC)
@@ -15304,27 +14709,27 @@
 //POINTER #117 @ $2C210 - STRING #117 @ $1B070
 
 #W32($2C210)
-<COLOR><GRAY>「コンパクト」とか「軽」とかって書いてありますけど<END>
+<COLOR><GRAY>“wagon”、“minivan”、“compact” and “kei”、<END>
 //POINTER #118 @ $2C234 - STRING #118 @ $1B0AA
 
 #W32($2C234)
-<COLOR><GRAY>「ワゴン」や「ミニバン」として分類されるのは<END>
+<COLOR><GRAY>cars classified as a “wagon” or “minivan” would be<END>
 //POINTER #119 @ $2C258 - STRING #119 @ $1B0DE
 
 #W32($2C258)
-<COLOR><GRAY>「ＬＥＧＡＣＹ　ＷＡＧＯＮ　ＢＰ５」<END>
+<COLOR><GRAY>「LEGACY WAGON BP5」and<END>
 //POINTER #120 @ $2C27C - STRING #120 @ $1B10A
 
 #W32($2C27C)
-<COLOR><GRAY>「ＷＩＳＨ」「ｂＢ」<END>
+<COLOR><GRAY>「WISH」and「bB」、<END>
 //POINTER #121 @ $2C2A0 - STRING #121 @ $1B126
 
 #W32($2C2A0)
-<COLOR><GRAY>「Ｏｄｙｓｓｅｙ」と言った辺りかな。<END>
+<COLOR><GRAY>「Odyssey」．<END>
 //POINTER #122 @ $2C2C4 - STRING #122 @ $1B152
 
 #W32($2C2C4)
-<COLOR><GRAY>ＮＩＳＳＡＮの「ＭＡＲＣＨ」<END>
+<COLOR><GRAY>the NISSAN's「MARCH」、<END>
 //POINTER #123 @ $2C2E8 - STRING #123 @ $1B176
 
 #W32($2C2E8)
@@ -15332,15 +14737,15 @@
 //POINTER #124 @ $2C30C - STRING #124 @ $1B178
 
 #W32($2C30C)
-<COLOR><GRAY>ＭＩＴＳＵＢＩＳＨＩの「ｅＫ　ＳＰＯＲＴ」<END>
+<COLOR><GRAY>MITSUBISHI's「eK SPORT」、<END>
 //POINTER #125 @ $2C330 - STRING #125 @ $1B1AA
 
 #W32($2C330)
-<COLOR><GRAY>「Ｃａｐｐｕｃｃｉｎｏ」「ＣＡＲＲＹ　ＫＡ」<END>
+<COLOR><GRAY>「Cappuccino」and「CARRY KA」、<END>
 //POINTER #126 @ $2C354 - STRING #126 @ $1B1DE
 
 #W32($2C354)
-<COLOR><GRAY>ＨＯＮＤＡの「ＢＥＡＴ」「ＬｉＦＥ」<END>
+<COLOR><GRAY>and finally HONDA's「BEAT」<END>
 //POINTER #127 @ $2C378 - STRING #127 @ $1B20A
 
 #W32($2C378)
@@ -15348,19 +14753,19 @@
 //POINTER #128 @ $2C39C - STRING #128 @ $1B20C
 
 #W32($2C39C)
-<COLOR><GRAY>前より速いタイムが出たのに<END>
+<COLOR><GRAY>sometimes my ranking doesn't get updated、despite<END>
 //POINTER #129 @ $2C3C0 - STRING #129 @ $1B22E
 
 #W32($2C3C0)
-<COLOR><GRAY>すると、その記録は参考記録になっちゃうんだよね。<END>
+<COLOR><GRAY>that time will be marked only as a provisional record．<END>
 //POINTER #130 @ $2C3E4 - STRING #130 @ $1B266
 
 #W32($2C3E4)
-<COLOR><GRAY>参考記録は正式な記録としては認められないから<END>
+<COLOR><GRAY>record is not set as official、which means the previous<END>
 //POINTER #131 @ $2C408 - STRING #131 @ $1B29A
 
 #W32($2C408)
-<COLOR><GRAY>コースアウトして、ショートカットした方が<END>
+<COLOR><GRAY>by ramming the walls or by taking short cuts、<END>
 //POINTER #132 @ $2C42C - STRING #132 @ $1B2CA
 
 #W32($2C42C)
@@ -15368,7 +14773,7 @@
 //POINTER #133 @ $2C450 - STRING #133 @ $1B2CC
 
 #W32($2C450)
-<COLOR><GRAY>いつも1行だし（笑）<END>
+<COLOR><GRAY>always writing one-liners（lol）<END>
 //POINTER #134 @ $2C474 - STRING #134 @ $1B2E8
 
 #W32($2C474)
@@ -15380,11 +14785,11 @@
 //POINTER #136 @ $2C4BC - STRING #136 @ $1B2EC
 
 #W32($2C4BC)
-<COLOR><GRAY>俺たちのプロモーション活動は、<END>
+<COLOR><GRAY>Does this mean our promotional efforts<END>
 //POINTER #137 @ $2C4E0 - STRING #137 @ $1B312
 
 #W32($2C4E0)
-<COLOR><GRAY>「爆走戦隊レーシングレンジャー」<END>
+<COLOR><GRAY>「Racing Ranger：The Roaring Squadron」<END>
 //POINTER #138 @ $2C504 - STRING #138 @ $1B33A
 
 #W32($2C504)
@@ -15392,15 +14797,15 @@
 //POINTER #139 @ $2C528 - STRING #139 @ $1B33C
 
 #W32($2C528)
-<COLOR><GRAY>それが人気ポイント！　つまりＮＰ。<END>
+<COLOR><GRAY>Popularity points of course！In short、NP．<END>
 //POINTER #140 @ $2C54C - STRING #140 @ $1B366
 
 #W32($2C54C)
-<COLOR><GRAY>人気ポイントが高いと、どんないいことがあるの？<END>
+<COLOR><GRAY>What are high popularity points good for？<END>
 //POINTER #141 @ $2C570 - STRING #141 @ $1B39C
 
 #W32($2C570)
-<COLOR><GRAY>お客さんも沢山観に来てくれるしね。<END>
+<COLOR><GRAY>And a lot of spectators show up during races．<END>
 //POINTER #142 @ $2C594 - STRING #142 @ $1B3C6
 
 #W32($2C594)
@@ -15408,11 +14813,11 @@
 //POINTER #143 @ $2C5B8 - STRING #143 @ $1B3C8
 
 #W32($2C5B8)
-<COLOR><GRAY>やっぱり<COLOR><RED>スペシャルイベント<COLOR><GRAY>に<END>
+<COLOR><GRAY><COLOR><RED>to participate in Special Events<COLOR><GRAY>、<END>
 //POINTER #144 @ $2C5DC - STRING #144 @ $1B3F8
 
 #W32($2C5DC)
-<COLOR><GRAY>高額の賞金や、ブランドパーツが貰えるのは<END>
+<COLOR><GRAY>the high prize money and Brand Parts are<END>
 //POINTER #145 @ $2C600 - STRING #145 @ $1B428
 
 #W32($2C600)
@@ -15420,35 +14825,35 @@
 //POINTER #146 @ $2C624 - STRING #146 @ $1B43E
 
 #W32($2C624)
-<COLOR><GRAY>ライバルの強さに応じた人気ポイントは<END>
+<COLOR><GRAY>based on the strength of the rivals you've beaten．<END>
 //POINTER #147 @ $2C648 - STRING #147 @ $1B46A
 
 #W32($2C648)
-<COLOR><GRAY>その上を目指さないとね！（笑）<END>
+<COLOR><GRAY>than that！（lol）<END>
 //POINTER #148 @ $2C66C - STRING #148 @ $1B490
 
 #W32($2C66C)
-<COLOR><GRAY>今も昔もスピードとドリフト。<END>
+<COLOR><GRAY>and always will be speed and drifting．<END>
 //POINTER #149 @ $2C690 - STRING #149 @ $1B4B4
 
 #W32($2C690)
-<COLOR><GRAY>危険だし、他のドライバーの迷惑にもなるし。<END>
+<COLOR><GRAY>will damage your reputation．It's dangerous and a nuisance<END>
 //POINTER #150 @ $2C6B4 - STRING #150 @ $1B4E6
 
 #W32($2C6B4)
-<COLOR><GRAY>そんなのは映画にでも任せておけばいい。<END>
+<COLOR><GRAY>but leave that sort of stuff for the movies．<END>
 //POINTER #151 @ $2C6D8 - STRING #151 @ $1B514
 
 #W32($2C6D8)
-<COLOR><GRAY>美しい車体が織りなす、華麗な技だからね。<END>
+<COLOR><GRAY>but beautiful cars and brilliant techniques．<END>
 //POINTER #152 @ $2C6FC - STRING #152 @ $1B544
 
 #W32($2C6FC)
-<COLOR><GRAY>まずは形から、ってね（笑）<END>
+<COLOR><GRAY>how about a stylish aero kit？<END>
 //POINTER #153 @ $2C720 - STRING #153 @ $1B566
 
 #W32($2C720)
-<COLOR><GRAY>「ご当地エアロ」もよろしく！（笑）<END>
+<COLOR><GRAY>Don't forget to check the「Local Aero」options！（lol）<END>
 //POINTER #154 @ $2C744 - STRING #154 @ $1B590
 
 #W32($2C744)
@@ -18835,6 +18240,8 @@
 <COLOR><GRAY>左端、<COLOR><RED>テクスチャー選択<COLOR><GRAY>アイコンで<END>
 //POINTER #1000 @ $33E3C - STRING #1000 @ $22166
 
+#JMP($36EA0)
+
 #W32($33E3C)
 <END>
 //POINTER #1001 @ $33E60 - STRING #1001 @ $22168
@@ -19775,8 +19182,6 @@
 <END>
 //BLOCK #004 NAME:		231.bin File - Encoded BBS Text 5
 
-#JMP($36EA0)
-
 //POINTER #0 @ $2B1A0 - STRING #0 @ $23D12
 
 #W32($2B1A0)
@@ -20008,11 +19413,11 @@
 //POINTER #57 @ $2B9A4 - STRING #57 @ $242E2
 
 #W32($2B9A4)
-<COLOR><GRAY>さぁ語れ！<END>
+<COLOR><GRAY>Let's chat！<END>
 //POINTER #58 @ $2B9C8 - STRING #58 @ $242F4
 
 #W32($2B9C8)
-<COLOR><GRAY>勝てるってことだね。<END>
+<COLOR><GRAY>will be marked as beaten．<END>
 //POINTER #59 @ $2B9EC - STRING #59 @ $24310
 
 #W32($2B9EC)
@@ -20020,11 +19425,11 @@
 //POINTER #60 @ $2BA10 - STRING #60 @ $24312
 
 #W32($2BA10)
-<COLOR><GRAY>をすると<COLOR><RED>マイナス<COLOR><GRAY>されるポイントのことだよ。<END>
+<COLOR><GRAY>like crashing、going off-track or driving the wrong way．<END>
 //POINTER #61 @ $2BA34 - STRING #61 @ $24350
 
 #W32($2BA34)
-<END>
+<COLOR><GRAY>the driver is disqualified and retires from the event．<END>
 //POINTER #62 @ $2BA58 - STRING #62 @ $24352
 
 #W32($2BA58)
@@ -20032,15 +19437,15 @@
 //POINTER #63 @ $2BA7C - STRING #63 @ $24354
 
 #W32($2BA7C)
-<COLOR><GRAY>キビシイ戦いになるのかもね（笑）<END>
+<COLOR><GRAY>it can get pretty intense（lol）<END>
 //POINTER #64 @ $2BAA0 - STRING #64 @ $2437C
 
 #W32($2BAA0)
-<COLOR><GRAY>なるべくＲＰは減らさない方がいいよ（＊’－’）ｂ<END>
+<COLOR><GRAY>penalties even when you're safe to do so（＊’－’）ｂ<END>
 //POINTER #65 @ $2BAC4 - STRING #65 @ $243B4
 
 #W32($2BAC4)
-<COLOR><GRAY>腕と度胸が必要ってわけね。<END>
+<COLOR><GRAY>but skill and guts too．<END>
 //POINTER #66 @ $2BAE8 - STRING #66 @ $243D6
 
 #W32($2BAE8)
@@ -20048,19 +19453,19 @@
 //POINTER #67 @ $2BB0C - STRING #67 @ $243D8
 
 #W32($2BB0C)
-<COLOR><GRAY><COLOR><RED>のピットストップだと回復しない<COLOR><GRAY>よヽ（´ー｀）ノ<END>
+<COLOR><GRAY>……but not with a <COLOR><RED>penalty pitstop<COLOR><GRAY> ヽ（´ー｀）ノ<END>
 //POINTER #68 @ $2BB30 - STRING #68 @ $2441A
 
 #W32($2BB30)
-<COLOR><GRAY>ありがとう、俺！<END>
+<COLOR><GRAY>Thanks、me！<END>
 //POINTER #69 @ $2BB54 - STRING #69 @ $24432
 
 #W32($2BB54)
-<COLOR><GRAY>で、何位だったの？<END>
+<COLOR><GRAY>So、what position you finished in？<END>
 //POINTER #70 @ $2BB78 - STRING #70 @ $2444C
 
 #W32($2BB78)
-<COLOR><GRAY>５位……○｜￣｜＿<END>
+<COLOR><GRAY>5th place……○｜￣｜＿<END>
 //POINTER #71 @ $2BB9C - STRING #71 @ $24466
 
 #W32($2BB9C)
@@ -20068,7 +19473,7 @@
 //POINTER #72 @ $2BBC0 - STRING #72 @ $24468
 
 #W32($2BBC0)
-<COLOR><GRAY>順位を気にしなければ、だけどヽ（´ー｀）ノ<END>
+<COLOR><GRAY>you don't care about the position、though ヽ（´ー｀）ノ<END>
 //POINTER #73 @ $2BBE4 - STRING #73 @ $2449A
 
 #W32($2BBE4)
@@ -20076,7 +19481,7 @@
 //POINTER #74 @ $2BC08 - STRING #74 @ $244C8
 
 #W32($2BC08)
-<COLOR><GRAY>すると、後継者の候補として認めてくれるらしいよ。<END>
+<COLOR><GRAY>he might see you as a potential candidate．<END>
 //POINTER #75 @ $2BC2C - STRING #75 @ $24500
 
 #W32($2BC2C)
@@ -20088,7 +19493,7 @@
 //POINTER #77 @ $2BC74 - STRING #77 @ $24504
 
 #W32($2BC74)
-<COLOR><GRAY>ＤＰバトルについて、皆で語り合おう。<END>
+<COLOR><GRAY>Let's talk about DP Battles together．<END>
 //POINTER #78 @ $2BC98 - STRING #78 @ $24530
 
 #W32($2BC98)
@@ -20096,39 +19501,39 @@
 //POINTER #79 @ $2BCBC - STRING #79 @ $24532
 
 #W32($2BCBC)
-<COLOR><GRAY>同点は負けだから、気を抜くな（笑）<END>
+<COLOR><GRAY>A tie counts as a loss、so don't let your guard down（lol）<END>
 //POINTER #80 @ $2BCE0 - STRING #80 @ $2455C
 
 #W32($2BCE0)
-<COLOR><GRAY>分からないのですよ。<END>
+<END>
 //POINTER #81 @ $2BD04 - STRING #81 @ $24578
 
 #W32($2BD04)
-<COLOR><GRAY>この３つの要素で採点される。<END>
+<COLOR><GRAY>and「<COLOR><RED>Speed<COLOR><GRAY>」．<END>
 //POINTER #82 @ $2BD28 - STRING #82 @ $2459C
 
 #W32($2BD28)
-<COLOR><GRAY>どれだけの間、維持できたかで決まる。<END>
+<COLOR><GRAY>through the corner as long as possible．<END>
 //POINTER #83 @ $2BD4C - STRING #83 @ $245C8
 
 #W32($2BD4C)
-<COLOR><GRAY>ドリフトは高く評価されない。<END>
+<COLOR><GRAY>will be graded poorly．<END>
 //POINTER #84 @ $2BD70 - STRING #84 @ $245EC
 
 #W32($2BD70)
-<COLOR><GRAY>あくまで「適切な角度を維持する」のが大切だ。<END>
+<COLOR><GRAY>optimal angle at all times．<END>
 //POINTER #85 @ $2BD94 - STRING #85 @ $24620
 
 #W32($2BD94)
-<COLOR><GRAY>より華麗なドリフトを目指そう。<END>
+<COLOR><GRAY>to get more stylish drifts．<END>
 //POINTER #86 @ $2BDB8 - STRING #86 @ $24646
 
 #W32($2BDB8)
-<COLOR><GRAY>ようにすればいい。<END>
+<COLOR><GRAY>when drifting through it．<END>
 //POINTER #87 @ $2BDDC - STRING #87 @ $24660
 
 #W32($2BDDC)
-<COLOR><GRAY>ようにすればいい。<END>
+<COLOR><GRAY>the measuring section．<END>
 //POINTER #88 @ $2BE00 - STRING #88 @ $2467A
 
 #W32($2BE00)
@@ -20140,15 +19545,15 @@
 //POINTER #90 @ $2BE48 - STRING #90 @ $2467E
 
 #W32($2BE48)
-<COLOR><GRAY>ストレスがたまるかもしれない。<END>
+<COLOR><GRAY>to win until you get the hang of it．<END>
 //POINTER #91 @ $2BE6C - STRING #91 @ $246A4
 
 #W32($2BE6C)
-<END>
+<COLOR><GRAY>much higher power．<END>
 //POINTER #92 @ $2BE90 - STRING #92 @ $246A6
 
 #W32($2BE90)
-<COLOR><GRAY>すると、ギアシフトが固定されて安定するよ……。<END>
+<COLOR><GRAY>it will lock the gear shift and stabilize the car……<END>
 //POINTER #93 @ $2BEB4 - STRING #93 @ $246DC
 
 #W32($2BEB4)
@@ -20156,15 +19561,15 @@
 //POINTER #94 @ $2BED8 - STRING #94 @ $246DE
 
 #W32($2BED8)
-<COLOR><GRAY>上位のランクにならないとできないし。<END>
+<COLOR><GRAY>You have to be high ranked to do it．<END>
 //POINTER #95 @ $2BEFC - STRING #95 @ $2470A
 
 #W32($2BEFC)
-<COLOR><GRAY>「追走」は逆に近付くとプラス評価らしいぞ。<END>
+<COLOR><GRAY>and in「CHASE」you get more points for closing the gap．<END>
 //POINTER #96 @ $2BF20 - STRING #96 @ $2473C
 
 #W32($2BF20)
-<COLOR><GRAY>知識としてしか知らないのだが……。<END>
+<COLOR><GRAY>I only know the information about it……<END>
 //POINTER #97 @ $2BF44 - STRING #97 @ $24766
 
 #W32($2BF44)
@@ -20172,31 +19577,31 @@
 //POINTER #98 @ $2BF68 - STRING #98 @ $24768
 
 #W32($2BF68)
-<COLOR><GRAY>勝つと凄い力が手に入る……覚えておいてね……。<END>
+<COLOR><GRAY>If you win、you'll gain incredible power…Remember that…<END>
 //POINTER #99 @ $2BF8C - STRING #99 @ $2479E
 
 #W32($2BF8C)
-<COLOR><GRAY>真剣に答えるぞ！<END>
+<COLOR><GRAY>to any questions！<END>
 //POINTER #100 @ $2BFB0 - STRING #100 @ $247B6
 
 #W32($2BFB0)
-<COLOR><GRAY>あれは何ですか？<END>
+<COLOR><GRAY><END>
 //POINTER #101 @ $2BFD4 - STRING #101 @ $247CE
 
 #W32($2BFD4)
-<COLOR><GRAY>高性能だが、値段も高いので<COLOR><RED>初心者にはお勧めしない<COLOR><GRAY>。<END>
+<COLOR><GRAY>performance、but are expensive．<COLOR><RED>Not suited for beginners<COLOR><GRAY>．<END>
 //POINTER #102 @ $2BFF8 - STRING #102 @ $24814
 
 #W32($2BFF8)
-<COLOR><GRAY>くらいで良いんじゃないかな。<END>
+<COLOR><GRAY>can afford to do so．<END>
 //POINTER #103 @ $2C01C - STRING #103 @ $24838
 
 #W32($2C01C)
-<COLOR><GRAY>獲得のチャンスがあるから、それを狙ってみよう！<END>
+<COLOR><GRAY>Give that opportunity a go！<END>
 //POINTER #104 @ $2C040 - STRING #104 @ $2486E
 
 #W32($2C040)
-<COLOR><GRAY>あるなら、一つくらい買ってみるのも素敵ね。<END>
+<COLOR><GRAY>a favourite brand、it's worth buying at least one part．<END>
 //POINTER #105 @ $2C064 - STRING #105 @ $248A0
 
 #W32($2C064)
@@ -20204,7 +19609,7 @@
 //POINTER #106 @ $2C088 - STRING #106 @ $248A2
 
 #W32($2C088)
-<COLOR><GRAY>どうして？<END>
+<COLOR><GRAY>they went back to the old ones．Why？<END>
 //POINTER #107 @ $2C0AC - STRING #107 @ $248B4
 
 #W32($2C0AC)
@@ -20212,11 +19617,11 @@
 //POINTER #108 @ $2C0D0 - STRING #108 @ $248B6
 
 #W32($2C0D0)
-<COLOR><GRAY>その影響を受けてしまう。<END>
+<COLOR><GRAY>back to the previous ones．<END>
 //POINTER #109 @ $2C0F4 - STRING #109 @ $248D6
 
 #W32($2C0F4)
-<COLOR><GRAY>タイヤを変更しよう！<END>
+<COLOR><GRAY>then change the tires！<END>
 //POINTER #110 @ $2C118 - STRING #110 @ $248F2
 
 #W32($2C118)
@@ -20228,19 +19633,19 @@
 //POINTER #112 @ $2C160 - STRING #112 @ $248F6
 
 #W32($2C160)
-<COLOR><GRAY>ブレーキが効きづらくなるんだけど、どうして？<END>
+<COLOR><GRAY>Why is that？<END>
 //POINTER #113 @ $2C184 - STRING #113 @ $2492A
 
 #W32($2C184)
-<COLOR><GRAY>イベント中でも<COLOR><RED>ピットインすれば回復<COLOR><GRAY>するぞ。<END>
+<COLOR><GRAY>to the paddock or <COLOR><RED>taking a pitstop during the event<COLOR><GRAY>．<END>
 //POINTER #114 @ $2C1A8 - STRING #114 @ $24968
 
 #W32($2C1A8)
-<COLOR><GRAY>ダメだけどね。<END>
+<COLOR><GRAY>isn't it．<END>
 //POINTER #115 @ $2C1CC - STRING #115 @ $2497E
 
 #W32($2C1CC)
-<COLOR><GRAY>無理せずパドックに戻ろう。<END>
+<COLOR><GRAY>to the paddock．<END>
 //POINTER #116 @ $2C1F0 - STRING #116 @ $249A0
 
 #W32($2C1F0)
@@ -20248,15 +19653,15 @@
 //POINTER #117 @ $2C214 - STRING #117 @ $249A2
 
 #W32($2C214)
-<COLOR><GRAY>どの車が、どのタイプなのか教えてください。<END>
+<COLOR><GRAY>but please tell me which cars are which type．<END>
 //POINTER #118 @ $2C238 - STRING #118 @ $249D4
 
 #W32($2C238)
-<COLOR><GRAY>ＮＩＳＳＡＮの「ＥＬＧＲＡＮＤ」「ＣＵＢＥ」<END>
+<COLOR><GRAY>the NISSAN's「ELGRAND」and「CUBE」、<END>
 //POINTER #119 @ $2C25C - STRING #119 @ $24A08
 
 #W32($2C25C)
-<COLOR><GRAY>「ＩＭＰＲＥＺＡ　Ｗａｇｏｎ　ＷＲＸ　ＧＧＡ」<END>
+<COLOR><GRAY>「IMPREZA Wagon WRX GGA」、<END>
 //POINTER #120 @ $2C280 - STRING #120 @ $24A3E
 
 #W32($2C280)
@@ -20268,7 +19673,7 @@
 //POINTER #122 @ $2C2C8 - STRING #122 @ $24A42
 
 #W32($2C2C8)
-<COLOR><GRAY>ＴＯＹＯＴＡの「ｉｓｔ」「Ｖｉｔｚ」<END>
+<COLOR><GRAY>TOYOTA's「ist」and「Vitz」<END>
 //POINTER #123 @ $2C2EC - STRING #123 @ $24A6E
 
 #W32($2C2EC)
@@ -20284,7 +19689,7 @@
 //POINTER #126 @ $2C358 - STRING #126 @ $24A74
 
 #W32($2C358)
-<COLOR><GRAY>と言った辺りだな。<END>
+<COLOR><GRAY>and 「LiFE」．<END>
 //POINTER #127 @ $2C37C - STRING #127 @ $24A8E
 
 #W32($2C37C)
@@ -20292,19 +19697,19 @@
 //POINTER #128 @ $2C3A0 - STRING #128 @ $24A90
 
 #W32($2C3A0)
-<COLOR><GRAY>ランキングが更新されないことがあるんだけど？<END>
+<COLOR><GRAY>setting a faster time．Why is that？<END>
 //POINTER #129 @ $2C3C4 - STRING #129 @ $24AC4
 
 #W32($2C3C4)
-<COLOR><GRAY>タイムアタックをするときは、注意してね！<END>
+<COLOR><GRAY>You need to be careful doing Time Attacks！<END>
 //POINTER #130 @ $2C3E8 - STRING #130 @ $24AF4
 
 #W32($2C3E8)
-<COLOR><GRAY>以前のものが登録されたままってことね。<END>
+<COLOR><GRAY>one is still the current record．<END>
 //POINTER #131 @ $2C40C - STRING #131 @ $24B22
 
 #W32($2C40C)
-<COLOR><GRAY>速いこともあるんで、これは仕方がないな。<END>
+<COLOR><GRAY>so that is why it is not allowed．<END>
 //POINTER #132 @ $2C430 - STRING #132 @ $24B52
 
 #W32($2C430)
@@ -20324,11 +19729,11 @@
 //POINTER #136 @ $2C4C0 - STRING #136 @ $24B5A
 
 #W32($2C4C0)
-<COLOR><GRAY>まだまだと言うことか。<END>
+<COLOR><GRAY>are still lacking？<END>
 //POINTER #137 @ $2C4E4 - STRING #137 @ $24B78
 
 #W32($2C4E4)
-<COLOR><GRAY>よろしく（´ー｀）ｂ<END>
+<COLOR><GRAY>radio drama（´ー｀）ｂ<END>
 //POINTER #138 @ $2C508 - STRING #138 @ $24B94
 
 #W32($2C508)
@@ -20336,7 +19741,7 @@
 //POINTER #139 @ $2C52C - STRING #139 @ $24B96
 
 #W32($2C52C)
-<COLOR><GRAY>と言うわけで、人気について語るスレッドです。<END>
+<COLOR><GRAY>And so、here is the thread to talk about popularity．<END>
 //POINTER #140 @ $2C550 - STRING #140 @ $24BCA
 
 #W32($2C550)
@@ -20352,11 +19757,11 @@
 //POINTER #143 @ $2C5BC - STRING #143 @ $24BD0
 
 #W32($2C5BC)
-<COLOR><GRAY><COLOR><RED>参加できる<COLOR><GRAY>ことだろうな。<END>
+<COLOR><GRAY>for sure．<END>
 //POINTER #144 @ $2C5E0 - STRING #144 @ $24BFC
 
 #W32($2C5E0)
-<COLOR><GRAY>やっぱり美味しいよ。<END>
+<COLOR><GRAY>definitely worth it．<END>
 //POINTER #145 @ $2C604 - STRING #145 @ $24C18
 
 #W32($2C604)
@@ -20364,7 +19769,7 @@
 //POINTER #146 @ $2C628 - STRING #146 @ $24C1A
 
 #W32($2C628)
-<COLOR><GRAY>手に入るんだけど。<END>
+<END>
 //POINTER #147 @ $2C64C - STRING #147 @ $24C34
 
 #W32($2C64C)
@@ -20376,7 +19781,7 @@
 //POINTER #149 @ $2C694 - STRING #149 @ $24C38
 
 #W32($2C694)
-<END>
+<COLOR><GRAY>to other drivers．<END>
 //POINTER #150 @ $2C6B8 - STRING #150 @ $24C3A
 
 #W32($2C6B8)
@@ -20388,7 +19793,7 @@
 //POINTER #152 @ $2C700 - STRING #152 @ $24C3E
 
 #W32($2C700)
-<END>
+<COLOR><GRAY>Gotta start with the shape（lol）<END>
 //POINTER #153 @ $2C724 - STRING #153 @ $24C40
 
 #W32($2C724)
