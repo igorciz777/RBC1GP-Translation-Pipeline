@@ -5134,176 +5134,50 @@
 //POINTER #188 @ $2CC04 - STRING #188 @ $7F40
 
 #W32($2CC04)
-<COLOR><GRAY>re：RP at Shutoko<END>
-//POINTER #189 @ $2CC28 - STRING #189 @ $7F64
-
 #W32($2CC28)
-<COLOR><GRAY>re：RP at Shutoko<END>
-//POINTER #190 @ $2CC4C - STRING #190 @ $7F88
-
 #W32($2CC4C)
-<COLOR><GRAY>re：RP at Shutoko<END>
-//POINTER #191 @ $2CC70 - STRING #191 @ $7FAC
-
 #W32($2CC70)
-<COLOR><GRAY>re：RP at Shutoko<END>
-//POINTER #192 @ $2CC94 - STRING #192 @ $7FD0
-
 #W32($2CC94)
-<COLOR><GRAY>re：RP at Shutoko<END>
-//POINTER #193 @ $2CCB8 - STRING #193 @ $7FF4
-
 #W32($2CCB8)
-<COLOR><GRAY>re：RP at Shutoko<END>
-//POINTER #194 @ $2CCDC - STRING #194 @ $8018
-
 #W32($2CCDC)
-<COLOR><GRAY>re：RP at Shutoko<END>
-//POINTER #195 @ $2CD00 - STRING #195 @ $803C
-
 #W32($2CD00)
-<COLOR><GRAY>re：RP at Shutoko<END>
-//POINTER #196 @ $2CD24 - STRING #196 @ $8060
-
 #W32($2CD24)
-<COLOR><GRAY>re：RP at Shutoko<END>
-//POINTER #197 @ $2CD48 - STRING #197 @ $8084
-
 #W32($2CD48)
-<COLOR><GRAY>re：RP at Shutoko<END>
-//POINTER #198 @ $2CD6C - STRING #198 @ $80A8
-
 #W32($2CD6C)
-<COLOR><GRAY>re：RP at Shutoko<END>
-//POINTER #199 @ $2CD90 - STRING #199 @ $80CC
-
 #W32($2CD90)
-<COLOR><GRAY>re：RP at Shutoko<END>
-//POINTER #200 @ $2CDB4 - STRING #200 @ $80F0
-
 #W32($2CDB4)
-<COLOR><GRAY>re：RP at Shutoko<END>
-//POINTER #201 @ $2CDD8 - STRING #201 @ $8114
-
 #W32($2CDD8)
-<COLOR><GRAY>re：RP at Shutoko<END>
-//POINTER #202 @ $2CDFC - STRING #202 @ $8138
-
 #W32($2CDFC)
-<COLOR><GRAY>re：RP at Shutoko<END>
-//POINTER #203 @ $2CE20 - STRING #203 @ $815C
-
 #W32($2CE20)
-<COLOR><GRAY>re：RP at Shutoko<END>
-//POINTER #204 @ $2CE44 - STRING #204 @ $8180
-
 #W32($2CE44)
-<COLOR><GRAY>re：RP at Shutoko<END>
-//POINTER #205 @ $2CE68 - STRING #205 @ $81A4
-
 #W32($2CE68)
-<COLOR><GRAY>re：RP at Shutoko<END>
-//POINTER #206 @ $2CE8C - STRING #206 @ $81C8
-
 #W32($2CE8C)
-<COLOR><GRAY>re：RP at Shutoko<END>
-//POINTER #207 @ $2CEB0 - STRING #207 @ $81EC
-
 #W32($2CEB0)
-<COLOR><GRAY>re：RP at Shutoko<END>
-//POINTER #208 @ $2CED4 - STRING #208 @ $8210
-
 #W32($2CED4)
-<COLOR><GRAY>re：RP at Shutoko<END>
-//POINTER #209 @ $2CEF8 - STRING #209 @ $8234
-
 #W32($2CEF8)
-<COLOR><GRAY>re：RP at Shutoko<END>
-//POINTER #210 @ $2CF1C - STRING #210 @ $8258
-
 #W32($2CF1C)
-<COLOR><GRAY>re：RP at Shutoko<END>
-//POINTER #211 @ $2CF40 - STRING #211 @ $827C
-
 #W32($2CF40)
-<COLOR><GRAY>re：RP at Shutoko<END>
-//POINTER #212 @ $2CF64 - STRING #212 @ $82A0
-
 #W32($2CF64)
-<COLOR><GRAY>re：RP at Shutoko<END>
-//POINTER #213 @ $2CF88 - STRING #213 @ $82C4
-
 #W32($2CF88)
-<COLOR><GRAY>re：RP at Shutoko<END>
-//POINTER #214 @ $2CFAC - STRING #214 @ $82E8
-
 #W32($2CFAC)
-<COLOR><GRAY>re：RP at Shutoko<END>
-//POINTER #215 @ $2CFD0 - STRING #215 @ $830C
-
 #W32($2CFD0)
-<COLOR><GRAY>re：RP at Shutoko<END>
-//POINTER #216 @ $2CFF4 - STRING #216 @ $8330
-
 #W32($2CFF4)
-<COLOR><GRAY>re：RP at Shutoko<END>
-//POINTER #217 @ $2D018 - STRING #217 @ $8354
-
 #W32($2D018)
-<COLOR><GRAY>re：RP at Shutoko<END>
-//POINTER #218 @ $2D03C - STRING #218 @ $8378
-
 #W32($2D03C)
-<COLOR><GRAY>re：RP at Shutoko<END>
-//POINTER #219 @ $2D060 - STRING #219 @ $839C
-
 #W32($2D060)
-<COLOR><GRAY>re：RP at Shutoko<END>
-//POINTER #220 @ $2D084 - STRING #220 @ $83C0
-
 #W32($2D084)
-<COLOR><GRAY>re：RP at Shutoko<END>
-//POINTER #221 @ $2D0A8 - STRING #221 @ $83E4
-
 #W32($2D0A8)
-<COLOR><GRAY>re：RP at Shutoko<END>
-//POINTER #222 @ $2D0CC - STRING #222 @ $8408
-
 #W32($2D0CC)
-<COLOR><GRAY>re：RP at Shutoko<END>
-//POINTER #223 @ $2D0F0 - STRING #223 @ $842C
-
 #W32($2D0F0)
-<COLOR><GRAY>re：RP at Shutoko<END>
-//POINTER #224 @ $2D114 - STRING #224 @ $8450
-
 #W32($2D114)
-<COLOR><GRAY>re：RP at Shutoko<END>
-//POINTER #225 @ $2D138 - STRING #225 @ $8474
-
 #W32($2D138)
-<COLOR><GRAY>re：RP at Shutoko<END>
-//POINTER #226 @ $2D15C - STRING #226 @ $8498
-
 #W32($2D15C)
-<COLOR><GRAY>re：RP at Shutoko<END>
-//POINTER #227 @ $2D180 - STRING #227 @ $84BC
-
 #W32($2D180)
-<COLOR><GRAY>re：RP at Shutoko<END>
-//POINTER #228 @ $2D1A4 - STRING #228 @ $84E0
-
 #W32($2D1A4)
-<COLOR><GRAY>re：RP at Shutoko<END>
-//POINTER #229 @ $2D1C8 - STRING #229 @ $8504
-
 #W32($2D1C8)
-<COLOR><GRAY>re：RP at Shutoko<END>
-//POINTER #230 @ $2D1EC - STRING #230 @ $8528
-
 #W32($2D1EC)
 <COLOR><GRAY>re：RP at Shutoko<END>
-//POINTER #231 @ $2D210 - STRING #231 @ $854C
+//POINTER #189 @ $2CC28 - STRING #189 @ $7F64
 
 #W32($2D210)
 #W32($2D234)
@@ -9349,7 +9223,7 @@
 //POINTER #13 @ $2B36C - STRING #13 @ $F330
 
 #W32($2B36C)
-<COLOR><GRAY>Field 2 has a lot of fast drivers lol<END>
+<COLOR><GRAY>Field 2 has a lot of fast drivers（lol）<END>
 //POINTER #14 @ $2B390 - STRING #14 @ $F35E
 
 #W32($2B390)
@@ -9393,7 +9267,7 @@
 //POINTER #24 @ $2B4F8 - STRING #24 @ $F57C
 
 #W32($2B4F8)
-<COLOR><GRAY>Obviously lol<END>
+<COLOR><GRAY>Obviously（lol）<END>
 //POINTER #25 @ $2B51C - STRING #25 @ $F590
 
 #W32($2B51C)
@@ -9429,7 +9303,7 @@
 //POINTER #33 @ $2B63C - STRING #33 @ $F6D6
 
 #W32($2B63C)
-<COLOR><GRAY>You get「Ordinary」for the 3-second mark lol<END>
+<COLOR><GRAY>You get「Ordinary」for the 3-second mark（lol）<END>
 //POINTER #34 @ $2B660 - STRING #34 @ $F6FA
 
 #W32($2B660)
@@ -9913,135 +9787,135 @@
 //POINTER #154 @ $2C740 - STRING #154 @ $10B0E
 
 #W32($2C740)
-<COLOR><GRAY>スーパーオートバックスは品揃え豊富で魅力的だけど<END>
+<COLOR><GRAY>Super Autobacs has an amazing variety、<END>
 //POINTER #155 @ $2C764 - STRING #155 @ $10B46
 
 #W32($2C764)
-<COLOR><GRAY>メインでどのバトルに参戦してる？<END>
+<COLOR><GRAY>What is your main battle type？<END>
 //POINTER #156 @ $2C788 - STRING #156 @ $10B6E
 
 #W32($2C788)
-<COLOR><GRAY>序盤なら、<END>
+<COLOR><GRAY>In the early stages、it's never a bad idea<END>
 //POINTER #157 @ $2C7AC - STRING #157 @ $10B80
 
 #W32($2C7AC)
-<COLOR><GRAY>カー用品は、買っただけじゃ効果を発揮しないよ。<END>
+<COLOR><GRAY>Car goods effects don't work after just buying them．<END>
 //POINTER #158 @ $2C7D0 - STRING #158 @ $10BB6
 
 #W32($2C7D0)
-<COLOR><GRAY>そうだね、購入すれば効果が得られるものと<END>
+<COLOR><GRAY>Yeah、but it's worth noting that some of the effects<END>
 //POINTER #159 @ $2C7F4 - STRING #159 @ $10BE6
 
 #W32($2C7F4)
-<COLOR><GRAY>装備パックに装備できる数は決まっているから<END>
+<COLOR><GRAY>The number of items you can equip in one pack is limited、<END>
 //POINTER #160 @ $2C818 - STRING #160 @ $10C18
 
 #W32($2C818)
-<COLOR><GRAY>装備パックは<COLOR><RED>３種類（Ａ／Ｂ／Ｃ）<COLOR><GRAY>まで保存できるから<END>
+<COLOR><GRAY>You can save up to <COLOR><RED>three item packs（A／B／C）<COLOR><GRAY>、<END>
 //POINTER #161 @ $2C83C - STRING #161 @ $10C5E
 
 #W32($2C83C)
-<COLOR><GRAY>なるほど、ＳＰバトル用とか<END>
+<COLOR><GRAY>I see、so you can set items separately for SP Battles、<END>
 //POINTER #162 @ $2C860 - STRING #162 @ $10C80
 
 #W32($2C860)
-<COLOR><GRAY><COLOR><RED>装備パックはパドックで変更できる<COLOR><GRAY>から<END>
+<COLOR><GRAY>You can <COLOR><RED>change the equipment packs in the paddock<COLOR><GRAY>、<END>
 //POINTER #163 @ $2C884 - STRING #163 @ $10CB8
 
 #W32($2C884)
-<COLOR><GRAY>後は、そうだな……<END>
+<COLOR><GRAY>Oh、and one more thing……<END>
 //POINTER #164 @ $2C8A8 - STRING #164 @ $10CD2
 
 #W32($2C8A8)
-<COLOR><GRAY>じゃあ、買うときに<END>
+<COLOR><GRAY>Then、I'll actually have to read the descriptions<END>
 //POINTER #165 @ $2C8CC - STRING #165 @ $10CEC
 
 #W32($2C8CC)
-<COLOR><GRAY>カー用品の中にはガレージに飾れるものも<END>
+<COLOR><GRAY>Some car accessories can be displayed in your garage．<END>
 //POINTER #166 @ $2C8F0 - STRING #166 @ $10D1A
 
 #W32($2C8F0)
-<COLOR><GRAY>レイアウトを変更しても、カー用品の効果は<END>
+<COLOR><GRAY>Even if you change the item layout、<END>
 //POINTER #167 @ $2C914 - STRING #167 @ $10D4A
 
 #W32($2C914)
-<COLOR><GRAY>スーパーオートバックス行って<END>
+<COLOR><GRAY>I'm going to head out to Super Autobacs<END>
 //POINTER #168 @ $2C938 - STRING #168 @ $10D6E
 
 #W32($2C938)
-<COLOR><GRAY>ドリフトがうまく出来ないよ（泣）<END>
+<COLOR><GRAY>I can't drift properly（cries）<END>
 //POINTER #169 @ $2C95C - STRING #169 @ $10D96
 
 #W32($2C95C)
-<COLOR><GRAY>やあ来たね、初心者君。<END>
+<COLOR><GRAY>Hey there、newbie．<END>
 //POINTER #170 @ $2C980 - STRING #170 @ $10DB4
 
 #W32($2C980)
-<COLOR><GRAY>きっかけ？　走りの？<END>
+<COLOR><GRAY>Kick？　Off？<END>
 //POINTER #171 @ $2C9A4 - STRING #171 @ $10DD0
 
 #W32($2C9A4)
-<COLOR><GRAY>いや、いやヽ（´ー｀）ノ<END>
+<COLOR><GRAY>No、no、no ヽ（´ー｀）ノ<END>
 //POINTER #172 @ $2C9C8 - STRING #172 @ $10DF0
 
 #W32($2C9C8)
-<COLOR><GRAY><COLOR><RED>サイドブレーキを引く<COLOR><GRAY>ことは知ってるよ。<END>
+<COLOR><GRAY>I know how to <COLOR><RED>pull the handbrake<COLOR><GRAY>．<END>
 //POINTER #173 @ $2C9EC - STRING #173 @ $10E2A
 
 #W32($2C9EC)
-<COLOR><GRAY>お、サイドは引いてるのか。<END>
+<COLOR><GRAY>Oh、you're pulling the handbrake？<END>
 //POINTER #174 @ $2CA10 - STRING #174 @ $10E4C
 
 #W32($2CA10)
-<COLOR><GRAY>お尻が出ないのはきっとアクセル踏んだまま<END>
+<COLOR><GRAY>If your rear still doesn't slide、you're probably pulling<END>
 //POINTER #175 @ $2CA34 - STRING #175 @ $10E7C
 
 #W32($2CA34)
-<COLOR><GRAY>アクセル踏んだままじゃダメだったのか！<END>
+<COLOR><GRAY>So you can't keep the foot on the gas！<END>
 //POINTER #176 @ $2CA58 - STRING #176 @ $10EAA
 
 #W32($2CA58)
-<COLOR><GRAY>アクセルを放すだけでもドリフトのきっかけになるよ。<END>
+<COLOR><GRAY>Just releasing the throttle is enough to start a drift．<END>
 //POINTER #177 @ $2CA7C - STRING #177 @ $10EE4
 
 #W32($2CA7C)
-<COLOR><GRAY>色々あるんだ。<END>
+<COLOR><GRAY>There is a lot going on here．<END>
 //POINTER #178 @ $2CAA0 - STRING #178 @ $10EFA
 
 #W32($2CAA0)
-<COLOR><GRAY>そりゃあセッティング次第だな。<END>
+<COLOR><GRAY>That depends on the car setting．Imagine it like this：<END>
 //POINTER #179 @ $2CAC4 - STRING #179 @ $10F20
 
 #W32($2CAC4)
-<COLOR><GRAY>ぜんぜん意味わかんね（´Ａ｀）<END>
+<COLOR><GRAY>I don't get what you're saying at all（´Ａ｀）<END>
 //POINTER #180 @ $2CAE8 - STRING #180 @ $10F46
 
 #W32($2CAE8)
-<COLOR><GRAY>俺が使うのはほとんど後者だな。<END>
+<COLOR><GRAY>I mostly use the latter method．<END>
 //POINTER #181 @ $2CB0C - STRING #181 @ $10F6C
 
 #W32($2CB0C)
-<COLOR><GRAY>セッティングも教えてクレクレ。<END>
+<COLOR><GRAY>Teach me some setting up too．<END>
 //POINTER #182 @ $2CB30 - STRING #182 @ $10F92
 
 #W32($2CB30)
-<COLOR><GRAY>スレ違いだから簡単に。<END>
+<COLOR><GRAY>Since this is not on topic、I'll keep it simple．<END>
 //POINTER #183 @ $2CB54 - STRING #183 @ $10FB0
 
 #W32($2CB54)
-<COLOR><GRAY>①前だけネガキャンにする。<END>
+<COLOR><GRAY>①Set negative camber only on the front．<END>
 //POINTER #184 @ $2CB78 - STRING #184 @ $10FD2
 
 #W32($2CB78)
-<COLOR><GRAY>③前だけインチアップする。<END>
+<COLOR><GRAY>③INCH-UP only for the front wheels．<END>
 //POINTER #185 @ $2CB9C - STRING #185 @ $10FF4
 
 #W32($2CB9C)
-<COLOR><GRAY>⑤前だけ車高を下げて、後ろを上げる。<END>
+<COLOR><GRAY>⑤Lower the ride height only at the front、raise the rear．<END>
 //POINTER #186 @ $2CBC0 - STRING #186 @ $11020
 
 #W32($2CBC0)
-<COLOR><GRAY>コースセッティングでいろいろやってみな！<END>
+<COLOR><GRAY>Try experimenting with the Course Setting option！<END>
 //POINTER #187 @ $2CBE4 - STRING #187 @ $11050
 
 #W32($2CBE4)
@@ -14133,7 +14007,7 @@
 //POINTER #1209 @ $35B9C - STRING #1209 @ $19AAC
 
 #W32($35B9C)
-<COLOR><GRAY>（ノ∀｀）タハー<END>
+<COLOR><GRAY>（ノ∀｀）teeheeー<END>
 //POINTER #1210 @ $35BC0 - STRING #1210 @ $19AC4
 
 #W32($35BC0)
@@ -14165,7 +14039,7 @@
 //POINTER #1217 @ $35CBC - STRING #1217 @ $19BDE
 
 #W32($35CBC)
-<COLOR><GRAY>（ノ∀｀）タハー<END>
+<COLOR><GRAY>（ノ∀｀）teeheeー<END>
 //POINTER #1218 @ $35CE0 - STRING #1218 @ $19BF6
 
 #W32($35CE0)
@@ -14273,7 +14147,7 @@
 //POINTER #8 @ $2B2BC - STRING #8 @ $19EA2
 
 #W32($2B2BC)
-<COLOR><GRAY>Did the same mistake before lol<END>
+<COLOR><GRAY>Did the same mistake before（lol）<END>
 //POINTER #9 @ $2B2E0 - STRING #9 @ $19ECA
 
 #W32($2B2E0)
@@ -14325,7 +14199,7 @@
 //POINTER #21 @ $2B490 - STRING #21 @ $1A0C8
 
 #W32($2B490)
-<COLOR><GRAY><COLOR><RED>2 to 3 laps at Tsukuba Circuit<COLOR><GRAY>、 lol<END>
+<COLOR><GRAY><COLOR><RED>2 to 3 laps at Tsukuba Circuit<COLOR><GRAY>、（lol）<END>
 //POINTER #22 @ $2B4B4 - STRING #22 @ $1A0FE
 
 #W32($2B4B4)
@@ -14545,7 +14419,7 @@
 //POINTER #76 @ $2BC4C - STRING #76 @ $1A97A
 
 #W32($2BC4C)
-<COLOR><GRAY>ヽ（｀Д´）ノキイキイ<END>
+<COLOR><GRAY>ヽ（｀Д´）＊Squeek＊<END>
 //POINTER #77 @ $2BC70 - STRING #77 @ $1A998
 
 #W32($2BC70)
@@ -14857,111 +14731,111 @@
 //POINTER #154 @ $2C744 - STRING #154 @ $1B590
 
 #W32($2C744)
-<COLOR><GRAY>数が多すぎて何を買ったらいいか（・ω・）？<END>
+<COLOR><GRAY>but which products are actually good to have（・ω・）？<END>
 //POINTER #155 @ $2C768 - STRING #155 @ $1B5C2
 
 #W32($2C768)
-<COLOR><GRAY>まずは、そのバトルに有利なカー用品から<END>
+<COLOR><GRAY>I think you can start by buying car accessories that<END>
 //POINTER #156 @ $2C78C - STRING #156 @ $1B5F0
 
 #W32($2C78C)
-<COLOR><GRAY>ヘルメットやレーシングスーツなんかは<END>
+<COLOR><GRAY>to invest in a helmet or a racing suit．<END>
 //POINTER #157 @ $2C7B0 - STRING #157 @ $1B61C
 
 #W32($2C7B0)
-<COLOR><GRAY><COLOR><RED>ガレージ<COLOR><GRAY>の<COLOR><RED>カー用品装備<COLOR><GRAY>で<COLOR><RED>装備パック<END>
+<COLOR><GRAY>Don't forget to equip a <COLOR><RED>set of items<COLOR><GRAY> in the <COLOR><RED>garage<END>
 //POINTER #158 @ $2C7D4 - STRING #158 @ $1B664
 
 #W32($2C7D4)
-<COLOR><GRAY>購入後に装備パックに装備しないと効果が得られない<END>
+<COLOR><GRAY>work after just purchasing、while other items need<END>
 //POINTER #159 @ $2C7F8 - STRING #159 @ $1B69C
 
 #W32($2C7F8)
-<COLOR><GRAY>自分なりの装備の組み合わせを考えてみてね！<END>
+<COLOR><GRAY>so think carefully about your item combinations！<END>
 //POINTER #160 @ $2C81C - STRING #160 @ $1B6CE
 
 #W32($2C81C)
-<COLOR><GRAY>色んなパターンを作って試してみるといい。<END>
+<COLOR><GRAY>so you can try experimenting with different setups．<END>
 //POINTER #161 @ $2C840 - STRING #161 @ $1B6FE
 
 #W32($2C840)
-<COLOR><GRAY>ＤＰバトル用、ＲＰバトル用とかって感じで<END>
+<COLOR><GRAY>DP Battles、RP Battles and so on！<END>
 //POINTER #162 @ $2C864 - STRING #162 @ $1B72E
 
 #W32($2C864)
-<COLOR><GRAY>とりあえずＳＰバトル用、ＤＰバトル用、ＲＰバトル用<END>
+<COLOR><GRAY>so for now you should make one just for SP Battles、<END>
 //POINTER #163 @ $2C888 - STRING #163 @ $1B768
 
 #W32($2C888)
-<COLOR><GRAY>カー用品は、装備する<COLOR><RED>組合わせ<COLOR><GRAY>によって<END>
+<COLOR><GRAY>Some car items produce a <COLOR><RED>greater effect<COLOR><GRAY> when paired<END>
 //POINTER #164 @ $2C8AC - STRING #164 @ $1B7A0
 
 #W32($2C8AC)
-<COLOR><GRAY>ちゃんと説明を読まなきゃ！（笑）<END>
+<COLOR><GRAY>when buying them！（lol）<END>
 //POINTER #165 @ $2C8D0 - STRING #165 @ $1B7C8
 
 #W32($2C8D0)
-<COLOR><GRAY>あるんだけど、ガレージのレイアウト機能を使えば<END>
+<COLOR><GRAY>With the garage layout feature、you can create your<END>
 //POINTER #166 @ $2C8F4 - STRING #166 @ $1B7FE
 
 #W32($2C8F4)
-<COLOR><GRAY>自動的に一番効果の高いものが適用されるから<END>
+<COLOR><GRAY>the most effective car accessories will still be<END>
 //POINTER #167 @ $2C918 - STRING #167 @ $1B830
 
 #W32($2C918)
-<COLOR><GRAY>じっくり品定めしよ！<END>
+<COLOR><GRAY>and check out all the gear carefully！<END>
 //POINTER #168 @ $2C93C - STRING #168 @ $1B84C
 
 #W32($2C93C)
-<COLOR><GRAY>教えてエロい人！<END>
+<COLOR><GRAY>Teach me、great people！<END>
 //POINTER #169 @ $2C960 - STRING #169 @ $1B864
 
 #W32($2C960)
-<COLOR><GRAY><COLOR><RED>ブレーキバランス<COLOR><GRAY>を<COLOR><RED>リア寄りの１０<COLOR><GRAY>にしてみた？<END>
+<COLOR><GRAY>Have you tried setting the <COLOR><RED>brake balance<COLOR><GRAY> to<END>
 //POINTER #170 @ $2C984 - STRING #170 @ $1B8B0
 
 #W32($2C984)
-<COLOR><GRAY>やっぱり女の子にモテたいからかな（＊´д｀＊）<END>
+<COLOR><GRAY>I just want to be popular with girls、after all<END>
 //POINTER #171 @ $2C9A8 - STRING #171 @ $1B8E6
 
 #W32($2C9A8)
-<COLOR><GRAY>ドリフトっておしりを滑らせながら走るでしょ。<END>
+<COLOR><GRAY>Drifting is all about sliding the rear、right？<END>
 //POINTER #172 @ $2C9CC - STRING #172 @ $1B91A
 
 #W32($2C9CC)
-<COLOR><GRAY>でもぜんぜんお尻が出なかったり、出すぎてスピン<END>
+<COLOR><GRAY>It's no use at all、though．My rear end either doesn't<END>
 //POINTER #173 @ $2C9F0 - STRING #173 @ $1B950
 
 #W32($2C9F0)
-<COLOR><GRAY>サイドもきっかけ作りの１つだね。<END>
+<COLOR><GRAY>The handbrake is one way to kick off a drift．<END>
 //POINTER #174 @ $2CA14 - STRING #174 @ $1B978
 
 #W32($2CA14)
-<COLOR><GRAY>サイド引いてるんだろな。<END>
+<COLOR><GRAY>the handbrake while still on the throttle．Try letting off<END>
 //POINTER #175 @ $2CA38 - STRING #175 @ $1B998
 
 #W32($2CA38)
-<COLOR><GRAY>良いことを知った。<END>
+<COLOR><GRAY>That's a good thing to learn．<END>
 //POINTER #176 @ $2CA5C - STRING #176 @ $1B9B2
 
 #W32($2CA5C)
-<COLOR><GRAY>加速しててパッとアクセル放して<END>
+<COLOR><GRAY>If you're accelerating、quickly lift the throttle and turn<END>
 //POINTER #177 @ $2CA80 - STRING #177 @ $1B9D8
 
 #W32($2CA80)
-<COLOR><GRAY>ぶっちゃけ、どっちがいいの？<END>
+<COLOR><GRAY>So、which way is better？<END>
 //POINTER #178 @ $2CAA4 - STRING #178 @ $1B9FC
 
 #W32($2CAA4)
-<COLOR><GRAY>イメージとしては、サイド引くのはお尻がスパーン！<END>
+<COLOR><GRAY>Pulling the handbrake is like spanking the rear！<END>
 //POINTER #179 @ $2CAC8 - STRING #179 @ $1BA34
 
 #W32($2CAC8)
-<COLOR><GRAY>どっかの監督みたいなこと言うなよ（笑）<END>
+<COLOR><GRAY>You sound like some sort of coach（lol）<END>
 //POINTER #180 @ $2CAEC - STRING #180 @ $1BA62
 
 #W32($2CAEC)
-<COLOR><GRAY>まあ両方やって試してみれ。<END>
+<COLOR><GRAY>Try both and see what works for you．<END>
 //POINTER #181 @ $2CB10 - STRING #181 @ $1BA84
 
 #W32($2CB10)
@@ -14969,23 +14843,23 @@
 //POINTER #182 @ $2CB34 - STRING #182 @ $1BA86
 
 #W32($2CB34)
-<COLOR><GRAY>詳しくはセッティングスレででも聞いてくれ。<END>
+<COLOR><GRAY>For more details、please ask in the Setting thread．<END>
 //POINTER #183 @ $2CB58 - STRING #183 @ $1BAB8
 
 #W32($2CB58)
-<COLOR><GRAY>②前だけグリップの良いタイヤにする。<END>
+<COLOR><GRAY>②Equip high-grip tires only on the front wheels．<END>
 //POINTER #184 @ $2CB7C - STRING #184 @ $1BAE4
 
 #W32($2CB7C)
-<COLOR><GRAY>④ブレーキバランスをリア寄り１０にする。<END>
+<COLOR><GRAY>④Set the brake balance at 10 towards the rear．<END>
 //POINTER #185 @ $2CBA0 - STRING #185 @ $1BB14
 
 #W32($2CBA0)
-<COLOR><GRAY>⑥前をトーイン、後ろをトーアウトにする。<END>
+<COLOR><GRAY>⑥Set positive toe at the front and negative at the rear．<END>
 //POINTER #186 @ $2CBC4 - STRING #186 @ $1BB44
 
 #W32($2CBC4)
-<COLOR><GRAY>あ、セッティングするときはチマチマやんないで<END>
+<COLOR><GRAY>Oh、and when adjusting the settings、it's better to do big<END>
 //POINTER #187 @ $2CBE8 - STRING #187 @ $1BB78
 
 #W32($2CBE8)
@@ -19241,7 +19115,7 @@
 //POINTER #14 @ $2B398 - STRING #14 @ $23E6E
 
 #W32($2B398)
-<COLOR><GRAY>There are some new faces in Field 2 too lol<END>
+<COLOR><GRAY>There are some new faces in Field 2 too（lol）<END>
 //POINTER #15 @ $2B3BC - STRING #15 @ $23E98
 
 #W32($2B3BC)
@@ -19253,7 +19127,7 @@
 //POINTER #17 @ $2B404 - STRING #17 @ $23ECA
 
 #W32($2B404)
-<COLOR><GRAY>even on a circuit you've never raced at  ．．．maybe lol<END>
+<COLOR><GRAY>even on a circuit you've never raced at  ．．．maybe（lol）<END>
 //POINTER #18 @ $2B428 - STRING #18 @ $23F02
 
 #W32($2B428)
@@ -19261,7 +19135,7 @@
 //POINTER #19 @ $2B44C - STRING #19 @ $23F04
 
 #W32($2B44C)
-<COLOR><GRAY>even if keep your foot on the gas pedal  ．．．maybe lol<END>
+<COLOR><GRAY>even if keep your foot on the gas pedal  ．．．maybe（lol）<END>
 //POINTER #20 @ $2B470 - STRING #20 @ $23F3E
 
 #W32($2B470)
@@ -19305,11 +19179,11 @@
 //POINTER #30 @ $2B5D8 - STRING #30 @ $2404E
 
 #W32($2B5D8)
-<COLOR><GRAY>「Heavenly」lol<END>
+<COLOR><GRAY>「Heavenly」（lol）<END>
 //POINTER #31 @ $2B5FC - STRING #31 @ $2406E
 
 #W32($2B5FC)
-<COLOR><GRAY>「God」！ lol<END>
+<COLOR><GRAY>「God」！（lol）<END>
 //POINTER #32 @ $2B620 - STRING #32 @ $24084
 
 #W32($2B620)
@@ -19801,23 +19675,23 @@
 //POINTER #154 @ $2C748 - STRING #154 @ $24C42
 
 #W32($2C748)
-<COLOR><GRAY>おすすめの商品てありますか？<END>
+<COLOR><GRAY>Do you have any recommendations？<END>
 //POINTER #155 @ $2C76C - STRING #155 @ $24C66
 
 #W32($2C76C)
-<COLOR><GRAY>買っていけばいいと思う。<END>
+<COLOR><GRAY>are useful for that battle type．<END>
 //POINTER #156 @ $2C790 - STRING #156 @ $24C86
 
 #W32($2C790)
-<COLOR><GRAY>買っておいても損はないカモ。<END>
+<END>
 //POINTER #157 @ $2C7B4 - STRING #157 @ $24CAA
 
 #W32($2C7B4)
-<COLOR><GRAY>（持ち物袋）に入れておく事を忘れずに！<END>
+<COLOR><GRAY>and put them in an <COLOR><RED>equipment pack<COLOR><GRAY>（a bag of items）！<END>
 //POINTER #158 @ $2C7D8 - STRING #158 @ $24CD8
 
 #W32($2C7D8)
-<COLOR><GRAY>ものがあるので注意が必要だ。<END>
+<COLOR><GRAY>to be equipped in the equipment pack after purchase．<END>
 //POINTER #159 @ $2C7FC - STRING #159 @ $24CFC
 
 #W32($2C7FC)
@@ -19829,15 +19703,15 @@
 //POINTER #161 @ $2C844 - STRING #161 @ $24D00
 
 #W32($2C844)
-<COLOR><GRAY>装備も別々に保存しておけるわけですね！<END>
+<END>
 //POINTER #162 @ $2C868 - STRING #162 @ $24D2E
 
 #W32($2C868)
-<COLOR><GRAY>を作っておくといいよ。<END>
+<COLOR><GRAY>DP Battles、 and one for RP Battles．<END>
 //POINTER #163 @ $2C88C - STRING #163 @ $24D4C
 
 #W32($2C88C)
-<COLOR><GRAY><COLOR><RED>効果が大きくなる<COLOR><GRAY>ものもある。<END>
+<COLOR><GRAY>with the right <COLOR><RED>combination<COLOR><GRAY> of equipment．<END>
 //POINTER #164 @ $2C8B0 - STRING #164 @ $24D7C
 
 #W32($2C8B0)
@@ -19845,11 +19719,11 @@
 //POINTER #165 @ $2C8D4 - STRING #165 @ $24D7E
 
 #W32($2C8D4)
-<COLOR><GRAY>自分だけのガレージをレイアウトできる。<END>
+<COLOR><GRAY>own custom look for the garage．<END>
 //POINTER #166 @ $2C8F8 - STRING #166 @ $24DAC
 
 #W32($2C8F8)
-<COLOR><GRAY>安心していいよ（＊’－’）ｂ<END>
+<COLOR><GRAY>automatically applied、so no worries there（＊’－’）ｂ<END>
 //POINTER #167 @ $2C91C - STRING #167 @ $24DD0
 
 #W32($2C91C)
@@ -19861,35 +19735,35 @@
 //POINTER #169 @ $2C964 - STRING #169 @ $24DD4
 
 #W32($2C964)
-<COLOR><GRAY>ドリフトのキッカケ作りはできてるの？<END>
+<COLOR><GRAY><COLOR><RED>10 towards the rear<COLOR><GRAY>？Are you ready to kick off the drifts？<END>
 //POINTER #170 @ $2C988 - STRING #170 @ $24E00
 
 #W32($2C988)
-<END>
+<COLOR><GRAY>（＊´д｀＊）<END>
 //POINTER #171 @ $2C9AC - STRING #171 @ $24E02
 
 #W32($2C9AC)
-<COLOR><GRAY>その滑り出すキッカケを作れるかってこと。<END>
+<COLOR><GRAY>It's all about creating that kick that makes it slide．<END>
 //POINTER #172 @ $2C9D0 - STRING #172 @ $24E32
 
 #W32($2C9D0)
-<COLOR><GRAY>しちゃったりでキレイに決められないんだよ。<END>
+<COLOR><GRAY>slide at all、or goes too far into a spin．<END>
 //POINTER #173 @ $2C9F4 - STRING #173 @ $24E64
 
 #W32($2C9F4)
-<COLOR><GRAY>後ろのタイヤだけをロックさせて強制的に滑らせるの。<END>
+<COLOR><GRAY>It locks the rear tires、forcing them to slide．<END>
 //POINTER #174 @ $2CA18 - STRING #174 @ $24E9E
 
 #W32($2CA18)
-<COLOR><GRAY>アクセル放してから引くと一気に滑るよ。<END>
+<COLOR><GRAY>the gas before pulling it、it will slide much easier．<END>
 //POINTER #175 @ $2CA3C - STRING #175 @ $24ECC
 
 #W32($2CA3C)
-<COLOR><GRAY>ありがとう！<END>
+<COLOR><GRAY>Thanks！<END>
 //POINTER #176 @ $2CA60 - STRING #176 @ $24EE0
 
 #W32($2CA60)
-<COLOR><GRAY>ハンドル一気に切ればお尻が出るから。<END>
+<COLOR><GRAY>the wheel sharply、and the rear will slide out．<END>
 //POINTER #177 @ $2CA84 - STRING #177 @ $24F0C
 
 #W32($2CA84)
@@ -19897,7 +19771,7 @@
 //POINTER #178 @ $2CAA8 - STRING #178 @ $24F0E
 
 #W32($2CAA8)
-<COLOR><GRAY>アクセル放す方はお尻がヌルリ、って感じ。<END>
+<COLOR><GRAY>The throttle release is like a slippery rear end．<END>
 //POINTER #179 @ $2CACC - STRING #179 @ $24F3E
 
 #W32($2CACC)
@@ -19905,7 +19779,7 @@
 //POINTER #180 @ $2CAF0 - STRING #180 @ $24F40
 
 #W32($2CAF0)
-<COLOR><GRAY>そっからセッティングだ。<END>
+<COLOR><GRAY>Then、adjust your setting from there．<END>
 //POINTER #181 @ $2CB14 - STRING #181 @ $24F60
 
 #W32($2CB14)
@@ -19917,19 +19791,19 @@
 //POINTER #183 @ $2CB5C - STRING #183 @ $24F64
 
 #W32($2CB5C)
-<COLOR><GRAY>強引なセッティング。<END>
+<COLOR><GRAY>An aggressive set of settings．<END>
 //POINTER #184 @ $2CB80 - STRING #184 @ $24F80
 
 #W32($2CB80)
-<COLOR><GRAY>これも強引なセッティングだ（笑）<END>
+<COLOR><GRAY>These are also very aggressive settings（lol）<END>
 //POINTER #185 @ $2CBA4 - STRING #185 @ $24FA8
 
 #W32($2CBA4)
-<COLOR><GRAY>なんてのもある。<END>
+<COLOR><GRAY>Is what you can also do．<END>
 //POINTER #186 @ $2CBC8 - STRING #186 @ $24FC0
 
 #W32($2CBC8)
-<COLOR><GRAY>極端な数字にしてみた方が判りやすいからネ！<END>
+<COLOR><GRAY>changes rather than small to feel the effects clearly！<END>
 //POINTER #187 @ $2CBEC - STRING #187 @ $24FF2
 
 #W32($2CBEC)
