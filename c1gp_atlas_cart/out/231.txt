@@ -9255,7 +9255,7 @@
 //POINTER #21 @ $2B48C - STRING #21 @ $F50A
 
 #W32($2B48C)
-<COLOR><GRAY>The <COLOR><RED>S（S）tires<COLOR><GRAY>、are done after<END>
+<COLOR><GRAY>The <COLOR><RED>S（S）tires<COLOR><GRAY> are done after<END>
 //POINTER #22 @ $2B4B0 - STRING #22 @ $F532
 
 #W32($2B4B0)
@@ -9919,220 +9919,193 @@
 //POINTER #187 @ $2CBE4 - STRING #187 @ $11050
 
 #W32($2CBE4)
-<COLOR><GRAY>首都高サーキットのＲＰで勝てないよ！<END>
+<COLOR><GRAY>I can't win RP Battles at Shutoko Circuit！<END>
 //POINTER #188 @ $2CC08 - STRING #188 @ $1107C
 
 #W32($2CC08)
-<COLOR><GRAY>どうやって負けてるの？<END>
+<COLOR><GRAY>How are you losing？<END>
 //POINTER #189 @ $2CC2C - STRING #189 @ $1109A
 
 #W32($2CC2C)
-<COLOR><GRAY>夜、ランクＡのやつ。<END>
+<COLOR><GRAY>At night、Rank A event．<END>
 //POINTER #190 @ $2CC50 - STRING #190 @ $110B6
 
 #W32($2CC50)
-<COLOR><GRAY>ああ、あいつら速いしねえ。<END>
+<COLOR><GRAY>Ahh、those guys are fast．<END>
 //POINTER #191 @ $2CC74 - STRING #191 @ $110D8
 
 #W32($2CC74)
-<COLOR><GRAY>……ペナルティ受けずに２周は厳しい。<END>
+<COLOR><GRAY>Two laps without a penalty is tough……<END>
 //POINTER #192 @ $2CC98 - STRING #192 @ $11104
 
 #W32($2CC98)
-<COLOR><GRAY>最初はみんなそうだけどな。<END>
+<COLOR><GRAY>Everyone is like that at first．<END>
 //POINTER #193 @ $2CCBC - STRING #193 @ $11126
 
 #W32($2CCBC)
-<COLOR><GRAY>じゃあベストライン表示して戦えば<END>
+<COLOR><GRAY>So if I turn on the Best Line display and fight、<END>
 //POINTER #194 @ $2CCE0 - STRING #194 @ $1114E
 
 #W32($2CCE0)
-<COLOR><GRAY>いや、負ける（笑）<END>
+<COLOR><GRAY>Nah、you'll lose（lol）<END>
 //POINTER #195 @ $2CD04 - STRING #195 @ $11168
 
 #W32($2CD04)
-<COLOR><GRAY>じゃ、どうすりゃイイのヽ（；´Д｀）ノ<END>
+<COLOR><GRAY>Well、what do i do？ ヽ（；´Д｀）ノ<END>
 //POINTER #196 @ $2CD28 - STRING #196 @ $11196
 
 #W32($2CD28)
-<COLOR><GRAY>まずコーナー走るときの基本を覚えるこった。<END>
+<COLOR><GRAY>First、you need to learn the basics of cornering．<END>
 //POINTER #197 @ $2CD4C - STRING #197 @ $111C8
 
 #W32($2CD4C)
-<COLOR><GRAY>ああ、アウトインアウトってやつね。<END>
+<COLOR><GRAY>Ah、the out-in-out thing．<END>
 //POINTER #198 @ $2CD70 - STRING #198 @ $111F2
 
 #W32($2CD70)
-<COLOR><GRAY>なんでそうするかっていうと、<END>
+<COLOR><GRAY>The reason for doing it is that<END>
 //POINTER #199 @ $2CD94 - STRING #199 @ $11216
 
 #W32($2CD94)
-<COLOR><GRAY>ハンドル切らないと速いの？<END>
+<COLOR><GRAY>Is it faster to turn the wheel less？<END>
 //POINTER #200 @ $2CDB8 - STRING #200 @ $11238
 
 #W32($2CDB8)
-<COLOR><GRAY>タイヤへの抵抗が小さくなると<END>
+<COLOR><GRAY>The less load on the tires、the more speed you get<END>
 //POINTER #201 @ $2CDDC - STRING #201 @ $1125C
 
 #W32($2CDDC)
-<COLOR><GRAY>そこで、あえて抵抗をかけて、<END>
+<COLOR><GRAY>In that case、increasing the load on the tires<END>
 //POINTER #202 @ $2CE00 - STRING #202 @ $11280
 
 #W32($2CE00)
-<COLOR><GRAY>あとコーナーの手前のブレ－キングもかなり重要。<END>
+<COLOR><GRAY>Also、the way you brake before the corner<END>
 //POINTER #203 @ $2CE24 - STRING #203 @ $112B6
 
 #W32($2CE24)
-<COLOR><GRAY>え？　そうなの？<END>
+<COLOR><GRAY>Eh？ Really？<END>
 //POINTER #204 @ $2CE48 - STRING #204 @ $112CE
 
 #W32($2CE48)
-<COLOR><GRAY>上達すればそれが一番いいんだけど、<END>
+<COLOR><GRAY>Finding late braking points is good、but failing to<END>
 //POINTER #205 @ $2CE6C - STRING #205 @ $112F8
 
 #W32($2CE6C)
-<COLOR><GRAY>じゃ、どうすりゃいいんだ？？<END>
+<COLOR><GRAY>So、what am I supposed to do？？<END>
 //POINTER #206 @ $2CE90 - STRING #206 @ $1131C
 
 #W32($2CE90)
-<COLOR><GRAY>最初のうちはブレーキは早めに踏むこと。<END>
+<COLOR><GRAY>At first、you should just brake early．<END>
 //POINTER #207 @ $2CEB4 - STRING #207 @ $1134A
 
 #W32($2CEB4)
-<COLOR><GRAY>そのタイミングは、慣れるまでは<END>
+<COLOR><GRAY>To learn braking points、it's a good idea to display<END>
 //POINTER #208 @ $2CED8 - STRING #208 @ $11370
 
 #W32($2CED8)
-<COLOR><GRAY>ヘアピンなんかでフルブレーキで進入して<END>
+<COLOR><GRAY>When entering a hairpin with full brakes and you think、<END>
 //POINTER #209 @ $2CEFC - STRING #209 @ $1139E
 
 #W32($2CEFC)
-<COLOR><GRAY>半分だけ？<END>
+<COLOR><GRAY>Only halfway？<END>
 //POINTER #210 @ $2CF20 - STRING #210 @ $113B0
 
 #W32($2CF20)
-<COLOR><GRAY>これが減速する為のブレーキと<END>
+<COLOR><GRAY>That's the difference between using brakes for<END>
 //POINTER #211 @ $2CF44 - STRING #211 @ $113D4
 
 #W32($2CF44)
-<COLOR><GRAY>へええ。<END>
+<COLOR><GRAY>Haeh．<END>
 //POINTER #212 @ $2CF68 - STRING #212 @ $113E4
 
 #W32($2CF68)
-<COLOR><GRAY>ゆるい高速コーナーだったらブレーキ踏まずに<END>
+<COLOR><GRAY>If it's a low angle high-speed corner、it's faster to<END>
 //POINTER #213 @ $2CF8C - STRING #213 @ $11416
 
 #W32($2CF8C)
-<COLOR><GRAY>アクセル放すと曲がるのか。<END>
+<COLOR><GRAY>So if i let off the accelerator it turns？<END>
 //POINTER #214 @ $2CFB0 - STRING #214 @ $11438
 
 #W32($2CFB0)
-<COLOR><GRAY>コーナーが始まる直前にアクセルオフ、<END>
+<COLOR><GRAY>Right before the corner、lift the throttle、then sharply<END>
 //POINTER #215 @ $2CFD4 - STRING #215 @ $11464
 
 #W32($2CFD4)
-<COLOR><GRAY>へえ～。頭にはインプットされたよ。<END>
+<COLOR><GRAY>He～、trying to input it all to my head．<END>
 //POINTER #216 @ $2CFF8 - STRING #216 @ $1148E
 
 #W32($2CFF8)
-<COLOR><GRAY>あ、待て待て。首都高ＲＰでの攻略を教えるのを<END>
+<COLOR><GRAY>Ah wait、wait．I forgot to tell you my Shutoko RP Strategy．<END>
 //POINTER #217 @ $2D01C - STRING #217 @ $114C2
 
 #W32($2D01C)
-<COLOR><GRAY>ああ！　そうだ！<END>
+<COLOR><GRAY>Aah！ That's right！<END>
 //POINTER #218 @ $2D040 - STRING #218 @ $114DA
 
 #W32($2D040)
-<COLOR><GRAY>レースが２周だと考えると、ペナルティを受ける前に<END>
+<COLOR><GRAY>Since the race is 2 laps、I like to take a pitstop to<END>
 //POINTER #219 @ $2D064 - STRING #219 @ $11512
 
 #W32($2D064)
-<COLOR><GRAY>ピットインの時間が短くなるカー用品を<END>
+<COLOR><GRAY>Maybe I should bring along some car goods that shorten<END>
 //POINTER #220 @ $2D088 - STRING #220 @ $1153E
 
 #W32($2D088)
-<COLOR><GRAY>それでも、ペナルティになっちゃったら<END>
+<COLOR><GRAY>If you get a penalty anyway、go all out and smash into<END>
 //POINTER #221 @ $2D0AC - STRING #221 @ $1156A
 
 #W32($2D0AC)
-<COLOR><GRAY>汚い手だなあ（笑）<END>
+<COLOR><GRAY>That's dirty（lol）<END>
 //POINTER #222 @ $2D0D0 - STRING #222 @ $11584
 
 #W32($2D0D0)
-<COLOR><GRAY>あとは、相手に離されないように付いていく事。<END>
+<COLOR><GRAY>Next、make sure to keep up with your rivals．<END>
 //POINTER #223 @ $2D0F4 - STRING #223 @ $115B8
 
 #W32($2D0F4)
-<COLOR><GRAY>抜いちゃだめなの？<END>
+<COLOR><GRAY>Not overtake them？<END>
 //POINTER #224 @ $2D118 - STRING #224 @ $115D2
 
 #W32($2D118)
-<COLOR><GRAY>抜くと怒って無茶な走りしてきたり、<END>
+<COLOR><GRAY>Many rivals get angry once you overtake them、<END>
 //POINTER #225 @ $2D13C - STRING #225 @ $115FC
 
 #W32($2D13C)
-<COLOR><GRAY>なるへそ。<END>
+<COLOR><GRAY>I see．<END>
 //POINTER #226 @ $2D160 - STRING #226 @ $1160E
 
 #W32($2D160)
-<COLOR><GRAY>ゴール手前のコーナー。<END>
+<COLOR><GRAY>The last corner before the finish line．<END>
 //POINTER #227 @ $2D184 - STRING #227 @ $1162C
 
 #W32($2D184)
-<COLOR><GRAY>…………。<END>
+<COLOR><GRAY>…………<END>
 //POINTER #228 @ $2D1A8 - STRING #228 @ $1163E
 
 #W32($2D1A8)
-<COLOR><GRAY>で、あとはブロックしつつゴール。<END>
+<COLOR><GRAY>Then、just block them until you cross the finish line．<END>
 //POINTER #229 @ $2D1CC - STRING #229 @ $11666
 
 #W32($2D1CC)
-<COLOR><GRAY>難しそうだねえ。<END>
+<COLOR><GRAY>Sounds difficult．<END>
 //POINTER #230 @ $2D1F0 - STRING #230 @ $1167E
 
 #W32($2D1F0)
-<COLOR><GRAY>健闘を祈る！<END>
+<COLOR><GRAY>Good luck to you！<END>
 //POINTER #231 @ $2D214 - STRING #231 @ $11692
 
 #W32($2D214)
-<COLOR><GRAY>Reserved<END>
-//POINTER #232 @ $2D238 - STRING #232 @ $1169E
-
 #W32($2D238)
-<COLOR><GRAY>Reserved<END>
-//POINTER #233 @ $2D25C - STRING #233 @ $116AA
-
 #W32($2D25C)
-<COLOR><GRAY>Reserved<END>
-//POINTER #234 @ $2D280 - STRING #234 @ $116B6
-
 #W32($2D280)
-<COLOR><GRAY>Reserved<END>
-//POINTER #235 @ $2D2A4 - STRING #235 @ $116C2
-
 #W32($2D2A4)
-<COLOR><GRAY>Reserved<END>
-//POINTER #236 @ $2D2C8 - STRING #236 @ $116CE
-
 #W32($2D2C8)
-<COLOR><GRAY>Reserved<END>
-//POINTER #237 @ $2D2EC - STRING #237 @ $116DA
-
 #W32($2D2EC)
-<COLOR><GRAY>Reserved<END>
-//POINTER #238 @ $2D310 - STRING #238 @ $116E6
-
 #W32($2D310)
-<COLOR><GRAY>Reserved<END>
-//POINTER #239 @ $2D334 - STRING #239 @ $116F2
-
 #W32($2D334)
-<COLOR><GRAY>Reserved<END>
-//POINTER #240 @ $2D358 - STRING #240 @ $116FE
-
 #W32($2D358)
 <COLOR><GRAY>Reserved<END>
-//POINTER #241 @ $2D37C - STRING #241 @ $1170A
+//POINTER #232 @ $2D238 - STRING #232 @ $1169E
 
 #W32($2D37C)
 <COLOR><GRAY>もうじきライセンスが取れそうなんで<END>
@@ -14199,7 +14172,7 @@
 //POINTER #21 @ $2B490 - STRING #21 @ $1A0C8
 
 #W32($2B490)
-<COLOR><GRAY><COLOR><RED>2 to 3 laps at Tsukuba Circuit<COLOR><GRAY>、（lol）<END>
+<COLOR><GRAY><COLOR><RED>2 to 3 laps at Tsukuba Circuit<COLOR><GRAY>（lol）<END>
 //POINTER #22 @ $2B4B4 - STRING #22 @ $1A0FE
 
 #W32($2B4B4)
@@ -14419,7 +14392,7 @@
 //POINTER #76 @ $2BC4C - STRING #76 @ $1A97A
 
 #W32($2BC4C)
-<COLOR><GRAY>ヽ（｀Д´）＊Squeek＊<END>
+<COLOR><GRAY>ヽ（｀Д´）ノ＊Squeek＊<END>
 //POINTER #77 @ $2BC70 - STRING #77 @ $1A998
 
 #W32($2BC70)
@@ -14863,35 +14836,35 @@
 //POINTER #187 @ $2CBE8 - STRING #187 @ $1BB78
 
 #W32($2CBE8)
-<COLOR><GRAY>誰か助けて！<END>
+<COLOR><GRAY>Someone help！<END>
 //POINTER #188 @ $2CC0C - STRING #188 @ $1BB8C
 
 #W32($2CC0C)
-<COLOR><GRAY>昼のやつ？　夜のやつ？<END>
+<COLOR><GRAY>Is it the one during daytime？ or the nighttime one？<END>
 //POINTER #189 @ $2CC30 - STRING #189 @ $1BBAA
 
 #W32($2CC30)
-<COLOR><GRAY>ＲＰがすぐ無くなっちゃうだよ。<END>
+<COLOR><GRAY>The RP runs out really quickly．<END>
 //POINTER #190 @ $2CC54 - STRING #190 @ $1BBD0
 
 #W32($2CC54)
-<COLOR><GRAY>当たられなければ勝てるのか？<END>
+<COLOR><GRAY>Could you really win even if you don't get hit？<END>
 //POINTER #191 @ $2CC78 - STRING #191 @ $1BBF4
 
 #W32($2CC78)
-<COLOR><GRAY>壁に当たりまくるよ。<END>
+<COLOR><GRAY>I'm hitting the walls all over the place．<END>
 //POINTER #192 @ $2CC9C - STRING #192 @ $1BC10
 
 #W32($2CC9C)
-<COLOR><GRAY>ベストなライン上を走れてないから<END>
+<COLOR><GRAY>You're hitting walls because you're not running<END>
 //POINTER #193 @ $2CCC0 - STRING #193 @ $1BC38
 
 #W32($2CCC0)
-<COLOR><GRAY>勝てるかな！？<END>
+<COLOR><GRAY>I'll win、right！？<END>
 //POINTER #194 @ $2CCE4 - STRING #194 @ $1BC4E
 
 #W32($2CCE4)
-<COLOR><GRAY>ベストライン出してりゃ速くなるって<END>
+<COLOR><GRAY>It's not enough to just turn on the Best Line<END>
 //POINTER #195 @ $2CD08 - STRING #195 @ $1BC78
 
 #W32($2CD08)
@@ -14899,7 +14872,7 @@
 //POINTER #196 @ $2CD2C - STRING #196 @ $1BC7A
 
 #W32($2CD2C)
-<COLOR><GRAY>コーナー手前でコースを目一杯使って<END>
+<COLOR><GRAY>Use the track width as much as possible before the corner<END>
 //POINTER #197 @ $2CD50 - STRING #197 @ $1BCA4
 
 #W32($2CD50)
@@ -14907,7 +14880,7 @@
 //POINTER #198 @ $2CD74 - STRING #198 @ $1BCA6
 
 #W32($2CD74)
-<COLOR><GRAY>そうすることでハンドルをあまり切る必要が<END>
+<COLOR><GRAY>you don't need to turn the steering wheel as much．<END>
 //POINTER #199 @ $2CD98 - STRING #199 @ $1BCD6
 
 #W32($2CD98)
@@ -14915,23 +14888,23 @@
 //POINTER #200 @ $2CDBC - STRING #200 @ $1BCD8
 
 #W32($2CDBC)
-<COLOR><GRAY>コーナーの速度がアップするからね。<END>
+<COLOR><GRAY>out of a corner．The most important thing is<END>
 //POINTER #201 @ $2CDE0 - STRING #201 @ $1BD02
 
 #W32($2CDE0)
-<COLOR><GRAY>白煙だすのが良いんじゃねぇか（笑）<END>
+<COLOR><GRAY>is only good for making white smoke（lol）<END>
 //POINTER #202 @ $2CE04 - STRING #202 @ $1BD2C
 
 #W32($2CE04)
-<COLOR><GRAY>ぎりぎりまで踏まなけりゃいいってもんじゃないよ。<END>
+<COLOR><GRAY>is very important．It's not just about<END>
 //POINTER #203 @ $2CE28 - STRING #203 @ $1BD64
 
 #W32($2CE28)
-<COLOR><GRAY>なんで、なんで？<END>
+<COLOR><GRAY>Why、why not？<END>
 //POINTER #204 @ $2CE4C - STRING #204 @ $1BD7C
 
 #W32($2CE4C)
-<COLOR><GRAY>ブレーキが間に合わなくって出口が遅かったり<END>
+<COLOR><GRAY>brake in time、causing a slow exit or not being able to<END>
 //POINTER #205 @ $2CE70 - STRING #205 @ $1BDAE
 
 #W32($2CE70)
@@ -14939,87 +14912,87 @@
 //POINTER #206 @ $2CE94 - STRING #206 @ $1BDB0
 
 #W32($2CE94)
-<COLOR><GRAY>コーナーの進入遅くても早く車の向きを<END>
+<COLOR><GRAY>Even if you enter the corner slowly、you will get good<END>
 //POINTER #207 @ $2CEB8 - STRING #207 @ $1BDDC
 
 #W32($2CEB8)
-<COLOR><GRAY>ベストラインを表示して練習するのが<END>
+<COLOR><GRAY>the Best Line and practice until you<END>
 //POINTER #208 @ $2CEDC - STRING #208 @ $1BE06
 
 #W32($2CEDC)
-<COLOR><GRAY>「曲がれねえ～！」って思ったら<END>
+<COLOR><GRAY>“Can't make it～！”try releasing the brakes halfway．<END>
 //POINTER #209 @ $2CF00 - STRING #209 @ $1BE2C
 
 #W32($2CF00)
-<COLOR><GRAY>ムズそうだな（汗）<END>
+<COLOR><GRAY>Sounds difficult（＊Sweating＊）<END>
 //POINTER #210 @ $2CF24 - STRING #210 @ $1BE46
 
 #W32($2CF24)
-<COLOR><GRAY>曲がる為のブレーキの違いなのだよ。<END>
+<COLOR><GRAY>slowing down and using them to corner．<END>
 //POINTER #211 @ $2CF48 - STRING #211 @ $1BE70
 
 #W32($2CF48)
-<COLOR><GRAY>試してみるよ。<END>
+<COLOR><GRAY>I'll give it a try．<END>
 //POINTER #212 @ $2CF6C - STRING #212 @ $1BE86
 
 #W32($2CF6C)
-<COLOR><GRAY>アクセル放して向きを変えると速いよ。<END>
+<COLOR><GRAY>release the throttle without braking to change direction．<END>
 //POINTER #213 @ $2CF90 - STRING #213 @ $1BEB2
 
 #W32($2CF90)
-<COLOR><GRAY>じゃ放さないと曲がんないってことね。<END>
+<COLOR><GRAY>So it means it won't turn unless you lift the gas．<END>
 //POINTER #214 @ $2CFB4 - STRING #214 @ $1BEDE
 
 #W32($2CFB4)
-<COLOR><GRAY>すぐにハンドル一気に切ればクルッと回るよ。<END>
+<COLOR><GRAY>turn the wheel、and you will start to slide smoothly．<END>
 //POINTER #215 @ $2CFD8 - STRING #215 @ $1BF10
 
 #W32($2CFD8)
-<COLOR><GRAY>あとは実際できるかどうかだなあ。<END>
+<COLOR><GRAY>Now to see if i can actually pull it off．<END>
 //POINTER #216 @ $2CFFC - STRING #216 @ $1BF38
 
 #W32($2CFFC)
-<COLOR><GRAY>忘れてた。強い相手との俺の必勝パターンを<END>
+<COLOR><GRAY>I'll tell you my winning formula for strong opponents．<END>
 //POINTER #217 @ $2D020 - STRING #217 @ $1BF68
 
 #W32($2D020)
-<COLOR><GRAY>それを聞きに来たんだった！<END>
+<COLOR><GRAY>That's what I came to ask for！<END>
 //POINTER #218 @ $2D044 - STRING #218 @ $1BF8A
 
 #W32($2D044)
-<COLOR><GRAY>自分でピットインしてＲＰを回復したいな。<END>
+<COLOR><GRAY>recover my RP before getting a penalty．<END>
 //POINTER #219 @ $2D068 - STRING #219 @ $1BFBA
 
 #W32($2D068)
-<COLOR><GRAY>持って行こうかな（笑）<END>
+<COLOR><GRAY>the pitstop time（lol）<END>
 //POINTER #220 @ $2D08C - STRING #220 @ $1BFD8
 
 #W32($2D08C)
-<COLOR><GRAY>敵にガンガンぶつけて道連れ大作戦！<END>
+<COLOR><GRAY>your rivals、take them down with you！<END>
 //POINTER #221 @ $2D0B0 - STRING #221 @ $1C002
 
 #W32($2D0B0)
-<COLOR><GRAY>勝つ為のルールしか守らない、ってやつだ。<END>
+<COLOR><GRAY>Only following the rules that help you win、I see．<END>
 //POINTER #222 @ $2D0D4 - STRING #222 @ $1C032
 
 #W32($2D0D4)
-<COLOR><GRAY>なるべくなら抜かない方がいい。<END>
+<COLOR><GRAY>It's better not to overtake them at first．<END>
 //POINTER #223 @ $2D0F8 - STRING #223 @ $1C058
 
 #W32($2D0F8)
-<COLOR><GRAY>なんで？？？<END>
+<COLOR><GRAY>Why is that？？？<END>
 //POINTER #224 @ $2D11C - STRING #224 @ $1C06C
 
 #W32($2D11C)
-<COLOR><GRAY>ぶつけてきたりする奴も多いからな。<END>
+<COLOR><GRAY>they might drive recklessly or even crash into you．<END>
 //POINTER #225 @ $2D140 - STRING #225 @ $1C096
 
 #W32($2D140)
-<COLOR><GRAY>いつ抜いていいの？<END>
+<COLOR><GRAY>What's a good time to overtake？<END>
 //POINTER #226 @ $2D164 - STRING #226 @ $1C0B0
 
 #W32($2D164)
-<COLOR><GRAY>ここでナイトロとかブーストとか使って<END>
+<COLOR><GRAY>Use nitrous or boost to force your<END>
 //POINTER #227 @ $2D188 - STRING #227 @ $1C0DC
 
 #W32($2D188)
@@ -15027,11 +15000,11 @@
 //POINTER #228 @ $2D1AC - STRING #228 @ $1C0DE
 
 #W32($2D1AC)
-<COLOR><GRAY>トップになれなくても、次回のレースでは<END>
+<COLOR><GRAY>Even if you don't finish first、next race will be easier<END>
 //POINTER #229 @ $2D1D0 - STRING #229 @ $1C10C
 
 #W32($2D1D0)
-<COLOR><GRAY>でもまあ頑張ってみるよ。<END>
+<COLOR><GRAY>But I'll do my best．<END>
 //POINTER #230 @ $2D1F4 - STRING #230 @ $1C12C
 
 #W32($2D1F4)
@@ -19127,7 +19100,7 @@
 //POINTER #17 @ $2B404 - STRING #17 @ $23ECA
 
 #W32($2B404)
-<COLOR><GRAY>even on a circuit you've never raced at  ．．．maybe（lol）<END>
+<COLOR><GRAY>even on a circuit you've never raced at ……maybe（lol）<END>
 //POINTER #18 @ $2B428 - STRING #18 @ $23F02
 
 #W32($2B428)
@@ -19135,7 +19108,7 @@
 //POINTER #19 @ $2B44C - STRING #19 @ $23F04
 
 #W32($2B44C)
-<COLOR><GRAY>even if keep your foot on the gas pedal  ．．．maybe（lol）<END>
+<COLOR><GRAY>even if keep your foot on the gas pedal ……maybe（lol）<END>
 //POINTER #20 @ $2B470 - STRING #20 @ $23F3E
 
 #W32($2B470)
@@ -19195,7 +19168,7 @@
 //POINTER #34 @ $2B668 - STRING #34 @ $24088
 
 #W32($2B668)
-<COLOR><GRAY>1s＞Heavenly、0s＞God ．．．is that right？<END>
+<COLOR><GRAY>1s＞Heavenly、0s＞God ……is that right？<END>
 //POINTER #35 @ $2B68C - STRING #35 @ $240B8
 
 #W32($2B68C)
@@ -19815,7 +19788,7 @@
 //POINTER #189 @ $2CC34 - STRING #189 @ $24FF6
 
 #W32($2CC34)
-<COLOR><GRAY>あいつら直ぐぶつかってくるし。<END>
+<COLOR><GRAY>Those guys always crash into me．<END>
 //POINTER #190 @ $2CC58 - STRING #190 @ $2501C
 
 #W32($2CC58)
@@ -19823,11 +19796,11 @@
 //POINTER #191 @ $2CC7C - STRING #191 @ $2501E
 
 #W32($2CC7C)
-<COLOR><GRAY>みんな走れるの？　俺の走り方が悪いのかな？<END>
+<COLOR><GRAY>Can you guys do it？ Is it just my driving style？<END>
 //POINTER #192 @ $2CCA0 - STRING #192 @ $25050
 
 #W32($2CCA0)
-<COLOR><GRAY>壁に当たりまくるんだよ。<END>
+<COLOR><GRAY>on the best racing line．<END>
 //POINTER #193 @ $2CCC4 - STRING #193 @ $25070
 
 #W32($2CCC4)
@@ -19835,7 +19808,7 @@
 //POINTER #194 @ $2CCE8 - STRING #194 @ $25072
 
 #W32($2CCE8)
-<COLOR><GRAY>もんでもないよ。<END>
+<COLOR><GRAY>when it comes to getting faster．<END>
 //POINTER #195 @ $2CD0C - STRING #195 @ $2508A
 
 #W32($2CD0C)
@@ -19843,7 +19816,7 @@
 //POINTER #196 @ $2CD30 - STRING #196 @ $2508C
 
 #W32($2CD30)
-<COLOR><GRAY>アウトからインに進入するんだよ。<END>
+<COLOR><GRAY>and enter it from the outside to the inside．<END>
 //POINTER #197 @ $2CD54 - STRING #197 @ $250B4
 
 #W32($2CD54)
@@ -19851,7 +19824,7 @@
 //POINTER #198 @ $2CD78 - STRING #198 @ $250B6
 
 #W32($2CD78)
-<COLOR><GRAY>無くなるから。<END>
+<END>
 //POINTER #199 @ $2CD9C - STRING #199 @ $250CC
 
 #W32($2CD9C)
@@ -19859,7 +19832,7 @@
 //POINTER #200 @ $2CDC0 - STRING #200 @ $250CE
 
 #W32($2CDC0)
-<COLOR><GRAY>コーナー脱出速度が速くなるのが一番でかい。<END>
+<COLOR><GRAY>fast corner exit speed．<END>
 //POINTER #201 @ $2CDE4 - STRING #201 @ $25100
 
 #W32($2CDE4)
@@ -19867,7 +19840,7 @@
 //POINTER #202 @ $2CE08 - STRING #202 @ $25102
 
 #W32($2CE08)
-<END>
+<COLOR><GRAY>braking at the last moment．<END>
 //POINTER #203 @ $2CE2C - STRING #203 @ $25104
 
 #W32($2CE2C)
@@ -19875,7 +19848,7 @@
 //POINTER #204 @ $2CE50 - STRING #204 @ $25106
 
 #W32($2CE50)
-<COLOR><GRAY>車の向きを早く変えられないのは大失敗。<END>
+<COLOR><GRAY>get the car to turn quickly、is a major mistake．<END>
 //POINTER #205 @ $2CE74 - STRING #205 @ $25134
 
 #W32($2CE74)
@@ -19883,15 +19856,15 @@
 //POINTER #206 @ $2CE98 - STRING #206 @ $25136
 
 #W32($2CE98)
-<COLOR><GRAY>変えて早くアクセルを踏める方が結果的に速い。<END>
+<COLOR><GRAY>turnability and a fast corner exit．<END>
 //POINTER #207 @ $2CEBC - STRING #207 @ $2516A
 
 #W32($2CEBC)
-<COLOR><GRAY>良いんじゃないかな。<END>
+<COLOR><GRAY>get used to them．<END>
 //POINTER #208 @ $2CEE0 - STRING #208 @ $25186
 
 #W32($2CEE0)
-<COLOR><GRAY>半分くらいブレーキ放してみ。スッと頭が入るから。<END>
+<COLOR><GRAY>It will help the front end to turn in．<END>
 //POINTER #209 @ $2CF04 - STRING #209 @ $251BE
 
 #W32($2CF04)
@@ -19899,7 +19872,7 @@
 //POINTER #210 @ $2CF28 - STRING #210 @ $251C0
 
 #W32($2CF28)
-<COLOR><GRAY>ブレーキ使うのがウマいやつは速いよ。<END>
+<COLOR><GRAY>Those who are good at braking are fast．<END>
 //POINTER #211 @ $2CF4C - STRING #211 @ $251EC
 
 #W32($2CF4C)
@@ -19907,7 +19880,7 @@
 //POINTER #212 @ $2CF70 - STRING #212 @ $251EE
 
 #W32($2CF70)
-<COLOR><GRAY>このテクニックで曲がるのはスーパー重要だ！<END>
+<COLOR><GRAY>This turning technique is super important！<END>
 //POINTER #213 @ $2CF94 - STRING #213 @ $25220
 
 #W32($2CF94)
@@ -19915,15 +19888,15 @@
 //POINTER #214 @ $2CFB8 - STRING #214 @ $25222
 
 #W32($2CFB8)
-<COLOR><GRAY>そっから微妙にアクセルでコントロールするわけさ。<END>
+<COLOR><GRAY>From there、you control it with precise throttle inputs．<END>
 //POINTER #215 @ $2CFDC - STRING #215 @ $2525A
 
 #W32($2CFDC)
-<COLOR><GRAY>さっそく行ってくるぜ！<END>
+<COLOR><GRAY>Heading out to try it right now！<END>
 //POINTER #216 @ $2D000 - STRING #216 @ $25278
 
 #W32($2D000)
-<COLOR><GRAY>教えよう。必勝じゃないけどな（笑）<END>
+<COLOR><GRAY>It's not a guaranteed win、though（lol）<END>
 //POINTER #217 @ $2D024 - STRING #217 @ $252A2
 
 #W32($2D024)
@@ -19931,7 +19904,7 @@
 //POINTER #218 @ $2D048 - STRING #218 @ $252A4
 
 #W32($2D048)
-<COLOR><GRAY>タイヤの消耗なんかも回復するし。<END>
+<COLOR><GRAY>Helps to recover the temperatures and tire wear、too．<END>
 //POINTER #219 @ $2D06C - STRING #219 @ $252CC
 
 #W32($2D06C)
@@ -19939,7 +19912,7 @@
 //POINTER #220 @ $2D090 - STRING #220 @ $252CE
 
 #W32($2D090)
-<COLOR><GRAY>やりすぎて失格になんないように注意な（笑）<END>
+<COLOR><GRAY>Just don't get disqualified from overdoing it（lol）<END>
 //POINTER #221 @ $2D0B4 - STRING #221 @ $25300
 
 #W32($2D0B4)
@@ -19955,7 +19928,7 @@
 //POINTER #224 @ $2D120 - STRING #224 @ $25306
 
 #W32($2D120)
-<COLOR><GRAY>ＲＰが減りやすいんだよ。<END>
+<COLOR><GRAY>It's an easy way to lose RP．<END>
 //POINTER #225 @ $2D144 - STRING #225 @ $25326
 
 #W32($2D144)
@@ -19963,7 +19936,7 @@
 //POINTER #226 @ $2D168 - STRING #226 @ $25328
 
 #W32($2D168)
-<COLOR><GRAY>強引に前にねじりこむのだああああ！！！！<END>
+<COLOR><GRAY>way into the frooooont！！！！<END>
 //POINTER #227 @ $2D18C - STRING #227 @ $25358
 
 #W32($2D18C)
@@ -19971,7 +19944,7 @@
 //POINTER #228 @ $2D1B0 - STRING #228 @ $2535A
 
 #W32($2D1B0)
-<COLOR><GRAY>前のほうからスタートできるから楽でしょ。<END>
+<COLOR><GRAY>as you will start closer to the front．<END>
 //POINTER #229 @ $2D1D4 - STRING #229 @ $2538A
 
 #W32($2D1D4)
