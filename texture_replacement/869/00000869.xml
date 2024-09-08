@@ -312,7 +312,7 @@
     </section>
     <section name="TIM2Texture">
       <attribute name="Basename" type="System.String">00000869_layer19</attribute>
-      <attribute name="Cluts" type="System.Int32">1</attribute>
+      <attribute name="Cluts" type="System.Int32">4</attribute>
       <attribute name="LinearClut" type="System.Boolean">False</attribute>
       <data name="Width" type="System.Int32">24</data>
       <data name="Height" type="System.Int32">24</data>
@@ -376,7 +376,7 @@
     </section>
     <section name="TIM2Texture">
       <attribute name="Basename" type="System.String">00000869_layer23</attribute>
-      <attribute name="Cluts" type="System.Int32">1</attribute>
+      <attribute name="Cluts" type="System.Int32">4</attribute>
       <attribute name="LinearClut" type="System.Boolean">False</attribute>
       <data name="Width" type="System.Int32">24</data>
       <data name="Height" type="System.Int32">24</data>
@@ -392,7 +392,7 @@
     </section>
     <section name="TIM2Texture">
       <attribute name="Basename" type="System.String">00000869_layer24</attribute>
-      <attribute name="Cluts" type="System.Int32">1</attribute>
+      <attribute name="Cluts" type="System.Int32">4</attribute>
       <attribute name="LinearClut" type="System.Boolean">False</attribute>
       <data name="Width" type="System.Int32">24</data>
       <data name="Height" type="System.Int32">24</data>

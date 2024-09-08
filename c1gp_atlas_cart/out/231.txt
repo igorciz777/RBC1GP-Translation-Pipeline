@@ -14636,7 +14636,7 @@
 //POINTER #137 @ $2C4E0 - STRING #137 @ $1B312
 
 #W32($2C4E0)
-<COLOR><GRAY>「Racing Ranger：The Roaring Squadron」<END>
+<COLOR><GRAY>「Racing Rangers：The Roaring Squadron」<END>
 //POINTER #138 @ $2C504 - STRING #138 @ $1B33A
 
 #W32($2C504)
