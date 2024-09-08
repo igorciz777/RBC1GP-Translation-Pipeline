@@ -16,7 +16,7 @@
 | `230.bin` | $\color{green}{\textsf{100}}$% |
 | `231.bin` | 19.5% |
 | `737.bin` | $\color{green}{\textsf{100}}$% |
-| `Textures` |  99% |
+| `Textures` |  $\color{green}{\textsf{100}}$% |
 | `Cutscenes` |   99% |
 | `Executable` |  99% |
 ---
