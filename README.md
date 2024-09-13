@@ -14,76 +14,32 @@
 | `228.bin` | $\color{green}{\textsf{100}}$% |
 | `229.bin` | $\color{green}{\textsf{100}}$% |
 | `230.bin` | $\color{green}{\textsf{100}}$% |
-| `231.bin` | 12.5% |
+| `231.bin` | 19.5% |
 | `737.bin` | $\color{green}{\textsf{100}}$% |
-| `Textures` |  99% |
+| `Textures` |  $\color{green}{\textsf{100}}$% |
 | `Cutscenes` |   99% |
 | `Executable` |  99% |
 ---
-## Installation
-Extract your copy of RACING BATTLE -C1 GRAND PRIX- into a folder.
+## Installation:
+You need an unmodified iso dump of RACING BATTLE -C1 GRAND PRIX- [SLPM-65897]
 
-To patch your game files you will need GUT Archive Tools (WARNING !!! v0.3.1 and up, very big changes were made to allow bigger files):
-(https://github.com/igorciz777/GUTArchiveTools/releases) 
+MD5: 8131f1e1d205de32326d7c038f8f70a3
 
-To repack the game files you will need ImgBurn
-(https://www.imgburn.com/)
+You also need a xdelta patcher,
+personally I use DeltaPatcher or xdelta3
+
+### Patching the game for emulation
+Using a xdelta patcher, apply the main patch file `tl_patch_vx.xdelta` to your iso. (remember to backup the iso, some patchers just overwrite the file without a backup)
+	
+Move the `SLPM-65897_1C087362.pnach` file to <your PCSX2 folder>/cheats/
 
 
-### Inside this archive there are three folders: 
+### Patching the game for hardware
+Using a xdelta patcher, apply the main patch file `tl_patch_vx.xdelta` to your iso.
 
-- in:
-  
-	This folder contains the main translation files. These files come from BUILD.DAT and need to be reinserted using GUT Archive Tool.
-		
-	Use this command on your game files to patch them (modify the command according to your directiories):
+After that, apply the `hw_patch_vx.xdelta` patch to your modified iso from previous step.
 	
-		.\gut_archive.exe -r .\BUILD.TOC .\BUILD.DAT .\in\
-		
-	If you did everything correctly the commandline should output:
-	
-		Reading file info from TOC...
-		Rebuilding GUT Archive...
-		Processing file id:224
-		Block size: 16384
-		(.......)
-		GUT Archive rebuilt successfully
-	
-		
-		
-- elf:
-  
-	This folder contains two ways of patching the executable.
-	
-	---
-	
-	For PCSX2 use the .pnach file. 
-	
-	Simply put it inside your PCSX2\cheats\ folder
-	
-	After moving the file activate it in Game Properties > Cheats.
-	
-	---
-	
-	For OPL there is a pre-patched executable file `SLPM_658.97_patchedElf`.
-	
-	It was patched with PS2PatchElf using the .pnach file mentioned above.
-	
-	Rename the file to `SLPM_658.97` and with it replace the executable inside your game folder.
-	
-- MOV:
-
-	This folder contains modified, translated cutscenes.
-
- 	Simply drag the contents to the `MOV` folder inside your game files and replace the files.
-  
-  ### Repack
-  
-	Now you need to repack the game files using ImgBurn with default ISO settings
-
-	"Create image file from files/folders" -> Add your game folder as the source -> "Build" -> Select your save destination -> Select "Yes" on everything
-	
-	
+---	
 	
 ### Tools that made this possible
 - [GUTArchiveTools](https://github.com/igorciz777/GUTArchiveTools)
