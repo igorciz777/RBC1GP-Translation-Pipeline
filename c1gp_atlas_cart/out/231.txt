@@ -5297,240 +5297,78 @@
 //POINTER #303 @ $2DC30 - STRING #303 @ $8CAA
 
 #W32($2DC30)
-<COLOR><GRAY>re：Setting<END>
-//POINTER #304 @ $2DC54 - STRING #304 @ $8CC4
-
 #W32($2DC54)
-<COLOR><GRAY>re：Setting<END>
-//POINTER #305 @ $2DC78 - STRING #305 @ $8CDE
-
 #W32($2DC78)
-<COLOR><GRAY>re：Setting<END>
-//POINTER #306 @ $2DC9C - STRING #306 @ $8CF8
-
 #W32($2DC9C)
-<COLOR><GRAY>re：Setting<END>
-//POINTER #307 @ $2DCC0 - STRING #307 @ $8D12
-
 #W32($2DCC0)
-<COLOR><GRAY>re：Setting<END>
-//POINTER #308 @ $2DCE4 - STRING #308 @ $8D2C
-
 #W32($2DCE4)
-<COLOR><GRAY>re：Setting<END>
-//POINTER #309 @ $2DD08 - STRING #309 @ $8D46
-
 #W32($2DD08)
-<COLOR><GRAY>re：Setting<END>
-//POINTER #310 @ $2DD2C - STRING #310 @ $8D60
-
 #W32($2DD2C)
-<COLOR><GRAY>re：Setting<END>
-//POINTER #311 @ $2DD50 - STRING #311 @ $8D7A
-
 #W32($2DD50)
-<COLOR><GRAY>re：Setting<END>
-//POINTER #312 @ $2DD74 - STRING #312 @ $8D94
-
 #W32($2DD74)
-<COLOR><GRAY>re：Setting<END>
-//POINTER #313 @ $2DD98 - STRING #313 @ $8DAE
-
 #W32($2DD98)
-<COLOR><GRAY>re：Setting<END>
-//POINTER #314 @ $2DDBC - STRING #314 @ $8DC8
-
 #W32($2DDBC)
-<COLOR><GRAY>re：Setting<END>
-//POINTER #315 @ $2DDE0 - STRING #315 @ $8DE2
-
 #W32($2DDE0)
-<COLOR><GRAY>re：Setting<END>
-//POINTER #316 @ $2DE04 - STRING #316 @ $8DFC
-
 #W32($2DE04)
-<COLOR><GRAY>re：Setting<END>
-//POINTER #317 @ $2DE28 - STRING #317 @ $8E16
-
 #W32($2DE28)
-<COLOR><GRAY>re：Setting<END>
-//POINTER #318 @ $2DE4C - STRING #318 @ $8E30
-
 #W32($2DE4C)
-<COLOR><GRAY>re：Setting<END>
-//POINTER #319 @ $2DE70 - STRING #319 @ $8E4A
-
 #W32($2DE70)
-<COLOR><GRAY>re：Setting<END>
-//POINTER #320 @ $2DE94 - STRING #320 @ $8E64
-
 #W32($2DE94)
-<COLOR><GRAY>re：Setting<END>
-//POINTER #321 @ $2DEB8 - STRING #321 @ $8E7E
-
 #W32($2DEB8)
-<COLOR><GRAY>re：Setting<END>
-//POINTER #322 @ $2DEDC - STRING #322 @ $8E98
-
 #W32($2DEDC)
-<COLOR><GRAY>re：Setting<END>
-//POINTER #323 @ $2DF00 - STRING #323 @ $8EB2
-
 #W32($2DF00)
-<COLOR><GRAY>re：Setting<END>
-//POINTER #324 @ $2DF24 - STRING #324 @ $8ECC
-
 #W32($2DF24)
-<COLOR><GRAY>re：Setting<END>
-//POINTER #325 @ $2DF48 - STRING #325 @ $8EE6
-
 #W32($2DF48)
-<COLOR><GRAY>re：Setting<END>
-//POINTER #326 @ $2DF6C - STRING #326 @ $8F00
-
 #W32($2DF6C)
-<COLOR><GRAY>re：Setting<END>
-//POINTER #327 @ $2DF90 - STRING #327 @ $8F1A
-
 #W32($2DF90)
 <COLOR><GRAY>re：Setting<END>
-//POINTER #328 @ $2DFB4 - STRING #328 @ $8F34
+//POINTER #304 @ $2DC54 - STRING #304 @ $8CC4
 
 #W32($2DFB4)
 <COLOR><GRAY>Restoring<END>
 //POINTER #329 @ $2DFD8 - STRING #329 @ $8F44
 
 #W32($2DFD8)
-<COLOR><GRAY>re：Restoring<END>
-//POINTER #330 @ $2DFFC - STRING #330 @ $8F5A
-
 #W32($2DFFC)
-<COLOR><GRAY>re：Restoring<END>
-//POINTER #331 @ $2E020 - STRING #331 @ $8F70
-
 #W32($2E020)
-<COLOR><GRAY>re：Restoring<END>
-//POINTER #332 @ $2E044 - STRING #332 @ $8F86
-
 #W32($2E044)
-<COLOR><GRAY>re：Restoring<END>
-//POINTER #333 @ $2E068 - STRING #333 @ $8F9C
-
 #W32($2E068)
-<COLOR><GRAY>re：Restoring<END>
-//POINTER #334 @ $2E08C - STRING #334 @ $8FB2
-
 #W32($2E08C)
-<COLOR><GRAY>re：Restoring<END>
-//POINTER #335 @ $2E0B0 - STRING #335 @ $8FC8
-
 #W32($2E0B0)
-<COLOR><GRAY>re：Restoring<END>
-//POINTER #336 @ $2E0D4 - STRING #336 @ $8FDE
-
 #W32($2E0D4)
-<COLOR><GRAY>re：Restoring<END>
-//POINTER #337 @ $2E0F8 - STRING #337 @ $8FF4
-
 #W32($2E0F8)
-<COLOR><GRAY>re：Restoring<END>
-//POINTER #338 @ $2E11C - STRING #338 @ $900A
-
 #W32($2E11C)
-<COLOR><GRAY>re：Restoring<END>
-//POINTER #339 @ $2E140 - STRING #339 @ $9020
-
 #W32($2E140)
-<COLOR><GRAY>re：Restoring<END>
-//POINTER #340 @ $2E164 - STRING #340 @ $9036
-
 #W32($2E164)
-<COLOR><GRAY>re：Restoring<END>
-//POINTER #341 @ $2E188 - STRING #341 @ $904C
-
 #W32($2E188)
-<COLOR><GRAY>re：Restoring<END>
-//POINTER #342 @ $2E1AC - STRING #342 @ $9062
-
 #W32($2E1AC)
 <COLOR><GRAY>re：Restoring<END>
-//POINTER #343 @ $2E1D0 - STRING #343 @ $9078
+//POINTER #330 @ $2DFFC - STRING #330 @ $8F5A
 
 #W32($2E1D0)
 <COLOR><GRAY>Eco-friendly items<END>
 //POINTER #344 @ $2E1F4 - STRING #344 @ $9094
 
 #W32($2E1F4)
-<COLOR><GRAY>re：Eco-friendly items<END>
-//POINTER #345 @ $2E218 - STRING #345 @ $90B6
-
 #W32($2E218)
-<COLOR><GRAY>re：Eco-friendly items<END>
-//POINTER #346 @ $2E23C - STRING #346 @ $90D8
-
 #W32($2E23C)
-<COLOR><GRAY>re：Eco-friendly items<END>
-//POINTER #347 @ $2E260 - STRING #347 @ $90FA
-
 #W32($2E260)
-<COLOR><GRAY>re：Eco-friendly items<END>
-//POINTER #348 @ $2E284 - STRING #348 @ $911C
-
 #W32($2E284)
-<COLOR><GRAY>re：Eco-friendly items<END>
-//POINTER #349 @ $2E2A8 - STRING #349 @ $913E
-
 #W32($2E2A8)
-<COLOR><GRAY>re：Eco-friendly items<END>
-//POINTER #350 @ $2E2CC - STRING #350 @ $9160
-
 #W32($2E2CC)
-<COLOR><GRAY>re：Eco-friendly items<END>
-//POINTER #351 @ $2E2F0 - STRING #351 @ $9182
-
 #W32($2E2F0)
-<COLOR><GRAY>re：Eco-friendly items<END>
-//POINTER #352 @ $2E314 - STRING #352 @ $91A4
-
 #W32($2E314)
-<COLOR><GRAY>re：Eco-friendly items<END>
-//POINTER #353 @ $2E338 - STRING #353 @ $91C6
-
 #W32($2E338)
-<COLOR><GRAY>re：Eco-friendly items<END>
-//POINTER #354 @ $2E35C - STRING #354 @ $91E8
-
 #W32($2E35C)
-<COLOR><GRAY>re：Eco-friendly items<END>
-//POINTER #355 @ $2E380 - STRING #355 @ $920A
-
 #W32($2E380)
-<COLOR><GRAY>re：Eco-friendly items<END>
-//POINTER #356 @ $2E3A4 - STRING #356 @ $922C
-
 #W32($2E3A4)
-<COLOR><GRAY>re：Eco-friendly items<END>
-//POINTER #357 @ $2E3C8 - STRING #357 @ $924E
-
 #W32($2E3C8)
-<COLOR><GRAY>re：Eco-friendly items<END>
-//POINTER #358 @ $2E3EC - STRING #358 @ $9270
-
 #W32($2E3EC)
-<COLOR><GRAY>re：Eco-friendly items<END>
-//POINTER #359 @ $2E410 - STRING #359 @ $9292
-
 #W32($2E410)
-<COLOR><GRAY>re：Eco-friendly items<END>
-//POINTER #360 @ $2E434 - STRING #360 @ $92B4
-
 #W32($2E434)
-<COLOR><GRAY>re：Eco-friendly items<END>
-//POINTER #361 @ $2E458 - STRING #361 @ $92D6
-
 #W32($2E458)
 <COLOR><GRAY>re：Eco-friendly items<END>
-//POINTER #362 @ $2E47C - STRING #362 @ $92F8
+//POINTER #345 @ $2E218 - STRING #345 @ $90B6
 
 #W32($2E47C)
 <COLOR><GRAY>Tuning 2<END>
@@ -10202,243 +10040,243 @@
 //POINTER #300 @ $2DBC8 - STRING #300 @ $11FF8
 
 #W32($2DC10)
-<COLOR><GRAY>セッティングについて語るべし！<END>
+<COLOR><GRAY>We must talk about the setting！<END>
 //POINTER #303 @ $2DC34 - STRING #303 @ $12036
 
 #W32($2DC34)
-<COLOR><GRAY>セッティングって３種類もあるけど、<END>
+<COLOR><GRAY>There are 3 sets of settings、<END>
 //POINTER #304 @ $2DC58 - STRING #304 @ $12060
 
 #W32($2DC58)
-<COLOR><GRAY>初心者なら、<COLOR><RED>オートセッティング<COLOR><GRAY>で決まり。<END>
+<COLOR><GRAY>For a beginner、go with the <COLOR><RED>Auto Setting<COLOR><GRAY>．<END>
 //POINTER #305 @ $2DC7C - STRING #305 @ $1209C
 
 #W32($2DC7C)
-<COLOR><GRAY>オートセッティングなら最初は加速重視がオススメ。<END>
+<COLOR><GRAY>If you're gonna go with the Auto Setting、I recommend<END>
 //POINTER #306 @ $2DCA0 - STRING #306 @ $120D4
 
 #W32($2DCA0)
-<COLOR><GRAY>まあ、そうなっちゃったら、チューニングで<END>
+<COLOR><GRAY>Well、if it comes to that、you can either increase power<END>
 //POINTER #307 @ $2DCC4 - STRING #307 @ $12104
 
 #W32($2DCC4)
-<COLOR><GRAY>セッティングに興味があるなら<END>
+<COLOR><GRAY>If you're interested in setting up yourself、<END>
 //POINTER #308 @ $2DCE8 - STRING #308 @ $12128
 
 #W32($2DCE8)
-<COLOR><GRAY>セッティングアシストを使えば、大まかにセッティング<END>
+<COLOR><GRAY>If you use the Setting Assist、<END>
 //POINTER #309 @ $2DD0C - STRING #309 @ $12162
 
 #W32($2DD0C)
-<COLOR><GRAY>セッティングに慣れて<END>
+<COLOR><GRAY>When you get used to setting up and no longer need<END>
 //POINTER #310 @ $2DD30 - STRING #310 @ $1217E
 
 #W32($2DD30)
-<COLOR><GRAY>機能性を追求したメニューで<END>
+<COLOR><GRAY>With the menu designed for functionality、<END>
 //POINTER #311 @ $2DD54 - STRING #311 @ $121A0
 
 #W32($2DD54)
-<COLOR><GRAY>コースセッティングかぁ。<END>
+<COLOR><GRAY>Course Setting、hmm．<END>
 //POINTER #312 @ $2DD78 - STRING #312 @ $121C0
 
 #W32($2DD78)
-<COLOR><GRAY>深遠なるセッティングの世界へようこそ。<END>
+<COLOR><GRAY>Welcome to the profound world of setups．<END>
 //POINTER #313 @ $2DD9C - STRING #313 @ $121EE
 
 #W32($2DD9C)
-<COLOR><GRAY>そうそうコースセッティングや、<END>
+<COLOR><GRAY>Oh right、when adjusting in Course Setting or<END>
 //POINTER #314 @ $2DDC0 - STRING #314 @ $12214
 
 #W32($2DDC0)
-<COLOR><GRAY>スプリングレートとダンパーは<END>
+<COLOR><GRAY>If you don't adjust the spring rate and dampers together、<END>
 //POINTER #315 @ $2DDE4 - STRING #315 @ $12238
 
 #W32($2DDE4)
-<COLOR><GRAY>セッティングが<COLOR><RED>３種類<COLOR><GRAY>保存できるけど<END>
+<COLOR><GRAY>I can save up to <COLOR><RED>3 sets<COLOR><GRAY> of settings、<END>
 //POINTER #316 @ $2DE08 - STRING #316 @ $1226E
 
 #W32($2DE08)
-<COLOR><GRAY>オーソドックスな使い方としては<END>
+<COLOR><GRAY>The orthodox way of using them is to save a set for each<END>
 //POINTER #317 @ $2DE2C - STRING #317 @ $12294
 
 #W32($2DE2C)
-<COLOR><GRAY>ＤＲＹコンディション用と<END>
+<COLOR><GRAY>You could also save one for DRY conditions and one for<END>
 //POINTER #318 @ $2DE50 - STRING #318 @ $122B4
 
 #W32($2DE50)
-<COLOR><GRAY>ＳＰ、ＲＰで使用するグリップ走行用と、<END>
+<COLOR><GRAY>You can save one with grip settings for driving in SP<END>
 //POINTER #319 @ $2DE74 - STRING #319 @ $122E2
 
 #W32($2DE74)
-<COLOR><GRAY>加速重視のセッティングと、<END>
+<COLOR><GRAY>Another way is to have a setting for acceleration<END>
 //POINTER #320 @ $2DE98 - STRING #320 @ $12304
 
 #W32($2DE98)
-<COLOR><GRAY>使い方は、工夫次第だな。<END>
+<COLOR><GRAY>After all、it's really up to your creativity on how<END>
 //POINTER #321 @ $2DEBC - STRING #321 @ $12324
 
 #W32($2DEBC)
-<COLOR><GRAY>ひとつは、乗り心地の良いデート用に<END>
+<COLOR><GRAY>Save a set for a comfortable and smooth ride<END>
 //POINTER #322 @ $2DEE0 - STRING #322 @ $1234E
 
 #W32($2DEE0)
-<COLOR><GRAY>セッティング、なんだかうまくいかないんだよな。<END>
+<COLOR><GRAY>The setting thing、I don't know、it's just not working out．<END>
 //POINTER #323 @ $2DF04 - STRING #323 @ $12384
 
 #W32($2DF04)
-<COLOR><GRAY>セッティングの常識に拘りすぎてちゃダメだぜ！<END>
+<COLOR><GRAY>Don't get too caught up with convenient setting solutions！<END>
 //POINTER #324 @ $2DF28 - STRING #324 @ $123B8
 
 #W32($2DF28)
-<COLOR><GRAY>俺のＮＳＸなんか、<END>
+<COLOR><GRAY>For my NSX、setting the front toe to ＋10<END>
 //POINTER #325 @ $2DF4C - STRING #325 @ $123D2
 
 #W32($2DF4C)
-<COLOR><GRAY>セッティングに近道なし。<END>
+<COLOR><GRAY>Setting up has no shortcuts．<END>
 //POINTER #326 @ $2DF70 - STRING #326 @ $123F2
 
 #W32($2DF70)
-<COLOR><GRAY>コースでセッティングしようと思うんだけど……<END>
+<COLOR><GRAY>I was thinking of doing the Course Setting……<END>
 //POINTER #327 @ $2DF94 - STRING #327 @ $12426
 
 #W32($2DF94)
-<COLOR><GRAY>そう言うときは、<END>
+<COLOR><GRAY>If that's the case、<END>
 //POINTER #328 @ $2DFB8 - STRING #328 @ $1243E
 
 #W32($2DFB8)
-<COLOR><GRAY>車は生き物。常に愛情を注いで、<END>
+<COLOR><GRAY>A car is a living being．Always give it care、<END>
 //POINTER #329 @ $2DFDC - STRING #329 @ $12464
 
 #W32($2DFDC)
-<COLOR><GRAY>コンディションって、イベントが終わったら<END>
+<COLOR><GRAY>Condition doesn't get restored after finishing<END>
 //POINTER #330 @ $2E000 - STRING #330 @ $12494
 
 #W32($2E000)
-<COLOR><GRAY>衝突で凹んでしまった傷とかは直して貰えるけど<END>
+<COLOR><GRAY>Dents and scratches from collisions can be repaired、<END>
 //POINTER #331 @ $2E024 - STRING #331 @ $124C8
 
 #W32($2E024)
-<COLOR><GRAY>疲労が蓄積しちゃうと、どうなるの？<END>
+<COLOR><GRAY>What happens when the wear builds up？<END>
 //POINTER #332 @ $2E048 - STRING #332 @ $124F2
 
 #W32($2E048)
-<COLOR><GRAY>エンジンの出力をしっかり地面へ伝えられなくなる。<END>
+<COLOR><GRAY>The engine won't effectively output power to the ground．<END>
 //POINTER #333 @ $2E06C - STRING #333 @ $1252A
 
 #W32($2E06C)
-<COLOR><GRAY>どんなに凄いエンジンを積んでも、いつの間にか<END>
+<COLOR><GRAY>No matter how amazing the engine is、<END>
 //POINTER #334 @ $2E090 - STRING #334 @ $1255E
 
 #W32($2E090)
-<COLOR><GRAY>ボクの車、大丈夫かな！？<END>
+<COLOR><GRAY>Is my car alright！？<END>
 //POINTER #335 @ $2E0B4 - STRING #335 @ $1257E
 
 #W32($2E0B4)
-<COLOR><GRAY>新車なら、そんなに気にしなくても大丈夫だよ。<END>
+<COLOR><GRAY>If your car is new、there is nothing to worry about．<END>
 //POINTER #336 @ $2E0D8 - STRING #336 @ $125B2
 
 #W32($2E0D8)
-<COLOR><GRAY>ＨＯＭＥの「ＣＡＲ　ＣＯＮＤＩＴＩＯＮ」<END>
+<COLOR><GRAY>You can check the「CAR CONDITION」gauge at HOME．<END>
 //POINTER #337 @ $2E0FC - STRING #337 @ $125E2
 
 #W32($2E0FC)
-<COLOR><GRAY>黄色かったかも（；´д⊂）<END>
+<COLOR><GRAY>It might be yellow（；´д⊂）<END>
 //POINTER #338 @ $2E120 - STRING #338 @ $12604
 
 #W32($2E120)
-<COLOR><GRAY>劣化したコンディションは<END>
+<COLOR><GRAY>A worn out condition can be <COLOR><RED>restored<END>
 //POINTER #339 @ $2E144 - STRING #339 @ $12624
 
 #W32($2E144)
-<COLOR><GRAY>レストアするタイミングって、いつも迷うんだよね。<END>
+<COLOR><GRAY>I always struggle with when to restore the car．<END>
 //POINTER #340 @ $2E168 - STRING #340 @ $1265C
 
 #W32($2E168)
-<COLOR><GRAY>車の性能が回復すれば、<END>
+<COLOR><GRAY>Once the car's performance is restored、<END>
 //POINTER #341 @ $2E18C - STRING #341 @ $1267A
 
 #W32($2E18C)
-<COLOR><GRAY>確かに乗り込んだ車ってのは<END>
+<COLOR><GRAY>It's true that a car that's being driven will inevitably<END>
 //POINTER #342 @ $2E1B0 - STRING #342 @ $1269C
 
 #W32($2E1B0)
-<COLOR><GRAY>その車で走り込んだ経験は、大きな財産だから<END>
+<COLOR><GRAY>The experience of driving a car is a valuable asset、<END>
 //POINTER #343 @ $2E1D4 - STRING #343 @ $126CE
 
 #W32($2E1D4)
-<COLOR><GRAY>トルマリンシートとかエコナントカとかいう<END>
+<COLOR><GRAY>Do products like tourmaline sheets and eco-whatever<END>
 //POINTER #344 @ $2E1F8 - STRING #344 @ $126FE
 
 #W32($2E1F8)
-<COLOR><GRAY>やっぱアレじゃねえの？<END>
+<COLOR><GRAY>Aren't those things supposed to improve……<END>
 //POINTER #345 @ $2E21C - STRING #345 @ $1271C
 
 #W32($2E21C)
-<COLOR><GRAY>確かにＣＰの貯まりは良くなった<END>
+<COLOR><GRAY>It certainly improves the CP savings<END>
 //POINTER #346 @ $2E240 - STRING #346 @ $12742
 
 #W32($2E240)
-<COLOR><GRAY>俺はエンジンがタレにくくなった<END>
+<COLOR><GRAY>I'm less likely to overheat my engine<END>
 //POINTER #347 @ $2E264 - STRING #347 @ $12768
 
 #W32($2E264)
-<COLOR><GRAY>う～ん……<END>
+<COLOR><GRAY>Riiight……<END>
 //POINTER #348 @ $2E288 - STRING #348 @ $1277A
 
 #W32($2E288)
-<COLOR><GRAY>エコエコ君はいい！<END>
+<COLOR><GRAY>Eco Eco-Kun is great！<END>
 //POINTER #349 @ $2E2AC - STRING #349 @ $12794
 
 #W32($2E2AC)
-<COLOR><GRAY>みんなダマされるなよ。<END>
+<COLOR><GRAY>Don't get fooled、guys．<END>
 //POINTER #350 @ $2E2D0 - STRING #350 @ $127B2
 
 #W32($2E2D0)
-<COLOR><GRAY>そんなことはないっ！<END>
+<COLOR><GRAY>That's false！<END>
 //POINTER #351 @ $2E2F4 - STRING #351 @ $127CE
 
 #W32($2E2F4)
-<COLOR><GRAY>そんなに言うなら、<END>
+<COLOR><GRAY>If you're talking about it so much、<END>
 //POINTER #352 @ $2E318 - STRING #352 @ $127E8
 
 #W32($2E318)
-<COLOR><GRAY>よく分かんないけど、<END>
+<COLOR><GRAY>I'm not too sure、<END>
 //POINTER #353 @ $2E33C - STRING #353 @ $12804
 
 #W32($2E33C)
-<COLOR><GRAY>よく分からないのかよ！<END>
+<COLOR><GRAY>You don't know either！<END>
 //POINTER #354 @ $2E360 - STRING #354 @ $12822
 
 #W32($2E360)
-<COLOR><GRAY>ＤＰバトルで勝ちやすくなったよ！<END>
+<COLOR><GRAY>Makes it easier to win DP Battles！<END>
 //POINTER #355 @ $2E384 - STRING #355 @ $1284A
 
 #W32($2E384)
-<COLOR><GRAY>言い切ったねヽ（´ー｀）ノ<END>
+<COLOR><GRAY>Said it with such confidence ヽ（´ー｀）ノ<END>
 //POINTER #356 @ $2E3A8 - STRING #356 @ $1286C
 
 #W32($2E3A8)
-<COLOR><GRAY>ＳＰバトルでも勝てるようになった！<END>
+<COLOR><GRAY>I can now win SP Battles！<END>
 //POINTER #357 @ $2E3CC - STRING #357 @ $12896
 
 #W32($2E3CC)
-<COLOR><GRAY>それはありえるのか～？<END>
+<COLOR><GRAY>Is that the truth～？<END>
 //POINTER #358 @ $2E3F0 - STRING #358 @ $128B4
 
 #W32($2E3F0)
-<COLOR><GRAY>車じゃなく、<END>
+<COLOR><GRAY>Not a car、<END>
 //POINTER #359 @ $2E414 - STRING #359 @ $128C8
 
 #W32($2E414)
-<COLOR><GRAY>エコエコ君を買えば分かる！<END>
+<COLOR><GRAY>Buy the Eco Eco-Kun and you'll get it！<END>
 //POINTER #360 @ $2E438 - STRING #360 @ $128EA
 
 #W32($2E438)
-<COLOR><GRAY>もういいや。<END>
+<COLOR><GRAY>That's enough．<END>
 //POINTER #361 @ $2E45C - STRING #361 @ $128FE
 
 #W32($2E45C)
-<COLOR><GRAY>エコエコ～（＊´д｀＊）<END>
+<COLOR><GRAY>Eco Eco～（＊´д｀＊）<END>
 //POINTER #362 @ $2E480 - STRING #362 @ $1291E
 
 #W32($2E480)
@@ -15010,7 +14848,7 @@
 //POINTER #268 @ $2D74C - STRING #268 @ $1C5FA
 
 #W32($2D74C)
-<COLOR><GRAY><COLOR><RED>「Recommended Tune」<COLOR><GRAY>option from the tuning shop．<END>
+<COLOR><GRAY><COLOR><RED>「Recommended Tune」<COLOR><GRAY>option from the Tuning Shop．<END>
 //POINTER #269 @ $2D770 - STRING #269 @ $1C632
 
 #W32($2D770)
@@ -15140,119 +14978,119 @@
 //POINTER #300 @ $2DBCC - STRING #300 @ $1CA8A
 
 #W32($2DC14)
-<COLOR><GRAY>ただし、ここに書かれた内容を行って<END>
+<COLOR><GRAY>However、you are responsible for whatever happens<END>
 //POINTER #303 @ $2DC38 - STRING #303 @ $1CAB8
 
 #W32($2DC38)
-<COLOR><GRAY>どれを使えばいいの？<END>
+<COLOR><GRAY>which one should I use？<END>
 //POINTER #304 @ $2DC5C - STRING #304 @ $1CAD4
 
 #W32($2DC5C)
-<COLOR><GRAY>これなら、おいらでも失敗しない（笑）<END>
+<COLOR><GRAY>Even I can't mess it up with that（lol）<END>
 //POINTER #305 @ $2DC80 - STRING #305 @ $1CB00
 
 #W32($2DC80)
-<COLOR><GRAY>馬力が少ない車で最高速重視にすると、<END>
+<COLOR><GRAY>setting it to acceleration focus．If you set it to<END>
 //POINTER #306 @ $2DCA4 - STRING #306 @ $1CB2C
 
 #W32($2DCA4)
-<COLOR><GRAY>馬力を上げるかミッションのファイナルギアの<END>
+<COLOR><GRAY>through tuning or adjust the final gear ratio<END>
 //POINTER #307 @ $2DCC8 - STRING #307 @ $1CB5E
 
 #W32($2DCC8)
-<COLOR><GRAY><COLOR><RED>コースセッティング<COLOR><GRAY>を使ってみるべし！<END>
+<COLOR><GRAY>try using the <COLOR><RED>Course Setting<COLOR><GRAY> option！<END>
 //POINTER #308 @ $2DCEC - STRING #308 @ $1CB96
 
 #W32($2DCEC)
-<COLOR><GRAY>してくれるから、テスト走行しながら微調整していけば<END>
+<COLOR><GRAY>it'll give you a basic setup．From there、you can fine-tune<END>
 //POINTER #309 @ $2DD10 - STRING #309 @ $1CBD0
 
 #W32($2DD10)
-<COLOR><GRAY>テスト走行が要らなくなったら<END>
+<COLOR><GRAY>test runs to fine-tune、<END>
 //POINTER #310 @ $2DD34 - STRING #310 @ $1CBF4
 
 #W32($2DD34)
-<COLOR><GRAY>セッティング変更もスイスイだよ。<END>
+<COLOR><GRAY>changing the settings sure is a breeze．<END>
 //POINTER #311 @ $2DD58 - STRING #311 @ $1CC1C
 
 #W32($2DD58)
-<COLOR><GRAY>なんだか楽しそうだし、やってみようかな。<END>
+<COLOR><GRAY>Sounds fun I guess、I'll give it a try．<END>
 //POINTER #312 @ $2DD7C - STRING #312 @ $1CC4C
 
 #W32($2DD7C)
-<COLOR><GRAY>走りをイメージして、それに近づけていく作業は<END>
+<COLOR><GRAY>Imagining an ideal way for your car to run and then<END>
 //POINTER #313 @ $2DDA0 - STRING #313 @ $1CC80
 
 #W32($2DDA0)
-<COLOR><GRAY>ガレージセッティングをするなら<END>
+<COLOR><GRAY>Garage Setting、there is one thing<END>
 //POINTER #314 @ $2DDC4 - STRING #314 @ $1CCA6
 
 #W32($2DDC4)
-<COLOR><GRAY>セットで調整しないと乗りづらくなってしまう。<END>
+<COLOR><GRAY>the car will become difficult to handle．<END>
 //POINTER #315 @ $2DDE8 - STRING #315 @ $1CCDA
 
 #W32($2DDE8)
-<COLOR><GRAY>どう使えばいいの？<END>
+<COLOR><GRAY>but how do I use them？<END>
 //POINTER #316 @ $2DE0C - STRING #316 @ $1CCF4
 
 #W32($2DE0C)
-<COLOR><GRAY>ＳＰ、ＤＰ、ＲＰのバトルごとに保存しておいて<END>
+<COLOR><GRAY>of the SP、DP、RP Battle types and then use them<END>
 //POINTER #317 @ $2DE30 - STRING #317 @ $1CD28
 
 #W32($2DE30)
-<COLOR><GRAY>ＷＥＴコンディション用を保存しておいて<END>
+<COLOR><GRAY>WET conditions and use them according to the current<END>
 //POINTER #318 @ $2DE54 - STRING #318 @ $1CD56
 
 #W32($2DE54)
-<COLOR><GRAY>ＤＰで使用するドリフト走行用を保存しておいて<END>
+<COLOR><GRAY>and RP and one with drift setup for DP Battles、<END>
 //POINTER #319 @ $2DE78 - STRING #319 @ $1CD8A
 
 #W32($2DE78)
-<COLOR><GRAY>最高速重視のセッティングを用意して、<END>
+<COLOR><GRAY>and another one for top speed、and then use them<END>
 //POINTER #320 @ $2DE9C - STRING #320 @ $1CDB6
 
 #W32($2DE9C)
-<END>
+<COLOR><GRAY>to use them．<END>
 //POINTER #321 @ $2DEC0 - STRING #321 @ $1CDB8
 
 #W32($2DEC0)
-<COLOR><GRAY>決まってるジャマイカ（＊´д｀＊）<END>
+<COLOR><GRAY>on a date、ain't that right（＊´д｀＊）<END>
 //POINTER #322 @ $2DEE4 - STRING #322 @ $1CDE2
 
 #W32($2DEE4)
-<COLOR><GRAY>速い人のセッティングを参考にしてるんだけど。<END>
+<COLOR><GRAY>Even though I'm trying to follow<END>
 //POINTER #323 @ $2DF08 - STRING #323 @ $1CE16
 
 #W32($2DF08)
-<COLOR><GRAY>車種やタイヤ、天候によっても、<END>
+<COLOR><GRAY>The optimal setups are totally different depending on the<END>
 //POINTER #324 @ $2DF2C - STRING #324 @ $1CE3C
 
 #W32($2DF2C)
-<COLOR><GRAY>フロントのトー角をプラス１０にした方が<END>
+<COLOR><GRAY>makes it actually more stable<END>
 //POINTER #325 @ $2DF50 - STRING #325 @ $1CE6A
 
 #W32($2DF50)
-<COLOR><GRAY>セッティングに正解なし。<END>
+<COLOR><GRAY>Setting up has no single solutions．<END>
 //POINTER #326 @ $2DF74 - STRING #326 @ $1CE8A
 
 #W32($2DF74)
-<COLOR><GRAY>Ｓタイヤ（Ｓ）だとタイヤ温度が刻々と変わって<END>
+<COLOR><GRAY>but the S（S）tires get hot within a moment and lose grip<END>
 //POINTER #327 @ $2DF98 - STRING #327 @ $1CEBE
 
 #W32($2DF98)
-<COLOR><GRAY>ピットインしてタイヤ代えるといいよ（笑）<END>
+<COLOR><GRAY>making a pit stop and changing the tires <END>
 //POINTER #328 @ $2DFBC - STRING #328 @ $1CEEE
 
 #W32($2DFBC)
-<COLOR><GRAY><COLOR><RED>コンディション<COLOR><GRAY>を最良の状態に保ちましょう。<END>
+<COLOR><GRAY>keep its <COLOR><RED>condition<COLOR><GRAY> at its best．<END>
 //POINTER #329 @ $2DFE0 - STRING #329 @ $1CF2C
 
 #W32($2DFE0)
-<COLOR><GRAY>直して貰えるんじゃないの？<END>
+<COLOR><GRAY>the event？<END>
 //POINTER #330 @ $2E004 - STRING #330 @ $1CF4E
 
 #W32($2E004)
-<COLOR><GRAY>それだって完全じゃないし、長い走行によって徐々に<END>
+<COLOR><GRAY>but it's not perfect by any means．Wear from prolonged<END>
 //POINTER #331 @ $2E028 - STRING #331 @ $1CF86
 
 #W32($2E028)
@@ -15260,11 +15098,11 @@
 //POINTER #332 @ $2E04C - STRING #332 @ $1CF88
 
 #W32($2E04C)
-<COLOR><GRAY>劣化の進行は非常にゆっくりだから、<END>
+<COLOR><GRAY>Progression of wear is very gradual、<END>
 //POINTER #333 @ $2E070 - STRING #333 @ $1CFB2
 
 #W32($2E070)
-<COLOR><GRAY>その実力を発揮しきれなくなってるってわけ。<END>
+<COLOR><GRAY>it will lose its ability to perform at<END>
 //POINTER #334 @ $2E094 - STRING #334 @ $1CFE4
 
 #W32($2E094)
@@ -15272,79 +15110,79 @@
 //POINTER #335 @ $2E0B8 - STRING #335 @ $1CFE6
 
 #W32($2E0B8)
-<COLOR><GRAY>もしも中古車を買ったんだったら、<END>
+<COLOR><GRAY>If you bought a used car、you might want to<END>
 //POINTER #336 @ $2E0DC - STRING #336 @ $1D00E
 
 #W32($2E0DC)
-<COLOR><GRAY>のゲージで確認できるよ。<END>
+<COLOR><GRAY>If it's green、it is all good．<END>
 //POINTER #337 @ $2E100 - STRING #337 @ $1D02E
 
 #W32($2E100)
-<COLOR><GRAY>買い替えかな？<END>
+<COLOR><GRAY>Does it mean I have to buy a new one？<END>
 //POINTER #338 @ $2E124 - STRING #338 @ $1D044
 
 #W32($2E124)
-<COLOR><GRAY>チューニングショップで<COLOR><RED>レストア<COLOR><GRAY>できるから。<END>
+<COLOR><GRAY>at the Tuning Shop．<END>
 //POINTER #339 @ $2E148 - STRING #339 @ $1D082
 
 #W32($2E148)
-<COLOR><GRAY>まとめて直したほうがお得な訳じゃない。<END>
+<COLOR><GRAY>It's not always cheaper to fix everything at once．<END>
 //POINTER #340 @ $2E16C - STRING #340 @ $1D0B0
 
 #W32($2E16C)
-<COLOR><GRAY>レストア代くらいすぐ稼げるんだから。<END>
+<COLOR><GRAY>you'll quickly earn back the money you spent．<END>
 //POINTER #341 @ $2E190 - STRING #341 @ $1D0DC
 
 #W32($2E190)
-<COLOR><GRAY>ボディ剛性の劣化は避けられないけど<END>
+<COLOR><GRAY>lose its body rigidity、<END>
 //POINTER #342 @ $2E1B4 - STRING #342 @ $1D106
 
 #W32($2E1B4)
-<COLOR><GRAY>古い車も愛着をもって大事にして欲しいな。<END>
+<COLOR><GRAY>so I hope you cherish and take care of even older cars．<END>
 //POINTER #343 @ $2E1D8 - STRING #343 @ $1D136
 
 #W32($2E1D8)
-<COLOR><GRAY>カー用品ってホントに効き目あるの（´Ａ｀）？<END>
+<COLOR><GRAY>actually do anything （´Ａ｀）？<END>
 //POINTER #344 @ $2E1FC - STRING #344 @ $1D16A
 
 #W32($2E1FC)
-<COLOR><GRAY>燃費がよくなったり……。<END>
+<COLOR><GRAY>fuel efficiency or something？<END>
 //POINTER #345 @ $2E220 - STRING #345 @ $1D18A
 
 #W32($2E220)
-<COLOR><GRAY>……ような気もする。<END>
+<COLOR><GRAY>……or so it seams．<END>
 //POINTER #346 @ $2E244 - STRING #346 @ $1D1A6
 
 #W32($2E244)
-<COLOR><GRAY>……ような気もするけど。<END>
+<COLOR><GRAY>……I think．<END>
 //POINTER #347 @ $2E268 - STRING #347 @ $1D1C6
 
 #W32($2E268)
-<COLOR><GRAY>あまり良く分からない（´Ａ｀）<END>
+<COLOR><GRAY>I don't understand how at all（´Ａ｀）<END>
 //POINTER #348 @ $2E28C - STRING #348 @ $1D1EC
 
 #W32($2E28C)
-<COLOR><GRAY>絶対おすすめ！<END>
+<COLOR><GRAY>Absolutely recommended！<END>
 //POINTER #349 @ $2E2B0 - STRING #349 @ $1D202
 
 #W32($2E2B0)
-<COLOR><GRAY>結局何も効果なんてないんだよ、きっと。<END>
+<COLOR><GRAY>In the end、none of them do anything、I'm sure．<END>
 //POINTER #350 @ $2E2D4 - STRING #350 @ $1D230
 
 #W32($2E2D4)
-<COLOR><GRAY>みんなでエコエコ君を買おう！<END>
+<COLOR><GRAY>Everyone、let's get an Eco Eco-Kun！<END>
 //POINTER #351 @ $2E2F8 - STRING #351 @ $1D254
 
 #W32($2E2F8)
-<COLOR><GRAY>何か効果あったのかよ。<END>
+<COLOR><GRAY>tell us what it's good for．<END>
 //POINTER #352 @ $2E31C - STRING #352 @ $1D272
 
 #W32($2E31C)
-<COLOR><GRAY>スッゲーいい効果があった気がする！<END>
+<COLOR><GRAY>but I think it has a great effect！<END>
 //POINTER #353 @ $2E340 - STRING #353 @ $1D29C
 
 #W32($2E340)
-<COLOR><GRAY>だから、そういう分からないカー用品だから<END>
+<COLOR><GRAY>That's why we are all discussing these unclear<END>
 //POINTER #354 @ $2E364 - STRING #354 @ $1D2CC
 
 #W32($2E364)
@@ -15352,7 +15190,7 @@
 //POINTER #355 @ $2E388 - STRING #355 @ $1D2CE
 
 #W32($2E388)
-<COLOR><GRAY>てか、何でＤＰバトルで勝てるようになるんだよ。<END>
+<COLOR><GRAY>So、I guess it helps you win DP Battles now．<END>
 //POINTER #356 @ $2E3AC - STRING #356 @ $1D304
 
 #W32($2E3AC)
@@ -15360,11 +15198,11 @@
 //POINTER #357 @ $2E3D0 - STRING #357 @ $1D306
 
 #W32($2E3D0)
-<COLOR><GRAY>ＳＰバトルは気力の問題だぞ（´∀｀）σ）´Д｀）<END>
+<COLOR><GRAY>SP Battles are all about your mental strength、man<END>
 //POINTER #358 @ $2E3F4 - STRING #358 @ $1D33E
 
 #W32($2E3F4)
-<COLOR><GRAY>人体に影響するカー用品だったりして（笑）<END>
+<COLOR><GRAY>but a human accessory it seems（lol）<END>
 //POINTER #359 @ $2E418 - STRING #359 @ $1D36E
 
 #W32($2E418)
@@ -15372,11 +15210,11 @@
 //POINTER #360 @ $2E43C - STRING #360 @ $1D370
 
 #W32($2E43C)
-<COLOR><GRAY>コイツ放置ね。<END>
+<COLOR><GRAY>Let's leave this guy alone．<END>
 //POINTER #361 @ $2E460 - STRING #361 @ $1D386
 
 #W32($2E460)
-<COLOR><GRAY>信じるものは救われる、だよ。<END>
+<COLOR><GRAY>He who believes will be saved、you see．<END>
 //POINTER #362 @ $2E484 - STRING #362 @ $1D3AA
 
 #W32($2E484)
@@ -20078,7 +19916,7 @@
 //POINTER #300 @ $2DBD0 - STRING #300 @ $2582E
 
 #W32($2DC18)
-<COLOR><GRAY>どうなろうとも結果は自己責任で！<END>
+<COLOR><GRAY>after doing what's written here！<END>
 //POINTER #303 @ $2DC3C - STRING #303 @ $2585A
 
 #W32($2DC3C)
@@ -20090,11 +19928,11 @@
 //POINTER #305 @ $2DC84 - STRING #305 @ $2585E
 
 #W32($2DC84)
-<COLOR><GRAY>最高速に達しなくなる場合があるからね。<END>
+<COLOR><GRAY>top speed with a low power car、it won't reach that speed．<END>
 //POINTER #306 @ $2DCA8 - STRING #306 @ $2588C
 
 #W32($2DCA8)
-<COLOR><GRAY>セッティングを少し大きめに調整すればいいんだけど。<END>
+<COLOR><GRAY>a bit higher in the transmission setting．<END>
 //POINTER #307 @ $2DCCC - STRING #307 @ $258C6
 
 #W32($2DCCC)
@@ -20102,15 +19940,15 @@
 //POINTER #308 @ $2DCF0 - STRING #308 @ $258C8
 
 #W32($2DCF0)
-<COLOR><GRAY>きっと君のベストセッティングが見つかるはず！<END>
+<COLOR><GRAY>it during test runs and find the perfect setting！<END>
 //POINTER #309 @ $2DD14 - STRING #309 @ $258FC
 
 #W32($2DD14)
-<COLOR><GRAY><COLOR><RED>ガレージセッティング<COLOR><GRAY>を使おう。<END>
+<COLOR><GRAY>you can use the <COLOR><RED>Garage Setting<COLOR><GRAY> option instead．<END>
 //POINTER #310 @ $2DD38 - STRING #310 @ $2592E
 
 #W32($2DD38)
-<COLOR><GRAY>それで、空いた時間でボクとデートしよう（笑）<END>
+<COLOR><GRAY>Since it will save you time、let's go on a date（lol）<END>
 //POINTER #311 @ $2DD5C - STRING #311 @ $25962
 
 #W32($2DD5C)
@@ -20118,15 +19956,15 @@
 //POINTER #312 @ $2DD80 - STRING #312 @ $25964
 
 #W32($2DD80)
-<COLOR><GRAY>とても楽しいものだよ。<END>
+<COLOR><GRAY>gradually setting it up to reality is truly enjoyable．<END>
 //POINTER #313 @ $2DDA4 - STRING #313 @ $25982
 
 #W32($2DDA4)
-<COLOR><GRAY>一つだけ注意点が。<END>
+<COLOR><GRAY>to watch out for．<END>
 //POINTER #314 @ $2DDC8 - STRING #314 @ $2599C
 
 #W32($2DDC8)
-<COLOR><GRAY>セッティングはトータルバランスが大事だよ。<END>
+<COLOR><GRAY>Getting the right setting is all about total balance．<END>
 //POINTER #315 @ $2DDEC - STRING #315 @ $259CE
 
 #W32($2DDEC)
@@ -20134,19 +19972,19 @@
 //POINTER #316 @ $2DE10 - STRING #316 @ $259D0
 
 #W32($2DE10)
-<COLOR><GRAY>参加するイベントに合わせて使い分けるとか。<END>
+<COLOR><GRAY>according to the event you are participating in．<END>
 //POINTER #317 @ $2DE34 - STRING #317 @ $25A02
 
 #W32($2DE34)
-<COLOR><GRAY>路面状態に合わせて使い分けるとか。<END>
+<COLOR><GRAY>road surface conditions．<END>
 //POINTER #318 @ $2DE58 - STRING #318 @ $25A2C
 
 #W32($2DE58)
-<COLOR><GRAY>走行スタイルに合わせて使い分けるとか。<END>
+<COLOR><GRAY>or use them according to your driving style．<END>
 //POINTER #319 @ $2DE7C - STRING #319 @ $25A5A
 
 #W32($2DE7C)
-<COLOR><GRAY>サーキットに合わせて使い分けるとか。<END>
+<COLOR><GRAY>depending on the circuit．<END>
 //POINTER #320 @ $2DEA0 - STRING #320 @ $25A86
 
 #W32($2DEA0)
@@ -20158,27 +19996,27 @@
 //POINTER #322 @ $2DEE8 - STRING #322 @ $25A8A
 
 #W32($2DEE8)
-<END>
+<COLOR><GRAY>the setups of fast drivers．<END>
 //POINTER #323 @ $2DF0C - STRING #323 @ $25A8C
 
 #W32($2DF0C)
-<COLOR><GRAY>最適なセッティングは全然違う！<END>
+<COLOR><GRAY>car type、tires or weather conditions！<END>
 //POINTER #324 @ $2DF30 - STRING #324 @ $25AB2
 
 #W32($2DF30)
-<COLOR><GRAY>ブレーキングで安定するしね（笑）<END>
+<COLOR><GRAY>under braking（lol）<END>
 //POINTER #325 @ $2DF54 - STRING #325 @ $25ADA
 
 #W32($2DF54)
-<COLOR><GRAY>至言だな。<END>
+<COLOR><GRAY>It's a profound truth．<END>
 //POINTER #326 @ $2DF78 - STRING #326 @ $25AEC
 
 #W32($2DF78)
-<COLOR><GRAY>すぐグリップしなくなっちゃうよ～ヽ（；´Д｀）ノ<END>
+<COLOR><GRAY>very quickly～ ヽ（；´Д｀）ノ<END>
 //POINTER #327 @ $2DF9C - STRING #327 @ $25B24
 
 #W32($2DF9C)
-<END>
+<COLOR><GRAY>is a good idea（lol）<END>
 //POINTER #328 @ $2DFC0 - STRING #328 @ $25B26
 
 #W32($2DFC0)
@@ -20190,7 +20028,7 @@
 //POINTER #330 @ $2E008 - STRING #330 @ $25B2A
 
 #W32($2E008)
-<COLOR><GRAY>蓄積していく劣化はそれじゃあ、直らないんだな。<END>
+<COLOR><GRAY>driving won't be fixed by that neither．<END>
 //POINTER #331 @ $2E02C - STRING #331 @ $25B60
 
 #W32($2E02C)
@@ -20198,11 +20036,11 @@
 //POINTER #332 @ $2E050 - STRING #332 @ $25B62
 
 #W32($2E050)
-<COLOR><GRAY>なかなか気が付きにくいんだけど。<END>
+<COLOR><GRAY>so it's hard to notice．<END>
 //POINTER #333 @ $2E074 - STRING #333 @ $25B8A
 
 #W32($2E074)
-<END>
+<COLOR><GRAY>full potential over time．<END>
 //POINTER #334 @ $2E098 - STRING #334 @ $25B8C
 
 #W32($2E098)
@@ -20210,11 +20048,11 @@
 //POINTER #335 @ $2E0BC - STRING #335 @ $25B8E
 
 #W32($2E0BC)
-<COLOR><GRAY>ちょっと調べてみた方がいいかもね。<END>
+<COLOR><GRAY>do some checking．<END>
 //POINTER #336 @ $2E0E0 - STRING #336 @ $25BB8
 
 #W32($2E0E0)
-<COLOR><GRAY>ゲージが緑なら、まあ大丈夫。<END>
+<END>
 //POINTER #337 @ $2E104 - STRING #337 @ $25BDC
 
 #W32($2E104)
@@ -20222,23 +20060,23 @@
 //POINTER #338 @ $2E128 - STRING #338 @ $25BDE
 
 #W32($2E128)
-<COLOR><GRAY>ちょっと値は張るけどな。<END>
+<COLOR><GRAY>It's a bit pricey、though．<END>
 //POINTER #339 @ $2E14C - STRING #339 @ $25BFE
 
 #W32($2E14C)
-<COLOR><GRAY>まだ、いいかなー、なんてね。<END>
+<COLOR><GRAY>Makes you think、“Maybe it's still okay”、right？<END>
 //POINTER #340 @ $2E170 - STRING #340 @ $25C22
 
 #W32($2E170)
-<COLOR><GRAY>必要な投資を惜しんじゃダメよ。<END>
+<COLOR><GRAY>Don't spare the necessary investments．<END>
 //POINTER #341 @ $2E194 - STRING #341 @ $25C48
 
 #W32($2E194)
-<COLOR><GRAY>それはレストアすれば回復できる。<END>
+<COLOR><GRAY>but this can also be restored．<END>
 //POINTER #342 @ $2E1B8 - STRING #342 @ $25C70
 
 #W32($2E1B8)
-<COLOR><GRAY>そのうち、いいこともあるはずだよ。<END>
+<COLOR><GRAY>Good things will come out of it in time．<END>
 //POINTER #343 @ $2E1DC - STRING #343 @ $25C9A
 
 #W32($2E1DC)
@@ -20282,7 +20120,7 @@
 //POINTER #353 @ $2E344 - STRING #353 @ $25CAE
 
 #W32($2E344)
-<COLOR><GRAY>みんなで話してるんだろ。<END>
+<COLOR><GRAY>car accessories here．<END>
 //POINTER #354 @ $2E368 - STRING #354 @ $25CCE
 
 #W32($2E368)
@@ -20290,7 +20128,7 @@
 //POINTER #355 @ $2E38C - STRING #355 @ $25CD0
 
 #W32($2E38C)
-<COLOR><GRAY>ドリフトしやすくなったのか？<END>
+<COLOR><GRAY>Does it make drifting easier？<END>
 //POINTER #356 @ $2E3B0 - STRING #356 @ $25CF4
 
 #W32($2E3B0)
@@ -20298,11 +20136,11 @@
 //POINTER #357 @ $2E3D4 - STRING #357 @ $25CF6
 
 #W32($2E3D4)
-<END>
+<COLOR><GRAY>（´∀｀）σ）´Д｀）<END>
 //POINTER #358 @ $2E3F8 - STRING #358 @ $25CF8
 
 #W32($2E3F8)
-<COLOR><GRAY>「気力充実！」みたいな。<END>
+<COLOR><GRAY>Looks like an「Energy Boost！」．<END>
 //POINTER #359 @ $2E41C - STRING #359 @ $25D18
 
 #W32($2E41C)
