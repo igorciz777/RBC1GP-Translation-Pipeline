@@ -20,6 +20,36 @@
 #W32($2B418)
 #W32($2B4CC)
 #W32($2B67C)
+#W32($2B70C)
+#W32($2B7C0)
+#W32($2B82C)
+#W32($2B8BC)
+#W32($2B9DC)
+#W32($2BA48)
+#W32($2BAD8)
+#W32($2BB20)
+#W32($2BB68)
+#W32($2BC88)
+#W32($2BCD0)
+#W32($2BDF0)
+#W32($2BEA4)
+#W32($2BFA0)
+#W32($2C078)
+#W32($2C12C)
+#W32($2C150)
+#W32($2C204)
+#W32($2C390)
+#W32($2C444)
+#W32($2C48C)
+#W32($2C4F8)
+#W32($2C540)
+#W32($2C588)
+#W32($2C5F4)
+#W32($2C738)
+#W32($2C834)
+#W32($2C8A0)
+#W32($2C90C)
+#W32($2C930)
 <COLOR><GRAY>RB Newbie<END>
 //POINTER #1 @ $2B1B4 - STRING #1 @ $22
 
@@ -81,10 +111,6 @@
 <COLOR><GRAY>☆Miracle Divine Wind<END>
 //POINTER #39 @ $2B70C - STRING #39 @ $338
 
-#W32($2B70C)
-<COLOR><GRAY>RB Newbie<END>
-//POINTER #40 @ $2B730 - STRING #40 @ $34A
-
 #W32($2B730)
 <COLOR><GRAY>Raging Storm<END>
 //POINTER #41 @ $2B754 - STRING #41 @ $35E
@@ -101,10 +127,6 @@
 <COLOR><GRAY>Raging Storm<END>
 //POINTER #44 @ $2B7C0 - STRING #44 @ $39A
 
-#W32($2B7C0)
-<COLOR><GRAY>RB Newbie<END>
-//POINTER #45 @ $2B7E4 - STRING #45 @ $3AC
-
 #W32($2B7E4)
 <COLOR><GRAY>Refreshing Balmy Breeze<END>
 //POINTER #46 @ $2B808 - STRING #46 @ $3C0
@@ -112,10 +134,6 @@
 #W32($2B808)
 <COLOR><GRAY>Refreshing Balmy Breeze<END>
 //POINTER #47 @ $2B82C - STRING #47 @ $3D4
-
-#W32($2B82C)
-<COLOR><GRAY>RB Newbie<END>
-//POINTER #48 @ $2B850 - STRING #48 @ $3E6
 
 #W32($2B850)
 <COLOR><GRAY>☆Miracle Divine Wind<END>
@@ -128,10 +146,6 @@
 #W32($2B898)
 <COLOR><GRAY>Unexpected Strong Wind<END>
 //POINTER #51 @ $2B8BC - STRING #51 @ $422
-
-#W32($2B8BC)
-<COLOR><GRAY>RB Newbie<END>
-//POINTER #52 @ $2B8E0 - STRING #52 @ $434
 
 #W32($2B8E0)
 <COLOR><GRAY>Refreshing Balmy Breeze<END>
@@ -161,10 +175,6 @@
 <COLOR><GRAY>Cowboy Girl<END>
 //POINTER #59 @ $2B9DC - STRING #59 @ $4CA
 
-#W32($2B9DC)
-<COLOR><GRAY>RB Newbie<END>
-//POINTER #60 @ $2BA00 - STRING #60 @ $4DC
-
 #W32($2BA00)
 <COLOR><GRAY>Silver Impact<END>
 //POINTER #61 @ $2BA24 - STRING #61 @ $4F6
@@ -172,10 +182,6 @@
 #W32($2BA24)
 <COLOR><GRAY>Silver Impact<END>
 //POINTER #62 @ $2BA48 - STRING #62 @ $510
-
-#W32($2BA48)
-<COLOR><GRAY>RB Newbie<END>
-//POINTER #63 @ $2BA6C - STRING #63 @ $522
 
 #W32($2BA6C)
 <COLOR><GRAY>☆Midnight Rose<END>
@@ -189,25 +195,13 @@
 <COLOR><GRAY>Moonlight Child<END>
 //POINTER #66 @ $2BAD8 - STRING #66 @ $574
 
-#W32($2BAD8)
-<COLOR><GRAY>RB Newbie<END>
-//POINTER #67 @ $2BAFC - STRING #67 @ $586
-
 #W32($2BAFC)
 <COLOR><GRAY>246 Heartbreaker<END>
 //POINTER #68 @ $2BB20 - STRING #68 @ $5A4
 
-#W32($2BB20)
-<COLOR><GRAY>RB Newbie<END>
-//POINTER #69 @ $2BB44 - STRING #69 @ $5B6
-
 #W32($2BB44)
 <COLOR><GRAY>Dazzling White Fairy<END>
 //POINTER #70 @ $2BB68 - STRING #70 @ $5CC
-
-#W32($2BB68)
-<COLOR><GRAY>RB Newbie<END>
-//POINTER #71 @ $2BB8C - STRING #71 @ $5DE
 
 #W32($2BB8C)
 <COLOR><GRAY>Dazzling White Fairy<END>
@@ -237,17 +231,9 @@
 <COLOR><GRAY>☆Rokkou Confession Booth<END>
 //POINTER #78 @ $2BC88 - STRING #78 @ $67C
 
-#W32($2BC88)
-<COLOR><GRAY>RB Newbie<END>
-//POINTER #79 @ $2BCAC - STRING #79 @ $68E
-
 #W32($2BCAC)
 <COLOR><GRAY>Yellow Tornado<END>
 //POINTER #80 @ $2BCD0 - STRING #80 @ $6A0
-
-#W32($2BCD0)
-<COLOR><GRAY>RB Newbie<END>
-//POINTER #81 @ $2BCF4 - STRING #81 @ $6B2
 
 #W32($2BCF4)
 <COLOR><GRAY>Foehn Hot Wind<END>
@@ -277,10 +263,6 @@
 <COLOR><GRAY>Foehn Hot Wind<END>
 //POINTER #88 @ $2BDF0 - STRING #88 @ $74C
 
-#W32($2BDF0)
-<COLOR><GRAY>RB Newbie<END>
-//POINTER #89 @ $2BE14 - STRING #89 @ $75E
-
 #W32($2BE14)
 <COLOR><GRAY>Drift First Block<END>
 //POINTER #90 @ $2BE38 - STRING #90 @ $776
@@ -296,10 +278,6 @@
 #W32($2BE80)
 <COLOR><GRAY>Kind Hearted Thunder God<END>
 //POINTER #93 @ $2BEA4 - STRING #93 @ $7B6
-
-#W32($2BEA4)
-<COLOR><GRAY>RB Newbie<END>
-//POINTER #94 @ $2BEC8 - STRING #94 @ $7C8
 
 #W32($2BEC8)
 <COLOR><GRAY>Yellow Tornado<END>
@@ -325,10 +303,6 @@
 <COLOR><GRAY>☆Racing Red<END>
 //POINTER #100 @ $2BFA0 - STRING #100 @ $84C
 
-#W32($2BFA0)
-<COLOR><GRAY>RB Newbie<END>
-//POINTER #101 @ $2BFC4 - STRING #101 @ $85E
-
 #W32($2BFC4)
 <COLOR><GRAY>Racing Black<END>
 //POINTER #102 @ $2BFE8 - STRING #102 @ $878
@@ -349,10 +323,6 @@
 <COLOR><GRAY>Racing Yellow<END>
 //POINTER #106 @ $2C078 - STRING #106 @ $8DC
 
-#W32($2C078)
-<COLOR><GRAY>RB Newbie<END>
-//POINTER #107 @ $2C09C - STRING #107 @ $8EE
-
 #W32($2C09C)
 <COLOR><GRAY>Racing Blue<END>
 //POINTER #108 @ $2C0C0 - STRING #108 @ $906
@@ -369,14 +339,6 @@
 <COLOR><GRAY>Racing Yellow<END>
 //POINTER #111 @ $2C12C - STRING #111 @ $954
 
-#W32($2C12C)
-<COLOR><GRAY>RB Newbie<END>
-//POINTER #112 @ $2C150 - STRING #112 @ $966
-
-#W32($2C150)
-<COLOR><GRAY>RB Newbie<END>
-//POINTER #113 @ $2C174 - STRING #113 @ $978
-
 #W32($2C174)
 <COLOR><GRAY>☆Racing Red<END>
 //POINTER #114 @ $2C198 - STRING #114 @ $992
@@ -392,10 +354,6 @@
 #W32($2C1E0)
 <COLOR><GRAY>Racing Yellow<END>
 //POINTER #117 @ $2C204 - STRING #117 @ $9DE
-
-#W32($2C204)
-<COLOR><GRAY>RB Newbie<END>
-//POINTER #118 @ $2C228 - STRING #118 @ $9F0
 
 #W32($2C228)
 <COLOR><GRAY>Racing Blue<END>
@@ -437,10 +395,6 @@
 <COLOR><GRAY>Racing Yellow<END>
 //POINTER #128 @ $2C390 - STRING #128 @ $AE8
 
-#W32($2C390)
-<COLOR><GRAY>RB Newbie<END>
-//POINTER #129 @ $2C3B4 - STRING #129 @ $AFA
-
 #W32($2C3B4)
 <COLOR><GRAY>Racing Blue<END>
 //POINTER #130 @ $2C3D8 - STRING #130 @ $B12
@@ -457,17 +411,9 @@
 <COLOR><GRAY>Racing Yellow<END>
 //POINTER #133 @ $2C444 - STRING #133 @ $B5E
 
-#W32($2C444)
-<COLOR><GRAY>RB Newbie<END>
-//POINTER #134 @ $2C468 - STRING #134 @ $B70
-
 #W32($2C468)
 <COLOR><GRAY>Racing Yellow<END>
 //POINTER #135 @ $2C48C - STRING #135 @ $B8A
-
-#W32($2C48C)
-<COLOR><GRAY>RB Newbie<END>
-//POINTER #136 @ $2C4B0 - STRING #136 @ $B9C
 
 #W32($2C4B0)
 <COLOR><GRAY>Racing Blue<END>
@@ -477,25 +423,13 @@
 <COLOR><GRAY>Racing Yellow<END>
 //POINTER #138 @ $2C4F8 - STRING #138 @ $BCE
 
-#W32($2C4F8)
-<COLOR><GRAY>RB Newbie<END>
-//POINTER #139 @ $2C51C - STRING #139 @ $BE0
-
 #W32($2C51C)
 <COLOR><GRAY>☆Planet Harmony<END>
 //POINTER #140 @ $2C540 - STRING #140 @ $BFA
 
-#W32($2C540)
-<COLOR><GRAY>RB Newbie<END>
-//POINTER #141 @ $2C564 - STRING #141 @ $C0C
-
 #W32($2C564)
 <COLOR><GRAY>Air Refresh<END>
 //POINTER #142 @ $2C588 - STRING #142 @ $C24
-
-#W32($2C588)
-<COLOR><GRAY>RB Newbie<END>
-//POINTER #143 @ $2C5AC - STRING #143 @ $C36
 
 #W32($2C5AC)
 <COLOR><GRAY>Wild Bear<END>
@@ -504,10 +438,6 @@
 #W32($2C5D0)
 <COLOR><GRAY>Wild Bear<END>
 //POINTER #145 @ $2C5F4 - STRING #145 @ $C5E
-
-#W32($2C5F4)
-<COLOR><GRAY>RB Newbie<END>
-//POINTER #146 @ $2C618 - STRING #146 @ $C70
 
 #W32($2C618)
 <COLOR><GRAY>Air Refresh<END>
@@ -541,10 +471,6 @@
 <COLOR><GRAY>Wild Bear<END>
 //POINTER #154 @ $2C738 - STRING #154 @ $D3A
 
-#W32($2C738)
-<COLOR><GRAY>RB Newbie<END>
-//POINTER #155 @ $2C75C - STRING #155 @ $D4C
-
 #W32($2C75C)
 <COLOR><GRAY>UJ<END>
 //POINTER #156 @ $2C780 - STRING #156 @ $D58
@@ -569,10 +495,6 @@
 <COLOR><GRAY>☆Bekkazu San<END>
 //POINTER #161 @ $2C834 - STRING #161 @ $DC0
 
-#W32($2C834)
-<COLOR><GRAY>RB Newbie<END>
-//POINTER #162 @ $2C858 - STRING #162 @ $DD2
-
 #W32($2C858)
 <COLOR><GRAY>Enamored Story Warlock<END>
 //POINTER #163 @ $2C87C - STRING #163 @ $DE8
@@ -581,10 +503,6 @@
 <COLOR><GRAY>☆Bekkazu San<END>
 //POINTER #164 @ $2C8A0 - STRING #164 @ $DFE
 
-#W32($2C8A0)
-<COLOR><GRAY>RB Newbie<END>
-//POINTER #165 @ $2C8C4 - STRING #165 @ $E10
-
 #W32($2C8C4)
 <COLOR><GRAY>☆Bekkazu San<END>
 //POINTER #166 @ $2C8E8 - STRING #166 @ $E26
@@ -592,14 +510,6 @@
 #W32($2C8E8)
 <COLOR><GRAY>Roaring Housewife<END>
 //POINTER #167 @ $2C90C - STRING #167 @ $E36
-
-#W32($2C90C)
-<COLOR><GRAY>RB Newbie<END>
-//POINTER #168 @ $2C930 - STRING #168 @ $E48
-
-#W32($2C930)
-<COLOR><GRAY>RB Newbie<END>
-//POINTER #169 @ $2C954 - STRING #169 @ $E5A
 
 #W32($2C954)
 <COLOR><GRAY>◎Wild Djungarian<END>
@@ -5189,7 +5099,7 @@
 #W32($2D30C)
 #W32($2D330)
 #W32($2D354)
-<COLOR><GRAY>Event Archive<END>
+<COLOR><GRAY>Reserved<END>
 //POINTER #232 @ $2D234 - STRING #232 @ $8560
 
 #W32($2D378)
@@ -5289,7 +5199,7 @@
 #W32($2DBA0)
 #W32($2DBC4)
 #W32($2DBE8)
-<COLOR><GRAY>Custom Archive<END>
+<COLOR><GRAY>Reserved<END>
 //POINTER #300 @ $2DBC4 - STRING #300 @ $8C66
 
 #W32($2DC0C)
@@ -5412,372 +5322,108 @@
 //POINTER #394 @ $2E8FC - STRING #394 @ $966C
 
 #W32($2E8FC)
-<COLOR><GRAY>re：Setting 2<END>
-//POINTER #395 @ $2E920 - STRING #395 @ $9688
-
 #W32($2E920)
-<COLOR><GRAY>re：Setting 2<END>
-//POINTER #396 @ $2E944 - STRING #396 @ $96A4
-
 #W32($2E944)
-<COLOR><GRAY>re：Setting 2<END>
-//POINTER #397 @ $2E968 - STRING #397 @ $96C0
-
 #W32($2E968)
-<COLOR><GRAY>re：Setting 2<END>
-//POINTER #398 @ $2E98C - STRING #398 @ $96DC
-
 #W32($2E98C)
-<COLOR><GRAY>re：Setting 2<END>
-//POINTER #399 @ $2E9B0 - STRING #399 @ $96F8
-
 #W32($2E9B0)
-<COLOR><GRAY>re：Setting 2<END>
-//POINTER #400 @ $2E9D4 - STRING #400 @ $9714
-
 #W32($2E9D4)
-<COLOR><GRAY>re：Setting 2<END>
-//POINTER #401 @ $2E9F8 - STRING #401 @ $9730
-
 #W32($2E9F8)
-<COLOR><GRAY>re：Setting 2<END>
-//POINTER #402 @ $2EA1C - STRING #402 @ $974C
-
 #W32($2EA1C)
-<COLOR><GRAY>re：Setting 2<END>
-//POINTER #403 @ $2EA40 - STRING #403 @ $9768
-
 #W32($2EA40)
-<COLOR><GRAY>re：Setting 2<END>
-//POINTER #404 @ $2EA64 - STRING #404 @ $9784
-
 #W32($2EA64)
-<COLOR><GRAY>re：Setting 2<END>
-//POINTER #405 @ $2EA88 - STRING #405 @ $97A0
-
 #W32($2EA88)
-<COLOR><GRAY>re：Setting 2<END>
-//POINTER #406 @ $2EAAC - STRING #406 @ $97BC
-
 #W32($2EAAC)
-<COLOR><GRAY>re：Setting 2<END>
-//POINTER #407 @ $2EAD0 - STRING #407 @ $97D8
-
 #W32($2EAD0)
-<COLOR><GRAY>re：Setting 2<END>
-//POINTER #408 @ $2EAF4 - STRING #408 @ $97F4
-
 #W32($2EAF4)
-<COLOR><GRAY>re：Setting 2<END>
-//POINTER #409 @ $2EB18 - STRING #409 @ $9810
-
 #W32($2EB18)
-<COLOR><GRAY>re：Setting 2<END>
-//POINTER #410 @ $2EB3C - STRING #410 @ $982C
-
 #W32($2EB3C)
-<COLOR><GRAY>re：Setting 2<END>
-//POINTER #411 @ $2EB60 - STRING #411 @ $9848
-
 #W32($2EB60)
-<COLOR><GRAY>re：Setting 2<END>
-//POINTER #412 @ $2EB84 - STRING #412 @ $9864
-
 #W32($2EB84)
-<COLOR><GRAY>re：Setting 2<END>
-//POINTER #413 @ $2EBA8 - STRING #413 @ $9880
-
 #W32($2EBA8)
-<COLOR><GRAY>re：Setting 2<END>
-//POINTER #414 @ $2EBCC - STRING #414 @ $989C
-
 #W32($2EBCC)
-<COLOR><GRAY>re：Setting 2<END>
-//POINTER #415 @ $2EBF0 - STRING #415 @ $98B8
-
 #W32($2EBF0)
-<COLOR><GRAY>re：Setting 2<END>
-//POINTER #416 @ $2EC14 - STRING #416 @ $98D4
-
 #W32($2EC14)
-<COLOR><GRAY>re：Setting 2<END>
-//POINTER #417 @ $2EC38 - STRING #417 @ $98F0
-
 #W32($2EC38)
-<COLOR><GRAY>re：Setting 2<END>
-//POINTER #418 @ $2EC5C - STRING #418 @ $990C
-
 #W32($2EC5C)
-<COLOR><GRAY>re：Setting 2<END>
-//POINTER #419 @ $2EC80 - STRING #419 @ $9928
-
 #W32($2EC80)
-<COLOR><GRAY>re：Setting 2<END>
-//POINTER #420 @ $2ECA4 - STRING #420 @ $9944
-
 #W32($2ECA4)
-<COLOR><GRAY>re：Setting 2<END>
-//POINTER #421 @ $2ECC8 - STRING #421 @ $9960
-
 #W32($2ECC8)
-<COLOR><GRAY>re：Setting 2<END>
-//POINTER #422 @ $2ECEC - STRING #422 @ $997C
-
 #W32($2ECEC)
-<COLOR><GRAY>re：Setting 2<END>
-//POINTER #423 @ $2ED10 - STRING #423 @ $9998
-
 #W32($2ED10)
-<COLOR><GRAY>re：Setting 2<END>
-//POINTER #424 @ $2ED34 - STRING #424 @ $99B4
-
 #W32($2ED34)
-<COLOR><GRAY>re：Setting 2<END>
-//POINTER #425 @ $2ED58 - STRING #425 @ $99D0
-
 #W32($2ED58)
-<COLOR><GRAY>re：Setting 2<END>
-//POINTER #426 @ $2ED7C - STRING #426 @ $99EC
-
 #W32($2ED7C)
-<COLOR><GRAY>re：Setting 2<END>
-//POINTER #427 @ $2EDA0 - STRING #427 @ $9A08
-
 #W32($2EDA0)
-<COLOR><GRAY>re：Setting 2<END>
-//POINTER #428 @ $2EDC4 - STRING #428 @ $9A24
-
 #W32($2EDC4)
-<COLOR><GRAY>re：Setting 2<END>
-//POINTER #429 @ $2EDE8 - STRING #429 @ $9A40
-
 #W32($2EDE8)
-<COLOR><GRAY>re：Setting 2<END>
-//POINTER #430 @ $2EE0C - STRING #430 @ $9A5C
-
 #W32($2EE0C)
-<COLOR><GRAY>re：Setting 2<END>
-//POINTER #431 @ $2EE30 - STRING #431 @ $9A78
-
 #W32($2EE30)
-<COLOR><GRAY>re：Setting 2<END>
-//POINTER #432 @ $2EE54 - STRING #432 @ $9A94
-
 #W32($2EE54)
-<COLOR><GRAY>re：Setting 2<END>
-//POINTER #433 @ $2EE78 - STRING #433 @ $9AB0
-
 #W32($2EE78)
-<COLOR><GRAY>re：Setting 2<END>
-//POINTER #434 @ $2EE9C - STRING #434 @ $9ACC
-
 #W32($2EE9C)
-<COLOR><GRAY>re：Setting 2<END>
-//POINTER #435 @ $2EEC0 - STRING #435 @ $9AE8
-
 #W32($2EEC0)
-<COLOR><GRAY>re：Setting 2<END>
-//POINTER #436 @ $2EEE4 - STRING #436 @ $9B04
-
 #W32($2EEE4)
-<COLOR><GRAY>re：Setting 2<END>
-//POINTER #437 @ $2EF08 - STRING #437 @ $9B20
-
 #W32($2EF08)
-<COLOR><GRAY>re：Setting 2<END>
-//POINTER #438 @ $2EF2C - STRING #438 @ $9B3C
-
 #W32($2EF2C)
-<COLOR><GRAY>re：Setting 2<END>
-//POINTER #439 @ $2EF50 - STRING #439 @ $9B58
-
 #W32($2EF50)
-<COLOR><GRAY>re：Setting 2<END>
-//POINTER #440 @ $2EF74 - STRING #440 @ $9B74
-
 #W32($2EF74)
-<COLOR><GRAY>re：Setting 2<END>
-//POINTER #441 @ $2EF98 - STRING #441 @ $9B90
-
 #W32($2EF98)
-<COLOR><GRAY>re：Setting 2<END>
-//POINTER #442 @ $2EFBC - STRING #442 @ $9BAC
-
 #W32($2EFBC)
-<COLOR><GRAY>re：Setting 2<END>
-//POINTER #443 @ $2EFE0 - STRING #443 @ $9BC8
-
 #W32($2EFE0)
 <COLOR><GRAY>re：Setting 2<END>
-//POINTER #444 @ $2F004 - STRING #444 @ $9BE4
+//POINTER #395 @ $2E920 - STRING #395 @ $9688
 
 #W32($2F004)
 <COLOR><GRAY>Setting 3<END>
 //POINTER #445 @ $2F028 - STRING #445 @ $9BFA
 
 #W32($2F028)
+#W32($2F04C)
+#W32($2F070)
+#W32($2F094)
+#W32($2F0B8)
+#W32($2F0DC)
+#W32($2F100)
+#W32($2F124)
+#W32($2F148)
+#W32($2F16C)
+#W32($2F190)
+#W32($2F1B4)
+#W32($2F1D8)
+#W32($2F1FC)
+#W32($2F220)
+#W32($2F244)
+#W32($2F268)
+#W32($2F28C)
+#W32($2F2B0)
+#W32($2F2D4)
+#W32($2F2F8)
+#W32($2F31C)
+#W32($2F340)
+#W32($2F364)
+#W32($2F388)
+#W32($2F3AC)
+#W32($2F3D0)
 <COLOR><GRAY>re：Setting 3<END>
 //POINTER #446 @ $2F04C - STRING #446 @ $9C16
 
-#W32($2F04C)
-<COLOR><GRAY>re：Setting 3<END>
-//POINTER #447 @ $2F070 - STRING #447 @ $9C32
-
-#W32($2F070)
-<COLOR><GRAY>re：Setting 3<END>
-//POINTER #448 @ $2F094 - STRING #448 @ $9C4E
-
-#W32($2F094)
-<COLOR><GRAY>re：Setting 3<END>
-//POINTER #449 @ $2F0B8 - STRING #449 @ $9C6A
-
-#W32($2F0B8)
-<COLOR><GRAY>re：Setting 3<END>
-//POINTER #450 @ $2F0DC - STRING #450 @ $9C86
-
-#W32($2F0DC)
-<COLOR><GRAY>re：Setting 3<END>
-//POINTER #451 @ $2F100 - STRING #451 @ $9CA2
-
-#W32($2F100)
-<COLOR><GRAY>re：Setting 3<END>
-//POINTER #452 @ $2F124 - STRING #452 @ $9CBE
-
-#W32($2F124)
-<COLOR><GRAY>re：Setting 3<END>
-//POINTER #453 @ $2F148 - STRING #453 @ $9CDA
-
-#W32($2F148)
-<COLOR><GRAY>re：Setting 3<END>
-//POINTER #454 @ $2F16C - STRING #454 @ $9CF6
-
-#W32($2F16C)
-<COLOR><GRAY>re：Setting 3<END>
-//POINTER #455 @ $2F190 - STRING #455 @ $9D12
-
-#W32($2F190)
-<COLOR><GRAY>re：Setting 3<END>
-//POINTER #456 @ $2F1B4 - STRING #456 @ $9D2E
-
-#W32($2F1B4)
-<COLOR><GRAY>re：Setting 3<END>
-//POINTER #457 @ $2F1D8 - STRING #457 @ $9D4A
-
-#W32($2F1D8)
-<COLOR><GRAY>re：Setting 3<END>
-//POINTER #458 @ $2F1FC - STRING #458 @ $9D66
-
-#W32($2F1FC)
-<COLOR><GRAY>re：Setting 3<END>
-//POINTER #459 @ $2F220 - STRING #459 @ $9D82
-
-#W32($2F220)
-<COLOR><GRAY>re：Setting 3<END>
-//POINTER #460 @ $2F244 - STRING #460 @ $9D9E
-
-#W32($2F244)
-<COLOR><GRAY>re：Setting 3<END>
-//POINTER #461 @ $2F268 - STRING #461 @ $9DBA
-
-#W32($2F268)
-<COLOR><GRAY>re：Setting 3<END>
-//POINTER #462 @ $2F28C - STRING #462 @ $9DD6
-
-#W32($2F28C)
-<COLOR><GRAY>re：Setting 3<END>
-//POINTER #463 @ $2F2B0 - STRING #463 @ $9DF2
-
-#W32($2F2B0)
-<COLOR><GRAY>re：Setting 3<END>
-//POINTER #464 @ $2F2D4 - STRING #464 @ $9E0E
-
-#W32($2F2D4)
-<COLOR><GRAY>re：Setting 3<END>
-//POINTER #465 @ $2F2F8 - STRING #465 @ $9E2A
-
-#W32($2F2F8)
-<COLOR><GRAY>re：Setting 3<END>
-//POINTER #466 @ $2F31C - STRING #466 @ $9E46
-
-#W32($2F31C)
-<COLOR><GRAY>re：Setting 3<END>
-//POINTER #467 @ $2F340 - STRING #467 @ $9E62
-
-#W32($2F340)
-<COLOR><GRAY>re：Setting 3<END>
-//POINTER #468 @ $2F364 - STRING #468 @ $9E7E
-
-#W32($2F364)
-<COLOR><GRAY>re：Setting 3<END>
-//POINTER #469 @ $2F388 - STRING #469 @ $9E9A
-
-#W32($2F388)
-<COLOR><GRAY>re：Setting 3<END>
-//POINTER #470 @ $2F3AC - STRING #470 @ $9EB6
-
-#W32($2F3AC)
-<COLOR><GRAY>re：Setting 3<END>
-//POINTER #471 @ $2F3D0 - STRING #471 @ $9ED2
-
-#W32($2F3D0)
-<COLOR><GRAY>re：Setting 3<END>
-//POINTER #472 @ $2F3F4 - STRING #472 @ $9EEE
-
 #W32($2F3F4)
-<COLOR><GRAY>Custom Archive<END>
-//POINTER #473 @ $2F418 - STRING #473 @ $9F06
-
 #W32($2F418)
-<COLOR><GRAY>Custom Archive<END>
-//POINTER #474 @ $2F43C - STRING #474 @ $9F1E
-
 #W32($2F43C)
-<COLOR><GRAY>Custom Archive<END>
-//POINTER #475 @ $2F460 - STRING #475 @ $9F36
-
 #W32($2F460)
-<COLOR><GRAY>Custom Archive<END>
-//POINTER #476 @ $2F484 - STRING #476 @ $9F4E
-
 #W32($2F484)
-<COLOR><GRAY>Custom Archive<END>
-//POINTER #477 @ $2F4A8 - STRING #477 @ $9F66
-
 #W32($2F4A8)
-<COLOR><GRAY>Custom Archive<END>
-//POINTER #478 @ $2F4CC - STRING #478 @ $9F7E
-
 #W32($2F4CC)
-<COLOR><GRAY>Custom Archive<END>
-//POINTER #479 @ $2F4F0 - STRING #479 @ $9F96
-
 #W32($2F4F0)
-<COLOR><GRAY>Custom Archive<END>
-//POINTER #480 @ $2F514 - STRING #480 @ $9FAE
-
 #W32($2F514)
-<COLOR><GRAY>Custom Archive<END>
-//POINTER #481 @ $2F538 - STRING #481 @ $9FC6
-
 #W32($2F538)
-<COLOR><GRAY>Custom Archive<END>
-//POINTER #482 @ $2F55C - STRING #482 @ $9FDE
-
 #W32($2F55C)
-<COLOR><GRAY>Custom Archive<END>
-//POINTER #483 @ $2F580 - STRING #483 @ $9FF6
-
 #W32($2F580)
-<COLOR><GRAY>Custom Archive<END>
-//POINTER #484 @ $2F5A4 - STRING #484 @ $A00E
-
 #W32($2F5A4)
-<COLOR><GRAY>Custom Archive<END>
-//POINTER #485 @ $2F5C8 - STRING #485 @ $A026
-
 #W32($2F5C8)
-<COLOR><GRAY>Custom Archive<END>
-//POINTER #486 @ $2F5EC - STRING #486 @ $A03E
+<COLOR><GRAY>Reserved<END>
+//POINTER #473 @ $2F418 - STRING #473 @ $9F06
 
 #W32($2F5EC)
 <COLOR><GRAY>RACING GUY<END>
@@ -10317,59 +9963,59 @@
 //POINTER #393 @ $2E8DC - STRING #393 @ $12E1E
 
 #W32($2E8DC)
-<COLOR><GRAY>サスペンションのせってぃんぐって<END>
+<COLOR><GRAY>How should I adjust the<END>
 //POINTER #394 @ $2E900 - STRING #394 @ $12E46
 
 #W32($2E900)
-<COLOR><GRAY>まず、おまいはどうしたいんだ。<END>
+<COLOR><GRAY>First of all、tell us what you have in mind．<END>
 //POINTER #395 @ $2E924 - STRING #395 @ $12E6C
 
 #W32($2E924)
-<COLOR><GRAY>ええとね。<END>
+<COLOR><GRAY>Uhh let's see．<END>
 //POINTER #396 @ $2E948 - STRING #396 @ $12E7E
 
 #W32($2E948)
-<COLOR><GRAY>あいまいだな（汗）<END>
+<COLOR><GRAY>That's a bit vague（＊sweats＊）<END>
 //POINTER #397 @ $2E96C - STRING #397 @ $12E98
 
 #W32($2E96C)
-<COLOR><GRAY>あ、それは替えてる。ノーマルじゃツルツルして<END>
+<COLOR><GRAY>Ah、I've replaced them．The normals were too slippery<END>
 //POINTER #398 @ $2E990 - STRING #398 @ $12ECC
 
 #W32($2E990)
-<COLOR><GRAY>ハァ？<END>
+<COLOR><GRAY>Huuh？<END>
 //POINTER #399 @ $2E9B4 - STRING #399 @ $12EDA
 
 #W32($2E9B4)
-<COLOR><GRAY>だってサスペンションって固くするために<END>
+<COLOR><GRAY>Isn't the point of buying a new suspension<END>
 //POINTER #400 @ $2E9D8 - STRING #400 @ $12F08
 
 #W32($2E9D8)
-<COLOR><GRAY>まあそれは合ってるんだけどガチガチに固めりゃ<END>
+<COLOR><GRAY>Well、kind of、but it's not enough to just make it hard．<END>
 //POINTER #401 @ $2E9FC - STRING #401 @ $12F3C
 
 #W32($2E9FC)
-<COLOR><GRAY>え～（´Ａ｀）<END>
+<COLOR><GRAY>Eh～（´Ａ｀）<END>
 //POINTER #402 @ $2EA20 - STRING #402 @ $12F52
 
 #W32($2EA20)
-<COLOR><GRAY>基本的な部分さえ覚えちまえば、あとはイロイロ<END>
+<COLOR><GRAY>Once you've got the basics down、you can experiment<END>
 //POINTER #403 @ $2EA44 - STRING #403 @ $12F86
 
 #W32($2EA44)
-<COLOR><GRAY>それは嫌だよぅ。<END>
+<COLOR><GRAY>That's no good．<END>
 //POINTER #404 @ $2EA68 - STRING #404 @ $12F9E
 
 #W32($2EA68)
-<COLOR><GRAY>ホゥ、勉強家だな。<END>
+<COLOR><GRAY>Hoah、you're a learning man．<END>
 //POINTER #405 @ $2EA8C - STRING #405 @ $12FB8
 
 #W32($2EA8C)
-<COLOR><GRAY>ハイ先生！（’∇’）ゝ<END>
+<COLOR><GRAY>Yes Sensei！（’∇’）ゝ<END>
 //POINTER #406 @ $2EAB0 - STRING #406 @ $12FD6
 
 #W32($2EAB0)
-<COLOR><GRAY>じゃあまずスプリングレートな。<END>
+<COLOR><GRAY>First、the spring rate．<END>
 //POINTER #407 @ $2EAD4 - STRING #407 @ $12FFC
 
 #W32($2EAD4)
@@ -10377,259 +10023,259 @@
 //POINTER #408 @ $2EAF8 - STRING #408 @ $13012
 
 #W32($2EAF8)
-<COLOR><GRAY>柔らかくすると、アクセル放したときやブレーキ<END>
+<COLOR><GRAY>When you soften the springs、the weight shifts forward<END>
 //POINTER #409 @ $2EB1C - STRING #409 @ $13046
 
 #W32($2EB1C)
-<COLOR><GRAY>ははあ、ナルホド。<END>
+<COLOR><GRAY>Hahaa、I see．<END>
 //POINTER #410 @ $2EB40 - STRING #410 @ $13060
 
 #W32($2EB40)
-<COLOR><GRAY>いや、柔らかすぎるとスプリングが縮み切っちゃう。<END>
+<COLOR><GRAY>Nope、if the springs are too soft、they'll compress fully．<END>
 //POINTER #411 @ $2EB64 - STRING #411 @ $13098
 
 #W32($2EB64)
-<COLOR><GRAY>じゃあホドホドにってことですね。<END>
+<COLOR><GRAY>So、it's about being moderate、huh？<END>
 //POINTER #412 @ $2EB88 - STRING #412 @ $130C0
 
 #W32($2EB88)
-<COLOR><GRAY>お、いいとこに目を付けたな。<END>
+<COLOR><GRAY>Oh、that's a good question．<END>
 //POINTER #413 @ $2EBAC - STRING #413 @ $130E4
 
 #W32($2EBAC)
-<COLOR><GRAY>でも、サーキットで全開走行するとなると話は別だ。<END>
+<COLOR><GRAY>But when you're pushing full throtle on the track、<END>
 //POINTER #414 @ $2EBD0 - STRING #414 @ $1311C
 
 #W32($2EBD0)
-<COLOR><GRAY>パワーアップして車の速度が速くなったら、<END>
+<COLOR><GRAY>As your car's speed and power increases、<END>
 //POINTER #415 @ $2EBF4 - STRING #415 @ $1314C
 
 #W32($2EBF4)
-<COLOR><GRAY>バランスが大事なんですなあ。<END>
+<COLOR><GRAY>Balance seems to be the key．<END>
 //POINTER #416 @ $2EC18 - STRING #416 @ $13170
 
 #W32($2EC18)
-<COLOR><GRAY>続いてリアだ。リアは固くすると曲がりやすくなる。<END>
+<COLOR><GRAY>Next is the rear．If you stiffen the rear、the car will<END>
 //POINTER #417 @ $2EC3C - STRING #417 @ $131A8
 
 #W32($2EC3C)
-<COLOR><GRAY>柔らかいと荷重が動きにくい……？<END>
+<COLOR><GRAY>If it's soft、the weight doesn't shift easily……？<END>
 //POINTER #418 @ $2EC60 - STRING #418 @ $131D0
 
 #W32($2EC60)
-<COLOR><GRAY>うるせえ、黙れ！　例えばあれだ、<END>
+<COLOR><GRAY>So noisy、shut up！　It's like this、<END>
 //POINTER #419 @ $2EC84 - STRING #419 @ $131F8
 
 #W32($2EC84)
-<COLOR><GRAY>（´－｀）．ｏＯ（それ今、僕が言った……）<END>
+<COLOR><GRAY>（´－｀）．ｏＯ（That's like、exactly what i said……）<END>
 //POINTER #420 @ $2ECA8 - STRING #420 @ $1322A
 
 #W32($2ECA8)
-<COLOR><GRAY>どうだ、俺は分かりやすい例を言うだろう！<END>
+<COLOR><GRAY>See、I give pretty good examples！<END>
 //POINTER #421 @ $2ECCC - STRING #421 @ $1325A
 
 #W32($2ECCC)
-<COLOR><GRAY>はい（´・ω・｀）<END>
+<COLOR><GRAY>Yes（´・ω・｀）<END>
 //POINTER #422 @ $2ECF0 - STRING #422 @ $13274
 
 #W32($2ECF0)
-<COLOR><GRAY>結局、フロントが柔らかくてリアが固いと車の向きは<END>
+<COLOR><GRAY>To sum up、if the front is soft and the rear is stiff、<END>
 //POINTER #423 @ $2ED14 - STRING #423 @ $132AC
 
 #W32($2ED14)
-<COLOR><GRAY>じゃあ真ん中から徐々に調整するのがいいんですね。<END>
+<COLOR><GRAY>So it's best to start from the middle<END>
 //POINTER #424 @ $2ED38 - STRING #424 @ $132E4
 
 #W32($2ED38)
-<COLOR><GRAY>うむ、前後のバランスが最も重要だぞ。<END>
+<COLOR><GRAY>Indeed、the front and rear balance is most important．<END>
 //POINTER #425 @ $2ED5C - STRING #425 @ $13310
 
 #W32($2ED5C)
-<COLOR><GRAY>ふーん。じゃあ次のダンパーって<END>
+<COLOR><GRAY>Hmm．so the next thing is the damper、which is attached to<END>
 //POINTER #426 @ $2ED80 - STRING #426 @ $13336
 
 #W32($2ED80)
-<COLOR><GRAY>ああ、ダンパーか。<END>
+<COLOR><GRAY>Ah、the damper．<END>
 //POINTER #427 @ $2EDA4 - STRING #427 @ $13350
 
 #W32($2EDA4)
-<COLOR><GRAY>はあ、そうですか……。<END>
+<COLOR><GRAY>Huuh、I see……<END>
 //POINTER #428 @ $2EDC8 - STRING #428 @ $1336E
 
 #W32($2EDC8)
-<COLOR><GRAY>先生だんだん疲れてきちゃった……。<END>
+<COLOR><GRAY>Sensei's getting tired……<END>
 //POINTER #429 @ $2EDEC - STRING #429 @ $13398
 
 #W32($2EDEC)
-<COLOR><GRAY>はい先生！（’∇’）ゝ<END>
+<COLOR><GRAY>Yes Sensei！（’∇’）ゝ<END>
 //POINTER #430 @ $2EE10 - STRING #430 @ $133B6
 
 #W32($2EE10)
-<COLOR><GRAY>じゃあスタビライザーの説明だ。<END>
+<COLOR><GRAY>Let's talk about the anti roll bars．<END>
 //POINTER #431 @ $2EE34 - STRING #431 @ $133DC
 
 #W32($2EE34)
-<COLOR><GRAY>つまり前後の荷重移動は抑えないってことですね。<END>
+<COLOR><GRAY>That means the front／rear load transfer isn't restrained．<END>
 //POINTER #432 @ $2EE58 - STRING #432 @ $13412
 
 #W32($2EE58)
-<COLOR><GRAY>そういうことだ。固くするとハンドル操作に<END>
+<COLOR><GRAY>Exactly．Stiffening it makes the car more responsive<END>
 //POINTER #433 @ $2EE7C - STRING #433 @ $13442
 
 #W32($2EE7C)
-<COLOR><GRAY>へえー、便利ですねえ。<END>
+<COLOR><GRAY>Haeh、that's convenient．<END>
 //POINTER #434 @ $2EEA0 - STRING #434 @ $13460
 
 #W32($2EEA0)
-<COLOR><GRAY>好み次第だな。こいつもスプリングと同様にフロントが<END>
+<COLOR><GRAY>Depends on your preference．Like the springs、<END>
 //POINTER #435 @ $2EEC4 - STRING #435 @ $1349A
 
 #W32($2EEC4)
-<COLOR><GRAY>先生、ありがとうございました（’∇’）ゝ<END>
+<COLOR><GRAY>Sensei、thank you very much（’∇’）ゝ<END>
 //POINTER #436 @ $2EEE8 - STRING #436 @ $134CA
 
 #W32($2EEE8)
-<COLOR><GRAY>……このヤロウ、分かりやすく説明してやったのに……<END>
+<COLOR><GRAY>…You bastard、I went out of my way to explain it clearly…<END>
 //POINTER #437 @ $2EF0C - STRING #437 @ $13504
 
 #W32($2EF0C)
-<COLOR><GRAY>まず曲がらない、車の向きが変わらない、と思ったら<END>
+<COLOR><GRAY>If you feel like the car won't turn、try softening<END>
 //POINTER #438 @ $2EF30 - STRING #438 @ $1353C
 
 #W32($2EF30)
-<COLOR><GRAY>これでも曲がらなかったらリアをハード方向に動かす。<END>
+<COLOR><GRAY>If it still won't turn、make the rear springs stiffer．<END>
 //POINTER #439 @ $2EF54 - STRING #439 @ $13576
 
 #W32($2EF54)
-<COLOR><GRAY>つまりドリフトしたいときは前と後ろの差を拡げれば<END>
+<COLOR><GRAY>So if I want to drift、I need to increase the difference<END>
 //POINTER #440 @ $2EF78 - STRING #440 @ $135AE
 
 #W32($2EF78)
-<COLOR><GRAY>まあそんなとこだ。で、逆にハンドル切ったら向きが<END>
+<COLOR><GRAY>That's right．Now、if the car turns too quickly<END>
 //POINTER #441 @ $2EF9C - STRING #441 @ $135E6
 
 #W32($2EF9C)
-<COLOR><GRAY>さらにお尻がすぐに滑ってしまうんだったらリアを<END>
+<COLOR><GRAY>And if the rear slips too easily、then softening the rear<END>
 //POINTER #442 @ $2EFC0 - STRING #442 @ $1361C
 
 #W32($2EFC0)
-<COLOR><GRAY>先生、ありがとうございました（’∇’）ゝ<END>
+<COLOR><GRAY>Sensei、thank you very much（’∇’）ゝ<END>
 //POINTER #443 @ $2EFE4 - STRING #443 @ $1364C
 
 #W32($2EFE4)
-<COLOR><GRAY>……もう眠いんで寝かしてクレ（；´д⊂）<END>
+<COLOR><GRAY>…I'm really sleepy、so let me get some rest（；´д⊂）<END>
 //POINTER #444 @ $2F008 - STRING #444 @ $1367C
 
 #W32($2F008)
-<COLOR><GRAY>トーとキャンバーってなんだよ！<END>
+<COLOR><GRAY>What does toe and camber mean！<END>
 //POINTER #445 @ $2F02C - STRING #445 @ $136A2
 
 #W32($2F02C)
-<COLOR><GRAY>（´ー｀）チラネーヨ<END>
+<COLOR><GRAY>（´ー｀）No way<END>
 //POINTER #446 @ $2F050 - STRING #446 @ $136BE
 
 #W32($2F050)
-<COLOR><GRAY>そんなこと言わずにおながいしますよ！<END>
+<COLOR><GRAY>Please don't be like that！<END>
 //POINTER #447 @ $2F074 - STRING #447 @ $136EA
 
 #W32($2F074)
-<COLOR><GRAY>タイヤの向きだよ。<END>
+<COLOR><GRAY>It's about the tires orientation．<END>
 //POINTER #448 @ $2F098 - STRING #448 @ $13704
 
 #W32($2F098)
-<COLOR><GRAY>もうちょっと詳しく。<END>
+<COLOR><GRAY>More details please．<END>
 //POINTER #449 @ $2F0BC - STRING #449 @ $13720
 
 #W32($2F0BC)
-<COLOR><GRAY>／　＼と＼　／だ。<END>
+<COLOR><GRAY>Like ／　＼ and ＼　／ ．<END>
 //POINTER #450 @ $2F0E0 - STRING #450 @ $1373A
 
 #W32($2F0E0)
-<COLOR><GRAY>おねがいします。<END>
+<COLOR><GRAY>Please．<END>
 //POINTER #451 @ $2F104 - STRING #451 @ $13752
 
 #W32($2F104)
-<COLOR><GRAY>最初っからそうやって聞きなさい。<END>
+<COLOR><GRAY>Should have asked like that from the start．<END>
 //POINTER #452 @ $2F128 - STRING #452 @ $1377A
 
 #W32($2F128)
-<COLOR><GRAY>開いてる？<END>
+<COLOR><GRAY>Pointed outward？<END>
 //POINTER #453 @ $2F14C - STRING #453 @ $1378C
 
 #W32($2F14C)
-<COLOR><GRAY>前、つまり車の先端側が閉じてるとトーイン、<END>
+<COLOR><GRAY>If the front of the car is angled inward、that's called<END>
 //POINTER #454 @ $2F170 - STRING #454 @ $137BE
 
 #W32($2F170)
-<COLOR><GRAY>なるほど。<END>
+<COLOR><GRAY>I see．<END>
 //POINTER #455 @ $2F194 - STRING #455 @ $137D0
 
 #W32($2F194)
-<COLOR><GRAY>フロントがトーインだと、車の応答性が良くなる。<END>
+<COLOR><GRAY>With front toe-in、the car is more responsive．However、<END>
 //POINTER #456 @ $2F1B8 - STRING #456 @ $13806
 
 #W32($2F1B8)
-<COLOR><GRAY>応答性……<END>
+<COLOR><GRAY>Responsive……<END>
 //POINTER #457 @ $2F1DC - STRING #457 @ $13818
 
 #W32($2F1DC)
-<COLOR><GRAY>まあ、そんな感じ。<END>
+<COLOR><GRAY>Well、sort of．With rear toe-in、<END>
 //POINTER #458 @ $2F200 - STRING #458 @ $13832
 
 #W32($2F200)
-<COLOR><GRAY>つまりドリフトするならフロントがトーイン、<END>
+<COLOR><GRAY>In short、if you want to drift、set the front to toe-in<END>
 //POINTER #459 @ $2F224 - STRING #459 @ $13864
 
 #W32($2F224)
-<COLOR><GRAY>ま、やりすぎると全くコントロール<END>
+<COLOR><GRAY>Well、overdo it、and you could lose all control．<END>
 //POINTER #460 @ $2F248 - STRING #460 @ $1388C
 
 #W32($2F248)
-<COLOR><GRAY>キャンバーは？？<END>
+<COLOR><GRAY>Camber means？？<END>
 //POINTER #461 @ $2F26C - STRING #461 @ $138A4
 
 #W32($2F26C)
-<COLOR><GRAY>キャンバーは車を正面から見たときの<END>
+<COLOR><GRAY>Camber is the angle of the tires when viewed from<END>
 //POINTER #462 @ $2F290 - STRING #462 @ $138CE
 
 #W32($2F290)
-<COLOR><GRAY>あ、それ知ってる！<END>
+<COLOR><GRAY>Oh、I know that！<END>
 //POINTER #463 @ $2F2B4 - STRING #463 @ $138E8
 
 #W32($2F2B4)
-<COLOR><GRAY>それは強烈にネガキャンになってるやつだな。<END>
+<COLOR><GRAY>That's an extreme negative camber setup．<END>
 //POINTER #464 @ $2F2D8 - STRING #464 @ $1391A
 
 #W32($2F2D8)
-<COLOR><GRAY>どんな効果があるんですか？<END>
+<COLOR><GRAY>What are the effects of it？<END>
 //POINTER #465 @ $2F2FC - STRING #465 @ $1393C
 
 #W32($2F2FC)
-<COLOR><GRAY>ハの字、つまりネガキャンにすると、<END>
+<COLOR><GRAY>When you use negative camber、which creates a ハ shape、<END>
 //POINTER #466 @ $2F320 - STRING #466 @ $13966
 
 #W32($2F320)
-<COLOR><GRAY>かっこいいしグリップも良くなるし<END>
+<COLOR><GRAY>It looks cool and improves grip、<END>
 //POINTER #467 @ $2F344 - STRING #467 @ $1398E
 
 #W32($2F344)
-<COLOR><GRAY>いや、コーナリング中のグリップは上がるが、<END>
+<COLOR><GRAY>Nah、while grip increases during cornering、it decreases<END>
 //POINTER #468 @ $2F368 - STRING #468 @ $139C0
 
 #W32($2F368)
-<COLOR><GRAY>なるほど。ほどほどにって事ですね。<END>
+<COLOR><GRAY>I see．So it's all about being moderate．<END>
 //POINTER #469 @ $2F38C - STRING #469 @ $139EA
 
 #W32($2F38C)
-<COLOR><GRAY>ん～、ノーマルでネガキャン気味の場合に<END>
+<COLOR><GRAY>Hm～、maybe just adjusting from a slightly negative to<END>
 //POINTER #470 @ $2F3B0 - STRING #470 @ $13A18
 
 #W32($2F3B0)
-<COLOR><GRAY>そうか、よくわかった！<END>
+<COLOR><GRAY>Got it、I understand now！<END>
 //POINTER #471 @ $2F3D4 - STRING #471 @ $13A36
 
 #W32($2F3D4)
-<COLOR><GRAY>聞き逃げかよ。<END>
+<COLOR><GRAY>Asks then runs away．<END>
 //POINTER #472 @ $2F3F8 - STRING #472 @ $13A4C
 
 #W32($2F3F8)
@@ -15255,107 +14901,107 @@
 //POINTER #393 @ $2E8E0 - STRING #393 @ $1D8AE
 
 #W32($2E8E0)
-<COLOR><GRAY>どうすればいいの？<END>
+<COLOR><GRAY>suspension settings？<END>
 //POINTER #394 @ $2E904 - STRING #394 @ $1D8C8
 
 #W32($2E904)
-<COLOR><GRAY>話はそれからだ。<END>
+<COLOR><GRAY>Then we can discuss it．<END>
 //POINTER #395 @ $2E928 - STRING #395 @ $1D8E0
 
 #W32($2E928)
-<COLOR><GRAY>もっと曲がって、速くなってホスィ。<END>
+<COLOR><GRAY>I want it to turn better、and go faster too．<END>
 //POINTER #396 @ $2E94C - STRING #396 @ $1D90A
 
 #W32($2E94C)
-<COLOR><GRAY>とりあえずタイヤは替えてるんだろうな？<END>
+<COLOR><GRAY>You've changed the tires at least、right？<END>
 //POINTER #397 @ $2E970 - STRING #397 @ $1D938
 
 #W32($2E970)
-<COLOR><GRAY>走れないよ。サスペンションも買ったし、一応全部<END>
+<COLOR><GRAY>to drive on．I also bought the suspension and set<END>
 //POINTER #398 @ $2E994 - STRING #398 @ $1D96E
 
 #W32($2E994)
-<COLOR><GRAY>固くすりゃ良くなるって思ってんの？<END>
+<COLOR><GRAY>Do you think making it stiff is making it better？<END>
 //POINTER #399 @ $2E9B8 - STRING #399 @ $1D998
 
 #W32($2E9B8)
-<COLOR><GRAY>買うんじゃないの（・ω・）？<END>
+<COLOR><GRAY>to make it stiffer（・ω・）？<END>
 //POINTER #400 @ $2E9DC - STRING #400 @ $1D9BC
 
 #W32($2E9DC)
-<COLOR><GRAY>いいってもんじゃないんだよ。<END>
+<COLOR><GRAY>The most important thing is to balance it with<END>
 //POINTER #401 @ $2EA00 - STRING #401 @ $1D9E0
 
 #W32($2EA00)
-<COLOR><GRAY>なんかムズかしそうだねェ……。<END>
+<COLOR><GRAY>Sounds like a difficult thing……<END>
 //POINTER #402 @ $2EA24 - STRING #402 @ $1DA06
 
 #W32($2EA24)
-<COLOR><GRAY>試して、自分の好みのセッティングに変えるんだよ。<END>
+<COLOR><GRAY>and adjust it to your preferred way．If that sounds<END>
 //POINTER #403 @ $2EA48 - STRING #403 @ $1DA3E
 
 #W32($2EA48)
-<COLOR><GRAY>じぶんでグリグリいじりたいんだよ。<END>
+<COLOR><GRAY>I'm going to fiddle with it by myself．<END>
 //POINTER #404 @ $2EA6C - STRING #404 @ $1DA68
 
 #W32($2EA6C)
-<COLOR><GRAY>じゃあ基本を教えてやるか。<END>
+<COLOR><GRAY>How about I show you the basics then？<END>
 //POINTER #405 @ $2EA90 - STRING #405 @ $1DA8A
 
 #W32($2EA90)
-<COLOR><GRAY>おながいします！<END>
+<COLOR><GRAY>Go ahead please！<END>
 //POINTER #406 @ $2EAB4 - STRING #406 @ $1DAA2
 
 #W32($2EAB4)
-<COLOR><GRAY>もっと曲がりたいんだったら<END>
+<COLOR><GRAY>If you want to improve the turning ability、<END>
 //POINTER #407 @ $2EAD8 - STRING #407 @ $1DAC4
 
 #W32($2EAD8)
-<COLOR><GRAY>柔らかくすると曲がるんでつか！？<END>
+<COLOR><GRAY>Softening the strings makes it turn better！？<END>
 //POINTER #408 @ $2EAFC - STRING #408 @ $1DAEC
 
 #W32($2EAFC)
-<COLOR><GRAY>踏んだときに、荷重が前に行くんだよ。タイヤを<END>
+<COLOR><GRAY>when you release the throttle or apply the brakes．<END>
 //POINTER #409 @ $2EB20 - STRING #409 @ $1DB20
 
 #W32($2EB20)
-<COLOR><GRAY>じゃあ思いっきり柔らかくしちゃえば<END>
+<COLOR><GRAY>So I should just soften it as much as possible、<END>
 //POINTER #410 @ $2EB44 - STRING #410 @ $1DB4A
 
 #W32($2EB44)
-<COLOR><GRAY>それじゃショックを吸収しきれなくなって<END>
+<COLOR><GRAY>That means they wont absorb the shocks properly、<END>
 //POINTER #411 @ $2EB68 - STRING #411 @ $1DB78
 
 #W32($2EB68)
-<COLOR><GRAY>あれ、じゃあ固くする意味ってなんだろ？<END>
+<COLOR><GRAY>Wait、what's the point of stiffer strings、then？<END>
 //POINTER #412 @ $2EB8C - STRING #412 @ $1DBA6
 
 #W32($2EB8C)
-<COLOR><GRAY>ノーマルでドライブするだけだったら意味は無いよ。<END>
+<COLOR><GRAY>If you're just driving normally、there's no point．<END>
 //POINTER #413 @ $2EBB0 - STRING #413 @ $1DBDE
 
 #W32($2EBB0)
-<COLOR><GRAY>直線で目一杯加速してコーナー手前で一気に減速すると<END>
+<COLOR><GRAY>it's different．If you go fast and then brake sharply<END>
 //POINTER #414 @ $2EBD4 - STRING #414 @ $1DC18
 
 #W32($2EBD4)
-<COLOR><GRAY>それに合わせて足廻りも固くする必要がある<END>
+<COLOR><GRAY>you need to stiffen the suspension to balance it<END>
 //POINTER #415 @ $2EBF8 - STRING #415 @ $1DC48
 
 #W32($2EBF8)
-<COLOR><GRAY>納得。<END>
+<COLOR><GRAY>Got it．<END>
 //POINTER #416 @ $2EC1C - STRING #416 @ $1DC56
 
 #W32($2EC1C)
-<COLOR><GRAY>リアが柔らかかったら、リアの荷重がフロントに<END>
+<COLOR><GRAY>turn more easily．If the rear is too soft、<END>
 //POINTER #417 @ $2EC40 - STRING #417 @ $1DC8A
 
 #W32($2EC40)
-<COLOR><GRAY>あ、例えば軟式テニスボールとピンポン玉を同時に<END>
+<COLOR><GRAY>Ah、like when you drop a tennis ball and a ping-pong ball<END>
 //POINTER #418 @ $2EC64 - STRING #418 @ $1DCC0
 
 #W32($2EC64)
-<COLOR><GRAY>固いボールと柔らかいボールの跳ねたときの速度が<END>
+<COLOR><GRAY>when a hard ball and a soft ball bounce、<END>
 //POINTER #419 @ $2EC88 - STRING #419 @ $1DCF6
 
 #W32($2EC88)
@@ -15363,7 +15009,7 @@
 //POINTER #420 @ $2ECAC - STRING #420 @ $1DCF8
 
 #W32($2ECAC)
-<COLOR><GRAY>さ、続き行くぞ。<END>
+<COLOR><GRAY>Alright、let's continue．<END>
 //POINTER #421 @ $2ECD0 - STRING #421 @ $1DD10
 
 #W32($2ECD0)
@@ -15371,31 +15017,31 @@
 //POINTER #422 @ $2ECF4 - STRING #422 @ $1DD12
 
 #W32($2ECF4)
-<COLOR><GRAY>変わりやすい。極端にセッティングしすぎるとスピン<END>
+<COLOR><GRAY>the car will turn more easily．If、however、you set it to<END>
 //POINTER #423 @ $2ED18 - STRING #423 @ $1DD4A
 
 #W32($2ED18)
-<COLOR><GRAY>ってことは滑りすぎるときは<END>
+<COLOR><GRAY>and make gradual adjustments．That means I should make<END>
 //POINTER #424 @ $2ED3C - STRING #424 @ $1DD6C
 
 #W32($2ED3C)
-<COLOR><GRAY>バランスが一緒でも、ソフト寄りとハード寄りでは<END>
+<COLOR><GRAY>Even with the same balance、the feeling can be quite<END>
 //POINTER #425 @ $2ED60 - STRING #425 @ $1DDA2
 
 #W32($2ED60)
-<COLOR><GRAY>サスペンションにくっついてるやつですよね。<END>
+<COLOR><GRAY>the suspension、isn't it？<END>
 //POINTER #426 @ $2ED84 - STRING #426 @ $1DDD4
 
 #W32($2ED84)
-<COLOR><GRAY>そいつはスプリングレートとおんなじくらいにしとけ。<END>
+<COLOR><GRAY>That guy should be set the same as the spring rate．<END>
 //POINTER #427 @ $2EDA8 - STRING #427 @ $1DE0E
 
 #W32($2EDA8)
-<COLOR><GRAY>なんか投げやりですね。<END>
+<COLOR><GRAY>Feels a bit dismissive．<END>
 //POINTER #428 @ $2EDCC - STRING #428 @ $1DE2C
 
 #W32($2EDCC)
-<COLOR><GRAY>おまいも長くて読むの疲れるだろ。<END>
+<COLOR><GRAY>I bet you're getting tired of long explanations too．<END>
 //POINTER #429 @ $2EDF0 - STRING #429 @ $1DE54
 
 #W32($2EDF0)
@@ -15403,7 +15049,7 @@
 //POINTER #430 @ $2EE14 - STRING #430 @ $1DE56
 
 #W32($2EE14)
-<COLOR><GRAY>こいつは車のロールを抑える装置だ。サスペンション<END>
+<COLOR><GRAY>It reduces the car's body roll．It helps to control<END>
 //POINTER #431 @ $2EE38 - STRING #431 @ $1DE8E
 
 #W32($2EE38)
@@ -15411,55 +15057,55 @@
 //POINTER #432 @ $2EE5C - STRING #432 @ $1DE90
 
 #W32($2EE5C)
-<COLOR><GRAY>キビキビ反応するようになるぞ。<END>
+<COLOR><GRAY>to steering inputs．It's effective in reducing wobbling<END>
 //POINTER #433 @ $2EE80 - STRING #433 @ $1DEB6
 
 #W32($2EE80)
-<COLOR><GRAY>じゃあ固くすればオッケーですか？<END>
+<COLOR><GRAY>So it's okay to just make it harder？<END>
 //POINTER #434 @ $2EEA4 - STRING #434 @ $1DEDE
 
 #W32($2EEA4)
-<COLOR><GRAY>柔らかくてリアが固いと向きが変わりやすくなるぞ。<END>
+<COLOR><GRAY>if the front is soft and the rear is hard、<END>
 //POINTER #435 @ $2EEC8 - STRING #435 @ $1DF16
 
 #W32($2EEC8)
-<COLOR><GRAY>最後にお願いです！<END>
+<COLOR><GRAY>Lastly、I have a request！<END>
 //POINTER #436 @ $2EEEC - STRING #436 @ $1DF30
 
 #W32($2EEEC)
-<COLOR><GRAY>しょうがねえ、サービスだヽ（´ー｀）ノ<END>
+<COLOR><GRAY>Well、I'll give you a bonus service ヽ（´ー｀）ノ<END>
 //POINTER #437 @ $2EF10 - STRING #437 @ $1DF5E
 
 #W32($2EF10)
-<COLOR><GRAY>フロントのスプリング、ダンパー、スタビをソフトに。<END>
+<COLOR><GRAY>the front springs、dampers、and roll bar．<END>
 //POINTER #438 @ $2EF34 - STRING #438 @ $1DF98
 
 #W32($2EF34)
-<COLOR><GRAY>やりすぎるとドリ車になるぞ。<END>
+<COLOR><GRAY>Going too far will turn it into a drift car、though．<END>
 //POINTER #439 @ $2EF58 - STRING #439 @ $1DFBC
 
 #W32($2EF58)
-<COLOR><GRAY>いいんですね？<END>
+<COLOR><GRAY>between front and rear settings？<END>
 //POINTER #440 @ $2EF7C - STRING #440 @ $1DFD2
 
 #W32($2EF7C)
-<COLOR><GRAY>クイクイ変わりすぎる、いわゆるオーバーステアだ。<END>
+<COLOR><GRAY>when you steer、that's called oversteer．<END>
 //POINTER #441 @ $2EFA0 - STRING #441 @ $1E00A
 
 #W32($2EFA0)
-<COLOR><GRAY>ソフトにすればマイルドな動きになるぞ。<END>
+<COLOR><GRAY>will give you a milder steering response．<END>
 //POINTER #442 @ $2EFC4 - STRING #442 @ $1E038
 
 #W32($2EFC4)
-<COLOR><GRAY>じゃあ次にミッションとアライメントってやつの<END>
+<COLOR><GRAY>Next up、I'd like a lesson on transmission and<END>
 //POINTER #443 @ $2EFE8 - STRING #443 @ $1E06C
 
 #W32($2EFE8)
-<COLOR><GRAY>またこんど。<END>
+<COLOR><GRAY>See you next time．<END>
 //POINTER #444 @ $2F00C - STRING #444 @ $1E080
 
 #W32($2F00C)
-<COLOR><GRAY>早く誰か教えれ！<END>
+<COLOR><GRAY>Someone tell me quick！<END>
 //POINTER #445 @ $2F030 - STRING #445 @ $1E098
 
 #W32($2F030)
@@ -15471,7 +15117,7 @@
 //POINTER #447 @ $2F078 - STRING #447 @ $1E09C
 
 #W32($2F078)
-<COLOR><GRAY>糸冬了。<END>
+<COLOR><GRAY>That's a wrap．<END>
 //POINTER #448 @ $2F09C - STRING #448 @ $1E0AC
 
 #W32($2F09C)
@@ -15479,47 +15125,47 @@
 //POINTER #449 @ $2F0C0 - STRING #449 @ $1E0AE
 
 #W32($2F0C0)
-<COLOR><GRAY>糸冬了。<END>
+<COLOR><GRAY>And that's a wrap．<END>
 //POINTER #450 @ $2F0E4 - STRING #450 @ $1E0BE
 
 #W32($2F0E4)
-<COLOR><GRAY>わかりやすくおしえてください。<END>
+<COLOR><GRAY>A clear explanation、please．<END>
 //POINTER #451 @ $2F108 - STRING #451 @ $1E0E4
 
 #W32($2F108)
-<COLOR><GRAY>トーはタイヤを上から見たときに、前か<END>
+<COLOR><GRAY>Toe is the angle of the tires when viewed from above、<END>
 //POINTER #452 @ $2F12C - STRING #452 @ $1E110
 
 #W32($2F12C)
-<COLOR><GRAY>あ、上の／　＼と＼　／ですね。<END>
+<COLOR><GRAY>Ah、The ／　＼ and ＼　／ is the top view．<END>
 //POINTER #453 @ $2F150 - STRING #453 @ $1E136
 
 #W32($2F150)
-<COLOR><GRAY>後ろが閉じてるとトーアウトっていうんだよ。<END>
+<COLOR><GRAY>toe-in； if the rear is angled inward、that's toe-out．<END>
 //POINTER #454 @ $2F174 - STRING #454 @ $1E168
 
 #W32($2F174)
-<COLOR><GRAY>それを変えるとどうなるんですか？？<END>
+<COLOR><GRAY>What happens when you change it？？<END>
 //POINTER #455 @ $2F198 - STRING #455 @ $1E192
 
 #W32($2F198)
-<COLOR><GRAY>でもブレーキングしたときに不安定になるよ。<END>
+<COLOR><GRAY>it can become unstable during braking．The opposite<END>
 //POINTER #456 @ $2F1BC - STRING #456 @ $1E1C4
 
 #W32($2F1BC)
-<COLOR><GRAY>ハンドル切ったらスパッと曲がるってことですか？？<END>
+<COLOR><GRAY>So、does it mean the car will turn sharply when you steer？<END>
 //POINTER #457 @ $2F1E0 - STRING #457 @ $1E1FC
 
 #W32($2F1E0)
-<COLOR><GRAY>で、リアがトーインだった場合、リアの安定感が増す。<END>
+<COLOR><GRAY>the rear of the car becomes more stable、but it makes<END>
 //POINTER #458 @ $2F204 - STRING #458 @ $1E236
 
 #W32($2F204)
-<COLOR><GRAY>リアがトーアウトってことですね。<END>
+<COLOR><GRAY>and the rear should be set to toe-out、right？<END>
 //POINTER #459 @ $2F228 - STRING #459 @ $1E25E
 
 #W32($2F228)
-<COLOR><GRAY>できなくなるけどね。<END>
+<COLOR><GRAY>If the car is unstable、<END>
 //POINTER #460 @ $2F24C - STRING #460 @ $1E27A
 
 #W32($2F24C)
@@ -15527,15 +15173,15 @@
 //POINTER #461 @ $2F270 - STRING #461 @ $1E27C
 
 #W32($2F270)
-<COLOR><GRAY>タイヤの角度だ。ハの字ならネガキャン、<END>
+<COLOR><GRAY>the front．If the tires tilt inward at the top、that's<END>
 //POINTER #462 @ $2F294 - STRING #462 @ $1E2AA
 
 #W32($2F294)
-<COLOR><GRAY>鬼キャンて奴でしょ？<END>
+<COLOR><GRAY>It's the stance thing、right？<END>
 //POINTER #463 @ $2F2B8 - STRING #463 @ $1E2C6
 
 #W32($2F2B8)
-<COLOR><GRAY>やりすぎはデメリットになるんだけどな。<END>
+<COLOR><GRAY>While it looks impressive、overdoing it is a disadvantage．<END>
 //POINTER #464 @ $2F2DC - STRING #464 @ $1E2F4
 
 #W32($2F2DC)
@@ -15543,31 +15189,31 @@
 //POINTER #465 @ $2F300 - STRING #465 @ $1E2F6
 
 #W32($2F300)
-<COLOR><GRAY>コーナリング中の接地面積が大きくなるんだ。<END>
+<COLOR><GRAY>the contact area of the tires during cornering increases．<END>
 //POINTER #466 @ $2F324 - STRING #466 @ $1E328
 
 #W32($2F324)
-<COLOR><GRAY>一石二鳥ですなヽ（´▽｀）ノ<END>
+<COLOR><GRAY>it's a win-win ヽ（´▽｀）ノ<END>
 //POINTER #467 @ $2F348 - STRING #467 @ $1E34C
 
 #W32($2F348)
-<COLOR><GRAY>直進時のグリップは下がるんだ。<END>
+<COLOR><GRAY>during straight-line driving．So、if you overdo it、<END>
 //POINTER #468 @ $2F36C - STRING #468 @ $1E372
 
 #W32($2F36C)
-<COLOR><GRAY>じゃあポジキャンにするとメリットは<END>
+<COLOR><GRAY>So are there any benefits to setting it<END>
 //POINTER #469 @ $2F390 - STRING #469 @ $1E39C
 
 #W32($2F390)
-<COLOR><GRAY>ポジティブに寄せてグリップを稼ぐくらいかな。<END>
+<COLOR><GRAY>a more positive one to gain some stability．<END>
 //POINTER #470 @ $2F3B4 - STRING #470 @ $1E3D0
 
 #W32($2F3B4)
-<COLOR><GRAY>もうキサマに教わる事は何もないぜ！<END>
+<COLOR><GRAY>I don't have anything else to learn from you！<END>
 //POINTER #471 @ $2F3D8 - STRING #471 @ $1E3FA
 
 #W32($2F3D8)
-<COLOR><GRAY>礼くらい言いやがれヽ（｀Д´）ノ<END>
+<COLOR><GRAY>At least you could've said thanks ヽ（｀Д´）ノ<END>
 //POINTER #472 @ $2F3FC - STRING #472 @ $1E422
 
 #W32($2F3FC)
@@ -16678,6 +16324,8 @@
 <END>
 //POINTER #749 @ $31AF0 - STRING #749 @ $2025A
 
+#JMP($36EA0)
+
 #W32($31AF0)
 <COLOR><GRAY>ひどい走り方をする人たちがいるんです。<END>
 //POINTER #750 @ $31B14 - STRING #750 @ $20288
@@ -17681,8 +17329,6 @@
 #W32($33E18)
 <COLOR><GRAY>左端、<COLOR><RED>テクスチャー選択<COLOR><GRAY>アイコンで<END>
 //POINTER #1000 @ $33E3C - STRING #1000 @ $22166
-
-#JMP($36EA0)
 
 #W32($33E3C)
 <END>
@@ -20209,7 +19855,7 @@
 //POINTER #397 @ $2E974 - STRING #397 @ $25FA0
 
 #W32($2E974)
-<COLOR><GRAY>ハードにセッティングしてみたんだけど……。<END>
+<COLOR><GRAY>everything to hard、but……<END>
 //POINTER #398 @ $2E998 - STRING #398 @ $25FD2
 
 #W32($2E998)
@@ -20221,7 +19867,7 @@
 //POINTER #400 @ $2E9E0 - STRING #400 @ $25FD6
 
 #W32($2E9E0)
-<COLOR><GRAY>パワーとのバランスが一番大事なんだよ。<END>
+<COLOR><GRAY>your car's power．<END>
 //POINTER #401 @ $2EA04 - STRING #401 @ $26004
 
 #W32($2EA04)
@@ -20229,11 +19875,11 @@
 //POINTER #402 @ $2EA28 - STRING #402 @ $26006
 
 #W32($2EA28)
-<COLOR><GRAY>それが嫌だったらオートセッティングでボタン押せ。<END>
+<COLOR><GRAY>like a hassle、just use the Auto Setting．<END>
 //POINTER #403 @ $2EA4C - STRING #403 @ $2603E
 
 #W32($2EA4C)
-<COLOR><GRAY>オートだとイマイチ僕には合わなくて。<END>
+<COLOR><GRAY>I don't like when it's automatic．<END>
 //POINTER #404 @ $2EA70 - STRING #404 @ $2606A
 
 #W32($2EA70)
@@ -20245,23 +19891,23 @@
 //POINTER #406 @ $2EAB8 - STRING #406 @ $2606E
 
 #W32($2EAB8)
-<COLOR><GRAY>フロントを柔らかくすること。<END>
+<COLOR><GRAY>soften the front springs．<END>
 //POINTER #407 @ $2EADC - STRING #407 @ $26092
 
 #W32($2EADC)
-<COLOR><GRAY>なんで？<END>
+<COLOR><GRAY>Why is that？<END>
 //POINTER #408 @ $2EB00 - STRING #408 @ $260A2
 
 #W32($2EB00)
-<COLOR><GRAY>ぎゅっと地面に押し付けるとグリップするだろ？<END>
+<COLOR><GRAY>Pushing the tires more firmly increases grip、right？<END>
 //POINTER #409 @ $2EB24 - STRING #409 @ $260D6
 
 #W32($2EB24)
-<COLOR><GRAY>いいんですかい？<END>
+<COLOR><GRAY>right？<END>
 //POINTER #410 @ $2EB48 - STRING #410 @ $260EE
 
 #W32($2EB48)
-<COLOR><GRAY>車は不安定になっちゃう。<END>
+<COLOR><GRAY>making the car unstable．<END>
 //POINTER #411 @ $2EB6C - STRING #411 @ $2610E
 
 #W32($2EB6C)
@@ -20269,15 +19915,15 @@
 //POINTER #412 @ $2EB90 - STRING #412 @ $26110
 
 #W32($2EB90)
-<COLOR><GRAY>逆に乗り心地が悪くなるだけ。<END>
+<COLOR><GRAY>It'll just make it more uncomfortable．<END>
 //POINTER #413 @ $2EBB4 - STRING #413 @ $26134
 
 #W32($2EBB4)
-<COLOR><GRAY>ノーマルのスプリングじゃ縮み切っちゃうんだよ。<END>
+<COLOR><GRAY>before a corner、stock springs will compress fully．<END>
 //POINTER #414 @ $2EBD8 - STRING #414 @ $2616A
 
 #W32($2EBD8)
-<COLOR><GRAY>ってことだ。<END>
+<COLOR><GRAY>with the rest．<END>
 //POINTER #415 @ $2EBFC - STRING #415 @ $2617E
 
 #W32($2EBFC)
@@ -20285,15 +19931,15 @@
 //POINTER #416 @ $2EC20 - STRING #416 @ $26180
 
 #W32($2EC20)
-<COLOR><GRAY>移動し難くなるからな。<END>
+<COLOR><GRAY>it's harder to shift the weight to the front．<END>
 //POINTER #417 @ $2EC44 - STRING #417 @ $2619E
 
 #W32($2EC44)
-<COLOR><GRAY>地面に落としたとき……。<END>
+<COLOR><GRAY>on the ground at the same time……<END>
 //POINTER #418 @ $2EC68 - STRING #418 @ $261BE
 
 #W32($2EC68)
-<COLOR><GRAY>固いほうが速いようなもんだ。<END>
+<COLOR><GRAY>the hard one bounces back faster．<END>
 //POINTER #419 @ $2EC8C - STRING #419 @ $261E2
 
 #W32($2EC8C)
@@ -20309,23 +19955,23 @@
 //POINTER #422 @ $2ECF8 - STRING #422 @ $261E8
 
 #W32($2ECF8)
-<COLOR><GRAY>しまくってはしれないけどな。<END>
+<COLOR><GRAY>extremes、you'll end up spinning out、unable to drive．<END>
 //POINTER #423 @ $2ED1C - STRING #423 @ $2620C
 
 #W32($2ED1C)
-<COLOR><GRAY>逆に調整していけばいいのかな。<END>
+<COLOR><GRAY>opposite adjustments when it slides too much、right？<END>
 //POINTER #424 @ $2ED40 - STRING #424 @ $26232
 
 #W32($2ED40)
-<COLOR><GRAY>だいぶ感じが違うしな。<END>
+<COLOR><GRAY>different between a softer and a harder setup．<END>
 //POINTER #425 @ $2ED64 - STRING #425 @ $26250
 
 #W32($2ED64)
-<COLOR><GRAY>これはどうするんですか？<END>
+<COLOR><GRAY>What should I do with it？<END>
 //POINTER #426 @ $2ED88 - STRING #426 @ $26270
 
 #W32($2ED88)
-<COLOR><GRAY>大体バランス取れてるからヽ（´ー｀）ノ<END>
+<COLOR><GRAY>You'll usually have a good balance that way ヽ（´ー｀）ノ<END>
 //POINTER #427 @ $2EDAC - STRING #427 @ $2629E
 
 #W32($2EDAC)
@@ -20333,7 +19979,7 @@
 //POINTER #428 @ $2EDD0 - STRING #428 @ $262A0
 
 #W32($2EDD0)
-<COLOR><GRAY>よーし、サクサク説明するぞ～！<END>
+<COLOR><GRAY>Alーright、I'll explain the rest quickly～！<END>
 //POINTER #429 @ $2EDF4 - STRING #429 @ $262C6
 
 #W32($2EDF4)
@@ -20341,7 +19987,7 @@
 //POINTER #430 @ $2EE18 - STRING #430 @ $262C8
 
 #W32($2EE18)
-<COLOR><GRAY>を固めなくてもロールだけ抑えてくれる。<END>
+<COLOR><GRAY>roll without having to stiffen the suspension．<END>
 //POINTER #431 @ $2EE3C - STRING #431 @ $262F6
 
 #W32($2EE3C)
@@ -20349,7 +19995,7 @@
 //POINTER #432 @ $2EE60 - STRING #432 @ $262F8
 
 #W32($2EE60)
-<COLOR><GRAY>ブレ－キング時にフラフラするのを抑えるのに有効だ。<END>
+<COLOR><GRAY>during braking．<END>
 //POINTER #433 @ $2EE84 - STRING #433 @ $26332
 
 #W32($2EE84)
@@ -20357,11 +20003,11 @@
 //POINTER #434 @ $2EEA8 - STRING #434 @ $26334
 
 #W32($2EEA8)
-<COLOR><GRAY>まあそんなとこだ。<END>
+<COLOR><GRAY>the car turns easier．That's about it．<END>
 //POINTER #435 @ $2EECC - STRING #435 @ $2634E
 
 #W32($2EECC)
-<COLOR><GRAY>全部、簡潔に説明をおながいします！<END>
+<COLOR><GRAY>Please give a brief explanation of everything！<END>
 //POINTER #436 @ $2EEF0 - STRING #436 @ $26378
 
 #W32($2EEF0)
@@ -20369,7 +20015,7 @@
 //POINTER #437 @ $2EF14 - STRING #437 @ $2637A
 
 #W32($2EF14)
-<COLOR><GRAY>フロントの車高を下げてもいいぞ。<END>
+<COLOR><GRAY>You can also lower the front ride height．<END>
 //POINTER #438 @ $2EF38 - STRING #438 @ $263A2
 
 #W32($2EF38)
@@ -20381,15 +20027,15 @@
 //POINTER #440 @ $2EF80 - STRING #440 @ $263A6
 
 #W32($2EF80)
-<COLOR><GRAY>このときはフロントをハード方向だ。<END>
+<COLOR><GRAY>In that case、stiffen the front．<END>
 //POINTER #441 @ $2EFA4 - STRING #441 @ $263D0
 
 #W32($2EFA4)
-<COLOR><GRAY>まあこんなとこだ。<END>
+<COLOR><GRAY>That's about everything．<END>
 //POINTER #442 @ $2EFC8 - STRING #442 @ $263EA
 
 #W32($2EFC8)
-<COLOR><GRAY>セッティング講座をお願いします！<END>
+<COLOR><GRAY>alignment settings！<END>
 //POINTER #443 @ $2EFEC - STRING #443 @ $26412
 
 #W32($2EFEC)
@@ -20397,7 +20043,7 @@
 //POINTER #444 @ $2F010 - STRING #444 @ $26414
 
 #W32($2F010)
-<COLOR><GRAY>セッティングも！<END>
+<COLOR><GRAY>And give the settings too！<END>
 //POINTER #445 @ $2F034 - STRING #445 @ $2642C
 
 #W32($2F034)
@@ -20425,7 +20071,7 @@
 //POINTER #451 @ $2F10C - STRING #451 @ $26438
 
 #W32($2F10C)
-<COLOR><GRAY>後ろが開いてる角度だよ。<END>
+<COLOR><GRAY>whether the front or rear is pointed outward．<END>
 //POINTER #452 @ $2F130 - STRING #452 @ $26458
 
 #W32($2F130)
@@ -20441,7 +20087,7 @@
 //POINTER #455 @ $2F19C - STRING #455 @ $2645E
 
 #W32($2F19C)
-<COLOR><GRAY>フロントトーアウトなら逆。<END>
+<COLOR><GRAY>is true for front toe-out．<END>
 //POINTER #456 @ $2F1C0 - STRING #456 @ $26480
 
 #W32($2F1C0)
@@ -20449,7 +20095,7 @@
 //POINTER #457 @ $2F1E4 - STRING #457 @ $26482
 
 #W32($2F1E4)
-<COLOR><GRAY>ドリフトはしづらくなるけど。トーアウトなら逆。<END>
+<COLOR><GRAY>drifting harder．The opposite is true for rear toe-out．<END>
 //POINTER #458 @ $2F208 - STRING #458 @ $264B8
 
 #W32($2F208)
@@ -20457,7 +20103,7 @@
 //POINTER #459 @ $2F22C - STRING #459 @ $264BA
 
 #W32($2F22C)
-<COLOR><GRAY>フラフラするなら逆ってことだ。<END>
+<COLOR><GRAY>try adjusting in the opposite direction．<END>
 //POINTER #460 @ $2F250 - STRING #460 @ $264E0
 
 #W32($2F250)
@@ -20465,11 +20111,11 @@
 //POINTER #461 @ $2F274 - STRING #461 @ $264E2
 
 #W32($2F274)
-<COLOR><GRAY>逆ハの字ならポジキャンだ。<END>
+<COLOR><GRAY>negative camber；if outward、that's positive camber．<END>
 //POINTER #462 @ $2F298 - STRING #462 @ $26504
 
 #W32($2F298)
-<COLOR><GRAY>かっちょいいよね！<END>
+<COLOR><GRAY>It looks really cool！<END>
 //POINTER #463 @ $2F2BC - STRING #463 @ $2651E
 
 #W32($2F2BC)
@@ -20481,19 +20127,19 @@
 //POINTER #465 @ $2F304 - STRING #465 @ $26522
 
 #W32($2F304)
-<COLOR><GRAY>つまりグリップがよくなる。<END>
+<COLOR><GRAY>This means improved grip．<END>
 //POINTER #466 @ $2F328 - STRING #466 @ $26544
 
 #W32($2F328)
-<COLOR><GRAY>ウハウハですな！<END>
+<COLOR><GRAY>That's awesome！<END>
 //POINTER #467 @ $2F34C - STRING #467 @ $2655C
 
 #W32($2F34C)
-<COLOR><GRAY>だからやりすぎると真っ直ぐ走れないぞ。<END>
+<COLOR><GRAY>you won't be able to drive straight．<END>
 //POINTER #468 @ $2F370 - STRING #468 @ $2658A
 
 #W32($2F370)
-<COLOR><GRAY>あるんですか？<END>
+<COLOR><GRAY>to positive？<END>
 //POINTER #469 @ $2F394 - STRING #469 @ $265A0
 
 #W32($2F394)
@@ -20501,7 +20147,7 @@
 //POINTER #470 @ $2F3B8 - STRING #470 @ $265A2
 
 #W32($2F3B8)
-<COLOR><GRAY>あばよ！！<END>
+<COLOR><GRAY>See ya！！<END>
 //POINTER #471 @ $2F3DC - STRING #471 @ $265B4
 
 #W32($2F3DC)
