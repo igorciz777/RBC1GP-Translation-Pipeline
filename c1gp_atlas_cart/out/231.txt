@@ -5375,124 +5375,37 @@
 //POINTER #363 @ $2E4A0 - STRING #363 @ $930E
 
 #W32($2E4A0)
-<COLOR><GRAY>re：Tuning 2<END>
-//POINTER #364 @ $2E4C4 - STRING #364 @ $932A
-
 #W32($2E4C4)
-<COLOR><GRAY>re：Tuning 2<END>
-//POINTER #365 @ $2E4E8 - STRING #365 @ $9346
-
 #W32($2E4E8)
-<COLOR><GRAY>re：Tuning 2<END>
-//POINTER #366 @ $2E50C - STRING #366 @ $9362
-
 #W32($2E50C)
-<COLOR><GRAY>re：Tuning 2<END>
-//POINTER #367 @ $2E530 - STRING #367 @ $937E
-
 #W32($2E530)
-<COLOR><GRAY>re：Tuning 2<END>
-//POINTER #368 @ $2E554 - STRING #368 @ $939A
-
 #W32($2E554)
-<COLOR><GRAY>re：Tuning 2<END>
-//POINTER #369 @ $2E578 - STRING #369 @ $93B6
-
 #W32($2E578)
-<COLOR><GRAY>re：Tuning 2<END>
-//POINTER #370 @ $2E59C - STRING #370 @ $93D2
-
 #W32($2E59C)
-<COLOR><GRAY>re：Tuning 2<END>
-//POINTER #371 @ $2E5C0 - STRING #371 @ $93EE
-
 #W32($2E5C0)
-<COLOR><GRAY>re：Tuning 2<END>
-//POINTER #372 @ $2E5E4 - STRING #372 @ $940A
-
 #W32($2E5E4)
-<COLOR><GRAY>re：Tuning 2<END>
-//POINTER #373 @ $2E608 - STRING #373 @ $9426
-
 #W32($2E608)
-<COLOR><GRAY>re：Tuning 2<END>
-//POINTER #374 @ $2E62C - STRING #374 @ $9442
-
 #W32($2E62C)
-<COLOR><GRAY>re：Tuning 2<END>
-//POINTER #375 @ $2E650 - STRING #375 @ $945E
-
 #W32($2E650)
-<COLOR><GRAY>re：Tuning 2<END>
-//POINTER #376 @ $2E674 - STRING #376 @ $947A
-
 #W32($2E674)
-<COLOR><GRAY>re：Tuning 2<END>
-//POINTER #377 @ $2E698 - STRING #377 @ $9496
-
 #W32($2E698)
-<COLOR><GRAY>re：Tuning 2<END>
-//POINTER #378 @ $2E6BC - STRING #378 @ $94B2
-
 #W32($2E6BC)
-<COLOR><GRAY>re：Tuning 2<END>
-//POINTER #379 @ $2E6E0 - STRING #379 @ $94CE
-
 #W32($2E6E0)
-<COLOR><GRAY>re：Tuning 2<END>
-//POINTER #380 @ $2E704 - STRING #380 @ $94EA
-
 #W32($2E704)
-<COLOR><GRAY>re：Tuning 2<END>
-//POINTER #381 @ $2E728 - STRING #381 @ $9506
-
 #W32($2E728)
-<COLOR><GRAY>re：Tuning 2<END>
-//POINTER #382 @ $2E74C - STRING #382 @ $9522
-
 #W32($2E74C)
-<COLOR><GRAY>re：Tuning 2<END>
-//POINTER #383 @ $2E770 - STRING #383 @ $953E
-
 #W32($2E770)
-<COLOR><GRAY>re：Tuning 2<END>
-//POINTER #384 @ $2E794 - STRING #384 @ $955A
-
 #W32($2E794)
-<COLOR><GRAY>re：Tuning 2<END>
-//POINTER #385 @ $2E7B8 - STRING #385 @ $9576
-
 #W32($2E7B8)
-<COLOR><GRAY>re：Tuning 2<END>
-//POINTER #386 @ $2E7DC - STRING #386 @ $9592
-
 #W32($2E7DC)
-<COLOR><GRAY>re：Tuning 2<END>
-//POINTER #387 @ $2E800 - STRING #387 @ $95AE
-
 #W32($2E800)
-<COLOR><GRAY>re：Tuning 2<END>
-//POINTER #388 @ $2E824 - STRING #388 @ $95CA
-
 #W32($2E824)
-<COLOR><GRAY>re：Tuning 2<END>
-//POINTER #389 @ $2E848 - STRING #389 @ $95E6
-
 #W32($2E848)
-<COLOR><GRAY>re：Tuning 2<END>
-//POINTER #390 @ $2E86C - STRING #390 @ $9602
-
 #W32($2E86C)
-<COLOR><GRAY>re：Tuning 2<END>
-//POINTER #391 @ $2E890 - STRING #391 @ $961E
-
 #W32($2E890)
-<COLOR><GRAY>re：Tuning 2<END>
-//POINTER #392 @ $2E8B4 - STRING #392 @ $963A
-
 #W32($2E8B4)
 <COLOR><GRAY>re：Tuning 2<END>
-//POINTER #393 @ $2E8D8 - STRING #393 @ $9656
+//POINTER #364 @ $2E4C4 - STRING #364 @ $932A
 
 #W32($2E8D8)
 <COLOR><GRAY>Setting 2<END>
@@ -10280,127 +10193,127 @@
 //POINTER #362 @ $2E480 - STRING #362 @ $1291E
 
 #W32($2E480)
-<COLOR><GRAY>パーツってなんかいろんな種類のあるけど、<END>
+<COLOR><GRAY>There are many different kinds of parts、<END>
 //POINTER #363 @ $2E4A4 - STRING #363 @ $1294E
 
 #W32($2E4A4)
-<COLOR><GRAY>基本はそうだけど違うのもあるでよ。<END>
+<COLOR><GRAY>That's mostly true、but there are exceptions．<END>
 //POINTER #364 @ $2E4C8 - STRING #364 @ $12978
 
 #W32($2E4C8)
-<COLOR><GRAY>タイヤは減り方が違うんだっけ？<END>
+<COLOR><GRAY>Is it the durability when it comes to tires？<END>
 //POINTER #365 @ $2E4EC - STRING #365 @ $1299E
 
 #W32($2E4EC)
-<COLOR><GRAY>そう。あとは雨の日のグリップ。<END>
+<COLOR><GRAY>Correct．And then there's also grip on wet conditions．<END>
 //POINTER #366 @ $2E510 - STRING #366 @ $129C4
 
 #W32($2E510)
-<COLOR><GRAY>Ｓタイヤ（Ｓ）が一番減るのが早いんですよね。<END>
+<COLOR><GRAY>S（S）tires wear out the fastest、if I'm correct．<END>
 //POINTER #367 @ $2E534 - STRING #367 @ $129F8
 
 #W32($2E534)
-<COLOR><GRAY>残念！　雨の日のグリップは<END>
+<COLOR><GRAY>It's a pity！　The order of grip in rain is：<END>
 //POINTER #368 @ $2E558 - STRING #368 @ $12A1A
 
 #W32($2E558)
-<COLOR><GRAY>そうなんだ。<END>
+<COLOR><GRAY>I see．<END>
 //POINTER #369 @ $2E57C - STRING #369 @ $12A2E
 
 #W32($2E57C)
-<COLOR><GRAY>それに関しては別のスレもあったけど、<END>
+<COLOR><GRAY>There was another thread about that、but <END>
 //POINTER #370 @ $2E5A0 - STRING #370 @ $12A5A
 
 #W32($2E5A0)
-<COLOR><GRAY>って言われてもわかんね（´Ａ｀）<END>
+<COLOR><GRAY>I still don't get it、 though （´Ａ｀）<END>
 //POINTER #371 @ $2E5C4 - STRING #371 @ $12A82
 
 #W32($2E5C4)
-<COLOR><GRAY>ディファレンシャルってのは曲がりやすくするために<END>
+<COLOR><GRAY>A differential changes the rotation speed of the<END>
 //POINTER #372 @ $2E5E8 - STRING #372 @ $12ABA
 
 #W32($2E5E8)
-<COLOR><GRAY>工エエェ（゜Д゜）ェエエ工<END>
+<COLOR><GRAY>Whaaaaat？！（゜Д゜）<END>
 //POINTER #373 @ $2E60C - STRING #373 @ $12ADC
 
 #W32($2E60C)
-<COLOR><GRAY>曲がりにくくなる代わりに駆動力を得られる<END>
+<COLOR><GRAY>It does make turning a bit harder、but you gain more<END>
 //POINTER #374 @ $2E630 - STRING #374 @ $12B0C
 
 #W32($2E630)
-<COLOR><GRAY>ふんふん。<END>
+<COLOR><GRAY>Mm-hmm．<END>
 //POINTER #375 @ $2E654 - STRING #375 @ $12B1E
 
 #W32($2E654)
-<COLOR><GRAY>ＬＳＤ　１ＷＡＹは加速してるときのみ作動する。<END>
+<COLOR><GRAY>A 1WAY LSD activates only during acceleration．<END>
 //POINTER #376 @ $2E678 - STRING #376 @ $12B54
 
 #W32($2E678)
-<COLOR><GRAY>フム。<END>
+<COLOR><GRAY>Right．<END>
 //POINTER #377 @ $2E69C - STRING #377 @ $12B62
 
 #W32($2E69C)
-<COLOR><GRAY>加速してるとき、減速してるとき、共に作動する。<END>
+<COLOR><GRAY>It activates during both acceleration and deceleration、<END>
 //POINTER #378 @ $2E6C0 - STRING #378 @ $12B98
 
 #W32($2E6C0)
-<COLOR><GRAY>曲がらないのかあ。<END>
+<COLOR><GRAY>So it doesn't turn as easily、huh．<END>
 //POINTER #379 @ $2E6E4 - STRING #379 @ $12BB2
 
 #W32($2E6E4)
-<COLOR><GRAY>あ、ちなみにＬＳＤ　２ＷＡＹはＦＦ車には無いよ。<END>
+<COLOR><GRAY>Oh、by the way、a 2WAY LSD isn't available for FF cars．<END>
 //POINTER #380 @ $2E708 - STRING #380 @ $12BEA
 
 #W32($2E708)
-<COLOR><GRAY>駆動するのも曲がるのもフロントだからか。<END>
+<COLOR><GRAY>It's because both driving and turning is handled<END>
 //POINTER #381 @ $2E72C - STRING #381 @ $12C1A
 
 #W32($2E72C)
-<COLOR><GRAY>そゆこと。で、最後にＬＳＤ　１．５ＷＡＹ。<END>
+<COLOR><GRAY>Exactly．And finally、the 1．5WAY LSD．<END>
 //POINTER #382 @ $2E750 - STRING #382 @ $12C4C
 
 #W32($2E750)
-<COLOR><GRAY>ちょっとだけ？<END>
+<COLOR><GRAY>Slightly？<END>
 //POINTER #383 @ $2E774 - STRING #383 @ $12C62
 
 #W32($2E774)
-<COLOR><GRAY>そうね。イイとこ取りなバランスタイプかな。<END>
+<COLOR><GRAY>Correct．It's the best of both worlds．<END>
 //POINTER #384 @ $2E798 - STRING #384 @ $12C94
 
 #W32($2E798)
-<COLOR><GRAY>あ、タイロッドって１コしかないけど<END>
+<COLOR><GRAY>Oh、there's only one type of tie rod availableー<END>
 //POINTER #385 @ $2E7BC - STRING #385 @ $12CBE
 
 #W32($2E7BC)
-<COLOR><GRAY>それはタイヤの切れ角を増やすパーツだな。<END>
+<COLOR><GRAY>That's a part that increases the steering angle．<END>
 //POINTER #386 @ $2E7E0 - STRING #386 @ $12CEE
 
 #W32($2E7E0)
-<COLOR><GRAY>なんとなく付けてたよヽ（´ー｀）ノ<END>
+<COLOR><GRAY>I kinda already installed it ヽ（´ー｀）ノ<END>
 //POINTER #387 @ $2E804 - STRING #387 @ $12D18
 
 #W32($2E804)
-<COLOR><GRAY>あとは、ランクＡになる辺りでエンジン換装って<END>
+<COLOR><GRAY>Also、around the time you reach Rank A、you will unlock<END>
 //POINTER #388 @ $2E828 - STRING #388 @ $12D4C
 
 #W32($2E828)
-<COLOR><GRAY>じゃあガッツリパワーが出せるわけね！！<END>
+<COLOR><GRAY>That means getting lots of power！！<END>
 //POINTER #389 @ $2E84C - STRING #389 @ $12D7A
 
 #W32($2E84C)
-<COLOR><GRAY>パワーがありすぎるとコントロール出来ない場合も<END>
+<COLOR><GRAY>Sometimes too much power can make your car uncontrollable．<END>
 //POINTER #390 @ $2E870 - STRING #390 @ $12DB0
 
 #W32($2E870)
-<COLOR><GRAY>え～、どれがいいかわかんないの？<END>
+<COLOR><GRAY>Ehh～、there is no way to know which one's best？<END>
 //POINTER #391 @ $2E894 - STRING #391 @ $12DD8
 
 #W32($2E894)
-<COLOR><GRAY>まあ、ＣＰに余裕があったら試してみなさいよ。<END>
+<COLOR><GRAY>Well、give them a try if you have the CP to spare．<END>
 //POINTER #392 @ $2E8B8 - STRING #392 @ $12E0C
 
 #W32($2E8B8)
-<COLOR><GRAY>ありが㌧！<END>
+<COLOR><GRAY>Thanks a ton！<END>
 //POINTER #393 @ $2E8DC - STRING #393 @ $12E1E
 
 #W32($2E8DC)
@@ -15218,11 +15131,11 @@
 //POINTER #362 @ $2E484 - STRING #362 @ $1D3AA
 
 #W32($2E484)
-<COLOR><GRAY>結局いっちばん数字でっかいのつけとけば<END>
+<COLOR><GRAY>but all in all、it's just best to equip the one<END>
 //POINTER #363 @ $2E4A8 - STRING #363 @ $1D3D8
 
 #W32($2E4A8)
-<COLOR><GRAY>タイヤ、ディファレンシャルあたりは違うねえ。<END>
+<COLOR><GRAY>For example、tires and differentials work differently．<END>
 //POINTER #364 @ $2E4CC - STRING #364 @ $1D40C
 
 #W32($2E4CC)
@@ -15230,115 +15143,115 @@
 //POINTER #365 @ $2E4F0 - STRING #365 @ $1D40E
 
 #W32($2E4F0)
-<COLOR><GRAY>トータルバランスがいいのはＨＧタイヤかな。<END>
+<COLOR><GRAY>I think the HG tire has the best overall balance．<END>
 //POINTER #366 @ $2E514 - STRING #366 @ $1D440
 
 #W32($2E514)
-<COLOR><GRAY>じゃあ雨の日のグリップもＳタイヤ（Ｓ）が<END>
+<COLOR><GRAY>Does that mean they have the lowest grip on rainy days？<END>
 //POINTER #367 @ $2E538 - STRING #367 @ $1D470
 
 #W32($2E538)
-<COLOR><GRAY>ＨＧ＞Ｓ（Ｓ）＞Ｓ（Ｍ）＞ノーマル＞Ｓ（Ｈ）だよ。<END>
+<COLOR><GRAY>HG＞S（S）＞S（M）＞NORMAL＞S（H）．<END>
 //POINTER #368 @ $2E55C - STRING #368 @ $1D4AA
 
 #W32($2E55C)
-<COLOR><GRAY>じゃ、ディファレンシャルは？<END>
+<COLOR><GRAY>Well、what about the differentials then？<END>
 //POINTER #369 @ $2E580 - STRING #369 @ $1D4CE
 
 #W32($2E580)
-<COLOR><GRAY>１ＷＡＹ、１．５ＷＡＹ、２ＷＡＹってのは<END>
+<COLOR><GRAY>1WAY、1．5WAY、2WAY are all<END>
 //POINTER #370 @ $2E5A4 - STRING #370 @ $1D4FE
 
 #W32($2E5A4)
-<COLOR><GRAY>どう違うの？<END>
+<COLOR><GRAY>What's the difference？<END>
 //POINTER #371 @ $2E5C8 - STRING #371 @ $1D512
 
 #W32($2E5C8)
-<COLOR><GRAY>左右のタイヤの回転数を変えるモノなんだけど、<END>
+<COLOR><GRAY>left and right tires to make turning easier、<END>
 //POINTER #372 @ $2E5EC - STRING #372 @ $1D546
 
 #W32($2E5EC)
-<COLOR><GRAY>なんで抑えるの？<END>
+<COLOR><GRAY>Why would it limit that？<END>
 //POINTER #373 @ $2E610 - STRING #373 @ $1D55E
 
 #W32($2E610)
-<COLOR><GRAY>ようになるんよ、コーナリング中のね。<END>
+<COLOR><GRAY>traction while cornering．It's designed to help you<END>
 //POINTER #374 @ $2E634 - STRING #374 @ $1D58A
 
 #W32($2E634)
-<COLOR><GRAY>で、タイプの違いは？<END>
+<COLOR><GRAY>Then、what's the difference between the types？<END>
 //POINTER #375 @ $2E658 - STRING #375 @ $1D5A6
 
 #W32($2E658)
-<COLOR><GRAY>コーナーの進入で曲がりにくいのがイヤな人はコレ。<END>
+<COLOR><GRAY>This is for those who don't like the difficulty<END>
 //POINTER #376 @ $2E67C - STRING #376 @ $1D5DE
 
 #W32($2E67C)
-<COLOR><GRAY>ＬＳＤ　２ＷＡＹは？<END>
+<COLOR><GRAY>And the 2WAY LSD？<END>
 //POINTER #377 @ $2E6A0 - STRING #377 @ $1D5FA
 
 #W32($2E6A0)
-<COLOR><GRAY>常に曲がりにくいと思ってもいいかな。<END>
+<COLOR><GRAY>so it makes turning always harder in a sense．<END>
 //POINTER #378 @ $2E6C4 - STRING #378 @ $1D626
 
 #W32($2E6C4)
-<COLOR><GRAY>ＦＲ乗ってるとフラフラするからいいかもね。<END>
+<COLOR><GRAY>That might be good、I get dizzy from my FR sometimes．<END>
 //POINTER #379 @ $2E6E8 - STRING #379 @ $1D658
 
 #W32($2E6E8)
-<COLOR><GRAY>ただでさえＦＲに比べて曲がりにくいからね。<END>
+<COLOR><GRAY>They're already hard to turn compared to FR cars．<END>
 //POINTER #380 @ $2E70C - STRING #380 @ $1D68A
 
 #W32($2E70C)
-<COLOR><GRAY>駆動輪が後ろにある車だけなわけね。<END>
+<COLOR><GRAY>by the front、right？ So it's just rear wheel powered cars．<END>
 //POINTER #381 @ $2E730 - STRING #381 @ $1D6B4
 
 #W32($2E730)
-<COLOR><GRAY>これは加速してるときに作動して、減速してるときも<END>
+<COLOR><GRAY>This one activates during acceleration and<END>
 //POINTER #382 @ $2E754 - STRING #382 @ $1D6EC
 
 #W32($2E754)
-<COLOR><GRAY>じゃあ減速してるときにちょっと安定して、<END>
+<COLOR><GRAY>So、it helps with stability during deceleration、<END>
 //POINTER #383 @ $2E778 - STRING #383 @ $1D71C
 
 #W32($2E778)
-<COLOR><GRAY>ディファレンシャルの違いはそんなもんだ。<END>
+<COLOR><GRAY>That's all the differences in differentials．<END>
 //POINTER #384 @ $2E79C - STRING #384 @ $1D74C
 
 #W32($2E79C)
-<COLOR><GRAY>買っといたほうがいいの？<END>
+<COLOR><GRAY>should I buy it？<END>
 //POINTER #385 @ $2E7C0 - STRING #385 @ $1D76C
 
 #W32($2E7C0)
-<COLOR><GRAY>ドリフト用みたいなもんだ。<END>
+<COLOR><GRAY>It's sort of like a drift setup．<END>
 //POINTER #386 @ $2E7E4 - STRING #386 @ $1D78E
 
 #W32($2E7E4)
-<COLOR><GRAY>Ｓｉｌｖｉａ　ｓｐｅｃ　Ｒ　Ｓ１５乗ってると<END>
+<COLOR><GRAY>I might take it off because it's all wobbly when<END>
 //POINTER #387 @ $2E808 - STRING #387 @ $1D7C2
 
 #W32($2E808)
-<COLOR><GRAY>あるんだけど、こいつもタイプ別だな。<END>
+<COLOR><GRAY>engine swaps、and there are different types．<END>
 //POINTER #388 @ $2E82C - STRING #388 @ $1D7EE
 
 #W32($2E82C)
-<COLOR><GRAY>でかいのがいいな！<END>
+<COLOR><GRAY>I'd like the biggest engine、please！<END>
 //POINTER #389 @ $2E850 - STRING #389 @ $1D808
 
 #W32($2E850)
-<COLOR><GRAY>あるよ。Ｓタイヤ（Ｓ）でも滑っちゃったりね。<END>
+<COLOR><GRAY>Even with the S（S）tires、you might still slip．<END>
 //POINTER #390 @ $2E874 - STRING #390 @ $1D83C
 
 #W32($2E874)
-<COLOR><GRAY>買わないと試せないしなあ……。<END>
+<COLOR><GRAY>I can't test them without buying first……<END>
 //POINTER #391 @ $2E898 - STRING #391 @ $1D862
 
 #W32($2E898)
-<COLOR><GRAY>とりあえず、数字の大きいのがいいとは限らない<END>
+<COLOR><GRAY>For now、those are the parts where bigger numbers<END>
 //POINTER #392 @ $2E8BC - STRING #392 @ $1D896
 
 #W32($2E8BC)
-<COLOR><GRAY>参考になったよ！<END>
+<COLOR><GRAY>That was really helpful！<END>
 //POINTER #393 @ $2E8E0 - STRING #393 @ $1D8AE
 
 #W32($2E8E0)
@@ -20156,7 +20069,7 @@
 //POINTER #362 @ $2E488 - STRING #362 @ $25D1E
 
 #W32($2E488)
-<COLOR><GRAY>いいんですよね？<END>
+<COLOR><GRAY>with the biggest numbers、right？<END>
 //POINTER #363 @ $2E4AC - STRING #363 @ $25D36
 
 #W32($2E4AC)
@@ -20172,19 +20085,19 @@
 //POINTER #366 @ $2E518 - STRING #366 @ $25D3C
 
 #W32($2E518)
-<COLOR><GRAY>一番低いんですか？<END>
+<END>
 //POINTER #367 @ $2E53C - STRING #367 @ $25D56
 
 #W32($2E53C)
 <END>
 //POINTER #368 @ $2E560 - STRING #368 @ $25D58
 
-#W32($2E560)
+#W32($2E560)0
 <END>
 //POINTER #369 @ $2E584 - STRING #369 @ $25D5A
 
 #W32($2E584)
-<COLOR><GRAY>タイプの違いなんだよ。<END>
+<COLOR><GRAY>the different types．<END>
 //POINTER #370 @ $2E5A8 - STRING #370 @ $25D78
 
 #W32($2E5A8)
@@ -20192,15 +20105,15 @@
 //POINTER #371 @ $2E5CC - STRING #371 @ $25D7A
 
 #W32($2E5CC)
-<COLOR><GRAY>ＬＳＤてのはこの機能を抑制する機械なのさ。<END>
+<COLOR><GRAY>but an LSD is a device that limits this function．<END>
 //POINTER #372 @ $2E5F0 - STRING #372 @ $25DAC
 
 #W32($2E5F0)
-<COLOR><GRAY>曲がらなくなるってことでしょ？<END>
+<COLOR><GRAY>It means it won't turn as well、right？<END>
 //POINTER #373 @ $2E614 - STRING #373 @ $25DD2
 
 #W32($2E614)
-<COLOR><GRAY>コーナーを速く抜けるためのパーツなのだ。<END>
+<COLOR><GRAY>get through corners faster．<END>
 //POINTER #374 @ $2E638 - STRING #374 @ $25E02
 
 #W32($2E638)
@@ -20208,7 +20121,7 @@
 //POINTER #375 @ $2E65C - STRING #375 @ $25E04
 
 #W32($2E65C)
-<END>
+<COLOR><GRAY>of turning when entering a corner．<END>
 //POINTER #376 @ $2E680 - STRING #376 @ $25E06
 
 #W32($2E680)
@@ -20216,7 +20129,7 @@
 //POINTER #377 @ $2E6A4 - STRING #377 @ $25E08
 
 #W32($2E6A4)
-<COLOR><GRAY>逆に言えば車体が安定しやすい。<END>
+<COLOR><GRAY>However、it helps to stabilize the car．<END>
 //POINTER #378 @ $2E6C8 - STRING #378 @ $25E2E
 
 #W32($2E6C8)
@@ -20224,7 +20137,7 @@
 //POINTER #379 @ $2E6EC - STRING #379 @ $25E30
 
 #W32($2E6EC)
-<COLOR><GRAY>同じく４ＷＤのフロントにも設定は無し。<END>
+<COLOR><GRAY>Similarly、 it's unavailable for the 4WD's front either．<END>
 //POINTER #380 @ $2E710 - STRING #380 @ $25E5E
 
 #W32($2E710)
@@ -20232,15 +20145,15 @@
 //POINTER #381 @ $2E734 - STRING #381 @ $25E60
 
 #W32($2E734)
-<COLOR><GRAY>ちょっとだけ作動する。<END>
+<COLOR><GRAY>also slightly during deceleration．<END>
 //POINTER #382 @ $2E758 - STRING #382 @ $25E7E
 
 #W32($2E758)
-<COLOR><GRAY>曲がれなくなる事もないってかんじ？<END>
+<COLOR><GRAY>but doesn't make turning difficult？<END>
 //POINTER #383 @ $2E77C - STRING #383 @ $25EA8
 
 #W32($2E77C)
-<COLOR><GRAY>あとは何かあったかな……。<END>
+<COLOR><GRAY>WWhat else is there……<END>
 //POINTER #384 @ $2E7A0 - STRING #384 @ $25ECA
 
 #W32($2E7A0)
@@ -20248,15 +20161,15 @@
 //POINTER #385 @ $2E7C4 - STRING #385 @ $25ECC
 
 #W32($2E7C4)
-<COLOR><GRAY>フラフラしちゃうなら買わん方がいいカモ。<END>
+<COLOR><GRAY>Don't get it if your car already makes you feel dizzy．<END>
 //POINTER #386 @ $2E7E8 - STRING #386 @ $25EFC
 
 #W32($2E7E8)
-<COLOR><GRAY>結構ふらつくから外しとこうかな。<END>
+<COLOR><GRAY>I drive my Silvia spec R S15．<END>
 //POINTER #387 @ $2E80C - STRING #387 @ $25F24
 
 #W32($2E80C)
-<COLOR><GRAY>ＮＡからターボにしたりね。<END>
+<COLOR><GRAY>From NA to turbo、etc．<END>
 //POINTER #388 @ $2E830 - STRING #388 @ $25F46
 
 #W32($2E830)
@@ -20264,7 +20177,7 @@
 //POINTER #389 @ $2E854 - STRING #389 @ $25F48
 
 #W32($2E854)
-<COLOR><GRAY>ノーマルエンジンのがいい場合もある。<END>
+<COLOR><GRAY>Sometimes it's better to stick with the stock engine．<END>
 //POINTER #390 @ $2E878 - STRING #390 @ $25F74
 
 #W32($2E878)
@@ -20272,7 +20185,7 @@
 //POINTER #391 @ $2E89C - STRING #391 @ $25F76
 
 #W32($2E89C)
-<COLOR><GRAY>パーツはそんなとこかな。<END>
+<COLOR><GRAY>don't always mean better．<END>
 //POINTER #392 @ $2E8C0 - STRING #392 @ $25F96
 
 #W32($2E8C0)
