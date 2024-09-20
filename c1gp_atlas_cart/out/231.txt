@@ -5430,260 +5430,107 @@
 //POINTER #487 @ $2F610 - STRING #487 @ $A05A
 
 #W32($2F610)
+#W32($2F6A0)
+#W32($2F6C4)
+#W32($2F6E8)
+#W32($2F70C)
+#W32($2F730)
+#W32($2F754)
+#W32($2F778)
 <COLOR><GRAY>re：RACING GUY<END>
 //POINTER #488 @ $2F634 - STRING #488 @ $A07C
 
 #W32($2F634)
-<COLOR><GRAY>（　゜д゜）ポカーン<END>
+<COLOR><GRAY>（　゜д゜）Whaaa<END>
 //POINTER #489 @ $2F658 - STRING #489 @ $A098
 
 #W32($2F658)
-<COLOR><GRAY>re：（　゜д゜）ポカーン<END>
+#W32($2F67C)
+<COLOR><GRAY>re：（　゜д゜）Whaaa<END>
 //POINTER #490 @ $2F67C - STRING #490 @ $A0BA
 
-#W32($2F67C)
-<COLOR><GRAY>re：（　゜д゜）ポカーン<END>
-//POINTER #491 @ $2F6A0 - STRING #491 @ $A0DC
-
-#W32($2F6A0)
-<COLOR><GRAY>re：RACING GUY<END>
-//POINTER #492 @ $2F6C4 - STRING #492 @ $A0FE
-
-#W32($2F6C4)
-<COLOR><GRAY>re：RACING GUY<END>
-//POINTER #493 @ $2F6E8 - STRING #493 @ $A120
-
-#W32($2F6E8)
-<COLOR><GRAY>re：RACING GUY<END>
-//POINTER #494 @ $2F70C - STRING #494 @ $A142
-
-#W32($2F70C)
-<COLOR><GRAY>re：RACING GUY<END>
-//POINTER #495 @ $2F730 - STRING #495 @ $A164
-
-#W32($2F730)
-<COLOR><GRAY>re：RACING GUY<END>
-//POINTER #496 @ $2F754 - STRING #496 @ $A186
-
-#W32($2F754)
-<COLOR><GRAY>re：RACING GUY<END>
-//POINTER #497 @ $2F778 - STRING #497 @ $A1A8
-
-#W32($2F778)
-<COLOR><GRAY>re：RACING GUY<END>
-//POINTER #498 @ $2F79C - STRING #498 @ $A1CA
-
 #W32($2F79C)
-<COLOR><GRAY>頼んだぞ！<END>
+<COLOR><GRAY>Asking for a favour！<END>
 //POINTER #499 @ $2F7C0 - STRING #499 @ $A1DC
 
 #W32($2F7C0)
-<COLOR><GRAY>re：頼んだぞ！<END>
-//POINTER #500 @ $2F7E4 - STRING #500 @ $A1F4
-
 #W32($2F7E4)
-<COLOR><GRAY>re：頼んだぞ！<END>
-//POINTER #501 @ $2F808 - STRING #501 @ $A20C
-
 #W32($2F808)
-<COLOR><GRAY>re：頼んだぞ！<END>
-//POINTER #502 @ $2F82C - STRING #502 @ $A224
-
 #W32($2F82C)
-<COLOR><GRAY>re：頼んだぞ！<END>
-//POINTER #503 @ $2F850 - STRING #503 @ $A23C
-
 #W32($2F850)
-<COLOR><GRAY>re：頼んだぞ！<END>
-//POINTER #504 @ $2F874 - STRING #504 @ $A254
-
 #W32($2F874)
-<COLOR><GRAY>re：頼んだぞ！<END>
-//POINTER #505 @ $2F898 - STRING #505 @ $A26C
-
 #W32($2F898)
-<COLOR><GRAY>re：頼んだぞ！<END>
-//POINTER #506 @ $2F8BC - STRING #506 @ $A284
-
 #W32($2F8BC)
-<COLOR><GRAY>re：頼んだぞ！<END>
-//POINTER #507 @ $2F8E0 - STRING #507 @ $A29C
-
 #W32($2F8E0)
-<COLOR><GRAY>re：頼んだぞ！<END>
-//POINTER #508 @ $2F904 - STRING #508 @ $A2B4
-
 #W32($2F904)
-<COLOR><GRAY>re：頼んだぞ！<END>
-//POINTER #509 @ $2F928 - STRING #509 @ $A2CC
-
 #W32($2F928)
-<COLOR><GRAY>re：頼んだぞ！<END>
-//POINTER #510 @ $2F94C - STRING #510 @ $A2E4
+<COLOR><GRAY>re：Asking for a favour！<END>
+//POINTER #500 @ $2F7E4 - STRING #500 @ $A1F4
 
 #W32($2F94C)
 <COLOR><GRAY>FINE DRIVE<END>
 //POINTER #511 @ $2F970 - STRING #511 @ $A300
 
 #W32($2F970)
-<COLOR><GRAY>re：FINE DRIVE<END>
-//POINTER #512 @ $2F994 - STRING #512 @ $A322
-
 #W32($2F994)
-<COLOR><GRAY>re：FINE DRIVE<END>
-//POINTER #513 @ $2F9B8 - STRING #513 @ $A344
-
 #W32($2F9B8)
-<COLOR><GRAY>re：FINE DRIVE<END>
-//POINTER #514 @ $2F9DC - STRING #514 @ $A366
-
 #W32($2F9DC)
-<COLOR><GRAY>re：FINE DRIVE<END>
-//POINTER #515 @ $2FA00 - STRING #515 @ $A388
-
 #W32($2FA00)
-<COLOR><GRAY>re：FINE DRIVE<END>
-//POINTER #516 @ $2FA24 - STRING #516 @ $A3AA
-
 #W32($2FA24)
-<COLOR><GRAY>re：FINE DRIVE<END>
-//POINTER #517 @ $2FA48 - STRING #517 @ $A3CC
-
 #W32($2FA48)
-<COLOR><GRAY>re：FINE DRIVE<END>
-//POINTER #518 @ $2FA6C - STRING #518 @ $A3EE
-
 #W32($2FA6C)
-<COLOR><GRAY>re：FINE DRIVE<END>
-//POINTER #519 @ $2FA90 - STRING #519 @ $A410
-
 #W32($2FA90)
 <COLOR><GRAY>re：FINE DRIVE<END>
-//POINTER #520 @ $2FAB4 - STRING #520 @ $A432
+//POINTER #512 @ $2F994 - STRING #512 @ $A322
 
 #W32($2FAB4)
 <COLOR><GRAY>Real Echo<END>
 //POINTER #521 @ $2FAD8 - STRING #521 @ $A44C
 
 #W32($2FAD8)
-<COLOR><GRAY>re：Real Echo<END>
-//POINTER #522 @ $2FAFC - STRING #522 @ $A46C
-
 #W32($2FAFC)
-<COLOR><GRAY>re：Real Echo<END>
-//POINTER #523 @ $2FB20 - STRING #523 @ $A48C
-
 #W32($2FB20)
-<COLOR><GRAY>re：Real Echo<END>
-//POINTER #524 @ $2FB44 - STRING #524 @ $A4AC
-
 #W32($2FB44)
-<COLOR><GRAY>re：Real Echo<END>
-//POINTER #525 @ $2FB68 - STRING #525 @ $A4CC
-
 #W32($2FB68)
 <COLOR><GRAY>re：Real Echo<END>
-//POINTER #526 @ $2FB8C - STRING #526 @ $A4EC
+//POINTER #522 @ $2FAFC - STRING #522 @ $A46C
 
 #W32($2FB8C)
 <COLOR><GRAY>DIAMOND IMAGE<END>
 //POINTER #527 @ $2FBB0 - STRING #527 @ $A50E
 
 #W32($2FBB0)
-<COLOR><GRAY>re：DIAMOND IMAGE<END>
-//POINTER #528 @ $2FBD4 - STRING #528 @ $A536
-
 #W32($2FBD4)
-<COLOR><GRAY>re：DIAMOND IMAGE<END>
-//POINTER #529 @ $2FBF8 - STRING #529 @ $A55E
-
 #W32($2FBF8)
-<COLOR><GRAY>re：DIAMOND IMAGE<END>
-//POINTER #530 @ $2FC1C - STRING #530 @ $A586
-
 #W32($2FC1C)
-<COLOR><GRAY>re：DIAMOND IMAGE<END>
-//POINTER #531 @ $2FC40 - STRING #531 @ $A5AE
-
 #W32($2FC40)
-<COLOR><GRAY>re：DIAMOND IMAGE<END>
-//POINTER #532 @ $2FC64 - STRING #532 @ $A5D6
-
 #W32($2FC64)
-<COLOR><GRAY>re：DIAMOND IMAGE<END>
-//POINTER #533 @ $2FC88 - STRING #533 @ $A5FE
-
 #W32($2FC88)
-<COLOR><GRAY>re：DIAMOND IMAGE<END>
-//POINTER #534 @ $2FCAC - STRING #534 @ $A626
-
 #W32($2FCAC)
-<COLOR><GRAY>re：DIAMOND IMAGE<END>
-//POINTER #535 @ $2FCD0 - STRING #535 @ $A64E
-
 #W32($2FCD0)
-<COLOR><GRAY>re：DIAMOND IMAGE<END>
-//POINTER #536 @ $2FCF4 - STRING #536 @ $A676
-
 #W32($2FCF4)
-<COLOR><GRAY>re：DIAMOND IMAGE<END>
-//POINTER #537 @ $2FD18 - STRING #537 @ $A69E
-
 #W32($2FD18)
 <COLOR><GRAY>re：DIAMOND IMAGE<END>
-//POINTER #538 @ $2FD3C - STRING #538 @ $A6C6
+//POINTER #528 @ $2FBD4 - STRING #528 @ $A536
 
 #W32($2FD3C)
 <COLOR><GRAY>Cupid Arrows<END>
 //POINTER #539 @ $2FD60 - STRING #539 @ $A6E6
 
 #W32($2FD60)
-<COLOR><GRAY>re：Cupid Arrows<END>
-//POINTER #540 @ $2FD84 - STRING #540 @ $A70C
-
 #W32($2FD84)
-<COLOR><GRAY>re：Cupid Arrows<END>
-//POINTER #541 @ $2FDA8 - STRING #541 @ $A732
-
 #W32($2FDA8)
-<COLOR><GRAY>re：Cupid Arrows<END>
-//POINTER #542 @ $2FDCC - STRING #542 @ $A758
-
 #W32($2FDCC)
-<COLOR><GRAY>re：Cupid Arrows<END>
-//POINTER #543 @ $2FDF0 - STRING #543 @ $A77E
-
 #W32($2FDF0)
-<COLOR><GRAY>re：Cupid Arrows<END>
-//POINTER #544 @ $2FE14 - STRING #544 @ $A7A4
-
 #W32($2FE14)
-<COLOR><GRAY>re：Cupid Arrows<END>
-//POINTER #545 @ $2FE38 - STRING #545 @ $A7CA
-
 #W32($2FE38)
-<COLOR><GRAY>re：Cupid Arrows<END>
-//POINTER #546 @ $2FE5C - STRING #546 @ $A7F0
-
 #W32($2FE5C)
-<COLOR><GRAY>re：Cupid Arrows<END>
-//POINTER #547 @ $2FE80 - STRING #547 @ $A816
-
 #W32($2FE80)
-<COLOR><GRAY>re：Cupid Arrows<END>
-//POINTER #548 @ $2FEA4 - STRING #548 @ $A83C
-
 #W32($2FEA4)
-<COLOR><GRAY>re：Cupid Arrows<END>
-//POINTER #549 @ $2FEC8 - STRING #549 @ $A862
-
 #W32($2FEC8)
-<COLOR><GRAY>re：Cupid Arrows<END>
-//POINTER #550 @ $2FEEC - STRING #550 @ $A888
-
 #W32($2FEEC)
 <COLOR><GRAY>re：Cupid Arrows<END>
-//POINTER #551 @ $2FF10 - STRING #551 @ $A8AE
+//POINTER #540 @ $2FD84 - STRING #540 @ $A70C
 
 #W32($2FF10)
 <COLOR><GRAY>宣言<END>
@@ -10279,219 +10126,180 @@
 //POINTER #472 @ $2F3F8 - STRING #472 @ $13A4C
 
 #W32($2F3F8)
+#W32($2F41C)
+#W32($2F440)
+#W32($2F464)
+#W32($2F488)
+#W32($2F4AC)
+#W32($2F4D0)
+#W32($2F4F4)
+#W32($2F518)
+#W32($2F53C)
+#W32($2F560)
+#W32($2F584)
+#W32($2F5A8)
+#W32($2F5CC)
 <COLOR><GRAY>Reserved<END>
 //POINTER #473 @ $2F41C - STRING #473 @ $13A58
 
-#W32($2F41C)
-<COLOR><GRAY>Reserved<END>
-//POINTER #474 @ $2F440 - STRING #474 @ $13A64
-
-#W32($2F440)
-<COLOR><GRAY>Reserved<END>
-//POINTER #475 @ $2F464 - STRING #475 @ $13A70
-
-#W32($2F464)
-<COLOR><GRAY>Reserved<END>
-//POINTER #476 @ $2F488 - STRING #476 @ $13A7C
-
-#W32($2F488)
-<COLOR><GRAY>Reserved<END>
-//POINTER #477 @ $2F4AC - STRING #477 @ $13A88
-
-#W32($2F4AC)
-<COLOR><GRAY>Reserved<END>
-//POINTER #478 @ $2F4D0 - STRING #478 @ $13A94
-
-#W32($2F4D0)
-<COLOR><GRAY>Reserved<END>
-//POINTER #479 @ $2F4F4 - STRING #479 @ $13AA0
-
-#W32($2F4F4)
-<COLOR><GRAY>Reserved<END>
-//POINTER #480 @ $2F518 - STRING #480 @ $13AAC
-
-#W32($2F518)
-<COLOR><GRAY>Reserved<END>
-//POINTER #481 @ $2F53C - STRING #481 @ $13AB8
-
-#W32($2F53C)
-<COLOR><GRAY>Reserved<END>
-//POINTER #482 @ $2F560 - STRING #482 @ $13AC4
-
-#W32($2F560)
-<COLOR><GRAY>Reserved<END>
-//POINTER #483 @ $2F584 - STRING #483 @ $13AD0
-
-#W32($2F584)
-<COLOR><GRAY>Reserved<END>
-//POINTER #484 @ $2F5A8 - STRING #484 @ $13ADC
-
-#W32($2F5A8)
-<COLOR><GRAY>Reserved<END>
-//POINTER #485 @ $2F5CC - STRING #485 @ $13AE8
-
-#W32($2F5CC)
-<COLOR><GRAY>Reserved<END>
-//POINTER #486 @ $2F5F0 - STRING #486 @ $13AF4
-
 #W32($2F5F0)
-<COLOR><GRAY>昨今のパワー指向に対し、車への愛着と<END>
+<COLOR><GRAY>Against today's power-focused trends、a team of passionate<END>
 //POINTER #487 @ $2F614 - STRING #487 @ $13B20
 
 #W32($2F614)
-<COLOR><GRAY>主戦場は首都高サーキット（外）、<END>
+<COLOR><GRAY>Our main battleground is the Shutoko-Outer Circuit、<END>
 //POINTER #488 @ $2F638 - STRING #488 @ $13B48
 
 #W32($2F638)
-<COLOR><GRAY>……相変わらずだな、兄さん。<END>
+<COLOR><GRAY>……as usual、brother．<END>
 //POINTER #489 @ $2F65C - STRING #489 @ $13B6C
 
 #W32($2F65C)
-<COLOR><GRAY>いやー、そんなに誉めるな。<END>
+<COLOR><GRAY>Naah、no need to praise me so much．<END>
 //POINTER #490 @ $2F680 - STRING #490 @ $13B8E
 
 #W32($2F680)
-<COLOR><GRAY>決して、誉めてないぞ。<END>
+<COLOR><GRAY>That was no praise、by any means．<END>
 //POINTER #491 @ $2F6A4 - STRING #491 @ $13BAC
 
 #W32($2F6A4)
-<COLOR><GRAY>気を取り直して……<END>
+<COLOR><GRAY>Back to on-topic……<END>
 //POINTER #492 @ $2F6C8 - STRING #492 @ $13BC6
 
 #W32($2F6C8)
-<COLOR><GRAY>首都高サーキット（外）で待っている！<END>
+<COLOR><GRAY>We'll be waiting at Shutoko-Outer！<END>
 //POINTER #493 @ $2F6EC - STRING #493 @ $13BF2
 
 #W32($2F6EC)
-<COLOR><GRAY>オイオイ、俺かよ！<END>
+<COLOR><GRAY>Oi oi、me、 huh！<END>
 //POINTER #494 @ $2F710 - STRING #494 @ $13C0C
 
 #W32($2F710)
-<COLOR><GRAY>な～んか、威勢の良いシロートがいるんだって？<END>
+<COLOR><GRAY>I heard there's some bold new guy around？<END>
 //POINTER #495 @ $2F734 - STRING #495 @ $13C40
 
 #W32($2F734)
-<COLOR><GRAY>ごめんよ、兄さん。<END>
+<COLOR><GRAY>Sorry、bro．<END>
 //POINTER #496 @ $2F758 - STRING #496 @ $13C5A
 
 #W32($2F758)
-<COLOR><GRAY>お前までやられるなんて大したモンだ。<END>
+<COLOR><GRAY>Sounds like a big deal if they got you too．<END>
 //POINTER #497 @ $2F77C - STRING #497 @ $13C86
 
 #W32($2F77C)
-<COLOR><GRAY>ウゲ！<END>
+<COLOR><GRAY>Uough！<END>
 //POINTER #498 @ $2F7A0 - STRING #498 @ $13C94
 
 #W32($2F7A0)
-<COLOR><GRAY>＞２号<END>
+<COLOR><GRAY>＞No．2<END>
 //POINTER #499 @ $2F7C4 - STRING #499 @ $13CA2
 
 #W32($2F7C4)
-<COLOR><GRAY>兄さん、また行くのかい？<END>
+<COLOR><GRAY>Brother、are you going for it again？<END>
 //POINTER #500 @ $2F7E8 - STRING #500 @ $13CC2
 
 #W32($2F7E8)
-<COLOR><GRAY>ここまでやられて黙っているわけにはいかん。<END>
+<COLOR><GRAY>We can't just sit it out after being beaten this badly．<END>
 //POINTER #501 @ $2F80C - STRING #501 @ $13CF4
 
 #W32($2F80C)
-<COLOR><GRAY>それならチームのみんなと一緒に。<END>
+<COLOR><GRAY>Then I'll join in with our entire team．<END>
 //POINTER #502 @ $2F830 - STRING #502 @ $13D1C
 
 #W32($2F830)
-<COLOR><GRAY>いや、これは俺のプライドをかけた戦いでもある！<END>
+<COLOR><GRAY>No、this is a battle for MY pride！<END>
 //POINTER #503 @ $2F854 - STRING #503 @ $13D52
 
 #W32($2F854)
-<COLOR><GRAY>兄さん……。<END>
+<COLOR><GRAY>Brother……<END>
 //POINTER #504 @ $2F878 - STRING #504 @ $13D66
 
 #W32($2F878)
-<COLOR><GRAY>ああ、リベンジを果たした暁には<END>
+<COLOR><GRAY>Yeah、I'll be back when<END>
 //POINTER #505 @ $2F89C - STRING #505 @ $13D8C
 
 #W32($2F89C)
-<COLOR><GRAY>兄さん！<END>
+<COLOR><GRAY>Brother！<END>
 //POINTER #506 @ $2F8C0 - STRING #506 @ $13D9C
 
 #W32($2F8C0)
-<COLOR><GRAY>……お前ら自宅同じだろ。<END>
+<COLOR><GRAY>……Don't you guys live together？<END>
 //POINTER #507 @ $2F8E4 - STRING #507 @ $13DBC
 
 #W32($2F8E4)
-<COLOR><GRAY>いや、ちょっと感動的な別れを<END>
+<COLOR><GRAY>Nah、I wanted to share a bit of an emotional farewell<END>
 //POINTER #508 @ $2F908 - STRING #508 @ $13DE0
 
 #W32($2F908)
-<COLOR><GRAY>まあ、そういう訳だ。<END>
+<COLOR><GRAY>Well、time to proceed with it．<END>
 //POINTER #509 @ $2F92C - STRING #509 @ $13DFC
 
 #W32($2F92C)
-<COLOR><GRAY>兄さん……。<END>
+<COLOR><GRAY>Brother……<END>
 //POINTER #510 @ $2F950 - STRING #510 @ $13E10
 
 #W32($2F950)
-<COLOR><GRAY>【FINE DRIVE】では、サーキットに<END>
+<COLOR><GRAY>At【FINE DRIVE】、we're dedicated to conveying the joy<END>
 //POINTER #511 @ $2F974 - STRING #511 @ $13E42
 
 #W32($2F974)
-<COLOR><GRAY>主に筑波サーキットで活動しているので、<END>
+<COLOR><GRAY>We mainly operate at the Tsukuba Circuit、<END>
 //POINTER #512 @ $2F998 - STRING #512 @ $13E70
 
 #W32($2F998)
-<COLOR><GRAY>スレ立て乙＞リーダー<END>
+<COLOR><GRAY>Nice work creating the thread、＞Leader．<END>
 //POINTER #513 @ $2F9BC - STRING #513 @ $13E8C
 
 #W32($2F9BC)
-<COLOR><GRAY>相変わらず暑苦しい奴（笑）<END>
+<COLOR><GRAY>He's still intense as ever（lol）<END>
 //POINTER #514 @ $2F9E0 - STRING #514 @ $13EAE
 
 #W32($2F9E0)
-<COLOR><GRAY>ちょっとー汁ちゃん、名前も聞いたこと無い新人に<END>
+<COLOR><GRAY>Yo Sil-chan、I've heard you lost to some newbie<END>
 //POINTER #515 @ $2FA04 - STRING #515 @ $13EE4
 
 #W32($2FA04)
-<COLOR><GRAY>その汁ちゃんってヤメテ！<END>
+<COLOR><GRAY>Stop it with the Sil-chan！<END>
 //POINTER #516 @ $2FA28 - STRING #516 @ $13F04
 
 #W32($2FA28)
-<COLOR><GRAY>おほ～い！　リーダー！　生きてますか～？<END>
+<COLOR><GRAY>Ahoy！ Leader！ You still alive～？<END>
 //POINTER #517 @ $2FA4C - STRING #517 @ $13F34
 
 #W32($2FA4C)
-<COLOR><GRAY>うぅ……○｜￣｜＿<END>
+<COLOR><GRAY>Ughh……○｜￣｜＿<END>
 //POINTER #518 @ $2FA70 - STRING #518 @ $13F4E
 
 #W32($2FA70)
-<COLOR><GRAY>他人のことも良いけど<END>
+<COLOR><GRAY>It's nice of you to think of the others、but let's<END>
 //POINTER #519 @ $2FA94 - STRING #519 @ $13F6A
 
 #W32($2FA94)
-<COLOR><GRAY>そうだな！<END>
+<COLOR><GRAY>That's true！<END>
 //POINTER #520 @ $2FAB8 - STRING #520 @ $13F7C
 
 #W32($2FAB8)
-<COLOR><GRAY>【Real Echo】は某Ｎ大学の自動車部員中心で<END>
+<COLOR><GRAY>【Real Echo】is a team formed mainly by the automotive<END>
 //POINTER #521 @ $2FADC - STRING #521 @ $13FB6
 
 #W32($2FADC)
-<COLOR><GRAY>美人でカワイイ帰国子女のメンバーもいますので<END>
+<COLOR><GRAY>We have a cute member returning from the overseas、<END>
 //POINTER #522 @ $2FB00 - STRING #522 @ $13FEA
 
 #W32($2FB00)
-<COLOR><GRAY>それって、私の事？（ノ∀｀）<END>
+<COLOR><GRAY>Could it be、is that about me？（ノ∀｀）<END>
 //POINTER #523 @ $2FB24 - STRING #523 @ $1400E
 
 #W32($2FB24)
-<COLOR><GRAY>気のせいだって（笑）<END>
+<COLOR><GRAY>You're imagining things（lol）<END>
 //POINTER #524 @ $2FB48 - STRING #524 @ $1402A
 
 #W32($2FB48)
-<COLOR><GRAY>って事は、コーナーで先行車を抜く時は、<END>
+<COLOR><GRAY>So、when trying to pass a car in a corner、is it better to<END>
 //POINTER #525 @ $2FB6C - STRING #525 @ $14058
 
 #W32($2FB6C)
-<COLOR><GRAY>そそ。<END>
+<COLOR><GRAY>Yes、yes．<END>
 //POINTER #526 @ $2FB90 - STRING #526 @ $14066
 
 #W32($2FB90)
@@ -15273,19 +15081,19 @@
 //POINTER #486 @ $2F5F4 - STRING #486 @ $1E43E
 
 #W32($2F5F4)
-<COLOR><GRAY>磨きあげた技術で戦いぬく、愛すべき野郎達のチーム。<END>
+<COLOR><GRAY>guys who fight with their passion for cars、and<END>
 //POINTER #487 @ $2F618 - STRING #487 @ $1E478
 
 #W32($2F618)
-<COLOR><GRAY>そして俺がリーダーのレーシング野郎１号だ。<END>
+<COLOR><GRAY>and I'm the leader、Racing Guy No．1．<END>
 //POINTER #488 @ $2F63C - STRING #488 @ $1E4AA
 
 #W32($2F63C)
-<COLOR><GRAY>もう慣れたけど。<END>
+<COLOR><GRAY>I'm used to it at this point．<END>
 //POINTER #489 @ $2F660 - STRING #489 @ $1E4C2
 
 #W32($2F660)
-<COLOR><GRAY>照れるジャマイカ。<END>
+<COLOR><GRAY>You're making me blush、you know．<END>
 //POINTER #490 @ $2F684 - STRING #490 @ $1E4DC
 
 #W32($2F684)
@@ -15293,35 +15101,35 @@
 //POINTER #491 @ $2F6A8 - STRING #491 @ $1E4DE
 
 #W32($2F6A8)
-<COLOR><GRAY>俺たち【ＲＡＣＩＮＧ　ＧＵＹ】では<END>
+<COLOR><GRAY>We、the【RACING GUY】、are looking for some<END>
 //POINTER #492 @ $2F6CC - STRING #492 @ $1E508
 
 #W32($2F6CC)
-<COLOR><GRAY>俺たちに勝てる奴はいないと思うが……もし、<END>
+<COLOR><GRAY>I doubt anyone can beat us……、but if we somehow lose、<END>
 //POINTER #493 @ $2F6F0 - STRING #493 @ $1E53A
 
 #W32($2F6F0)
-<COLOR><GRAY>俺がボーズかよ！<END>
+<COLOR><GRAY>I'm the buzz、huh！<END>
 //POINTER #494 @ $2F714 - STRING #494 @ $1E552
 
 #W32($2F714)
-<COLOR><GRAY>やたら速いって話じゃん。<END>
+<COLOR><GRAY>They're saying he's really fast．<END>
 //POINTER #495 @ $2F738 - STRING #495 @ $1E572
 
 #W32($2F738)
-<COLOR><GRAY>ちょっとの差で負けちゃった。<END>
+<COLOR><GRAY>I might have lost a little．<END>
 //POINTER #496 @ $2F75C - STRING #496 @ $1E596
 
 #W32($2F75C)
-<COLOR><GRAY>よし、俺の赤黒ＣＯＲＯＬＬＡ　ＬＥＶＩＮで<END>
+<COLOR><GRAY>Alright、I'll use my red and black COROLLA LEVIN to see<END>
 //POINTER #497 @ $2F780 - STRING #497 @ $1E5C8
 
 #W32($2F780)
-<COLOR><GRAY>意外と本物だった！（笑）<END>
+<COLOR><GRAY>It was the real deal、alright！（lol）<END>
 //POINTER #498 @ $2F7A4 - STRING #498 @ $1E5E8
 
 #W32($2F7A4)
-<COLOR><GRAY>俺はどうしてもリベンジを果たさなければならない。<END>
+<COLOR><GRAY>I absolutely have to get my revenge．Once again、<END>
 //POINTER #499 @ $2F7C8 - STRING #499 @ $1E620
 
 #W32($2F7C8)
@@ -15329,7 +15137,7 @@
 //POINTER #500 @ $2F7EC - STRING #500 @ $1E622
 
 #W32($2F7EC)
-<COLOR><GRAY>【ＲＡＣＩＮＧ　ＧＵＹ】が<END>
+<COLOR><GRAY>I'll prove that【RACING GUY】isn't<END>
 //POINTER #501 @ $2F810 - STRING #501 @ $1E644
 
 #W32($2F810)
@@ -15337,15 +15145,15 @@
 //POINTER #502 @ $2F834 - STRING #502 @ $1E646
 
 #W32($2F834)
-<COLOR><GRAY>手出しは無用だ！<END>
+<COLOR><GRAY>Don't interfere！<END>
 //POINTER #503 @ $2F858 - STRING #503 @ $1E65E
 
 #W32($2F858)
-<COLOR><GRAY>分かった、チームのことは任せて。<END>
+<COLOR><GRAY>Okay、I'll take care of the team．<END>
 //POINTER #504 @ $2F87C - STRING #504 @ $1E686
 
 #W32($2F87C)
-<COLOR><GRAY>必ず戻ってくる！<END>
+<COLOR><GRAY>I get my revenge！<END>
 //POINTER #505 @ $2F8A0 - STRING #505 @ $1E69E
 
 #W32($2F8A0)
@@ -15353,83 +15161,83 @@
 //POINTER #506 @ $2F8C4 - STRING #506 @ $1E6A0
 
 #W32($2F8C4)
-<COLOR><GRAY>直接話せよ。<END>
+<COLOR><GRAY>Just go talk to each other directly．<END>
 //POINTER #507 @ $2F8E8 - STRING #507 @ $1E6B4
 
 #W32($2F8E8)
-<COLOR><GRAY>掲示板を見てる皆さんにも<END>
+<COLOR><GRAY>with all of you reading this thread．<END>
 //POINTER #508 @ $2F90C - STRING #508 @ $1E6D4
 
 #W32($2F90C)
-<COLOR><GRAY>見てるか！？<END>
+<COLOR><GRAY>Are you watching！？<END>
 //POINTER #509 @ $2F930 - STRING #509 @ $1E6E8
 
 #W32($2F930)
-<COLOR><GRAY>ちょっと恥ずかしかったカモ。<END>
+<COLOR><GRAY>That was a bit embarrassing、maybe．<END>
 //POINTER #510 @ $2F954 - STRING #510 @ $1E70C
 
 #W32($2F954)
-<COLOR><GRAY>初めて来た初心者に、サーキット走行の楽しさを<END>
+<COLOR><GRAY>of track racing to beginners visiting the circuit<END>
 //POINTER #511 @ $2F978 - STRING #511 @ $1E740
 
 #W32($2F978)
-<COLOR><GRAY>気軽に声をかけてください。<END>
+<COLOR><GRAY>so feel free to reach out．<END>
 //POINTER #512 @ $2F99C - STRING #512 @ $1E762
 
 #W32($2F99C)
-<COLOR><GRAY>俺はシルベスタ。魂を熱くするライバル（女性限定）<END>
+<COLOR><GRAY>I'm Silvester．Looking for rivals that can set<END>
 //POINTER #513 @ $2F9C0 - STRING #513 @ $1E79A
 
 #W32($2F9C0)
-<COLOR><GRAY>うちはシルビアのワンメイクチームだけど、半端な<END>
+<COLOR><GRAY>We're just a one-make Silvia team、but I'm confident<END>
 //POINTER #514 @ $2F9E4 - STRING #514 @ $1E7D0
 
 #W32($2F9E4)
-<COLOR><GRAY>負けちゃったんだって？（・∀・）ニヤニヤ<END>
+<COLOR><GRAY>no one's even heard of？（・∀・）hehe<END>
 //POINTER #515 @ $2FA08 - STRING #515 @ $1E800
 
 #W32($2FA08)
-<COLOR><GRAY>いや……調子が出せなかったと言うか○｜￣｜＿<END>
+<COLOR><GRAY>And uh…I just wasn't in my top form、I guess ○｜￣｜＿<END>
 //POINTER #516 @ $2FA2C - STRING #516 @ $1E834
 
 #W32($2FA2C)
-<COLOR><GRAY>な～～～んか、リーダー（自称）も<END>
+<COLOR><GRAY>I've heard our（self-proclaimed）leader lost too、<END>
 //POINTER #517 @ $2FA50 - STRING #517 @ $1E85C
 
 #W32($2FA50)
-<COLOR><GRAY>でも、サーキット走行の楽しさは伝授しといたさ。<END>
+<COLOR><GRAY>But hey、at least I taught him the joys of track racing．<END>
 //POINTER #518 @ $2FA74 - STRING #518 @ $1E892
 
 #W32($2FA74)
-<COLOR><GRAY>俺たちももっと頑張ってランクを上げて<END>
+<COLOR><GRAY>work harder to rank up so we can aim for the<END>
 //POINTER #519 @ $2FA98 - STRING #519 @ $1E8BE
 
 #W32($2FA98)
-<COLOR><GRAY>貴様ら練習するぞー！<END>
+<COLOR><GRAY>Sending you guys off to practiceー！<END>
 //POINTER #520 @ $2FABC - STRING #520 @ $1E8DA
 
 #W32($2FABC)
-<COLOR><GRAY>結成されたチームです。基本的に試験期間以外は毎日、<END>
+<COLOR><GRAY>club of a certain N university．We're on the Suzuka East<END>
 //POINTER #521 @ $2FAE0 - STRING #521 @ $1E914
 
 #W32($2FAE0)
-<COLOR><GRAY>興味があったらパドックまで遊びにきてください！<END>
+<COLOR><GRAY>so if you're interested、drop by the paddock！<END>
 //POINTER #522 @ $2FB04 - STRING #522 @ $1E94A
 
 #W32($2FB04)
-<COLOR><GRAY>でも、遅い人ってジャマなのよネ～。<END>
+<COLOR><GRAY>But slow drivers are such a pain、you know～<END>
 //POINTER #523 @ $2FB28 - STRING #523 @ $1E974
 
 #W32($2FB28)
-<COLOR><GRAY>ほとんどの人は後ろを気にしないで走ってるから、<END>
+<COLOR><GRAY>Most people are just focused on their own race、<END>
 //POINTER #524 @ $2FB4C - STRING #524 @ $1E9AA
 
 #W32($2FB4C)
-<COLOR><GRAY>無理にインに入らずに、<COLOR><RED>アウトから抜く方が良い<COLOR><GRAY>？<END>
+<COLOR><GRAY>overtake on the <COLOR><RED>outside rather than forcing my way in<COLOR><GRAY>？<END>
 //POINTER #525 @ $2FB70 - STRING #525 @ $1E9EC
 
 #W32($2FB70)
-<COLOR><GRAY>その方が無難に抜けるよ！<END>
+<COLOR><GRAY>It's a safer way to get by！<END>
 //POINTER #526 @ $2FB94 - STRING #526 @ $1EA0C
 
 #W32($2FB94)
@@ -20211,11 +20019,11 @@
 //POINTER #486 @ $2F5F8 - STRING #486 @ $265D2
 
 #W32($2F5F8)
-<COLOR><GRAY>それが【ＲＡＣＩＮＧ　ＧＵＹ】だ！<END>
+<COLOR><GRAY>their finely-honed skills．That's the【RACING GUY】！<END>
 //POINTER #487 @ $2F61C - STRING #487 @ $265FC
 
 #W32($2F61C)
-<COLOR><GRAY>と言うわけで、後の管理とかはよろしくな＞２号<END>
+<COLOR><GRAY>Very well、I'm leaving the rest to you、No．2．<END>
 //POINTER #488 @ $2F640 - STRING #488 @ $26630
 
 #W32($2F640)
@@ -20231,11 +20039,11 @@
 //POINTER #491 @ $2F6AC - STRING #491 @ $26636
 
 #W32($2F6AC)
-<COLOR><GRAY>生きのいいエサ（対戦相手）を募集中！<END>
+<COLOR><GRAY>fresh prey（rivals）！<END>
 //POINTER #492 @ $2F6D0 - STRING #492 @ $26662
 
 #W32($2F6D0)
-<COLOR><GRAY>俺様が負けたら、４号がボーズ頭にするそーだ！<END>
+<COLOR><GRAY>No．4 is gonna get a buzzcut！<END>
 //POINTER #493 @ $2F6F4 - STRING #493 @ $26696
 
 #W32($2F6F4)
@@ -20247,11 +20055,11 @@
 //POINTER #495 @ $2F73C - STRING #495 @ $266B6
 
 #W32($2F73C)
-<COLOR><GRAY>しかも、ウチのチームは全滅～（泣）<END>
+<COLOR><GRAY>Also、our whole team got wiped out～（＊crying＊）<END>
 //POINTER #496 @ $2F760 - STRING #496 @ $266E0
 
 #W32($2F760)
-<COLOR><GRAY>そいつが本物かどうか判断してやる。<END>
+<COLOR><GRAY>if this guy's the real deal．<END>
 //POINTER #497 @ $2F784 - STRING #497 @ $2670A
 
 #W32($2F784)
@@ -20259,7 +20067,7 @@
 //POINTER #498 @ $2F7A8 - STRING #498 @ $2670C
 
 #W32($2F7A8)
-<COLOR><GRAY>再びお前に【ＲＡＣＩＮＧ　ＧＵＹ】を任せる！<END>
+<COLOR><GRAY>I'm leaving【RACING GUY】in your hands！<END>
 //POINTER #499 @ $2F7CC - STRING #499 @ $26740
 
 #W32($2F7CC)
@@ -20267,7 +20075,7 @@
 //POINTER #500 @ $2F7F0 - STRING #500 @ $26742
 
 #W32($2F7F0)
-<COLOR><GRAY>負け犬ではないことを俺が証明する。<END>
+<COLOR><GRAY>a bunch of losers．<END>
 //POINTER #501 @ $2F814 - STRING #501 @ $2676C
 
 #W32($2F814)
@@ -20279,7 +20087,7 @@
 //POINTER #503 @ $2F85C - STRING #503 @ $26770
 
 #W32($2F85C)
-<COLOR><GRAY>また、兄さんが戻ってくるのを待ってるよ。<END>
+<COLOR><GRAY>We'll be waiting for you to come back、brother．<END>
 //POINTER #504 @ $2F880 - STRING #504 @ $267A0
 
 #W32($2F880)
@@ -20291,15 +20099,15 @@
 //POINTER #506 @ $2F8C8 - STRING #506 @ $267A4
 
 #W32($2F8C8)
-<COLOR><GRAY>（ °∀°）σ）´Д｀）プニプニ<END>
+<COLOR><GRAY>（ °∀°）σ）´Д｀）＊poke＊<END>
 //POINTER #507 @ $2F8EC - STRING #507 @ $267CC
 
 #W32($2F8EC)
-<COLOR><GRAY>お裾分けしようと思ってな。<END>
+<END>
 //POINTER #508 @ $2F910 - STRING #508 @ $267EE
 
 #W32($2F910)
-<COLOR><GRAY>俺はお前にリベンジしに行くぞ！<END>
+<COLOR><GRAY>I'm coming for my revenge！<END>
 //POINTER #509 @ $2F934 - STRING #509 @ $26814
 
 #W32($2F934)
@@ -20307,19 +20115,19 @@
 //POINTER #510 @ $2F958 - STRING #510 @ $26816
 
 #W32($2F958)
-<COLOR><GRAY>正しく伝えるべく活動をしています！<END>
+<COLOR><GRAY>for the first time！<END>
 //POINTER #511 @ $2F97C - STRING #511 @ $26840
 
 #W32($2F97C)
-<COLOR><GRAY>シルビア系の車が目印です。<END>
+<COLOR><GRAY>You'll find us in Silvia-type cars．<END>
 //POINTER #512 @ $2F9A0 - STRING #512 @ $26862
 
 #W32($2F9A0)
-<COLOR><GRAY>を募集中だ！　一緒に限界に挑戦しようぜ！<END>
+<COLOR><GRAY>my soul on fire（women only）！Let's push it to the limit！<END>
 //POINTER #513 @ $2F9C4 - STRING #513 @ $26892
 
 #W32($2F9C4)
-<COLOR><GRAY>チューンドには負けない自信があるぜщ（゜Д゜щ）<END>
+<COLOR><GRAY>we won't lose to any half-tuned cars щ（゜Д゜щ）<END>
 //POINTER #514 @ $2F9E8 - STRING #514 @ $268CA
 
 #W32($2F9E8)
@@ -20331,7 +20139,7 @@
 //POINTER #516 @ $2FA30 - STRING #516 @ $268CE
 
 #W32($2FA30)
-<COLOR><GRAY>負けちゃったそうじゃない？（・∀・）ニヤニヤ<END>
+<COLOR><GRAY>is that correct？（・∀・）hehehe<END>
 //POINTER #517 @ $2FA54 - STRING #517 @ $26902
 
 #W32($2FA54)
@@ -20339,7 +20147,7 @@
 //POINTER #518 @ $2FA78 - STRING #518 @ $26904
 
 #W32($2FA78)
-<COLOR><GRAY>Ｃ１ＧＰを目指しましょうよ～。<END>
+<COLOR><GRAY>C1 Grand Prix too～．<END>
 //POINTER #519 @ $2FA9C - STRING #519 @ $2692A
 
 #W32($2FA9C)
@@ -20347,19 +20155,19 @@
 //POINTER #520 @ $2FAC0 - STRING #520 @ $2692C
 
 #W32($2FAC0)
-<COLOR><GRAY>鈴鹿サーキット（東）コースで活動しています。<END>
+<COLOR><GRAY>Circuit every day、except during exam sessions．<END>
 //POINTER #521 @ $2FAE4 - STRING #521 @ $26960
 
 #W32($2FAE4)
-<COLOR><GRAY>ＣランクのイベントはＣＰもかからないのでお気軽に。<END>
+<COLOR><GRAY>Rank C events don't cost any CP、so join us anytime．<END>
 //POINTER #522 @ $2FB08 - STRING #522 @ $2699A
 
 #W32($2FB08)
-<COLOR><GRAY>何かさ、私の走行ラインにかぶせてくるみたいで。<END>
+<COLOR><GRAY>It's like they keep cutting my racing line or something．<END>
 //POINTER #523 @ $2FB2C - STRING #523 @ $269D0
 
 #W32($2FB2C)
-<COLOR><GRAY><COLOR><RED>アウト＞イン＞アウト<COLOR><GRAY>で走ってる奴が多いと思うヨ。<END>
+<COLOR><GRAY>so I think a lot of them just take the <COLOR><RED>out＞in＞out<COLOR><GRAY> line．<END>
 //POINTER #524 @ $2FB50 - STRING #524 @ $26A14
 
 #W32($2FB50)
