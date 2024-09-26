@@ -1,6 +1,6 @@
 import sys
 
-#a little script to help my find repeats in those /out files
+#a little script to help me find repeats in those /out files
 
 def find_lines_above(file_path, target_line):
     output = open(output_file, 'w')

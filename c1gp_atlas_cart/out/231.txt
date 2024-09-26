@@ -4756,140 +4756,53 @@
 //POINTER #540 @ $2FD84 - STRING #540 @ $A70C
 
 #W32($2FF10)
-<COLOR><GRAY>宣言<END>
+<COLOR><GRAY>Statement<END>
 //POINTER #552 @ $2FF34 - STRING #552 @ $A8BA
 
 #W32($2FF34)
-<COLOR><GRAY>re：宣言<END>
+#W32($2FF58)
+#W32($2FF7C)
+#W32($2FFA0)
+#W32($2FFC4)
+#W32($2FFE8)
+#W32($3000C)
+#W32($30030)
+#W32($30054)
+#W32($30078)
+#W32($3009C)
+#W32($300C0)
+#W32($300E4)
+#W32($30108)
+#W32($3012C)
+#W32($30150)
+#W32($30174)
+#W32($30198)
+#W32($301E0)
+#W32($30204)
+#W32($30228)
+#W32($3024C)
+<COLOR><GRAY>re：Statement<END>
 //POINTER #553 @ $2FF58 - STRING #553 @ $A8CC
 
-#W32($2FF58)
-<COLOR><GRAY>re：宣言<END>
-//POINTER #554 @ $2FF7C - STRING #554 @ $A8DE
-
-#W32($2FF7C)
-<COLOR><GRAY>re：宣言<END>
-//POINTER #555 @ $2FFA0 - STRING #555 @ $A8F0
-
-#W32($2FFA0)
-<COLOR><GRAY>re：宣言<END>
-//POINTER #556 @ $2FFC4 - STRING #556 @ $A902
-
-#W32($2FFC4)
-<COLOR><GRAY>re：宣言<END>
-//POINTER #557 @ $2FFE8 - STRING #557 @ $A914
-
-#W32($2FFE8)
-<COLOR><GRAY>re：宣言<END>
-//POINTER #558 @ $3000C - STRING #558 @ $A926
-
-#W32($3000C)
-<COLOR><GRAY>re：宣言<END>
-//POINTER #559 @ $30030 - STRING #559 @ $A938
-
-#W32($30030)
-<COLOR><GRAY>re：宣言<END>
-//POINTER #560 @ $30054 - STRING #560 @ $A94A
-
-#W32($30054)
-<COLOR><GRAY>re：宣言<END>
-//POINTER #561 @ $30078 - STRING #561 @ $A95C
-
-#W32($30078)
-<COLOR><GRAY>re：宣言<END>
-//POINTER #562 @ $3009C - STRING #562 @ $A96E
-
-#W32($3009C)
-<COLOR><GRAY>re：宣言<END>
-//POINTER #563 @ $300C0 - STRING #563 @ $A980
-
-#W32($300C0)
-<COLOR><GRAY>re：宣言<END>
-//POINTER #564 @ $300E4 - STRING #564 @ $A992
-
-#W32($300E4)
-<COLOR><GRAY>re：宣言<END>
-//POINTER #565 @ $30108 - STRING #565 @ $A9A4
-
-#W32($30108)
-<COLOR><GRAY>re：宣言<END>
-//POINTER #566 @ $3012C - STRING #566 @ $A9B6
-
-#W32($3012C)
-<COLOR><GRAY>re：宣言<END>
-//POINTER #567 @ $30150 - STRING #567 @ $A9C8
-
-#W32($30150)
-<COLOR><GRAY>re：宣言<END>
-//POINTER #568 @ $30174 - STRING #568 @ $A9DA
-
-#W32($30174)
-<COLOR><GRAY>re：宣言<END>
-//POINTER #569 @ $30198 - STRING #569 @ $A9EC
-
-#W32($30198)
-<COLOR><GRAY>re：宣言<END>
-//POINTER #570 @ $301BC - STRING #570 @ $A9FE
-
 #W32($301BC)
-<COLOR><GRAY>首都高バトルシリーズで遊ぶべし<END>
+<COLOR><GRAY>Play the Shutokou Battle Series<END>
 //POINTER #571 @ $301E0 - STRING #571 @ $AA24
-
-#W32($301E0)
-<COLOR><GRAY>re：宣言<END>
-//POINTER #572 @ $30204 - STRING #572 @ $AA36
-
-#W32($30204)
-<COLOR><GRAY>re：宣言<END>
-//POINTER #573 @ $30228 - STRING #573 @ $AA48
-
-#W32($30228)
-<COLOR><GRAY>re：宣言<END>
-//POINTER #574 @ $3024C - STRING #574 @ $AA5A
-
-#W32($3024C)
-<COLOR><GRAY>re：宣言<END>
-//POINTER #575 @ $30270 - STRING #575 @ $AA6C
 
 #W32($30270)
 <COLOR><GRAY>NO LOSER<END>
 //POINTER #576 @ $30294 - STRING #576 @ $AA84
 
 #W32($30294)
-<COLOR><GRAY>re：NO LOSER<END>
-//POINTER #577 @ $302B8 - STRING #577 @ $AAA2
-
 #W32($302B8)
-<COLOR><GRAY>re：NO LOSER<END>
-//POINTER #578 @ $302DC - STRING #578 @ $AAC0
-
 #W32($302DC)
-<COLOR><GRAY>re：NO LOSER<END>
-//POINTER #579 @ $30300 - STRING #579 @ $AADE
-
 #W32($30300)
-<COLOR><GRAY>re：NO LOSER<END>
-//POINTER #580 @ $30324 - STRING #580 @ $AAFC
-
 #W32($30324)
-<COLOR><GRAY>re：NO LOSER<END>
-//POINTER #581 @ $30348 - STRING #581 @ $AB1A
-
 #W32($30348)
-<COLOR><GRAY>re：NO LOSER<END>
-//POINTER #582 @ $3036C - STRING #582 @ $AB38
-
 #W32($3036C)
-<COLOR><GRAY>re：NO LOSER<END>
-//POINTER #583 @ $30390 - STRING #583 @ $AB56
-
 #W32($30390)
-<COLOR><GRAY>re：NO LOSER<END>
-//POINTER #584 @ $303B4 - STRING #584 @ $AB74
-
 #W32($303B4)
 <COLOR><GRAY>re：NO LOSER<END>
-//POINTER #585 @ $303D8 - STRING #585 @ $AB92
+//POINTER #577 @ $302B8 - STRING #577 @ $AAA2
 
 #W32($303D8)
 <COLOR><GRAY>KAZE<END>
@@ -9541,131 +9454,131 @@
 //POINTER #532 @ $2FC68 - STRING #532 @ $14190
 
 #W32($2FC68)
-<COLOR><GRAY>度胸なら自信あるぜ！<END>
+<COLOR><GRAY>I've got the guts！ Though some say I'm just<END>
 //POINTER #533 @ $2FC8C - STRING #533 @ $141AC
 
 #W32($2FC8C)
-<COLOR><GRAY>俺より度胸のある奴がいた！！<END>
+<COLOR><GRAY>Someone did have more guts than me！！<END>
 //POINTER #534 @ $2FCB0 - STRING #534 @ $141D0
 
 #W32($2FCB0)
-<COLOR><GRAY>みんなそいつに敗れたのか！？<END>
+<COLOR><GRAY>You all lost to that guy！？<END>
 //POINTER #535 @ $2FCD4 - STRING #535 @ $141F4
 
 #W32($2FCD4)
-<COLOR><GRAY>リ～ダ～～～～<END>
+<COLOR><GRAY>Leeader～～～～<END>
 //POINTER #536 @ $2FCF8 - STRING #536 @ $1420A
 
 #W32($2FCF8)
-<COLOR><GRAY>しばらく修行の旅にでる。<END>
+<COLOR><GRAY>I'm going on a training trip for a while．<END>
 //POINTER #537 @ $2FD1C - STRING #537 @ $1422A
 
 #W32($2FD1C)
-<COLOR><GRAY>夜逃げはダメですヽ（；´Д｀）ノ<END>
+<COLOR><GRAY>No running away at night allowed ヽ（；´Д｀）ノ<END>
 //POINTER #538 @ $2FD40 - STRING #538 @ $14252
 
 #W32($2FD40)
-<COLOR><GRAY>サーキットは男だけの世界じゃない！<END>
+<COLOR><GRAY>The circuit isn't just a man's world！<END>
 //POINTER #539 @ $2FD64 - STRING #539 @ $1427C
 
 #W32($2FD64)
-<COLOR><GRAY>聞いてよ、聞いてよ。<END>
+<COLOR><GRAY>Listen、listen．<END>
 //POINTER #540 @ $2FD88 - STRING #540 @ $14298
 
 #W32($2FD88)
-<COLOR><GRAY>よしよし。<END>
+<COLOR><GRAY>There、there．<END>
 //POINTER #541 @ $2FDAC - STRING #541 @ $142AA
 
 #W32($2FDAC)
-<COLOR><GRAY>そうそう、この間、<COLOR><RED>ピットイン<COLOR><GRAY>しようと思って<END>
+<COLOR><GRAY>That reminds me．The other day、I tried to <COLOR><RED>pit in<COLOR><GRAY>、<END>
 //POINTER #542 @ $2FDD0 - STRING #542 @ $142E8
 
 #W32($2FDD0)
-<COLOR><GRAY><COLOR><RED>横入り<COLOR><GRAY>したでしょう（　゜∀゜）σ）｀Д´）ノ<END>
+<COLOR><GRAY>You <COLOR><RED>cut in<COLOR><GRAY>、didn't ya（　゜∀゜）σ）｀Д´）ノ<END>
 //POINTER #543 @ $2FDF4 - STRING #543 @ $14328
 
 #W32($2FDF4)
-<COLOR><GRAY>そうだったのか……○｜￣｜＿<END>
+<COLOR><GRAY>I had no idea……○｜￣｜＿<END>
 //POINTER #544 @ $2FE18 - STRING #544 @ $1434C
 
 #W32($2FE18)
-<COLOR><GRAY>私のデータによると、<COLOR><RED>筑波サーキット<COLOR><GRAY>、<END>
+<COLOR><GRAY>According to my data、the <COLOR><RED>Tsukuba Circuit<COLOR><GRAY>、<END>
 //POINTER #545 @ $2FE3C - STRING #545 @ $14384
 
 #W32($2FE3C)
-<COLOR><GRAY>みんな、<COLOR><RED>規定のピットロード入り口<COLOR><GRAY>から<END>
+<COLOR><GRAY>Everyone、remember to enter the pits from the<END>
 //POINTER #546 @ $2FE60 - STRING #546 @ $143BC
 
 #W32($2FE60)
-<COLOR><GRAY>負けた～、負けた～。<END>
+<COLOR><GRAY>I lost～、I lost～．<END>
 //POINTER #547 @ $2FE84 - STRING #547 @ $143D8
 
 #W32($2FE84)
-<COLOR><GRAY>むむ。<END>
+<COLOR><GRAY>Mmhmm．<END>
 //POINTER #548 @ $2FEA8 - STRING #548 @ $143E6
 
 #W32($2FEA8)
-<COLOR><GRAY>昔を思い出しちゃった……。<END>
+<COLOR><GRAY>That brought back memories……I remember losing……<END>
 //POINTER #549 @ $2FECC - STRING #549 @ $14408
 
 #W32($2FECC)
-<COLOR><GRAY>とは言え、<END>
+<COLOR><GRAY>That being said、<END>
 //POINTER #550 @ $2FEF0 - STRING #550 @ $1441A
 
 #W32($2FEF0)
-<COLOR><GRAY>そうだぞヽ（｀Д´）ノ<END>
+<COLOR><GRAY>That's right ヽ（｀Д´）ノ<END>
 //POINTER #551 @ $2FF14 - STRING #551 @ $14438
 
 #W32($2FF14)
-<COLOR><GRAY>あの日【Ｃｕｐｉｄ Ａｒｒｏｗｓ】を<END>
+<COLOR><GRAY>I hereby declare revenge on the racer who defeated<END>
 //POINTER #552 @ $2FF38 - STRING #552 @ $14464
 
 #W32($2FF38)
-<COLOR><GRAY>あれから私は更に腕を上げた。<END>
+<COLOR><GRAY>I've further improved my skills since then．<END>
 //POINTER #553 @ $2FF5C - STRING #553 @ $14488
 
 #W32($2FF5C)
-<COLOR><GRAY>リベンジですね！<END>
+<COLOR><GRAY>Revenge、huh！<END>
 //POINTER #554 @ $2FF80 - STRING #554 @ $144A0
 
 #W32($2FF80)
-<COLOR><GRAY>今度こそアタシたちの<END>
+<COLOR><GRAY>This time、let's show them what we are really<END>
 //POINTER #555 @ $2FFA4 - STRING #555 @ $144BC
 
 #W32($2FFA4)
-<COLOR><GRAY>みんな、何か勘違いしてるみたいだけど<END>
+<COLOR><GRAY>There seems to be some misunderstanding、everyone．<END>
 //POINTER #556 @ $2FFC8 - STRING #556 @ $144E8
 
 #W32($2FFC8)
-<COLOR><GRAY>えっ！？<END>
+<COLOR><GRAY>Ehhh！？<END>
 //POINTER #557 @ $2FFEC - STRING #557 @ $144F8
 
 #W32($2FFEC)
-<COLOR><GRAY>つまんなーい（´Ａ｀）<END>
+<COLOR><GRAY>boooring（´Ａ｀）<END>
 //POINTER #558 @ $30010 - STRING #558 @ $14516
 
 #W32($30010)
-<COLOR><GRAY>何か理由がありそうですね？<END>
+<COLOR><GRAY>There must be a reason、right？<END>
 //POINTER #559 @ $30034 - STRING #559 @ $14538
 
 #W32($30034)
-<COLOR><GRAY>確かにチームが負けたのは悔しかった……。<END>
+<COLOR><GRAY>It was frustrating that the team lost……<END>
 //POINTER #560 @ $30058 - STRING #560 @ $14568
 
 #W32($30058)
-<COLOR><GRAY>だから【Ｃｕｐｉｄ Ａｒｒｏｗｓ】ではなく<END>
+<COLOR><GRAY>That's why I seek revenge not as【Cupid Arrows】、<END>
 //POINTER #561 @ $3007C - STRING #561 @ $1459A
 
 #W32($3007C)
-<COLOR><GRAY>なぜそんなにこだわっているの？<END>
+<COLOR><GRAY>Why are you so fixated on this？<END>
 //POINTER #562 @ $300A0 - STRING #562 @ $145C0
 
 #W32($300A0)
-<COLOR><GRAY>ごめん、みんなには黙っていたけど……<END>
+<COLOR><GRAY>Sorry that I'm keeping it to myself……<END>
 //POINTER #563 @ $300C4 - STRING #563 @ $145EC
 
 #W32($300C4)
-<COLOR><GRAY>知ってたけど？<END>
+<COLOR><GRAY>I knew that already though？<END>
 //POINTER #564 @ $300E8 - STRING #564 @ $14602
 
 #W32($300E8)
@@ -9673,83 +9586,83 @@
 //POINTER #565 @ $3010C - STRING #565 @ $14618
 
 #W32($3010C)
-<COLOR><GRAY>十二覇聖のミッドナイトローズと言えば有名よね。<END>
+<COLOR><GRAY>Midnight Rose of The ZODIAC is quite famous、isn't she？<END>
 //POINTER #566 @ $30130 - STRING #566 @ $1464E
 
 #W32($30130)
-<COLOR><GRAY>じゅーにはせーってなぁに？<END>
+<COLOR><GRAY>Twelve Holy what？<END>
 //POINTER #567 @ $30154 - STRING #567 @ $14670
 
 #W32($30154)
-<COLOR><GRAY>その評判と実力を買って、<END>
+<COLOR><GRAY>We brought her on as our leader because of her reputation<END>
 //POINTER #568 @ $30178 - STRING #568 @ $14690
 
 #W32($30178)
-<COLOR><GRAY>そうだったのか……○｜￣｜＿<END>
+<COLOR><GRAY>I never realized that ……○｜￣｜＿<END>
 //POINTER #569 @ $3019C - STRING #569 @ $146B4
 
 #W32($3019C)
-<COLOR><GRAY>ねえねえ、<END>
+<COLOR><GRAY>Hey、hey<END>
 //POINTER #570 @ $301C0 - STRING #570 @ $146C6
 
 #W32($301C0)
-<COLOR><GRAY>ちょっと黙っててね。<END>
+<COLOR><GRAY>Just be quiet for a minute．<END>
 //POINTER #571 @ $301E4 - STRING #571 @ $146E2
 
 #W32($301E4)
-<COLOR><GRAY>うぅ（涙）<END>
+<COLOR><GRAY>Ughh（＊tears＊）<END>
 //POINTER #572 @ $30208 - STRING #572 @ $146F4
 
 #W32($30208)
-<COLOR><GRAY>とにかく<END>
+<COLOR><GRAY>Anyway、<END>
 //POINTER #573 @ $3022C - STRING #573 @ $14704
 
 #W32($3022C)
-<COLOR><GRAY>うんうん。<END>
+<COLOR><GRAY>Right、right．<END>
 //POINTER #574 @ $30250 - STRING #574 @ $14716
 
 #W32($30250)
-<COLOR><GRAY>ああ、分かってる！<END>
+<COLOR><GRAY>Ahh、alright！<END>
 //POINTER #575 @ $30274 - STRING #575 @ $14730
 
 #W32($30274)
-<COLOR><GRAY>モータースポーツの主役はクルマ！！<END>
+<COLOR><GRAY>The star of the motorsport is the car！！<END>
 //POINTER #576 @ $30298 - STRING #576 @ $1475A
 
 #W32($30298)
-<COLOR><GRAY>そんな【NO LOSER】の最高傑作、<END>
+<COLOR><GRAY>Behold the【NO LOSER】's masterpiece、my beloved car、<END>
 //POINTER #577 @ $302BC - STRING #577 @ $14788
 
 #W32($302BC)
-<COLOR><GRAY>（チューニングは凄いかもしれないけど<END>
+<COLOR><GRAY>（Tuning might be great、but I'm concerned about<END>
 //POINTER #578 @ $302E0 - STRING #578 @ $147B4
 
 #W32($302E0)
-<COLOR><GRAY>メーカーの技術と言うのは、やはりすごいからね。<END>
+<COLOR><GRAY>The manufacturer's tech is truly remarkable．<END>
 //POINTER #579 @ $30304 - STRING #579 @ $147EA
 
 #W32($30304)
-<COLOR><GRAY>俺は、不沈艦スペシャルって<END>
+<COLOR><GRAY>I'm more interested in the naming sense behind<END>
 //POINTER #580 @ $30328 - STRING #580 @ $1480C
 
 #W32($30328)
-<COLOR><GRAY>そんなことを言うのは、この口か。<END>
+<COLOR><GRAY>Is that your mouth、saying such things？<END>
 //POINTER #581 @ $3034C - STRING #581 @ $14834
 
 #W32($3034C)
-<COLOR><GRAY>ありえない！！<END>
+<COLOR><GRAY>No way！！<END>
 //POINTER #582 @ $30370 - STRING #582 @ $1484A
 
 #W32($30370)
-<COLOR><GRAY>テクニックなどに頼ってるから負けるのだ。<END>
+<COLOR><GRAY>You lose from relying on techniques．<END>
 //POINTER #583 @ $30394 - STRING #583 @ $1487A
 
 #W32($30394)
-<COLOR><GRAY>……マシンの性能差が同じなら勝敗を分けるのは<END>
+<COLOR><GRAY>……If the machine performance is equal、<END>
 //POINTER #584 @ $303B8 - STRING #584 @ $148AE
 
 #W32($303B8)
-<COLOR><GRAY>ならば、こちらは更に<END>
+<COLOR><GRAY>Then I'll aim for an even higher level of tuning！<END>
 //POINTER #585 @ $303DC - STRING #585 @ $148CA
 
 #W32($303DC)
@@ -14471,7 +14384,7 @@
 //POINTER #532 @ $2FC6C - STRING #532 @ $1EB3A
 
 #W32($2FC6C)
-<COLOR><GRAY>無謀なだけとも言うが……（笑）<END>
+<COLOR><GRAY>reckless……（lol） Anyone with more guts than me、<END>
 //POINTER #533 @ $2FC90 - STRING #533 @ $1EB60
 
 #W32($2FC90)
@@ -14479,15 +14392,15 @@
 //POINTER #534 @ $2FCB4 - STRING #534 @ $1EB80
 
 #W32($2FCB4)
-<COLOR><GRAY>……俺がやる！<END>
+<COLOR><GRAY>……I'll take him on！<END>
 //POINTER #535 @ $2FCD8 - STRING #535 @ $1EB96
 
 #W32($2FCD8)
-<COLOR><GRAY>落ち込まないでくださいよヽ（；´Д｀）ノ<END>
+<COLOR><GRAY>Don't get discouraged now ヽ（；´Д｀）ノ<END>
 //POINTER #536 @ $2FCFC - STRING #536 @ $1EBC6
 
 #W32($2FCFC)
-<COLOR><GRAY>探さないでくれ……○｜￣｜＿<END>
+<COLOR><GRAY>Don't look for me……○｜￣｜＿<END>
 //POINTER #537 @ $2FD20 - STRING #537 @ $1EBEA
 
 #W32($2FD20)
@@ -14495,23 +14408,23 @@
 //POINTER #538 @ $2FD44 - STRING #538 @ $1EBEC
 
 #W32($2FD44)
-<COLOR><GRAY>【Cupid Arrows】はサーキットで頑張る<END>
+<COLOR><GRAY>【Cupid Arrows】is a team for all the girls<END>
 //POINTER #539 @ $2FD68 - STRING #539 @ $1EC24
 
 #W32($2FD68)
-<COLOR><GRAY>ＲＰバトルで１位だったのに、最後グリップが<END>
+<COLOR><GRAY>I was first place in a RP Battle、but near the end、<END>
 //POINTER #540 @ $2FD8C - STRING #540 @ $1EC56
 
 #W32($2FD8C)
-<COLOR><GRAY>ランクが上がって、ＲＰバトルの周回数が多くなると、<END>
+<COLOR><GRAY>As you rank up and the lap count in RP Battles increases、<END>
 //POINTER #541 @ $2FDB0 - STRING #541 @ $1EC90
 
 #W32($2FDB0)
-<COLOR><GRAY>入ったら、<COLOR><RED>素通り<COLOR><GRAY>させられたのヽ（｀Д´）ノ<END>
+<COLOR><GRAY>but they made me <COLOR><RED>pass through without stopping<END>
 //POINTER #542 @ $2FDD4 - STRING #542 @ $1ECCE
 
 #W32($2FDD4)
-<COLOR><GRAY>筑波サーキットは、キチンと<COLOR><RED>ピットロード<COLOR><GRAY>を走らないと<END>
+<COLOR><GRAY>At Tsukuba Circuit、if you don't go through the <COLOR><RED>pit road<COLOR><GRAY>、<END>
 //POINTER #543 @ $2FDF8 - STRING #543 @ $1ED14
 
 #W32($2FDF8)
@@ -14519,27 +14432,27 @@
 //POINTER #544 @ $2FE1C - STRING #544 @ $1ED16
 
 #W32($2FE1C)
-<COLOR><GRAY><COLOR><RED>ＴＩサーキット英田<COLOR><GRAY>、<COLOR><RED>日光サーキット<COLOR><GRAY>の<END>
+<COLOR><RED>TI Circuit Aida<COLOR><GRAY>、and <COLOR><RED>Nikko Circuit<COLOR><GRAY> are<END>
 //POINTER #545 @ $2FE40 - STRING #545 @ $1ED5A
 
 #W32($2FE40)
-<COLOR><GRAY>ピットに入ろうね（＊’－’）ｂ<END>
+<COLOR><RED>designated pit road<COLOR><GRAY>（＊’－’）ｂ<END>
 //POINTER #546 @ $2FE64 - STRING #546 @ $1ED80
 
 #W32($2FE64)
-<COLOR><GRAY>あー、もう、イライラする！<END>
+<COLOR><GRAY>Ahー、geez、I'm so frustrated！<END>
 //POINTER #547 @ $2FE88 - STRING #547 @ $1EDA2
 
 #W32($2FE88)
-<COLOR><GRAY>みんなの敵は私が取る！<END>
+<COLOR><GRAY>I'll take on all your rivals！<END>
 //POINTER #548 @ $2FEAC - STRING #548 @ $1EDC0
 
 #W32($2FEAC)
-<COLOR><GRAY>負けた記憶……悔しいはずなのに、懐かしい。<END>
+<COLOR><GRAY>should be frustrating、but feels nostalgic instead．<END>
 //POINTER #549 @ $2FED0 - STRING #549 @ $1EDF2
 
 #W32($2FED0)
-<COLOR><GRAY>このままでは終わらないぞヽ（｀Д´）ノ<END>
+<COLOR><GRAY>I'm not letting this one go ヽ（｀Д´）ノ<END>
 //POINTER #550 @ $2FEF4 - STRING #550 @ $1EE20
 
 #W32($2FEF4)
@@ -14547,27 +14460,27 @@
 //POINTER #551 @ $2FF18 - STRING #551 @ $1EE22
 
 #W32($2FF18)
-<COLOR><GRAY>そして私を破った走り屋にリベンジを宣言する！<END>
+<COLOR><GRAY>the【Cupid Arrows】and me that day！<END>
 //POINTER #552 @ $2FF3C - STRING #552 @ $1EE56
 
 #W32($2FF3C)
-<COLOR><GRAY>また楽しいバトルをしようじゃないか。<END>
+<COLOR><GRAY>Let's have another exciting battle．<END>
 //POINTER #553 @ $2FF60 - STRING #553 @ $1EE82
 
 #W32($2FF60)
-<COLOR><GRAY>燃えちゃうな～っ！！<END>
+<COLOR><GRAY>I'm fired up～！！<END>
 //POINTER #554 @ $2FF84 - STRING #554 @ $1EE9E
 
 #W32($2FF84)
-<COLOR><GRAY>真の実力を見せてやろうじゃないの！<END>
+<COLOR><GRAY>made of！<END>
 //POINTER #555 @ $2FFA8 - STRING #555 @ $1EEC8
 
 #W32($2FFA8)
-<COLOR><GRAY>今度のバトルは私一人でやる。<END>
+<COLOR><GRAY>I'm taking on this battle alone．<END>
 //POINTER #556 @ $2FFCC - STRING #556 @ $1EEEC
 
 #W32($2FFCC)
-<COLOR><GRAY>どうして？<END>
+<COLOR><GRAY>Whyy？<END>
 //POINTER #557 @ $2FFF0 - STRING #557 @ $1EEFE
 
 #W32($2FFF0)
@@ -14579,11 +14492,11 @@
 //POINTER #559 @ $30038 - STRING #559 @ $1EF02
 
 #W32($30038)
-<COLOR><GRAY>でも、それ以上に、私自身が負けたことが<END>
+<COLOR><GRAY>But more than that、my pride just can't accept<END>
 //POINTER #560 @ $3005C - STRING #560 @ $1EF30
 
 #W32($3005C)
-<COLOR><GRAY>私個人、☆ミッドナイトローズとして<END>
+<COLOR><GRAY>but as myself、the ☆Midnight Rose！！<END>
 //POINTER #561 @ $30080 - STRING #561 @ $1EF5A
 
 #W32($30080)
@@ -14591,11 +14504,11 @@
 //POINTER #562 @ $300A4 - STRING #562 @ $1EF5C
 
 #W32($300A4)
-<COLOR><GRAY>プライドが許さないんだ。<END>
+<COLOR><GRAY>but my pride just won't allow it．<END>
 //POINTER #563 @ $300C8 - STRING #563 @ $1EF7C
 
 #W32($300C8)
-<COLOR><GRAY>元十二覇聖。<END>
+<COLOR><GRAY>Former member of the Twelve Holy Warriors of The ZODIAC．<END>
 //POINTER #564 @ $300EC - STRING #564 @ $1EF90
 
 #W32($300EC)
@@ -14611,7 +14524,7 @@
 //POINTER #567 @ $30158 - STRING #567 @ $1EF96
 
 #W32($30158)
-<COLOR><GRAY>私たちもリーダーに迎えたんだから。<END>
+<COLOR><GRAY>and skill．<END>
 //POINTER #568 @ $3017C - STRING #568 @ $1EFC0
 
 #W32($3017C)
@@ -14619,7 +14532,7 @@
 //POINTER #569 @ $301A0 - STRING #569 @ $1EFC2
 
 #W32($301A0)
-<COLOR><GRAY>じゅーにはせーってなぁに？<END>
+<COLOR><GRAY>What are those Twelve Warriors？<END>
 //POINTER #570 @ $301C4 - STRING #570 @ $1EFE4
 
 #W32($301C4)
@@ -14627,59 +14540,59 @@
 //POINTER #571 @ $301E8 - STRING #571 @ $1EFE6
 
 #W32($301E8)
-<COLOR><GRAY>いじめるぅ（；´д⊂）<END>
+<COLOR><GRAY>You're picking on me（；´д⊂）<END>
 //POINTER #572 @ $3020C - STRING #572 @ $1F004
 
 #W32($3020C)
-<COLOR><GRAY>そういうことなら応援するよ！<END>
+<COLOR><GRAY>I'll support you、if that's the case！<END>
 //POINTER #573 @ $30230 - STRING #573 @ $1F028
 
 #W32($30230)
-<COLOR><GRAY>しっかりとその実力を見せてやって！<END>
+<COLOR><GRAY>Show them what you've got！<END>
 //POINTER #574 @ $30254 - STRING #574 @ $1F052
 
 #W32($30254)
-<COLOR><GRAY>待ってろよ（＊’－’）ｂ<END>
+<COLOR><GRAY>Just you wait（＊’－’）ｂ<END>
 //POINTER #575 @ $30278 - STRING #575 @ $1F072
 
 #W32($30278)
-<COLOR><GRAY>【NO LOSER】では、誰が乗っても勝てる<END>
+<COLOR><GRAY>At【NO LOSER】、we're aiming to create the ultimate tuned<END>
 //POINTER #576 @ $3029C - STRING #576 @ $1F0A6
 
 #W32($3029C)
-<COLOR><GRAY>俺の愛車、ＬＡＮＣＥＲ　ＥＶＯＬＵＴＩＯＮ　Ⅴ<END>
+<COLOR><GRAY>The LANCER EVOLUTION Ⅴ Unsinkable Specialー<END>
 //POINTER #577 @ $302C0 - STRING #577 @ $1F0DC
 
 #W32($302C0)
-<COLOR><GRAY>　やっぱりベース車両の型落ちが気になるね）<END>
+<COLOR><GRAY>　　that outdated base model．）<END>
 //POINTER #578 @ $302E4 - STRING #578 @ $1F10E
 
 #W32($302E4)
-<COLOR><GRAY>同じチューンを施しても、それなりの差がでてくる。<END>
+<COLOR><GRAY>Even with the same tuning on a new base、<END>
 //POINTER #579 @ $30308 - STRING #579 @ $1F146
 
 #W32($30308)
-<COLOR><GRAY>ネーミングセンスのが気になるぞ！（笑）<END>
+<COLOR><GRAY>the Unsinkable Special！（lol）<END>
 //POINTER #580 @ $3032C - STRING #580 @ $1F174
 
 #W32($3032C)
-<COLOR><GRAY>（　゜∀゜）σ）´Д｀）ウリウリ<END>
+<COLOR><GRAY>（　゜∀゜）σ）´Д｀）poke poke<END>
 //POINTER #581 @ $30350 - STRING #581 @ $1F19C
 
 #W32($30350)
-<COLOR><GRAY>俺のスペシャルテクニックの<END>
+<COLOR><GRAY>My Special Techniques didn't work at all！<END>
 //POINTER #582 @ $30374 - STRING #582 @ $1F1BE
 
 #W32($30374)
-<COLOR><GRAY>みていろ、絶対的なマシンの性能差の前には、<END>
+<COLOR><GRAY>Just watch、I'll show you that such things are meaningless<END>
 //POINTER #583 @ $30398 - STRING #583 @ $1F1F0
 
 #W32($30398)
-<COLOR><GRAY>ドライバーのテクニック、と言うことか。<END>
+<COLOR><GRAY>the outcome depends on technique after all．This time、<END>
 //POINTER #584 @ $303BC - STRING #584 @ $1F21E
 
 #W32($303BC)
-<COLOR><GRAY>その上のチューニングを目指すまで！<END>
+<COLOR><GRAY>Just you wait！～ щ（゜Д゜щ）<END>
 //POINTER #585 @ $303E0 - STRING #585 @ $1F248
 
 #W32($303E0)
@@ -15337,8 +15250,6 @@
 #W32($31ACC)
 <END>
 //POINTER #749 @ $31AF0 - STRING #749 @ $2025A
-
-#JMP($36EA0)
 
 #W32($31AF0)
 <COLOR><GRAY>ひどい走り方をする人たちがいるんです。<END>
@@ -17283,6 +17194,8 @@
 #W32($35F24)
 <END>
 //BLOCK #004 NAME:		231.bin File - Encoded BBS Text 5
+
+#JMP($36EA0)
 
 //POINTER #0 @ $2B1A0 - STRING #0 @ $23D12
 
@@ -19405,7 +19318,7 @@
 //POINTER #532 @ $2FC70 - STRING #532 @ $26A9C
 
 #W32($2FC70)
-<COLOR><GRAY>俺より度胸のある奴はかかってこい！<END>
+<COLOR><GRAY>bring it on！<END>
 //POINTER #533 @ $2FC94 - STRING #533 @ $26AC6
 
 #W32($2FC94)
@@ -19413,7 +19326,7 @@
 //POINTER #534 @ $2FCB8 - STRING #534 @ $26AC8
 
 #W32($2FCB8)
-<COLOR><GRAY>このときのために、金と愛情をつぎ込んできたんだ。<END>
+<COLOR><GRAY>I've poured all my money and love for this moment．<END>
 //POINTER #535 @ $2FCDC - STRING #535 @ $26B00
 
 #W32($2FCDC)
@@ -19429,23 +19342,23 @@
 //POINTER #538 @ $2FD48 - STRING #538 @ $26B06
 
 #W32($2FD48)
-<COLOR><GRAY>女の子のためのチームです（＊’－’）ｂ<END>
+<COLOR><GRAY>pushing limits on the track（＊’－’）ｂ<END>
 //POINTER #539 @ $2FD6C - STRING #539 @ $26B34
 
 #W32($2FD6C)
-<COLOR><GRAY>効かなくなって抜かされちゃった（；´д⊂）<END>
+<COLOR><GRAY>I lost grip and got overtaken（；´д⊂）<END>
 //POINTER #540 @ $2FD90 - STRING #540 @ $26B66
 
 #W32($2FD90)
-<COLOR><GRAY>ピットインによる回復も大切になってくるよね。<END>
+<COLOR><GRAY>service pit stops become even more important、don't they？<END>
 //POINTER #541 @ $2FDB4 - STRING #541 @ $26B9A
 
 #W32($2FDB4)
-<END>
+<COLOR><GRAY>ヽ（｀Д´）ノ<END>
 //POINTER #542 @ $2FDD8 - STRING #542 @ $26B9C
 
 #W32($2FDD8)
-<COLOR><GRAY>ピットインと見なされないよ（笑）<END>
+<COLOR><GRAY>it won't count as a proper pit stop（lol）<END>
 //POINTER #543 @ $2FDFC - STRING #543 @ $26BC4
 
 #W32($2FDFC)
@@ -19453,7 +19366,7 @@
 //POINTER #544 @ $2FE20 - STRING #544 @ $26BC6
 
 #W32($2FE20)
-<COLOR><GRAY>３サーキットは要注意ですね。<END>
+<COLOR><GRAY>the 3 circuits to watch out for when pitting．<END>
 //POINTER #545 @ $2FE44 - STRING #545 @ $26BEA
 
 #W32($2FE44)
@@ -19461,7 +19374,7 @@
 //POINTER #546 @ $2FE68 - STRING #546 @ $26BEC
 
 #W32($2FE68)
-<COLOR><GRAY>アタシのバカ、バカヽ（｀Д´）ノ<END>
+<COLOR><GRAY>I'm a moron、idiot ヽ（｀Д´）ノ<END>
 //POINTER #547 @ $2FE8C - STRING #547 @ $26C14
 
 #W32($2FE8C)
@@ -19469,7 +19382,7 @@
 //POINTER #548 @ $2FEB0 - STRING #548 @ $26C16
 
 #W32($2FEB0)
-<COLOR><GRAY>走り方が似てるのかな（＊’－’）<END>
+<COLOR><GRAY>Maybe their driving style is close to mine（＊’－’）<END>
 //POINTER #549 @ $2FED4 - STRING #549 @ $26C3E
 
 #W32($2FED4)
@@ -19485,7 +19398,7 @@
 //POINTER #552 @ $2FF40 - STRING #552 @ $26C44
 
 #W32($2FF40)
-<COLOR><GRAY>そして、今度は私が勝たせてもらう！<END>
+<COLOR><GRAY>And this time、victory will be mine！<END>
 //POINTER #553 @ $2FF64 - STRING #553 @ $26C6E
 
 #W32($2FF64)
@@ -19513,11 +19426,11 @@
 //POINTER #559 @ $3003C - STRING #559 @ $26C7A
 
 #W32($3003C)
-<COLOR><GRAY>プライドが許さないんだよ！<END>
+<COLOR><GRAY>that I've lost myself！<END>
 //POINTER #560 @ $30060 - STRING #560 @ $26C9C
 
 #W32($30060)
-<COLOR><GRAY>リベンジを果たしたい！！<END>
+<END>
 //POINTER #561 @ $30084 - STRING #561 @ $26CBC
 
 #W32($30084)
@@ -19525,7 +19438,7 @@
 //POINTER #562 @ $300A8 - STRING #562 @ $26CBE
 
 #W32($300A8)
-<COLOR><GRAY>そう……元十二覇聖としてのプライドが！！<END>
+<COLOR><GRAY>My pride……as the former member of The ZODIAC！！<END>
 //POINTER #563 @ $300CC - STRING #563 @ $26CEE
 
 #W32($300CC)
@@ -19577,11 +19490,11 @@
 //POINTER #575 @ $3027C - STRING #575 @ $26D06
 
 #W32($3027C)
-<COLOR><GRAY>究極のチューンドカーを目指して大阪環状で活動中！<END>
+<COLOR><GRAY>winning car、and we're active on the Osaka-Kanjou！<END>
 //POINTER #576 @ $302A0 - STRING #576 @ $26D3E
 
 #W32($302A0)
-<COLOR><GRAY>不沈艦スペシャルは弱点のないパーフェクトマシンだ！<END>
+<COLOR><GRAY>a perfect machine with no weaknesses！<END>
 //POINTER #577 @ $302C4 - STRING #577 @ $26D78
 
 #W32($302C4)
@@ -19589,7 +19502,7 @@
 //POINTER #578 @ $302E8 - STRING #578 @ $26D90
 
 #W32($302E8)
-<END>
+<COLOR><GRAY>there will still be a noticeable difference．<END>
 //POINTER #579 @ $3030C - STRING #579 @ $26D92
 
 #W32($3030C)
@@ -19597,23 +19510,23 @@
 //POINTER #580 @ $30330 - STRING #580 @ $26D94
 
 #W32($30330)
-<COLOR><GRAY>オマエラ、後でパドック裏まで来るように。<END>
+<COLOR><GRAY>You guys better come to the back of the paddock later．<END>
 //POINTER #581 @ $30354 - STRING #581 @ $26DC4
 
 #W32($30354)
-<COLOR><GRAY>数々が効かないなんて！<END>
+<END>
 //POINTER #582 @ $30378 - STRING #582 @ $26DE2
 
 #W32($30378)
-<COLOR><GRAY>そんなものは無力だと証明してやる。<END>
+<COLOR><GRAY>in the face of absolute machine performance．<END>
 //POINTER #583 @ $3039C - STRING #583 @ $26E0C
 
 #W32($3039C)
-<COLOR><GRAY>今回は敵のチューニングを侮っていたのが敗因だな。<END>
+<COLOR><GRAY>underestimating the rival's tuning was my downfall．<END>
 //POINTER #584 @ $303C0 - STRING #584 @ $26E44
 
 #W32($303C0)
-<COLOR><GRAY>今にみていろぉ～щ（゜Д゜щ）<END>
+<END>
 //POINTER #585 @ $303E4 - STRING #585 @ $26E6A
 
 #W32($303E4)
