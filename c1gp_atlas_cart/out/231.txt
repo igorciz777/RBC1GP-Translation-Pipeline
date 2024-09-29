@@ -384,138 +384,126 @@
 //POINTER #55 @ $2B94C - STRING #55 @ $46E
 
 #W32($2B994)
+#W32($2BA6C)
+#W32($2FD38)
+#W32($2FE7C)
+#W32($2FEA0)
+#W32($2FEC4)
+#W32($2FF0C)
+#W32($2FF30)
+#W32($2FF9C)
+#W32($3002C)
+#W32($30050)
+#W32($30098)
+#W32($300E0)
+#W32($30170)
+#W32($30248)
+#W32($32138)
 <COLOR><GRAY>☆Midnight Rose<END>
 //POINTER #58 @ $2B9B8 - STRING #58 @ $4B2
 
 #W32($2B9B8)
+#W32($2FE34)
+#W32($30008)
+#W32($30104)
+#W32($30200)
+#W32($34FC4)
 <COLOR><GRAY>Cowboy Girl<END>
 //POINTER #59 @ $2B9DC - STRING #59 @ $4CA
 
 #W32($2BA00)
+#W32($2BA24)
+#W32($2FD80)
+#W32($2FE10)
+#W32($30074)
+#W32($3014C)
+#W32($301B8)
+#W32($3215C)
+#W32($35054)
 <COLOR><GRAY>Silver Impact<END>
 //POINTER #61 @ $2BA24 - STRING #61 @ $4F6
 
-#W32($2BA24)
-<COLOR><GRAY>Silver Impact<END>
-//POINTER #62 @ $2BA48 - STRING #62 @ $510
-
-#W32($2BA6C)
-<COLOR><GRAY>☆Midnight Rose<END>
-//POINTER #64 @ $2BA90 - STRING #64 @ $53E
-
 #W32($2BA90)
+#W32($2BBB0)
+#W32($2BC1C)
+#W32($2FDC8)
+#W32($2FE58)
+#W32($2FF78)
+#W32($30224)
 <COLOR><GRAY>Sonic Runner<END>
 //POINTER #65 @ $2BAB4 - STRING #65 @ $556
 
 #W32($2BAB4)
+#W32($2FFC0)
 <COLOR><GRAY>Moonlight Child<END>
 //POINTER #66 @ $2BAD8 - STRING #66 @ $574
 
 #W32($2BAFC)
+#W32($2FDA4)
+#W32($2FDEC)
+#W32($2FF54)
+#W32($300BC)
 <COLOR><GRAY>246 Heartbreaker<END>
 //POINTER #68 @ $2BB20 - STRING #68 @ $5A4
 
 #W32($2BB44)
-<COLOR><GRAY>Dazzling White Fairy<END>
-//POINTER #70 @ $2BB68 - STRING #70 @ $5CC
-
 #W32($2BB8C)
-<COLOR><GRAY>Dazzling White Fairy<END>
-//POINTER #72 @ $2BBB0 - STRING #72 @ $5F4
-
-#W32($2BBB0)
-<COLOR><GRAY>Sonic Runner<END>
-//POINTER #73 @ $2BBD4 - STRING #73 @ $60C
-
 #W32($2BBD4)
-<COLOR><GRAY>Dazzling White Fairy<END>
-//POINTER #74 @ $2BBF8 - STRING #74 @ $622
-
 #W32($2BBF8)
-<COLOR><GRAY>Dazzling White Fairy<END>
-//POINTER #75 @ $2BC1C - STRING #75 @ $638
-
-#W32($2BC1C)
-<COLOR><GRAY>Sonic Runner<END>
-//POINTER #76 @ $2BC40 - STRING #76 @ $650
-
 #W32($2BC40)
+#W32($2FD5C)
+#W32($2FEE8)
+#W32($2FFE4)
+#W32($30128)
+#W32($30194)
+#W32($301DC)
+#W32($35030)
 <COLOR><GRAY>Dazzling White Fairy<END>
-//POINTER #77 @ $2BC64 - STRING #77 @ $666
+//POINTER #70 @ $2BB68 - STRING #70 @ $5CC//POINTER #72 @ $2BBB0 - STRING #72 @ $5F4//POINTER #73 @ $2BBD4 - STRING #73 @ $60C//POINTER #74 @ $2BBF8 - STRING #74 @ $622//POINTER #75 @ $2BC1C - STRING #75 @ $638//POINTER #76 @ $2BC40 - STRING #76 @ $650//POINTER #77 @ $2BC64 - STRING #77 @ $666
 
 #W32($2BC64)
+#W32($2BE38)
+#W32($2BE5C)
+#W32($32600)
 <COLOR><GRAY>☆Rokkou Confession Booth<END>
 //POINTER #78 @ $2BC88 - STRING #78 @ $67C
 
 #W32($2BCAC)
+#W32($2BEC8)
+#W32($32624)
 <COLOR><GRAY>Yellow Tornado<END>
 //POINTER #80 @ $2BCD0 - STRING #80 @ $6A0
 
 #W32($2BCF4)
-<COLOR><GRAY>Foehn Hot Wind<END>
-//POINTER #82 @ $2BD18 - STRING #82 @ $6C8
-
 #W32($2BD18)
-<COLOR><GRAY>Foehn Hot Wind<END>
-//POINTER #83 @ $2BD3C - STRING #83 @ $6DE
-
 #W32($2BD3C)
-<COLOR><GRAY>Foehn Hot Wind<END>
-//POINTER #84 @ $2BD60 - STRING #84 @ $6F4
-
 #W32($2BD60)
-<COLOR><GRAY>Foehn Hot Wind<END>
-//POINTER #85 @ $2BD84 - STRING #85 @ $70A
-
 #W32($2BD84)
-<COLOR><GRAY>Foehn Hot Wind<END>
-//POINTER #86 @ $2BDA8 - STRING #86 @ $720
-
 #W32($2BDA8)
-<COLOR><GRAY>Foehn Hot Wind<END>
-//POINTER #87 @ $2BDCC - STRING #87 @ $736
-
 #W32($2BDCC)
+#W32($2BEEC)
+#W32($2BF10)
+#W32($32648)
 <COLOR><GRAY>Foehn Hot Wind<END>
-//POINTER #88 @ $2BDF0 - STRING #88 @ $74C
+//POINTER #82 @ $2BD18 - STRING #82 @ $6C8//POINTER #83 @ $2BD3C - STRING #83 @ $6DE//POINTER #84 @ $2BD60 - STRING #84 @ $6F4//POINTER #85 @ $2BD84 - STRING #85 @ $70A//POINTER #86 @ $2BDA8 - STRING #86 @ $720//POINTER #87 @ $2BDCC - STRING #87 @ $736//POINTER #88 @ $2BDF0 - STRING #88 @ $74C
 
 #W32($2BE14)
+#W32($2BF34)
 <COLOR><GRAY>Drift First Block<END>
-//POINTER #90 @ $2BE38 - STRING #90 @ $776
-
-#W32($2BE38)
-<COLOR><GRAY>☆Rokkou Confession Booth<END>
-//POINTER #91 @ $2BE5C - STRING #91 @ $78C
-
-#W32($2BE5C)
-<COLOR><GRAY>☆Rokkou Confession Booth<END>
-//POINTER #92 @ $2BE80 - STRING #92 @ $7A2
+//POINTER #90 @ $2BE38 - STRING #90 @ $776//POINTER #91 @ $2BE5C - STRING #91 @ $78C//POINTER #92 @ $2BE80 - STRING #92 @ $7A2
 
 #W32($2BE80)
+#W32($2BF58)
 <COLOR><GRAY>Kind Hearted Thunder God<END>
 //POINTER #93 @ $2BEA4 - STRING #93 @ $7B6
 
-#W32($2BEC8)
-<COLOR><GRAY>Yellow Tornado<END>
-//POINTER #95 @ $2BEEC - STRING #95 @ $7DA
-
-#W32($2BEEC)
-<COLOR><GRAY>Foehn Hot Wind<END>
-//POINTER #96 @ $2BF10 - STRING #96 @ $7F0
-
-#W32($2BF10)
-<COLOR><GRAY>Foehn Hot Wind<END>
-//POINTER #97 @ $2BF34 - STRING #97 @ $806
-
-#W32($2BF34)
-<COLOR><GRAY>Drift First Block<END>
-//POINTER #98 @ $2BF58 - STRING #98 @ $81E
-
-#W32($2BF58)
-<COLOR><GRAY>Kind Hearted Thunder God<END>
-//POINTER #99 @ $2BF7C - STRING #99 @ $832
-
 #W32($2BF7C)
+#W32($2C00C)
+#W32($2C0E4)
+#W32($2C174)
+#W32($31CDC)
+#W32($31D24)
+#W32($320A8)
 <COLOR><GRAY>☆Racing Red<END>
 //POINTER #100 @ $2BFA0 - STRING #100 @ $84C
 
@@ -525,11 +513,7 @@
 
 #W32($2BFE8)
 <COLOR><GRAY>Racing Blue<END>
-//POINTER #103 @ $2C00C - STRING #103 @ $890
-
-#W32($2C00C)
-<COLOR><GRAY>☆Racing Red<END>
-//POINTER #104 @ $2C030 - STRING #104 @ $8AA
+//POINTER #103 @ $2C00C - STRING #103 @ $890//POINTER #104 @ $2C030 - STRING #104 @ $8AA
 
 #W32($2C030)
 <COLOR><GRAY>Racing Pink<END>
@@ -545,19 +529,11 @@
 
 #W32($2C0C0)
 <COLOR><GRAY>Racing Black<END>
-//POINTER #109 @ $2C0E4 - STRING #109 @ $920
-
-#W32($2C0E4)
-<COLOR><GRAY>☆Racing Red<END>
-//POINTER #110 @ $2C108 - STRING #110 @ $93A
+//POINTER #109 @ $2C0E4 - STRING #109 @ $920//POINTER #110 @ $2C108 - STRING #110 @ $93A
 
 #W32($2C108)
 <COLOR><GRAY>Racing Yellow<END>
-//POINTER #111 @ $2C12C - STRING #111 @ $954
-
-#W32($2C174)
-<COLOR><GRAY>☆Racing Red<END>
-//POINTER #114 @ $2C198 - STRING #114 @ $992
+//POINTER #111 @ $2C12C - STRING #111 @ $954//POINTER #114 @ $2C198 - STRING #114 @ $992
 
 #W32($2C198)
 <COLOR><GRAY>Racing Pink<END>
@@ -1734,153 +1710,22 @@
 #W32($2FD14)
 <COLOR><GRAY>Yellow Angel<END>
 //POINTER #538 @ $2FD38 - STRING #538 @ $3084
-
-#W32($2FD38)
-<COLOR><GRAY>☆Midnight Rose<END>
-//POINTER #539 @ $2FD5C - STRING #539 @ $30A0
-
-#W32($2FD5C)
-<COLOR><GRAY>Dazzling White Fairy<END>
-//POINTER #540 @ $2FD80 - STRING #540 @ $30B6
-
-#W32($2FD80)
-<COLOR><GRAY>Silver Impact<END>
-//POINTER #541 @ $2FDA4 - STRING #541 @ $30D0
-
-#W32($2FDA4)
-<COLOR><GRAY>246 Heartbreaker<END>
-//POINTER #542 @ $2FDC8 - STRING #542 @ $30EE
-
-#W32($2FDC8)
-<COLOR><GRAY>Sonic Runner<END>
-//POINTER #543 @ $2FDEC - STRING #543 @ $3106
-
-#W32($2FDEC)
-<COLOR><GRAY>246 Heartbreaker<END>
-//POINTER #544 @ $2FE10 - STRING #544 @ $3124
-
-#W32($2FE10)
-<COLOR><GRAY>Silver Impact<END>
-//POINTER #545 @ $2FE34 - STRING #545 @ $313E
-
-#W32($2FE34)
-<COLOR><GRAY>Cowboy Girl<END>
-//POINTER #546 @ $2FE58 - STRING #546 @ $3156
-
-#W32($2FE58)
-<COLOR><GRAY>Sonic Runner<END>
-//POINTER #547 @ $2FE7C - STRING #547 @ $316E
-
-#W32($2FE7C)
-<COLOR><GRAY>☆Midnight Rose<END>
+//POINTER #539 @ $2FD5C - STRING #539 @ $30A0//POINTER #540 @ $2FD80 - STRING #540 @ $30B6//POINTER #541 @ $2FDA4 - STRING #541 @ $30D0//POINTER #542 @ $2FDC8 - STRING #542 @ $30EE//POINTER #543 @ $2FDEC - STRING #543 @ $3106//POINTER #544 @ $2FE10 - STRING #544 @ $3124//POINTER #545 @ $2FE34 - STRING #545 @ $313E
+//POINTER #546 @ $2FE58 - STRING #546 @ $3156//POINTER #547 @ $2FE7C - STRING #547 @ $316E
 //POINTER #548 @ $2FEA0 - STRING #548 @ $318A
-
-#W32($2FEA0)
-<COLOR><GRAY>☆Midnight Rose<END>
 //POINTER #549 @ $2FEC4 - STRING #549 @ $31A6
-
-#W32($2FEC4)
-<COLOR><GRAY>☆Midnight Rose<END>
-//POINTER #550 @ $2FEE8 - STRING #550 @ $31C2
-
-#W32($2FEE8)
-<COLOR><GRAY>Dazzling White Fairy<END>
-//POINTER #551 @ $2FF0C - STRING #551 @ $31D8
-
-#W32($2FF0C)
-<COLOR><GRAY>☆Midnight Rose<END>
+//POINTER #550 @ $2FEE8 - STRING #550 @ $31C2//POINTER #551 @ $2FF0C - STRING #551 @ $31D8
 //POINTER #552 @ $2FF30 - STRING #552 @ $31F4
-
-#W32($2FF30)
-<COLOR><GRAY>☆Midnight Rose<END>
-//POINTER #553 @ $2FF54 - STRING #553 @ $3210
-
-#W32($2FF54)
-<COLOR><GRAY>246 Heartbreaker<END>
-//POINTER #554 @ $2FF78 - STRING #554 @ $322E
-
-#W32($2FF78)
-<COLOR><GRAY>Sonic Runner<END>
-//POINTER #555 @ $2FF9C - STRING #555 @ $3246
-
-#W32($2FF9C)
-<COLOR><GRAY>☆Midnight Rose<END>
-//POINTER #556 @ $2FFC0 - STRING #556 @ $3262
-
-#W32($2FFC0)
-<COLOR><GRAY>Moonlight Child<END>
-//POINTER #557 @ $2FFE4 - STRING #557 @ $3280
-
-#W32($2FFE4)
-<COLOR><GRAY>Dazzling White Fairy<END>
-//POINTER #558 @ $30008 - STRING #558 @ $3296
-
-#W32($30008)
-<COLOR><GRAY>Cowboy Girl<END>
+//POINTER #553 @ $2FF54 - STRING #553 @ $3210//POINTER #554 @ $2FF78 - STRING #554 @ $322E//POINTER #555 @ $2FF9C - STRING #555 @ $3246
+//POINTER #556 @ $2FFC0 - STRING #556 @ $3262//POINTER #558 @ $30008 - STRING #558 @ $3296
 //POINTER #559 @ $3002C - STRING #559 @ $32AE
-
-#W32($3002C)
-<COLOR><GRAY>☆Midnight Rose<END>
 //POINTER #560 @ $30050 - STRING #560 @ $32CA
-
-#W32($30050)
-<COLOR><GRAY>☆Midnight Rose<END>
-//POINTER #561 @ $30074 - STRING #561 @ $32E6
-
-#W32($30074)
-<COLOR><GRAY>Silver Impact<END>
-//POINTER #562 @ $30098 - STRING #562 @ $3300
-
-#W32($30098)
-<COLOR><GRAY>☆Midnight Rose<END>
-//POINTER #563 @ $300BC - STRING #563 @ $331C
-
-#W32($300BC)
-<COLOR><GRAY>246 Heartbreaker<END>
-//POINTER #564 @ $300E0 - STRING #564 @ $333A
-
-#W32($300E0)
-<COLOR><GRAY>☆Midnight Rose<END>
+//POINTER #561 @ $30074 - STRING #561 @ $32E6//POINTER #562 @ $30098 - STRING #562 @ $3300
+//POINTER #563 @ $300BC - STRING #563 @ $331C//POINTER #564 @ $300E0 - STRING #564 @ $333A
 //POINTER #565 @ $30104 - STRING #565 @ $3356
-
-#W32($30104)
-<COLOR><GRAY>Cowboy Girl<END>
-//POINTER #566 @ $30128 - STRING #566 @ $336E
-
-#W32($30128)
-<COLOR><GRAY>Dazzling White Fairy<END>
-//POINTER #567 @ $3014C - STRING #567 @ $3384
-
-#W32($3014C)
-<COLOR><GRAY>Silver Impact<END>
-//POINTER #568 @ $30170 - STRING #568 @ $339E
-
-#W32($30170)
-<COLOR><GRAY>☆Midnight Rose<END>
-//POINTER #569 @ $30194 - STRING #569 @ $33BA
-
-#W32($30194)
-<COLOR><GRAY>Dazzling White Fairy<END>
-//POINTER #570 @ $301B8 - STRING #570 @ $33D0
-
-#W32($301B8)
-<COLOR><GRAY>Silver Impact<END>
-//POINTER #571 @ $301DC - STRING #571 @ $33EA
-
-#W32($301DC)
-<COLOR><GRAY>Dazzling White Fairy<END>
-//POINTER #572 @ $30200 - STRING #572 @ $3400
-
-#W32($30200)
-<COLOR><GRAY>Cowboy Girl<END>
-//POINTER #573 @ $30224 - STRING #573 @ $3418
-
-#W32($30224)
-<COLOR><GRAY>Sonic Runner<END>
-//POINTER #574 @ $30248 - STRING #574 @ $3430
-
-#W32($30248)
-<COLOR><GRAY>☆Midnight Rose<END>
+//POINTER #566 @ $30128 - STRING #566 @ $336E//POINTER #567 @ $3014C - STRING #567 @ $3384//POINTER #568 @ $30170 - STRING #568 @ $339E
+//POINTER #569 @ $30194 - STRING #569 @ $33BA//POINTER #570 @ $301B8 - STRING #570 @ $33D0//POINTER #571 @ $301DC - STRING #571 @ $33EA//POINTER #572 @ $30200 - STRING #572 @ $3400
+//POINTER #573 @ $30224 - STRING #573 @ $3418//POINTER #574 @ $30248 - STRING #574 @ $3430
 //POINTER #575 @ $3026C - STRING #575 @ $344C
 
 #W32($3026C)
@@ -2570,19 +2415,11 @@
 
 #W32($31CB8)
 <COLOR><GRAY>Red Copper Ogress<END>
-//POINTER #763 @ $31CDC - STRING #763 @ $4288
-
-#W32($31CDC)
-<COLOR><GRAY>☆Racing Red<END>
-//POINTER #764 @ $31D00 - STRING #764 @ $42A2
+//POINTER #763 @ $31CDC - STRING #763 @ $4288//POINTER #764 @ $31D00 - STRING #764 @ $42A2
 
 #W32($31D00)
 <COLOR><GRAY>Ultramarine Torturer<END>
-//POINTER #765 @ $31D24 - STRING #765 @ $42B6
-
-#W32($31D24)
-<COLOR><GRAY>☆Racing Red<END>
-//POINTER #766 @ $31D48 - STRING #766 @ $42D0
+//POINTER #765 @ $31D24 - STRING #765 @ $42B6//POINTER #766 @ $31D48 - STRING #766 @ $42D0
 
 #W32($31D48)
 <COLOR><GRAY>☆Brown Satan<END>
@@ -2658,11 +2495,7 @@
 
 #W32($32084)
 <COLOR><GRAY>Racing Guy No．2<END>
-//POINTER #790 @ $320A8 - STRING #790 @ $44EC
-
-#W32($320A8)
-<COLOR><GRAY>☆Racing Red<END>
-//POINTER #791 @ $320CC - STRING #791 @ $4506
+//POINTER #790 @ $320A8 - STRING #790 @ $44EC//POINTER #791 @ $320CC - STRING #791 @ $4506
 
 #W32($320CC)
 <COLOR><GRAY>Racing Pink<END>
@@ -2675,14 +2508,7 @@
 #W32($32114)
 <COLOR><GRAY>Racing Blue<END>
 //POINTER #794 @ $32138 - STRING #794 @ $4552
-
-#W32($32138)
-<COLOR><GRAY>☆Midnight Rose<END>
-//POINTER #795 @ $3215C - STRING #795 @ $456E
-
-#W32($3215C)
-<COLOR><GRAY>Silver Impact<END>
-//POINTER #796 @ $32180 - STRING #796 @ $4588
+//POINTER #795 @ $3215C - STRING #795 @ $456E//POINTER #796 @ $32180 - STRING #796 @ $4588
 
 #W32($32180)
 <COLOR><GRAY>☆Full Moon Insanity<END>
@@ -2810,19 +2636,7 @@
 
 #W32($325DC)
 <COLOR><GRAY>Invisible Recon Plane<END>
-//POINTER #828 @ $32600 - STRING #828 @ $47B0
-
-#W32($32600)
-<COLOR><GRAY>☆Rokkou Confession Booth<END>
-//POINTER #829 @ $32624 - STRING #829 @ $47C6
-
-#W32($32624)
-<COLOR><GRAY>Yellow Tornado<END>
-//POINTER #830 @ $32648 - STRING #830 @ $47D8
-
-#W32($32648)
-<COLOR><GRAY>Foehn Hot Wind<END>
-//POINTER #831 @ $3266C - STRING #831 @ $47EE
+//POINTER #828 @ $32600 - STRING #828 @ $47B0//POINTER #829 @ $32624 - STRING #829 @ $47C6//POINTER #830 @ $32648 - STRING #830 @ $47D8//POINTER #831 @ $3266C - STRING #831 @ $47EE
 
 #W32($3266C)
 <COLOR><GRAY>☆4PRIDE<END>
@@ -3737,9 +3551,6 @@
 #W32($34FA0)
 <COLOR><GRAY>Boost Beef<END>
 //POINTER #1125 @ $34FC4 - STRING #1125 @ $621E
-
-#W32($34FC4)
-<COLOR><GRAY>Cowboy Girl<END>
 //POINTER #1126 @ $34FE8 - STRING #1126 @ $6236
 
 #W32($34FE8)
@@ -3748,15 +3559,7 @@
 
 #W32($3500C)
 <COLOR><GRAY>Racing Yellow<END>
-//POINTER #1128 @ $35030 - STRING #1128 @ $6264
-
-#W32($35030)
-<COLOR><GRAY>Dazzling White Fairy<END>
-//POINTER #1129 @ $35054 - STRING #1129 @ $627A
-
-#W32($35054)
-<COLOR><GRAY>Silver Impact<END>
-//POINTER #1130 @ $35078 - STRING #1130 @ $6294
+//POINTER #1128 @ $35030 - STRING #1128 @ $6264//POINTER #1129 @ $35054 - STRING #1129 @ $627A//POINTER #1130 @ $35078 - STRING #1130 @ $6294
 
 #W32($35078)
 <COLOR><GRAY>Hell Traveller<END>
@@ -4809,120 +4612,48 @@
 //POINTER #586 @ $303FC - STRING #586 @ $ABA2
 
 #W32($303FC)
-<COLOR><GRAY>re：KAZE<END>
-//POINTER #587 @ $30420 - STRING #587 @ $ABB8
-
 #W32($30420)
-<COLOR><GRAY>re：KAZE<END>
-//POINTER #588 @ $30444 - STRING #588 @ $ABCE
-
 #W32($30444)
-<COLOR><GRAY>re：KAZE<END>
-//POINTER #589 @ $30468 - STRING #589 @ $ABE4
-
 #W32($30468)
-<COLOR><GRAY>re：KAZE<END>
-//POINTER #590 @ $3048C - STRING #590 @ $ABFA
-
 #W32($3048C)
-<COLOR><GRAY>re：KAZE<END>
-//POINTER #591 @ $304B0 - STRING #591 @ $AC10
-
 #W32($304B0)
-<COLOR><GRAY>re：KAZE<END>
-//POINTER #592 @ $304D4 - STRING #592 @ $AC26
-
 #W32($304D4)
-<COLOR><GRAY>re：KAZE<END>
-//POINTER #593 @ $304F8 - STRING #593 @ $AC3C
-
 #W32($304F8)
-<COLOR><GRAY>re：KAZE<END>
-//POINTER #594 @ $3051C - STRING #594 @ $AC52
-
 #W32($3051C)
-<COLOR><GRAY>re：KAZE<END>
-//POINTER #595 @ $30540 - STRING #595 @ $AC68
-
 #W32($30540)
 <COLOR><GRAY>re：KAZE<END>
-//POINTER #596 @ $30564 - STRING #596 @ $AC7E
+//POINTER #587 @ $30420 - STRING #587 @ $ABB8
 
 #W32($30564)
 <COLOR><GRAY>Low Position<END>
 //POINTER #597 @ $30588 - STRING #597 @ $AC9E
 
 #W32($30588)
-<COLOR><GRAY>re：Low Position<END>
-//POINTER #598 @ $305AC - STRING #598 @ $ACC4
-
 #W32($305AC)
-<COLOR><GRAY>re：Low Position<END>
-//POINTER #599 @ $305D0 - STRING #599 @ $ACEA
-
 #W32($305D0)
-<COLOR><GRAY>re：Low Position<END>
-//POINTER #600 @ $305F4 - STRING #600 @ $AD10
-
 #W32($305F4)
-<COLOR><GRAY>re：Low Position<END>
-//POINTER #601 @ $30618 - STRING #601 @ $AD36
-
 #W32($30618)
-<COLOR><GRAY>re：Low Position<END>
-//POINTER #602 @ $3063C - STRING #602 @ $AD5C
-
 #W32($3063C)
-<COLOR><GRAY>re：Low Position<END>
-//POINTER #603 @ $30660 - STRING #603 @ $AD82
-
 #W32($30660)
-<COLOR><GRAY>re：Low Position<END>
-//POINTER #604 @ $30684 - STRING #604 @ $ADA8
-
 #W32($30684)
-<COLOR><GRAY>re：Low Position<END>
-//POINTER #605 @ $306A8 - STRING #605 @ $ADCE
-
 #W32($306A8)
 <COLOR><GRAY>re：Low Position<END>
-//POINTER #606 @ $306CC - STRING #606 @ $ADF4
+//POINTER #598 @ $305AC - STRING #598 @ $ACC4
 
 #W32($306CC)
 <COLOR><GRAY>Safety Works<END>
 //POINTER #607 @ $306F0 - STRING #607 @ $AE14
 
 #W32($306F0)
-<COLOR><GRAY>re：Safety Works<END>
-//POINTER #608 @ $30714 - STRING #608 @ $AE3A
-
 #W32($30714)
-<COLOR><GRAY>re：Safety Works<END>
-//POINTER #609 @ $30738 - STRING #609 @ $AE60
-
 #W32($30738)
-<COLOR><GRAY>re：Safety Works<END>
-//POINTER #610 @ $3075C - STRING #610 @ $AE86
-
 #W32($3075C)
-<COLOR><GRAY>re：Safety Works<END>
-//POINTER #611 @ $30780 - STRING #611 @ $AEAC
-
 #W32($30780)
-<COLOR><GRAY>re：Safety Works<END>
-//POINTER #612 @ $307A4 - STRING #612 @ $AED2
-
 #W32($307A4)
-<COLOR><GRAY>re：Safety Works<END>
-//POINTER #613 @ $307C8 - STRING #613 @ $AEF8
-
 #W32($307C8)
-<COLOR><GRAY>re：Safety Works<END>
-//POINTER #614 @ $307EC - STRING #614 @ $AF1E
-
 #W32($307EC)
 <COLOR><GRAY>re：Safety Works<END>
-//POINTER #615 @ $30810 - STRING #615 @ $AF44
+//POINTER #608 @ $30714 - STRING #608 @ $AE3A
 
 #W32($30810)
 <COLOR><GRAY>Genesis R<END>
@@ -9666,119 +9397,119 @@
 //POINTER #585 @ $303DC - STRING #585 @ $148CA
 
 #W32($303DC)
-<COLOR><GRAY>押忍！　【KAZE】ッス！<END>
+<COLOR><GRAY>Hey、yo！【KAZE】here！<END>
 //POINTER #586 @ $30400 - STRING #586 @ $148EC
 
 #W32($30400)
-<COLOR><GRAY>なんか、いきなり<END>
+<COLOR><GRAY>This post out of nowhere、it kind of<END>
 //POINTER #587 @ $30424 - STRING #587 @ $14904
 
 #W32($30424)
-<COLOR><GRAY>……ククク。<END>
+<COLOR><GRAY>……Heh heh heh．<END>
 //POINTER #588 @ $30448 - STRING #588 @ $14918
 
 #W32($30448)
-<COLOR><GRAY>漢と書いて「おとこ」と読む。<END>
+<COLOR><GRAY>When calling someone“Honorable”、<END>
 //POINTER #589 @ $3046C - STRING #589 @ $1493C
 
 #W32($3046C)
-<COLOR><GRAY>タイヤ温度上昇と共に<END>
+<COLOR><GRAY>My heart gets hotter with the<END>
 //POINTER #590 @ $30490 - STRING #590 @ $14958
 
 #W32($30490)
-<COLOR><GRAY>なんじゃ、そりゃ？（笑）<END>
+<COLOR><GRAY>What are you on about？（lol）<END>
 //POINTER #591 @ $304B4 - STRING #591 @ $14978
 
 #W32($304B4)
-<COLOR><GRAY>だ～か～ら～、ドリフトしやすくなって<END>
+<COLOR><GRAY>That's～the～point～、It makes drifting easier、<END>
 //POINTER #592 @ $304D8 - STRING #592 @ $149A4
 
 #W32($304D8)
-<COLOR><GRAY>なら、コースに出たての、<END>
+<COLOR><GRAY>Well、when you first hit the track and the surface<END>
 //POINTER #593 @ $304FC - STRING #593 @ $149C4
 
 #W32($304FC)
-<COLOR><GRAY>いつも最初はドキドキしてる（’з’）～♪<END>
+<COLOR><GRAY>I'm always a bit nervous at the start（’з’）～♪<END>
 //POINTER #594 @ $30520 - STRING #594 @ $149F4
 
 #W32($30520)
-<COLOR><GRAY>もしかして、ドリフト怖いの～？（笑）<END>
+<COLOR><GRAY>Don't tell me、are you afraid of drifting～？（lol）<END>
 //POINTER #595 @ $30544 - STRING #595 @ $14A20
 
 #W32($30544)
-<COLOR><GRAY>ギクッ！<END>
+<COLOR><GRAY>Gulp！<END>
 //POINTER #596 @ $30568 - STRING #596 @ $14A30
 
 #W32($30568)
-<COLOR><GRAY>【Low Position】は<END>
+<COLOR><GRAY>【Low Position】is all about revealing the true speed<END>
 //POINTER #597 @ $3058C - STRING #597 @ $14A56
 
 #W32($3058C)
-<COLOR><GRAY>キミも一緒に、クルマが空気の層にすべり込んでいく<END>
+<COLOR><GRAY>Why don't you join us in discovering the world where cars<END>
 //POINTER #598 @ $305B0 - STRING #598 @ $14A8E
 
 #W32($305B0)
-<COLOR><GRAY>ちなみに、ローダウンって言うのは<END>
+<COLOR><GRAY>By the way、lowering means to lower the ride height、<END>
 //POINTER #599 @ $305D4 - STRING #599 @ $14AB6
 
 #W32($305D4)
-<COLOR><GRAY>しかし、サーキットで走るようになって<END>
+<COLOR><GRAY>Also、it's such a relief that I don't have to worry about<END>
 //POINTER #600 @ $305F8 - STRING #600 @ $14AE2
 
 #W32($305F8)
-<COLOR><GRAY>清掃車は神だね！<END>
+<COLOR><GRAY>The cleaning trucks are our Gods！<END>
 //POINTER #601 @ $3061C - STRING #601 @ $14AFA
 
 #W32($3061C)
-<COLOR><GRAY>まあ、みんなでゴミ拾いするのは、<END>
+<COLOR><GRAY>Well、I did kind of enjoy picking up trash together<END>
 //POINTER #602 @ $30640 - STRING #602 @ $14B22
 
 #W32($30640)
-<COLOR><GRAY>速い奴がいるんだって？<END>
+<COLOR><GRAY>I've heard there is a fast guy？<END>
 //POINTER #603 @ $30664 - STRING #603 @ $14B40
 
 #W32($30664)
-<COLOR><GRAY>まじっすよ。<END>
+<COLOR><GRAY>Seriously．<END>
 //POINTER #604 @ $30688 - STRING #604 @ $14B54
 
 #W32($30688)
-<COLOR><GRAY>そいつの車高が気になるな……。<END>
+<COLOR><GRAY>I'm curious about that guy's ride height……<END>
 //POINTER #605 @ $306AC - STRING #605 @ $14B7A
 
 #W32($306AC)
-<COLOR><GRAY>確かに速かった。<END>
+<COLOR><GRAY>He was fast for sure．<END>
 //POINTER #606 @ $306D0 - STRING #606 @ $14B92
 
 #W32($306D0)
-<COLOR><GRAY>【Safety Works】チームメイト募集！<END>
+<COLOR><GRAY>【Safety Works】is looking for new team members！<END>
 //POINTER #607 @ $306F4 - STRING #607 @ $14BC8
 
 #W32($306F4)
-<COLOR><GRAY>今なら、うちの娘の写真も載ってる<END>
+<COLOR><GRAY>Right now、our team's newsletter features<END>
 //POINTER #608 @ $30718 - STRING #608 @ $14BF0
 
 #W32($30718)
-<COLOR><GRAY>いらね（´Ａ｀）ペッ<END>
+<COLOR><GRAY>No thanks（´Ａ｀）bleh<END>
 //POINTER #609 @ $3073C - STRING #609 @ $14C0C
 
 #W32($3073C)
-<COLOR><GRAY>ふーん＾＾＾＾＾＾<END>
+<COLOR><GRAY>Hmmm＾＾＾＾＾＾<END>
 //POINTER #610 @ $30760 - STRING #610 @ $14C26
 
 #W32($30760)
-<COLOR><GRAY>まあまあ、こいつもそのうち分かりますよ。<END>
+<COLOR><GRAY>Oh well、that guy will figure it out eventually．<END>
 //POINTER #611 @ $30784 - STRING #611 @ $14C56
 
 #W32($30784)
-<COLOR><GRAY>うむ。<END>
+<COLOR><GRAY>Right．<END>
 //POINTER #612 @ $307A8 - STRING #612 @ $14C64
 
 #W32($307A8)
-<COLOR><GRAY>チーム全員がやられては<END>
+<COLOR><GRAY>I can't just sit back and watch while<END>
 //POINTER #613 @ $307CC - STRING #613 @ $14C82
 
 #W32($307CC)
-<COLOR><GRAY>もう、見てらんない（´Ａ｀）<END>
+<COLOR><GRAY>I can't look at this anymore（´Ａ｀）<END>
 //POINTER #614 @ $307F0 - STRING #614 @ $14CA6
 
 #W32($307F0)
@@ -9786,7 +9517,7 @@
 //POINTER #615 @ $30814 - STRING #615 @ $14CB8
 
 #W32($30814)
-<COLOR><GRAY>【Genesis R】のスレッドは非公開です。<END>
+<COLOR><GRAY>The【Genesis R】thread is private．<END>
 //POINTER #616 @ $30838 - STRING #616 @ $14CEE
 
 #W32($30838)
@@ -12265,8 +11996,6 @@
 <COLOR><GRAY>Reserved<END>
 //BLOCK #003 NAME:		231.bin File - Encoded BBS Text 4
 
-
-
 //POINTER #0 @ $2B19C - STRING #0 @ $19D0C
 
 #W32($2B19C)
@@ -14596,35 +14325,35 @@
 //POINTER #585 @ $303E0 - STRING #585 @ $1F248
 
 #W32($303E0)
-<COLOR><GRAY>漢たるもの、言葉ではなく行動で表現すべし！<END>
+<COLOR><GRAY>A real man expresses himself through actions、not words！<END>
 //POINTER #586 @ $30404 - STRING #586 @ $1F27A
 
 #W32($30404)
-<COLOR><GRAY>ここの存在価値を否定する書き込み（笑）<END>
+<COLOR><GRAY>denies the whole point of this place（lol）<END>
 //POINTER #587 @ $30428 - STRING #587 @ $1F2A8
 
 #W32($30428)
-<COLOR><GRAY>まあ、確かに、ここで議論していても<END>
+<COLOR><GRAY>Well、there is truth to it、talking here<END>
 //POINTER #588 @ $3044C - STRING #588 @ $1F2D2
 
 #W32($3044C)
-<COLOR><GRAY>これって常識（・ω・）？<END>
+<COLOR><GRAY>we truly mean“Manly”、right（・ω・）？<END>
 //POINTER #589 @ $30470 - STRING #589 @ $1F2F2
 
 #W32($30470)
-<COLOR><GRAY>俺のハートも熱くなる！！<END>
+<COLOR><GRAY>tire temperature rising！！<END>
 //POINTER #590 @ $30494 - STRING #590 @ $1F312
 
 #W32($30494)
-<COLOR><GRAY>タイヤの温度が上昇すると、内圧（空気圧）上がって<END>
+<COLOR><GRAY>When the tire temperature rises、the air pressure goes up、<END>
 //POINTER #591 @ $304B8 - STRING #591 @ $1F34A
 
 #W32($304B8)
-<COLOR><GRAY>ハートが熱くなるワケよ。<END>
+<COLOR><GRAY>and that fires up my heart．<END>
 //POINTER #592 @ $304DC - STRING #592 @ $1F36A
 
 #W32($304DC)
-<COLOR><GRAY>コンパウンドの表面温度が低い時も<END>
+<COLOR><GRAY>temperature is low、it doesn't grip either、<END>
 //POINTER #593 @ $30500 - STRING #593 @ $1F392
 
 #W32($30500)
@@ -14632,35 +14361,35 @@
 //POINTER #594 @ $30524 - STRING #594 @ $1F394
 
 #W32($30524)
-<COLOR><GRAY>（°∀°）σ）’з’）プニプニ<END>
+<COLOR><GRAY>（°∀°）σ）’з’）poke poke<END>
 //POINTER #595 @ $30548 - STRING #595 @ $1F3BA
 
 #W32($30548)
-<COLOR><GRAY>ちょっと事故のトラウマが、な……○｜￣｜＿<END>
+<COLOR><GRAY>I'm still traumatized from that crash……○｜￣｜＿<END>
 //POINTER #596 @ $3056C - STRING #596 @ $1F3EC
 
 #W32($3056C)
-<COLOR><GRAY>ローダウンすることによって、真実の速さが見えてくる<END>
+<COLOR><GRAY>through lowering the car．<END>
 //POINTER #597 @ $30590 - STRING #597 @ $1F426
 
 #W32($30590)
-<COLOR><GRAY>あの世界を見つけにいかないかい？<END>
+<COLOR><GRAY>slip into the layer of air？<END>
 //POINTER #598 @ $305B4 - STRING #598 @ $1F44E
 
 #W32($305B4)
-<COLOR><GRAY>セッティングのサスペンションでできる<END>
+<COLOR><GRAY>which can be done at suspension setting．<END>
 //POINTER #599 @ $305D8 - STRING #599 @ $1F47A
 
 #W32($305D8)
-<COLOR><GRAY>路上に落ちているゴミを気にしなくてよくなったのは<END>
+<COLOR><GRAY>the trash on the street since I started driving on<END>
 //POINTER #600 @ $305FC - STRING #600 @ $1F4B2
 
 #W32($305FC)
-<COLOR><GRAY>余計な心配せずに踏めるって素晴らしい。<END>
+<COLOR><GRAY>It's wonderful to just step on it<END>
 //POINTER #601 @ $30620 - STRING #601 @ $1F4E0
 
 #W32($30620)
-<COLOR><GRAY>ちょっと好きだったけど（笑）<END>
+<COLOR><GRAY>with everyone（lol）<END>
 //POINTER #602 @ $30644 - STRING #602 @ $1F504
 
 #W32($30644)
@@ -14668,7 +14397,7 @@
 //POINTER #603 @ $30668 - STRING #603 @ $1F506
 
 #W32($30668)
-<COLOR><GRAY>ボクのハムスター走法が通じませんでしたからね。<END>
+<COLOR><GRAY>My Hamster Driving Style did not work at all．<END>
 //POINTER #604 @ $3068C - STRING #604 @ $1F53C
 
 #W32($3068C)
@@ -14676,15 +14405,15 @@
 //POINTER #605 @ $306B0 - STRING #605 @ $1F53E
 
 #W32($306B0)
-<COLOR><GRAY>ただ、セッティングをもう少し……<END>
+<COLOR><GRAY>Well、I guess my setup needs a bit more……<END>
 //POINTER #606 @ $306D4 - STRING #606 @ $1F566
 
 #W32($306D4)
-<COLOR><GRAY>参加条件は、安全運転ができること、のみ。<END>
+<COLOR><GRAY>Only requirement is to be able to drive safely．<END>
 //POINTER #607 @ $306F8 - STRING #607 @ $1F596
 
 #W32($306F8)
-<COLOR><GRAY>チーム会報もプレゼント中だよ！<END>
+<COLOR><GRAY>a picture of my daughter！<END>
 //POINTER #608 @ $3071C - STRING #608 @ $1F5BC
 
 #W32($3071C)
@@ -14692,11 +14421,11 @@
 //POINTER #609 @ $30740 - STRING #609 @ $1F5BE
 
 #W32($30740)
-<COLOR><GRAY>要らないんだ＾＾＾＾＾＾<END>
+<COLOR><GRAY>You don't want that＾＾＾＾＾＾<END>
 //POINTER #610 @ $30764 - STRING #610 @ $1F5DE
 
 #W32($30764)
-<COLOR><GRAY>俺たちが何のために安全運転してるのかが。<END>
+<COLOR><GRAY>He'll see why we're driving safely．<END>
 //POINTER #611 @ $30788 - STRING #611 @ $1F60E
 
 #W32($30788)
@@ -14704,7 +14433,7 @@
 //POINTER #612 @ $307AC - STRING #612 @ $1F610
 
 #W32($307AC)
-<COLOR><GRAY>黙って見ているわけにはいかないな。<END>
+<COLOR><GRAY>the whole team gets taken down．<END>
 //POINTER #613 @ $307D0 - STRING #613 @ $1F63A
 
 #W32($307D0)
@@ -14712,11 +14441,11 @@
 //POINTER #614 @ $307F4 - STRING #614 @ $1F63C
 
 #W32($307F4)
-<COLOR><GRAY>だが、俺はポリシーを貫いた……。<END>
+<COLOR><GRAY>But in the end、I've stuck true to my beliefs……<END>
 //POINTER #615 @ $30818 - STRING #615 @ $1F664
 
 #W32($30818)
-<COLOR><GRAY>現在、新規メンバーの募集は行っておりません。<END>
+<COLOR><GRAY>Currently、we have no plans to recruit new members．<END>
 //POINTER #616 @ $3083C - STRING #616 @ $1F698
 
 #W32($3083C)
@@ -15006,6 +14735,8 @@
 #W32($31238)
 <COLOR><GRAY>に入れば、うちの名物「地名入りのエアロ」を<END>
 //POINTER #688 @ $3125C - STRING #688 @ $201E0
+
+#JMP($36EA0)
 
 #W32($3125C)
 <END>
@@ -17194,8 +16925,6 @@
 #W32($35F24)
 <END>
 //BLOCK #004 NAME:		231.bin File - Encoded BBS Text 5
-
-#JMP($36EA0)
 
 //POINTER #0 @ $2B1A0 - STRING #0 @ $23D12
 
@@ -19538,7 +19267,7 @@
 //POINTER #587 @ $3042C - STRING #587 @ $26E6E
 
 #W32($3042C)
-<COLOR><GRAY>速くはならないがね。<END>
+<COLOR><GRAY>won't make you any faster．<END>
 //POINTER #588 @ $30450 - STRING #588 @ $26E8A
 
 #W32($30450)
@@ -19550,7 +19279,7 @@
 //POINTER #590 @ $30498 - STRING #590 @ $26E8E
 
 #W32($30498)
-<COLOR><GRAY>グリップ落ちるから走りづらいだろ！<END>
+<COLOR><GRAY>and the grip drops、making it harder to drive！<END>
 //POINTER #591 @ $304BC - STRING #591 @ $26EB8
 
 #W32($304BC)
@@ -19558,7 +19287,7 @@
 //POINTER #592 @ $304E0 - STRING #592 @ $26EBA
 
 #W32($304E0)
-<COLOR><GRAY>グリップしなくて滑りやすいぜ？<END>
+<COLOR><GRAY>making it also easy to drift、no？<END>
 //POINTER #593 @ $30504 - STRING #593 @ $26EE0
 
 #W32($30504)
@@ -19574,7 +19303,7 @@
 //POINTER #596 @ $30570 - STRING #596 @ $26EE6
 
 #W32($30570)
-<COLOR><GRAY>を合い言葉にＴＩサーキットで活動中です（’∇’）ゝ<END>
+<COLOR><GRAY>We're active at the TI Circuit（’∇’）ゝ<END>
 //POINTER #597 @ $30594 - STRING #597 @ $26F20
 
 #W32($30594)
@@ -19582,15 +19311,15 @@
 //POINTER #598 @ $305B8 - STRING #598 @ $26F22
 
 #W32($305B8)
-<COLOR><GRAY>車高調整で車高を低くすることね。<END>
+<END>
 //POINTER #599 @ $305DC - STRING #599 @ $26F4A
 
 #W32($305DC)
-<COLOR><GRAY>ホントに助かるよな。<END>
+<COLOR><GRAY>the circuit．<END>
 //POINTER #600 @ $30600 - STRING #600 @ $26F66
 
 #W32($30600)
-<END>
+<COLOR><GRAY>and not worry about anything else．<END>
 //POINTER #601 @ $30624 - STRING #601 @ $26F68
 
 #W32($30624)
@@ -19610,7 +19339,7 @@
 //POINTER #605 @ $306B4 - STRING #605 @ $26F70
 
 #W32($306B4)
-<COLOR><GRAY>いや、敗軍の将、兵を語らずだ。<END>
+<COLOR><GRAY>Nah、a defeated leader shouldn't make excuses．<END>
 //POINTER #606 @ $306D8 - STRING #606 @ $26F96
 
 #W32($306D8)
@@ -19638,7 +19367,7 @@
 //POINTER #612 @ $307B0 - STRING #612 @ $26FA2
 
 #W32($307B0)
-<COLOR><GRAY>よーし、パパ頑張っちゃうぞ！<END>
+<COLOR><GRAY>Alright、Papa will do his best！<END>
 //POINTER #613 @ $307D4 - STRING #613 @ $26FC6
 
 #W32($307D4)
@@ -19646,7 +19375,7 @@
 //POINTER #614 @ $307F8 - STRING #614 @ $26FC8
 
 #W32($307F8)
-<COLOR><GRAY>負けても悔いはない。<END>
+<COLOR><GRAY>I have no regrets about losing．<END>
 //POINTER #615 @ $3081C - STRING #615 @ $26FE4
 
 #W32($3081C)
