@@ -4438,6 +4438,15 @@
 //POINTER #798 @ $321CC - STRING #798 @ $C1DE
 
 #W32($32508)
+#W32($32ACC)
+#W32($32AF0)
+#W32($32B14)
+#W32($32B38)
+#W32($32B5C)
+#W32($32B80)
+#W32($32BA4)
+#W32($32BC8)
+#W32($32BEC)
 <COLOR><GRAY>Field 2 General<END>
 //POINTER #822 @ $3252C - STRING #822 @ $C47E
 
@@ -4446,196 +4455,64 @@
 //POINTER #823 @ $32550 - STRING #823 @ $C49C
 
 #W32($32550)
+#W32($32574)
+#W32($32598)
+#W32($325BC)
+#W32($325E0)
+#W32($32604)
+#W32($32628)
+#W32($3264C)
+#W32($32670)
+#W32($32694)
+#W32($326B8)
 <COLOR><GRAY>re：Field 2／Rank C<END>
 //POINTER #824 @ $32574 - STRING #824 @ $C4C0
 
-#W32($32574)
-<COLOR><GRAY>re：Field 2／Rank C<END>
-//POINTER #825 @ $32598 - STRING #825 @ $C4E4
-
-#W32($32598)
-<COLOR><GRAY>re：Field 2／Rank C<END>
-//POINTER #826 @ $325BC - STRING #826 @ $C508
-
-#W32($325BC)
-<COLOR><GRAY>re：Field 2／Rank C<END>
-//POINTER #827 @ $325E0 - STRING #827 @ $C52C
-
-#W32($325E0)
-<COLOR><GRAY>re：Field 2／Rank C<END>
-//POINTER #828 @ $32604 - STRING #828 @ $C550
-
-#W32($32604)
-<COLOR><GRAY>re：Field 2／Rank C<END>
-//POINTER #829 @ $32628 - STRING #829 @ $C574
-
-#W32($32628)
-<COLOR><GRAY>re：Field 2／Rank C<END>
-//POINTER #830 @ $3264C - STRING #830 @ $C598
-
-#W32($3264C)
-<COLOR><GRAY>re：Field 2／Rank C<END>
-//POINTER #831 @ $32670 - STRING #831 @ $C5BC
-
-#W32($32670)
-<COLOR><GRAY>re：Field 2／Rank C<END>
-//POINTER #832 @ $32694 - STRING #832 @ $C5E0
-
-#W32($32694)
-<COLOR><GRAY>re：Field 2／Rank C<END>
-//POINTER #833 @ $326B8 - STRING #833 @ $C604
-
-#W32($326B8)
-<COLOR><GRAY>re：Field 2／Rank C<END>
-//POINTER #834 @ $326DC - STRING #834 @ $C628
-
 #W32($326DC)
-<COLOR><GRAY>オープンカー<END>
+<COLOR><GRAY>Convertibles<END>
 //POINTER #835 @ $32700 - STRING #835 @ $C63C
 
 #W32($32700)
-<COLOR><GRAY>re：オープンカー<END>
-//POINTER #836 @ $32724 - STRING #836 @ $C656
-
 #W32($32724)
-<COLOR><GRAY>re：オープンカー<END>
-//POINTER #837 @ $32748 - STRING #837 @ $C670
+<COLOR><GRAY>re：Convertibles<END>
+//POINTER #836 @ $32724 - STRING #836 @ $C656
 
 #W32($32748)
 <COLOR><GRAY>Field 2／Rank B<END>
 //POINTER #838 @ $3276C - STRING #838 @ $C68E
 
 #W32($3276C)
-<COLOR><GRAY>re：Field 2／Rank B<END>
-//POINTER #839 @ $32790 - STRING #839 @ $C6B2
-
 #W32($32790)
-<COLOR><GRAY>re：Field 2／Rank B<END>
-//POINTER #840 @ $327B4 - STRING #840 @ $C6D6
-
 #W32($327B4)
-<COLOR><GRAY>re：Field 2／Rank B<END>
-//POINTER #841 @ $327D8 - STRING #841 @ $C6FA
-
 #W32($327D8)
-<COLOR><GRAY>re：Field 2／Rank B<END>
-//POINTER #842 @ $327FC - STRING #842 @ $C71E
-
 #W32($327FC)
-<COLOR><GRAY>re：Field 2／Rank B<END>
-//POINTER #843 @ $32820 - STRING #843 @ $C742
-
 #W32($32820)
-<COLOR><GRAY>re：Field 2／Rank B<END>
-//POINTER #844 @ $32844 - STRING #844 @ $C766
-
 #W32($32844)
-<COLOR><GRAY>re：Field 2／Rank B<END>
-//POINTER #845 @ $32868 - STRING #845 @ $C78A
-
 #W32($32868)
-<COLOR><GRAY>re：Field 2／Rank B<END>
-//POINTER #846 @ $3288C - STRING #846 @ $C7AE
-
 #W32($3288C)
-<COLOR><GRAY>re：Field 2／Rank B<END>
-//POINTER #847 @ $328B0 - STRING #847 @ $C7D2
-
 #W32($328B0)
-<COLOR><GRAY>re：Field 2／Rank B<END>
-//POINTER #848 @ $328D4 - STRING #848 @ $C7F6
-
 #W32($328D4)
 <COLOR><GRAY>re：Field 2／Rank B<END>
-//POINTER #849 @ $328F8 - STRING #849 @ $C81A
+//POINTER #839 @ $32790 - STRING #839 @ $C6B2
 
 #W32($328F8)
 <COLOR><GRAY>Field 2／Rank A<END>
 //POINTER #850 @ $3291C - STRING #850 @ $C838
 
 #W32($3291C)
-<COLOR><GRAY>re：Field 2／Rank A<END>
-//POINTER #851 @ $32940 - STRING #851 @ $C85C
-
 #W32($32940)
-<COLOR><GRAY>re：Field 2／Rank A<END>
-//POINTER #852 @ $32964 - STRING #852 @ $C880
-
 #W32($32964)
-<COLOR><GRAY>re：Field 2／Rank A<END>
-//POINTER #853 @ $32988 - STRING #853 @ $C8A4
-
 #W32($32988)
-<COLOR><GRAY>re：Field 2／Rank A<END>
-//POINTER #854 @ $329AC - STRING #854 @ $C8C8
-
 #W32($329AC)
-<COLOR><GRAY>re：Field 2／Rank A<END>
-//POINTER #855 @ $329D0 - STRING #855 @ $C8EC
-
 #W32($329D0)
-<COLOR><GRAY>re：Field 2／Rank A<END>
-//POINTER #856 @ $329F4 - STRING #856 @ $C910
-
 #W32($329F4)
-<COLOR><GRAY>re：Field 2／Rank A<END>
-//POINTER #857 @ $32A18 - STRING #857 @ $C934
-
 #W32($32A18)
-<COLOR><GRAY>re：Field 2／Rank A<END>
-//POINTER #858 @ $32A3C - STRING #858 @ $C958
-
 #W32($32A3C)
-<COLOR><GRAY>re：Field 2／Rank A<END>
-//POINTER #859 @ $32A60 - STRING #859 @ $C97C
-
 #W32($32A60)
-<COLOR><GRAY>re：Field 2／Rank A<END>
-//POINTER #860 @ $32A84 - STRING #860 @ $C9A0
-
 #W32($32A84)
-<COLOR><GRAY>re：Field 2／Rank A<END>
-//POINTER #861 @ $32AA8 - STRING #861 @ $C9C4
-
 #W32($32AA8)
 <COLOR><GRAY>re：Field 2／Rank A<END>
-//POINTER #862 @ $32ACC - STRING #862 @ $C9E8
-
-#W32($32ACC)
-<COLOR><GRAY>Field 2 General<END>
-//POINTER #863 @ $32AF0 - STRING #863 @ $CA00
-
-#W32($32AF0)
-<COLOR><GRAY>Field 2 General<END>
-//POINTER #864 @ $32B14 - STRING #864 @ $CA18
-
-#W32($32B14)
-<COLOR><GRAY>Field 2 General<END>
-//POINTER #865 @ $32B38 - STRING #865 @ $CA30
-
-#W32($32B38)
-<COLOR><GRAY>Field 2 General<END>
-//POINTER #866 @ $32B5C - STRING #866 @ $CA48
-
-#W32($32B5C)
-<COLOR><GRAY>Field 2 General<END>
-//POINTER #867 @ $32B80 - STRING #867 @ $CA60
-
-#W32($32B80)
-<COLOR><GRAY>Field 2 General<END>
-//POINTER #868 @ $32BA4 - STRING #868 @ $CA78
-
-#W32($32BA4)
-<COLOR><GRAY>Field 2 General<END>
-//POINTER #869 @ $32BC8 - STRING #869 @ $CA90
-
-#W32($32BC8)
-<COLOR><GRAY>Field 2 General<END>
-//POINTER #870 @ $32BEC - STRING #870 @ $CAA8
-
-#W32($32BEC)
-<COLOR><GRAY>Field 2 General<END>
-//POINTER #871 @ $32C10 - STRING #871 @ $CAC0
+//POINTER #851 @ $32940 - STRING #851 @ $C85C
 
 #W32($32C10)
 <COLOR><GRAY>Field 3 General<END>
@@ -8878,190 +8755,175 @@
 //POINTER #779 @ $31F24 - STRING #779 @ $15F5A
 
 #W32($31F24)
-<COLOR><GRAY>そのドライバーの通り名にも<END>
+<COLOR><GRAY>I think that driver's nickname had<END>
 //POINTER #780 @ $31F48 - STRING #780 @ $15F7C
 
 #W32($31F48)
-<COLOR><GRAY>雨の日と言えば、雨上がりの日に、<END>
+<COLOR><GRAY>Speaking of rainy days、a day after the rain、<END>
 //POINTER #781 @ $31F6C - STRING #781 @ $15FA4
 
 #W32($31F6C)
-<COLOR><GRAY>俺も首都高サーキット（外）で見慣れないｂＢを<END>
+<COLOR><GRAY>I also saw an unfamiliar bB on Shutoko-Outer Circuit、<END>
 //POINTER #782 @ $31F90 - STRING #782 @ $15FD8
 
 #W32($31F90)
-<COLOR><GRAY>まあ、冷静に考えれば、別人だろう。<END>
+<COLOR><GRAY>Well、it's probably someone else、if you think about it．<END>
 //POINTER #783 @ $31FB4 - STRING #783 @ $16002
 
 #W32($31FB4)
-<COLOR><GRAY>そういや、そいつ、パドックで俺の愛車の<END>
+<COLOR><GRAY>Now that I remember、I saw them staring at my car's<END>
 //POINTER #784 @ $31FD8 - STRING #784 @ $16030
 
 #W32($31FD8)
-<COLOR><GRAY>鈴鹿サーキット（東）でも、ワンダラー見ますよ。<END>
+<COLOR><GRAY>I also see a Wanderer at Suzuka East Circuit．<END>
 //POINTER #785 @ $31FFC - STRING #785 @ $16066
 
 #W32($31FFC)
-<COLOR><GRAY>リーダーは、チームメンバーが全員やられるまで<END>
+<COLOR><GRAY>The leader's job is to sit back and relax in the<END>
 //POINTER #786 @ $32020 - STRING #786 @ $1609A
 
 #W32($32020)
-<COLOR><GRAY>筑波サーキットにもいるらしい。コンパクトだか<END>
+<COLOR><GRAY>There's one at Tsukuba Circuit．They're only into<END>
 //POINTER #787 @ $32044 - STRING #787 @ $160CE
 
 #W32($32044)
-<COLOR><GRAY>チッ、逃げやがったか。<END>
+<COLOR><GRAY>Tch、they ran away、huh？<END>
 //POINTER #788 @ $32068 - STRING #788 @ $160EC
 
 #W32($32068)
-<COLOR><GRAY>ワンダラーか。<END>
+<COLOR><GRAY>A Wanderer、hmm？<END>
 //POINTER #789 @ $3208C - STRING #789 @ $16102
 
 #W32($3208C)
-<COLOR><GRAY>兄さん……。<END>
+<COLOR><GRAY>Brother……<END>
 //POINTER #790 @ $320B0 - STRING #790 @ $16116
 
 #W32($320B0)
-<COLOR><GRAY>ランクＢでの話だが、鈴鹿サーキット（東）に<END>
+<COLOR><GRAY>That's in Rank B、but there's a driver at<END>
 //POINTER #791 @ $320D4 - STRING #791 @ $16148
 
 #W32($320D4)
-<COLOR><GRAY>そいつが、ワンダラーなのよね。<END>
+<COLOR><GRAY>That guy's a Wanderer、for sure．I'm worried the<END>
 //POINTER #792 @ $320F8 - STRING #792 @ $1616E
 
 #W32($320F8)
-<COLOR><GRAY>レンジャーなら、怪人よろしく退治しろよ。<END>
+<COLOR><GRAY>If you're a Ranger、then go ahead and take<END>
 //POINTER #793 @ $3211C - STRING #793 @ $1619E
 
 #W32($3211C)
-<COLOR><GRAY>でも、もう１人の彼は気持ちのいい青年だよね。<END>
+<COLOR><GRAY>However、there is one really nice young guy．<END>
 //POINTER #794 @ $32140 - STRING #794 @ $161D2
 
 #W32($32140)
-<COLOR><GRAY>ランクＢの筑波サーキットにも１人いるらしいが<END>
+<COLOR><GRAY>I've heard there's one at Rank B Tsukuba Circuit、<END>
 //POINTER #795 @ $32164 - STRING #795 @ $16206
 
 #W32($32164)
-<COLOR><GRAY>噂では、パワーは上げて、ブレーキはノーマルとか<END>
+<COLOR><GRAY>The rumor is that you need extreme tuning、like huge power<END>
 //POINTER #796 @ $32188 - STRING #796 @ $1623C
 
 #W32($32188)
-<COLOR><GRAY>ランクＡの首都高サーキット（外）に、激ッ速な<END>
+<COLOR><GRAY>There's a super-fast ACCORD Euro R CL1 at Rank A<END>
 //POINTER #797 @ $321AC - STRING #797 @ $16270
 
 #W32($321AC)
-<COLOR><GRAY>私が見てた感じだと、<END>
+<COLOR><GRAY>From what I've seen、it seemed like they were<END>
 //POINTER #798 @ $321D0 - STRING #798 @ $1628C
 
 #W32($321D0)
-<COLOR><GRAY>同じランクＡの首都高サーキット（外）の<END>
+<COLOR><GRAY>There's a really fast NSX-R NA2、also in Rank A<END>
 //POINTER #799 @ $321F4 - STRING #799 @ $162BA
 
 #W32($321F4)
-<COLOR><GRAY>最高速が自慢か……。<END>
+<COLOR><GRAY>Boasting the top speed、huh……<END>
 //POINTER #800 @ $32218 - STRING #800 @ $162D6
 
 #W32($32218)
-<COLOR><GRAY>ふーん（´＿ゝ｀）<END>
+<COLOR><GRAY>Hmm（´＿ゝ｀）<END>
 //POINTER #801 @ $3223C - STRING #801 @ $162F0
 
 #W32($3223C)
-<COLOR><GRAY>や、決して、<END>
+<COLOR><GRAY>Nooo、no way、<END>
 //POINTER #802 @ $32260 - STRING #802 @ $16304
 
 #W32($32260)
-<COLOR><GRAY>ランクＡの筑波サーキットにたまに出場する<END>
+<COLOR><GRAY>I'd watch out for a Supra RZ that occasionally<END>
 //POINTER #803 @ $32284 - STRING #803 @ $16334
 
 #W32($32284)
-<COLOR><GRAY>エンジン換装してるような<END>
+<COLOR><GRAY>I've heard they're preying on serious tuned cars<END>
 //POINTER #804 @ $322A8 - STRING #804 @ $16354
 
 #W32($322A8)
-<COLOR><GRAY>鈴鹿サーキット（東）のランクＡのワンダラーに<END>
+<COLOR><GRAY>If you want to meet a Rank A Suzuka East Circuit Wanderer、<END>
 //POINTER #805 @ $322CC - STRING #805 @ $16388
 
 #W32($322CC)
-<COLOR><GRAY>彼は、若いのに<END>
+<COLOR><GRAY>He might be young、<END>
 //POINTER #806 @ $322F0 - STRING #806 @ $1639E
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 #W32($3250C)
-<COLOR><GRAY>ワンダラーの目撃談をこっそり報告するスレです。<END>
+<COLOR><GRAY>This is a thread for reporting Wanderer sightings．<END>
 //POINTER #822 @ $32530 - STRING #822 @ $16488
 
 #W32($32530)
-<COLOR><GRAY>ランクＣの大阪環状サーキットには<END>
+<COLOR><GRAY>At Rank C Osaka-Kanjou Circuit、<END>
 //POINTER #823 @ $32554 - STRING #823 @ $164B0
 
 #W32($32554)
-<COLOR><GRAY>いる、いる、私はエアロパーツを誉められたよ。<END>
+<COLOR><GRAY>Yeah、they're out there．I got praised for my aero parts．<END>
 //POINTER #824 @ $32578 - STRING #824 @ $164E4
 
 #W32($32578)
-<COLOR><GRAY>私は「どノーマルで勝負しませんか」って誘われた。<END>
+<COLOR><GRAY>I was invited for a「Completely Stock Race」challenge．<END>
 //POINTER #825 @ $3259C - STRING #825 @ $1651C
 
 #W32($3259C)
-<COLOR><GRAY>もう１人には会ったことがないや。<END>
+<COLOR><GRAY>One more we haven't met yet、then．<END>
 //POINTER #826 @ $325C0 - STRING #826 @ $16544
 
 #W32($325C0)
-<COLOR><GRAY>◎Ｙａｍａｃｃｈｉなら、<END>
+<COLOR><GRAY>If it's ◎Yamacchi、<END>
 //POINTER #827 @ $325E4 - STRING #827 @ $16564
 
 #W32($325E4)
-<COLOR><GRAY>うお。<END>
+<COLOR><GRAY>Uooh．<END>
 //POINTER #828 @ $32608 - STRING #828 @ $16572
 
 #W32($32608)
-<COLOR><GRAY>ＴＩサーキットじゃ、ワンダラーと言っても<END>
+<COLOR><GRAY>At the TI Circuit、even though a Wanderer、<END>
 //POINTER #829 @ $3262C - STRING #829 @ $165A2
 
 #W32($3262C)
-<COLOR><GRAY>旦那は、きちんと乗りこんである車なら<END>
+<COLOR><GRAY>He'll happily race alongside you<END>
 //POINTER #830 @ $32650 - STRING #830 @ $165CE
 
 #W32($32650)
-<COLOR><GRAY>ピンクのコペンに乗ってるワンダラーもいるけど、<END>
+<COLOR><GRAY>There's a Wanderer driving a pink Copen、<END>
 //POINTER #831 @ $32674 - STRING #831 @ $16604
 
 #W32($32674)
-<COLOR><GRAY>鈴鹿サーキット（西）でも、ワンダラー見るよ。<END>
+<COLOR><GRAY>You can also spot a Wanderer at Suzuka West Circuit．<END>
 //POINTER #832 @ $32698 - STRING #832 @ $16638
 
 #W32($32698)
-<COLOR><GRAY>もう１人いる、あたしの可愛いＬｉＦＥを見て<END>
+<COLOR><GRAY>There's one more、he saw my cute LiFE and said、<END>
 //POINTER #833 @ $326BC - STRING #833 @ $1666A
 
 #W32($326BC)
-<COLOR><GRAY>まあまあ（笑）<END>
+<COLOR><GRAY>Oh well、well（lol）<END>
 //POINTER #834 @ $326E0 - STRING #834 @ $16680
 
 #W32($326E0)
-<COLOR><GRAY>そうだな……<END>
+<COLOR><GRAY>Let's see……<END>
 //POINTER #835 @ $32704 - STRING #835 @ $16694
 
 #W32($32704)
-<COLOR><GRAY>ＴＯＹＯＴＡ「ＭＲ－Ｓ」<END>
+<COLOR><GRAY>TOYOTA's「MR-S」<END>
 //POINTER #836 @ $32728 - STRING #836 @ $166B4
 
 #W32($32728)
-<COLOR><GRAY>ＨＯＮＤＡ「ＢＥＡＴ」「Ｓ２０００」<END>
+<COLOR><GRAY>HONDA's「BEAT」、「S2000」<END>
 //POINTER #837 @ $3274C - STRING #837 @ $166E0
 
 #W32($3274C)
@@ -13583,111 +13445,111 @@
 //POINTER #779 @ $31F28 - STRING #779 @ $20668
 
 #W32($31F28)
-<COLOR><GRAY>◎が付いてた思う。<END>
+<COLOR><GRAY>that ◎ mark next to it too．<END>
 //POINTER #780 @ $31F4C - STRING #780 @ $20682
 
 #W32($31F4C)
-<COLOR><GRAY>同じ首都高サーキット（外）で、<END>
+<COLOR><GRAY>I saw an unfamiliar orange bB on the same<END>
 //POINTER #781 @ $31F70 - STRING #781 @ $206A8
 
 #W32($31F70)
-<COLOR><GRAY>見たけど、オレンジじゃなくて紫っぽかったぞ。<END>
+<COLOR><GRAY>but it was purple、not orange．<END>
 //POINTER #782 @ $31F94 - STRING #782 @ $206DC
 
 #W32($31F94)
-<COLOR><GRAY>世の中には不思議なことなど何とやら<END>
+<COLOR><GRAY>There are plenty of mysterious things in this world、<END>
 //POINTER #783 @ $31FB8 - STRING #783 @ $20706
 
 #W32($31FB8)
-<COLOR><GRAY>メーカーステッカーをじっと見つめてたな。<END>
+<COLOR><GRAY>manufacturer sticker in the paddock．<END>
 //POINTER #784 @ $31FDC - STRING #784 @ $20736
 
 #W32($31FDC)
-<COLOR><GRAY>偶数日には必ずいるから、下手したら、<END>
+<COLOR><GRAY>They always appear at even-numbered days、<END>
 //POINTER #785 @ $32000 - STRING #785 @ $20762
 
 #W32($32000)
-<COLOR><GRAY>奥でどっしり構えてるのが仕事なんだよ（’з’）<END>
+<COLOR><GRAY>background、until the entire team gets taken out（’з’）<END>
 //POINTER #786 @ $32024 - STRING #786 @ $20798
 
 #W32($32024)
-<COLOR><GRAY>ワゴンだかにこだわってるとか。俺らシルビアの<END>
+<COLOR><GRAY>compacts and wagons、apparently．We're a one-make Silvia<END>
 //POINTER #787 @ $32048 - STRING #787 @ $207CC
 
 #W32($32048)
-<COLOR><GRAY>しかし、シルビアに乗ってちゃバトルできないとは<END>
+<COLOR><GRAY>But refusing to battle just because I'm driving a Silvia？<END>
 //POINTER #788 @ $3206C - STRING #788 @ $20802
 
 #W32($3206C)
-<COLOR><GRAY>それもいいな……。<END>
+<COLOR><GRAY>That doesn't sound too bad……<END>
 //POINTER #789 @ $32090 - STRING #789 @ $2081C
 
 #W32($32090)
-<COLOR><GRAY>また、何か考えてるの？<END>
+<COLOR><GRAY>What do you have in mind this time？<END>
 //POINTER #790 @ $320B4 - STRING #790 @ $2083A
 
 #W32($320B4)
-<COLOR><GRAY>とてもマナーの悪い運転をするドライバーがいて<END>
+<COLOR><GRAY>Suzuka East Circuit who drivers really recklessly、<END>
 //POINTER #791 @ $320D8 - STRING #791 @ $2086E
 
 #W32($320D8)
-<COLOR><GRAY>子供達が見て真似しないか心配。<END>
+<COLOR><GRAY>youngins will see and try to imitate his driving．<END>
 //POINTER #792 @ $320FC - STRING #792 @ $20894
 
 #W32($320FC)
-<COLOR><GRAY>（ °∀°）σ）´Д｀）<END>
+<COLOR><GRAY>those hooligans down． （ °∀°）σ）´Д｀）<END>
 //POINTER #793 @ $32120 - STRING #793 @ $208B4
 
 #W32($32120)
-<COLOR><GRAY>いろんなサーキットのピットのことを聞かれたよ。<END>
+<COLOR><GRAY>He asked me about the pits at different tracks．<END>
 //POINTER #794 @ $32144 - STRING #794 @ $208EA
 
 #W32($32144)
-<COLOR><GRAY>ウチのチームの連中は誰も会ったことがない。<END>
+<COLOR><GRAY>but none of our team members have met them yet．<END>
 //POINTER #795 @ $32168 - STRING #795 @ $2091C
 
 #W32($32168)
-<COLOR><GRAY>かなり極端なチューニングが必要らしいです。<END>
+<COLOR><GRAY>with stock brakes、to challenge them．<END>
 //POINTER #796 @ $3218C - STRING #796 @ $2094E
 
 #W32($3218C)
-<COLOR><GRAY>ＡＣＣＯＲＤ　Ｅｕｒｏ　Ｒ　ＣＬ１がいるんだよね。<END>
+<COLOR><GRAY>Shutoko-Outer Circuit．<END>
 //POINTER #797 @ $321B0 - STRING #797 @ $20988
 
 #W32($321B0)
-<COLOR><GRAY>メーカーステッカーを貼り付けた車に<END>
+<COLOR><GRAY>challenging cars with manufactuer stickers<END>
 //POINTER #798 @ $321D4 - STRING #798 @ $209B2
 
 #W32($321D4)
-<COLOR><GRAY>ＮＳＸ－Ｒ　ＮＡ２もかなり速い。<END>
+<COLOR><GRAY>Shutoko-Outer Circuit．<END>
 //POINTER #799 @ $321F8 - STRING #799 @ $209DA
 
 #W32($321F8)
-<COLOR><GRAY>そいつも、うちのチームに入ってくれないかな。<END>
+<COLOR><GRAY>I wonder if they would join our team as well．<END>
 //POINTER #800 @ $3221C - STRING #800 @ $20A0E
 
 #W32($3221C)
-<COLOR><GRAY>私らだけじゃ気に入らないってわけね。<END>
+<COLOR><GRAY>I guess we are not enough．<END>
 //POINTER #801 @ $32240 - STRING #801 @ $20A3A
 
 #W32($32240)
-<COLOR><GRAY>そう言うわけではヽ（；´Д｀）ノ<END>
+<COLOR><GRAY>it's not like that at all ヽ（；´Д｀）ノ<END>
 //POINTER #802 @ $32264 - STRING #802 @ $20A62
 
 #W32($32264)
-<COLOR><GRAY>Ｓｕｐｒａ　ＲＺは要注意だな。<END>
+<COLOR><GRAY>shows up at Rank A Tsukuba Circuit．<END>
 //POINTER #803 @ $32288 - STRING #803 @ $20A88
 
 #W32($32288)
-<COLOR><GRAY>本格的なチューンドカーばっかりを<END>
+<COLOR><GRAY>that had an engine swap．<END>
 //POINTER #804 @ $322AC - STRING #804 @ $20AB0
 
 #W32($322AC)
-<COLOR><GRAY>会いたかったら、同じ車で走り込むといい。<END>
+<COLOR><GRAY>it's a good idea to drive the same car．<END>
 //POINTER #805 @ $322D0 - STRING #805 @ $20AE0
 
 #W32($322D0)
-<COLOR><GRAY>古いものの良さを分かっているな（笑）<END>
+<COLOR><GRAY>but he knows the value of the classics（lol）<END>
 //POINTER #806 @ $322F4 - STRING #806 @ $20B0C
 
 #W32($322F4)
@@ -13751,19 +13613,19 @@
 //POINTER #821 @ $32510 - STRING #821 @ $20B2A
 
 #W32($32510)
-<COLOR><GRAY>フィールド２での目撃談はこちら。<END>
+<COLOR><GRAY>This one's for Field 2 sightings．<END>
 //POINTER #822 @ $32534 - STRING #822 @ $20B52
 
 #W32($32534)
-<COLOR><GRAY>Ｃｏｒｂｅａｕとかって似た感じのエンブレムの<END>
+<COLOR><GRAY>there are about three Wanderers with emblems that<END>
 //POINTER #823 @ $32558 - STRING #823 @ $20B86
 
 #W32($32558)
-<COLOR><GRAY>センスの良いエアロを付けてることが条件かも。<END>
+<COLOR><GRAY>Sounds like having good-looking aero is a requirement．<END>
 //POINTER #824 @ $3257C - STRING #824 @ $20BBA
 
 #W32($3257C)
-<COLOR><GRAY>ＩＭＰＲＥＺＡ　ＷＲＸでノーマル勝負を挑むのって<END>
+<COLOR><GRAY>Isn't that kind of unfair if the one challenging<END>
 //POINTER #825 @ $325A0 - STRING #825 @ $20BF2
 
 #W32($325A0)
@@ -13771,47 +13633,47 @@
 //POINTER #826 @ $325C4 - STRING #826 @ $20BF4
 
 #W32($325C4)
-<COLOR><GRAY>駆動方式がＦＦの車に乗ってれば、<END>
+<COLOR><GRAY>drive a FF car、and you'll<END>
 //POINTER #827 @ $325E8 - STRING #827 @ $20C1C
 
 #W32($325E8)
-<COLOR><GRAY>本人降臨キタ━━━━（゜∀゜）━━━━！！！！<END>
+<COLOR><GRAY>The real deal's here ━━━（゜∀゜）━━━！！！！<END>
 //POINTER #828 @ $3260C - STRING #828 @ $20C52
 
 #W32($3260C)
-<COLOR><GRAY>◎アブソリュートピッチさんは<END>
+<COLOR><GRAY>◎Absolute Pitch is pretty much a regular<END>
 //POINTER #829 @ $32630 - STRING #829 @ $20C76
 
 #W32($32630)
-<COLOR><GRAY>気持ちよく一緒に走ってくれるからねぇ。<END>
+<COLOR><GRAY>if you've done proper break-in distance with your car．<END>
 //POINTER #830 @ $32654 - STRING #830 @ $20CA4
 
 #W32($32654)
-<COLOR><GRAY>そっちは逆に軽自動車に乗ってる対戦相手を探してる<END>
+<COLOR><GRAY>but they're only looking to challenge other kei cars、<END>
 //POINTER #831 @ $32678 - STRING #831 @ $20CDC
 
 #W32($32678)
-<COLOR><GRAY>有名らしいから、ワゴン乗りならみんな知ってるかも。<END>
+<COLOR><GRAY>I've heard they're famous、so you might already know them<END>
 //POINTER #832 @ $3269C - STRING #832 @ $20D16
 
 #W32($3269C)
-<COLOR><GRAY>「オープンカーにならない車には興味なし」<END>
+<COLOR><GRAY>“I'm not interested in non-convertibles”、<END>
 //POINTER #833 @ $326C0 - STRING #833 @ $20D46
 
 #W32($326C0)
-<COLOR><GRAY>ところでオープンカーになる車って、<END>
+<COLOR><GRAY>Anyway、what kind of cars<END>
 //POINTER #834 @ $326E4 - STRING #834 @ $20D70
 
 #W32($326E4)
-<COLOR><GRAY>ＭＡＺＤＡ「ＲＯＡＤＳＴＥＲ　ＮＢ８Ｃ」<END>
+<COLOR><GRAY>MAZDA's「ROADSTER NB8C」、<END>
 //POINTER #835 @ $32708 - STRING #835 @ $20DA0
 
 #W32($32708)
-<COLOR><GRAY>ＳＵＺＵＫＩ「Ｃａｐｐｕｃｃｉｎｏ」<END>
+<COLOR><GRAY>SUZUKI's「Cappuccino」<END>
 //POINTER #836 @ $3272C - STRING #836 @ $20DCC
 
 #W32($3272C)
-<COLOR><GRAY>ザッとあげると、こんなもんかな。<END>
+<COLOR><GRAY>……is a quick rough list．<END>
 //POINTER #837 @ $32750 - STRING #837 @ $20DF4
 
 #W32($32750)
@@ -18521,23 +18383,23 @@
 //POINTER #780 @ $31F50 - STRING #780 @ $27948
 
 #W32($31F50)
-<COLOR><GRAY>僕も見慣れないオレンジのｂＢを見たよ。<END>
+<COLOR><GRAY>Shutoko-Outer Circuit．<END>
 //POINTER #781 @ $31F74 - STRING #781 @ $27976
 
 #W32($31F74)
-<COLOR><GRAY>雨上がりでもなかったし。<END>
+<COLOR><GRAY>And it wasn't after a rainy day either．<END>
 //POINTER #782 @ $31F98 - STRING #782 @ $27996
 
 #W32($31F98)
-<COLOR><GRAY>だよ（´ー｀）ｙ－～～<END>
+<COLOR><GRAY>after all（´ー｀）ｙ－～～<END>
 //POINTER #783 @ $31FBC - STRING #783 @ $279B4
 
 #W32($31FBC)
-<COLOR><GRAY>きっと羨ましかったんだ。<END>
+<COLOR><GRAY>Probably jealous．<END>
 //POINTER #784 @ $31FE0 - STRING #784 @ $279D4
 
 #W32($31FE0)
-<COLOR><GRAY>ウチのリーダーより、よく見るかも（笑）<END>
+<COLOR><GRAY>so I might see them more often than our own leader（lol）<END>
 //POINTER #785 @ $32004 - STRING #785 @ $27A02
 
 #W32($32004)
@@ -18545,11 +18407,11 @@
 //POINTER #786 @ $32028 - STRING #786 @ $27A04
 
 #W32($32028)
-<COLOR><GRAY>ワンメイクチームだから接点ないけど……。<END>
+<COLOR><GRAY>team、so we couldn't contact them at all……<END>
 //POINTER #787 @ $3204C - STRING #787 @ $27A34
 
 #W32($3204C)
-<COLOR><GRAY>難儀なやつらだな。<END>
+<COLOR><GRAY>The nerve of some people．<END>
 //POINTER #788 @ $32070 - STRING #788 @ $27A4E
 
 #W32($32070)
@@ -18561,11 +18423,11 @@
 //POINTER #790 @ $320B8 - STRING #790 @ $27A52
 
 #W32($320B8)
-<COLOR><GRAY>我々も困っている。<END>
+<COLOR><GRAY>and it's causing us some trouble．<END>
 //POINTER #791 @ $320DC - STRING #791 @ $27A6C
 
 #W32($320DC)
-<COLOR><GRAY>毎日じゃないけど、かなり頻繁にいるし。<END>
+<COLOR><GRAY>He's not there everyday、but does show up quite frequently．<END>
 //POINTER #792 @ $32100 - STRING #792 @ $27A9A
 
 #W32($32100)
@@ -18581,19 +18443,19 @@
 //POINTER #795 @ $3216C - STRING #795 @ $27AA0
 
 #W32($3216C)
-<COLOR><GRAY>危ないから狙わない方がいいかもですね。<END>
+<COLOR><GRAY>It's probably too dangerous to be worth going after．<END>
 //POINTER #796 @ $32190 - STRING #796 @ $27ACE
 
 #W32($32190)
-<COLOR><GRAY>うちのチームに入ってくれないかな。<END>
+<COLOR><GRAY>I wonder if they would join our team．<END>
 //POINTER #797 @ $321B4 - STRING #797 @ $27AF8
 
 #W32($321B4)
-<COLOR><GRAY>勝負を挑んでるみたいでした。<END>
+<COLOR><GRAY>on them．<END>
 //POINTER #798 @ $321D8 - STRING #798 @ $27B1C
 
 #W32($321D8)
-<COLOR><GRAY>特にあの最高速はヤバイな。<END>
+<COLOR><GRAY>Their top speed is especially insane．<END>
 //POINTER #799 @ $321FC - STRING #799 @ $27B3E
 
 #W32($321FC)
@@ -18601,7 +18463,7 @@
 //POINTER #800 @ $32220 - STRING #800 @ $27B40
 
 #W32($32220)
-<COLOR><GRAY>ウチのリーダーは。<END>
+<COLOR><GRAY>For our leader．<END>
 //POINTER #801 @ $32244 - STRING #801 @ $27B5A
 
 #W32($32244)
@@ -18613,7 +18475,7 @@
 //POINTER #803 @ $3228C - STRING #803 @ $27B5E
 
 #W32($3228C)
-<COLOR><GRAY>食い物にしてるらしい。<END>
+<END>
 //POINTER #804 @ $322B0 - STRING #804 @ $27B7C
 
 #W32($322B0)
@@ -18689,7 +18551,7 @@
 //POINTER #822 @ $32538 - STRING #822 @ $27BCC
 
 #W32($32538)
-<COLOR><GRAY>ワンダラーが３人くらいいるよ。<END>
+<COLOR><GRAY>look like Corbeau or similar．<END>
 //POINTER #823 @ $3255C - STRING #823 @ $27BF2
 
 #W32($3255C)
@@ -18697,7 +18559,7 @@
 //POINTER #824 @ $32580 - STRING #824 @ $27BF4
 
 #W32($32580)
-<COLOR><GRAY>なんかずるくない？（・ω・）<END>
+<COLOR><GRAY>has a IMPREZA WRX？（・ω・）<END>
 //POINTER #825 @ $325A4 - STRING #825 @ $27C18
 
 #W32($325A4)
@@ -18705,15 +18567,15 @@
 //POINTER #826 @ $325C8 - STRING #826 @ $27C1A
 
 #W32($325C8)
-<COLOR><GRAY>そのうち会えますよ（笑）<END>
+<COLOR><GRAY>run into him eventually（lol）<END>
 //POINTER #827 @ $325EC - STRING #827 @ $27C3A
 
 #W32($325EC)
-<COLOR><GRAY>こっそりしてるつもりだったのに（笑）<END>
+<COLOR><GRAY>I thought this thread I made was sneaky（lol）<END>
 //POINTER #828 @ $32610 - STRING #828 @ $27C66
 
 #W32($32610)
-<COLOR><GRAY>俺たちロートルの間じゃ常連みたいなもんだな。<END>
+<COLOR><GRAY>among us old-timers．<END>
 //POINTER #829 @ $32634 - STRING #829 @ $27C9A
 
 #W32($32634)
@@ -18721,27 +18583,27 @@
 //POINTER #830 @ $32658 - STRING #830 @ $27C9C
 
 #W32($32658)
-<COLOR><GRAY>らしいからウチらとは接点がないね。<END>
+<COLOR><GRAY>so we don't really have any contact．<END>
 //POINTER #831 @ $3267C - STRING #831 @ $27CC6
 
 #W32($3267C)
-<END>
+<COLOR><GRAY>if you're driving a wagon．<END>
 //POINTER #832 @ $326A0 - STRING #832 @ $27CC8
 
 #W32($326A0)
-<COLOR><GRAY>とか言いやがったのよ、あのナンパ野郎ヽ（｀Д´）ノ<END>
+<COLOR><GRAY>that damn pick-up artist ヽ（｀Д´）ノ<END>
 //POINTER #833 @ $326C4 - STRING #833 @ $27D02
 
 #W32($326C4)
-<COLOR><GRAY>どんなのがあるんだろう？<END>
+<COLOR><GRAY>are convertibles？<END>
 //POINTER #834 @ $326E8 - STRING #834 @ $27D22
 
 #W32($326E8)
-<COLOR><GRAY>「ＲＯＡＤＳＴＥＲ　ＮＡ８Ｃ」<END>
+<COLOR><GRAY>「ROADSTER NA8C」<END>
 //POINTER #835 @ $3270C - STRING #835 @ $27D48
 
 #W32($3270C)
-<COLOR><GRAY>ＤＡＩＨＡＴＳＵ「Ｃｏｐｅｎ」<END>
+<COLOR><GRAY>DAIHATSU's「Copen」<END>
 //POINTER #836 @ $32730 - STRING #836 @ $27D6E
 
 #W32($32730)
