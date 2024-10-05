@@ -2508,7 +2508,7 @@
 //POINTER #886 @ $32E28 - STRING #886 @ $4C84
 
 #W32($32E28)
-<COLOR><GRAY>Manager<END>
+<COLOR><GRAY>Administrator<END>
 //POINTER #887 @ $32E4C - STRING #887 @ $4C92
 
 #W32($32E4C)
@@ -3148,7 +3148,7 @@
 //POINTER #1139 @ $351BC - STRING #1139 @ $6356
 
 #W32($351BC)
-<COLOR><GRAY>Manager<END>
+<COLOR><GRAY>Administrator<END>
 //POINTER #1140 @ $351E0 - STRING #1140 @ $6364
 
 #W32($351E0)
@@ -4515,6 +4515,22 @@
 //POINTER #851 @ $32940 - STRING #851 @ $C85C
 
 #W32($32C10)
+#W32($330D8)
+#W32($330FC)
+#W32($33120)
+#W32($33144)
+#W32($33168)
+#W32($3318C)
+#W32($331B0)
+#W32($331D4)
+#W32($331F8)
+#W32($3321C)
+#W32($33240)
+#W32($33264)
+#W32($33288)
+#W32($332AC)
+#W32($332D0)
+#W32($332F4)
 <COLOR><GRAY>Field 3 General<END>
 //POINTER #872 @ $32C34 - STRING #872 @ $CAD8
 
@@ -4523,308 +4539,94 @@
 //POINTER #873 @ $32C58 - STRING #873 @ $CAF6
 
 #W32($32C58)
-<COLOR><GRAY>re：Field 3／Rank C<END>
-//POINTER #874 @ $32C7C - STRING #874 @ $CB1A
-
 #W32($32C7C)
-<COLOR><GRAY>re：Field 3／Rank C<END>
-//POINTER #875 @ $32CA0 - STRING #875 @ $CB3E
-
 #W32($32CA0)
-<COLOR><GRAY>re：Field 3／Rank C<END>
-//POINTER #876 @ $32CC4 - STRING #876 @ $CB62
-
 #W32($32CC4)
-<COLOR><GRAY>re：Field 3／Rank C<END>
-//POINTER #877 @ $32CE8 - STRING #877 @ $CB86
-
 #W32($32CE8)
-<COLOR><GRAY>re：Field 3／Rank C<END>
-//POINTER #878 @ $32D0C - STRING #878 @ $CBAA
-
 #W32($32D0C)
-<COLOR><GRAY>re：Field 3／Rank C<END>
-//POINTER #879 @ $32D30 - STRING #879 @ $CBCE
-
 #W32($32D30)
-<COLOR><GRAY>re：Field 3／Rank C<END>
-//POINTER #880 @ $32D54 - STRING #880 @ $CBF2
-
 #W32($32D54)
-<COLOR><GRAY>re：Field 3／Rank C<END>
-//POINTER #881 @ $32D78 - STRING #881 @ $CC16
-
 #W32($32D78)
 <COLOR><GRAY>re：Field 3／Rank C<END>
-//POINTER #882 @ $32D9C - STRING #882 @ $CC3A
+//POINTER #874 @ $32C7C - STRING #874 @ $CB1A
 
 #W32($32D9C)
 <COLOR><GRAY>Field 3／Rank B<END>
 //POINTER #883 @ $32DC0 - STRING #883 @ $CC58
 
 #W32($32DC0)
+#W32($32DE4)
+#W32($32E08)
+#W32($32E74)
+#W32($32E98)
+#W32($32EBC)
+#W32($32EE0)
+#W32($32F04)
+#W32($32F28)
+#W32($32F4C)
+#W32($32F70)
+#W32($32F94)
 <COLOR><GRAY>re：Field 3／Rank B<END>
 //POINTER #884 @ $32DE4 - STRING #884 @ $CC7C
 
-#W32($32DE4)
-<COLOR><GRAY>re：Field 3／Rank B<END>
-//POINTER #885 @ $32E08 - STRING #885 @ $CCA0
-
-#W32($32E08)
-<COLOR><GRAY>re：Field 3／Rank B<END>
-//POINTER #886 @ $32E2C - STRING #886 @ $CCC4
-
 #W32($32E2C)
-<COLOR><GRAY>管理人からのお知らせ<END>
+<COLOR><GRAY>Notice from the Administrator<END>
 //POINTER #887 @ $32E50 - STRING #887 @ $CCE0
 
 #W32($32E50)
-<COLOR><GRAY>re：管理人からのお知らせ<END>
+<COLOR><GRAY>re：Notice from the Administrator<END>
 //POINTER #888 @ $32E74 - STRING #888 @ $CD02
-
-#W32($32E74)
-<COLOR><GRAY>re：Field 3／Rank B<END>
-//POINTER #889 @ $32E98 - STRING #889 @ $CD26
-
-#W32($32E98)
-<COLOR><GRAY>re：Field 3／Rank B<END>
-//POINTER #890 @ $32EBC - STRING #890 @ $CD4A
-
-#W32($32EBC)
-<COLOR><GRAY>re：Field 3／Rank B<END>
-//POINTER #891 @ $32EE0 - STRING #891 @ $CD6E
-
-#W32($32EE0)
-<COLOR><GRAY>re：Field 3／Rank B<END>
-//POINTER #892 @ $32F04 - STRING #892 @ $CD92
-
-#W32($32F04)
-<COLOR><GRAY>re：Field 3／Rank B<END>
-//POINTER #893 @ $32F28 - STRING #893 @ $CDB6
-
-#W32($32F28)
-<COLOR><GRAY>re：Field 3／Rank B<END>
-//POINTER #894 @ $32F4C - STRING #894 @ $CDDA
-
-#W32($32F4C)
-<COLOR><GRAY>re：Field 3／Rank B<END>
-//POINTER #895 @ $32F70 - STRING #895 @ $CDFE
-
-#W32($32F70)
-<COLOR><GRAY>re：Field 3／Rank B<END>
-//POINTER #896 @ $32F94 - STRING #896 @ $CE22
-
-#W32($32F94)
-<COLOR><GRAY>re：Field 3／Rank B<END>
-//POINTER #897 @ $32FB8 - STRING #897 @ $CE46
 
 #W32($32FB8)
 <COLOR><GRAY>Field 3／Rank A<END>
 //POINTER #898 @ $32FDC - STRING #898 @ $CE64
 
 #W32($32FDC)
+#W32($33000)
+#W32($33024)
+#W32($33048)
+#W32($3306C)
+#W32($33090)
+#W32($330B4)
 <COLOR><GRAY>re：Field 3／Rank A<END>
 //POINTER #899 @ $33000 - STRING #899 @ $CE88
 
-#W32($33000)
-<COLOR><GRAY>re：Field 3／Rank A<END>
-//POINTER #900 @ $33024 - STRING #900 @ $CEAC
-
-#W32($33024)
-<COLOR><GRAY>re：Field 3／Rank A<END>
-//POINTER #901 @ $33048 - STRING #901 @ $CED0
-
-#W32($33048)
-<COLOR><GRAY>re：Field 3／Rank A<END>
-//POINTER #902 @ $3306C - STRING #902 @ $CEF4
-
-#W32($3306C)
-<COLOR><GRAY>re：Field 3／Rank A<END>
-//POINTER #903 @ $33090 - STRING #903 @ $CF18
-
-#W32($33090)
-<COLOR><GRAY>re：Field 3／Rank A<END>
-//POINTER #904 @ $330B4 - STRING #904 @ $CF3C
-
-#W32($330B4)
-<COLOR><GRAY>re：Field 3／Rank A<END>
-//POINTER #905 @ $330D8 - STRING #905 @ $CF60
-
-#W32($330D8)
-<COLOR><GRAY>Field 3 General<END>
-//POINTER #906 @ $330FC - STRING #906 @ $CF78
-
-#W32($330FC)
-<COLOR><GRAY>Field 3 General<END>
-//POINTER #907 @ $33120 - STRING #907 @ $CF90
-
-#W32($33120)
-<COLOR><GRAY>Field 3 General<END>
-//POINTER #908 @ $33144 - STRING #908 @ $CFA8
-
-#W32($33144)
-<COLOR><GRAY>Field 3 General<END>
-//POINTER #909 @ $33168 - STRING #909 @ $CFC0
-
-#W32($33168)
-<COLOR><GRAY>Field 3 General<END>
-//POINTER #910 @ $3318C - STRING #910 @ $CFD8
-
-#W32($3318C)
-<COLOR><GRAY>Field 3 General<END>
-//POINTER #911 @ $331B0 - STRING #911 @ $CFF0
-
-#W32($331B0)
-<COLOR><GRAY>Field 3 General<END>
-//POINTER #912 @ $331D4 - STRING #912 @ $D008
-
-#W32($331D4)
-<COLOR><GRAY>Field 3 General<END>
-//POINTER #913 @ $331F8 - STRING #913 @ $D020
-
-#W32($331F8)
-<COLOR><GRAY>Field 3 General<END>
-//POINTER #914 @ $3321C - STRING #914 @ $D038
-
-#W32($3321C)
-<COLOR><GRAY>Field 3 General<END>
-//POINTER #915 @ $33240 - STRING #915 @ $D050
-
-#W32($33240)
-<COLOR><GRAY>Field 3 General<END>
-//POINTER #916 @ $33264 - STRING #916 @ $D068
-
-#W32($33264)
-<COLOR><GRAY>Field 3 General<END>
-//POINTER #917 @ $33288 - STRING #917 @ $D080
-
-#W32($33288)
-<COLOR><GRAY>Field 3 General<END>
-//POINTER #918 @ $332AC - STRING #918 @ $D098
-
-#W32($332AC)
-<COLOR><GRAY>Field 3 General<END>
-//POINTER #919 @ $332D0 - STRING #919 @ $D0B0
-
-#W32($332D0)
-<COLOR><GRAY>Field 3 General<END>
-//POINTER #920 @ $332F4 - STRING #920 @ $D0C8
-
-#W32($332F4)
-<COLOR><GRAY>Field 3 General<END>
-//POINTER #921 @ $33318 - STRING #921 @ $D0E0
-
 #W32($33318)
-<COLOR><GRAY>Field Archive<END>
-//POINTER #922 @ $3333C - STRING #922 @ $D0F6
-
 #W32($3333C)
-<COLOR><GRAY>Field Archive<END>
-//POINTER #923 @ $33360 - STRING #923 @ $D10C
-
 #W32($33360)
-<COLOR><GRAY>Field Archive<END>
-//POINTER #924 @ $33384 - STRING #924 @ $D122
-
 #W32($33384)
-<COLOR><GRAY>Field Archive<END>
-//POINTER #925 @ $333A8 - STRING #925 @ $D138
-
 #W32($333A8)
-<COLOR><GRAY>Field Archive<END>
-//POINTER #926 @ $333CC - STRING #926 @ $D14E
-
 #W32($333CC)
-<COLOR><GRAY>Field Archive<END>
-//POINTER #927 @ $333F0 - STRING #927 @ $D164
-
 #W32($333F0)
-<COLOR><GRAY>Field Archive<END>
-//POINTER #928 @ $33414 - STRING #928 @ $D17A
-
 #W32($33414)
-<COLOR><GRAY>Field Archive<END>
-//POINTER #929 @ $33438 - STRING #929 @ $D190
-
 #W32($33438)
-<COLOR><GRAY>Field Archive<END>
-//POINTER #930 @ $3345C - STRING #930 @ $D1A6
-
 #W32($3345C)
-<COLOR><GRAY>Field Archive<END>
-//POINTER #931 @ $33480 - STRING #931 @ $D1BC
-
 #W32($33480)
-<COLOR><GRAY>Field Archive<END>
-//POINTER #932 @ $334A4 - STRING #932 @ $D1D2
-
 #W32($334A4)
-<COLOR><GRAY>Field Archive<END>
-//POINTER #933 @ $334C8 - STRING #933 @ $D1E8
-
 #W32($334C8)
-<COLOR><GRAY>Field Archive<END>
-//POINTER #934 @ $334EC - STRING #934 @ $D1FE
-
 #W32($334EC)
-<COLOR><GRAY>Field Archive<END>
-//POINTER #935 @ $33510 - STRING #935 @ $D214
-
 #W32($33510)
 <COLOR><GRAY>Field Archive<END>
-//POINTER #936 @ $33534 - STRING #936 @ $D22A
+//POINTER #922 @ $3333C - STRING #922 @ $D0F6
 
 #W32($33534)
 <COLOR><GRAY>Chatting<END>
 //POINTER #937 @ $33558 - STRING #937 @ $D236
 
 #W32($33558)
-<COLOR><GRAY>re：Chatting<END>
-//POINTER #938 @ $3357C - STRING #938 @ $D248
-
 #W32($3357C)
-<COLOR><GRAY>re：Chatting<END>
-//POINTER #939 @ $335A0 - STRING #939 @ $D25A
-
 #W32($335A0)
-<COLOR><GRAY>re：Chatting<END>
-//POINTER #940 @ $335C4 - STRING #940 @ $D26C
-
 #W32($335C4)
-<COLOR><GRAY>re：Chatting<END>
-//POINTER #941 @ $335E8 - STRING #941 @ $D27E
-
 #W32($335E8)
-<COLOR><GRAY>re：Chatting<END>
-//POINTER #942 @ $3360C - STRING #942 @ $D290
-
 #W32($3360C)
-<COLOR><GRAY>re：Chatting<END>
-//POINTER #943 @ $33630 - STRING #943 @ $D2A2
-
 #W32($33630)
-<COLOR><GRAY>re：Chatting<END>
-//POINTER #944 @ $33654 - STRING #944 @ $D2B4
-
 #W32($33654)
-<COLOR><GRAY>re：Chatting<END>
-//POINTER #945 @ $33678 - STRING #945 @ $D2C6
-
 #W32($33678)
-<COLOR><GRAY>re：Chatting<END>
-//POINTER #946 @ $3369C - STRING #946 @ $D2D8
-
 #W32($3369C)
-<COLOR><GRAY>re：Chatting<END>
-//POINTER #947 @ $336C0 - STRING #947 @ $D2EA
-
 #W32($336C0)
-<COLOR><GRAY>re：Chatting<END>
-//POINTER #948 @ $336E4 - STRING #948 @ $D2FC
-
 #W32($336E4)
 <COLOR><GRAY>re：Chatting<END>
-//POINTER #949 @ $33708 - STRING #949 @ $D30E
+//POINTER #938 @ $3357C - STRING #938 @ $D248
 
 #W32($33708)
 <COLOR><GRAY>Brake assist<END>
@@ -8927,113 +8729,104 @@
 //POINTER #837 @ $3274C - STRING #837 @ $166E0
 
 #W32($3274C)
-<COLOR><GRAY>ボクもたまには報告しないとね（笑）<END>
+<COLOR><GRAY>I should report something once in a while too（lol）<END>
 //POINTER #838 @ $32770 - STRING #838 @ $1670A
 
 #W32($32770)
-<COLOR><GRAY>ただ、出現の条件が特殊っぽくて<END>
+<COLOR><GRAY>But、the conditions for them to appear<END>
 //POINTER #839 @ $32794 - STRING #839 @ $16730
 
 #W32($32794)
-<COLOR><GRAY>変わった通り名になるには、リーダーが自分と同じ<END>
+<COLOR><GRAY>To get that unique nickname、the easiest way is probably<END>
 //POINTER #840 @ $327B8 - STRING #840 @ $16766
 
 #W32($327B8)
-<COLOR><GRAY>ＴＩサーキットのランクＢにもいるよ。<END>
+<COLOR><GRAY>There's one at Rank B TI Circuit、too．<END>
 //POINTER #841 @ $327DC - STRING #841 @ $16792
 
 #W32($327DC)
-<COLOR><GRAY>ランクＢのＴＩサーキットでもうひとり、いるな。<END>
+<COLOR><GRAY>There's another one at Rank B TI Circuit．<END>
 //POINTER #842 @ $32800 - STRING #842 @ $167C8
 
 #W32($32800)
-<COLOR><GRAY>俺の使い分けてるもう一台の車って、<END>
+<COLOR><GRAY>The other car I switch between？<END>
 //POINTER #843 @ $32824 - STRING #843 @ $167F2
 
 #W32($32824)
-<COLOR><GRAY>トラックでドリフト、<END>
+<COLOR><GRAY>Truck drifting、<END>
 //POINTER #844 @ $32848 - STRING #844 @ $1680E
 
 #W32($32848)
-<COLOR><GRAY>鈴鹿サーキット（西）の<END>
+<COLOR><GRAY>If you want to battle a Rank B Suzuka West Circuit<END>
 //POINTER #845 @ $3286C - STRING #845 @ $1682C
 
 #W32($3286C)
-<COLOR><GRAY>バトルの数か。<END>
+<COLOR><GRAY>The number of battles、hmmm．<END>
 //POINTER #846 @ $32890 - STRING #846 @ $16842
 
 #W32($32890)
-<COLOR><GRAY>それは、俺に対する挑戦状だな！<END>
+<COLOR><GRAY>Well、sounds like a challenge to me！<END>
 //POINTER #847 @ $328B4 - STRING #847 @ $16868
 
 #W32($328B4)
-<COLOR><GRAY>ククク……。<END>
+<COLOR><GRAY>Heh heh heh……<END>
 //POINTER #848 @ $328D8 - STRING #848 @ $1687C
 
 #W32($328D8)
-<COLOR><GRAY>痛い目にあいたくなかったら、<END>
+<COLOR><GRAY>If you don't want to get hurt、<END>
 //POINTER #849 @ $328FC - STRING #849 @ $168A0
 
 #W32($328FC)
-<COLOR><GRAY>ランクＡの大阪環状で、ワンダラーを見かけたが<END>
+<COLOR><GRAY>I saw a Wanderer at Rank A Osaka-Kanjou、<END>
 //POINTER #850 @ $32920 - STRING #850 @ $168D4
 
 #W32($32920)
-<COLOR><GRAY>コース図も買っていないドライバーは眼中にないって<END>
+<COLOR><GRAY>Drivers who haven't even bought the course maps are<END>
 //POINTER #851 @ $32944 - STRING #851 @ $1690C
 
 #W32($32944)
-<COLOR><GRAY>ランクＡのＴＩサーキットには<END>
+<COLOR><GRAY>It seems that there is a body paint artist at the<END>
 //POINTER #852 @ $32968 - STRING #852 @ $16930
 
 #W32($32968)
-<COLOR><GRAY>彼にバトルをお願いしたいなら、<END>
+<COLOR><GRAY>Before asking them for a battle、<END>
 //POINTER #853 @ $3298C - STRING #853 @ $16956
 
 #W32($3298C)
-<COLOR><GRAY>スレ違いだけど、<END>
+<COLOR><GRAY>It's off-topic、but there's a Wanderer interested<END>
 //POINTER #854 @ $329B0 - STRING #854 @ $1696E
 
 #W32($329B0)
-<COLOR><GRAY>ＮＳＸ－Ｒ　ＮＡ２の美しさを自慢してたけど<END>
+<COLOR><GRAY>He was bragging about the beauty of his NSX-R NA2、<END>
 //POINTER #855 @ $329D4 - STRING #855 @ $169A0
 
 #W32($329D4)
-<COLOR><GRAY>この間、ランクＡのＴＩサーキットのイベントで<END>
+<COLOR><GRAY>The other day、I saw a rare driver duo at a TI Circuit<END>
 //POINTER #856 @ $329F8 - STRING #856 @ $169D4
 
 #W32($329F8)
-<COLOR><GRAY>あれって、どっちが運転してるんだろう？<END>
+<COLOR><GRAY>I wonder who's doing the driving？<END>
 //POINTER #857 @ $32A1C - STRING #857 @ $16A02
 
 #W32($32A1C)
-<COLOR><GRAY>今日、すっげードリフト見たよ。<END>
+<COLOR><GRAY>Today、I saw an insane drift．<END>
 //POINTER #858 @ $32A40 - STRING #858 @ $16A28
 
 #W32($32A40)
-<COLOR><GRAY>あんなドリフトにも憧れるね。<END>
+<COLOR><GRAY>I really admire drifting like that．<END>
 //POINTER #859 @ $32A64 - STRING #859 @ $16A4C
 
 #W32($32A64)
-<COLOR><GRAY>おまえら、聞いてくださいよ。<END>
+<COLOR><GRAY>Hey guys、listen up．<END>
 //POINTER #860 @ $32A88 - STRING #860 @ $16A70
 
 #W32($32A88)
-<COLOR><GRAY>そうしたら、いきなりパドックで話しかけられて<END>
+<COLOR><GRAY>And then、I got approached in the paddock、and we ended up<END>
 //POINTER #861 @ $32AAC - STRING #861 @ $16AA4
 
 #W32($32AAC)
-<COLOR><GRAY>ブランドの魅力ってのは凄いね（笑）<END>
+<COLOR><GRAY>The appeal of a brand is really something（lol）<END>
 //POINTER #862 @ $32AD0 - STRING #862 @ $16ACE
-
-
-
-
-
-
-
-
-
 
 #W32($32C14)
 <COLOR><GRAY>ワンダラーの目撃談をこっそり報告するスレです。<END>
@@ -13517,7 +13310,7 @@
 //POINTER #797 @ $321B0 - STRING #797 @ $20988
 
 #W32($321B0)
-<COLOR><GRAY>challenging cars with manufactuer stickers<END>
+<COLOR><GRAY>challenging cars with manufacturer stickers<END>
 //POINTER #798 @ $321D4 - STRING #798 @ $209B2
 
 #W32($321D4)
@@ -13677,103 +13470,103 @@
 //POINTER #837 @ $32750 - STRING #837 @ $20DF4
 
 #W32($32750)
-<COLOR><GRAY>ランクＢの大阪環状サーキットにも１人いるらしい。<END>
+<COLOR><GRAY>Apparently、there's one at Rank B Osaka-Kanjou as well．<END>
 //POINTER #838 @ $32774 - STRING #838 @ $20E2C
 
 #W32($32774)
-<COLOR><GRAY>変わった通り名だと会えるらしいんだよね。<END>
+<COLOR><GRAY>are a bit special．I've heard you can meet them if you<END>
 //POINTER #839 @ $32798 - STRING #839 @ $20E5C
 
 #W32($32798)
-<COLOR><GRAY>車種に乗っているチームを見つけて、そのチームの<END>
+<COLOR><GRAY>to find a team leader whose driving the same car、<END>
 //POINTER #840 @ $327BC - STRING #840 @ $20E92
 
 #W32($327BC)
-<COLOR><GRAY>バトルしたかったら、五十日（ごとおび）<END>
+<COLOR><GRAY>If you want to battle、you need to show up on Gotobi days<END>
 //POINTER #841 @ $327E0 - STRING #841 @ $20EC0
 
 #W32($327E0)
-<COLOR><GRAY>自分の作ったオールマイティカーで、複数の車を<END>
+<COLOR><GRAY>He was all fired up about defeating drivers who switch<END>
 //POINTER #842 @ $32804 - STRING #842 @ $20EF4
 
 #W32($32804)
-<COLOR><GRAY>仕事用のトラックなんだよねヽ（´ー｀）ノ<END>
+<COLOR><GRAY>That would be my work truck ヽ（´ー｀）ノ<END>
 //POINTER #843 @ $32828 - STRING #843 @ $20F24
 
 #W32($32828)
-<COLOR><GRAY>カコイイ（＊´д｀＊）<END>
+<COLOR><GRAY>coool（＊´д｀＊）<END>
 //POINTER #844 @ $3284C - STRING #844 @ $20F42
 
 #W32($3284C)
-<COLOR><GRAY>ランクＢのワンダラーとバトルしたかったら<END>
+<COLOR><GRAY>Wanderer、just keep doing as many battles as you can．<END>
 //POINTER #845 @ $32870 - STRING #845 @ $20F72
 
 #W32($32870)
-<COLOR><GRAY>ＲＰバトルよりは、ＳＰバトルやＤＰバトルに<END>
+<COLOR><GRAY>I guess it would be easier to meet that condition with<END>
 //POINTER #846 @ $32894 - STRING #846 @ $20FA4
 
 #W32($32894)
-<COLOR><GRAY>よし、ＲＰバトル１００連戦だヽ（｀Д´）ノ<END>
+<COLOR><GRAY>Alright、100 consecutive RP Battles、here I come<END>
 //POINTER #847 @ $328B8 - STRING #847 @ $20FD6
 
 #W32($328B8)
-<COLOR><GRAY>ダチが鈴鹿サーキット（西）のランクＢにいるが、<END>
+<COLOR><GRAY>My pal is waiting at Rank B Suzuka West Circuit、<END>
 //POINTER #848 @ $328DC - STRING #848 @ $2100C
 
 #W32($328DC)
-<COLOR><GRAY>俺とのバトルでは手を抜くこった。<END>
+<COLOR><GRAY>you'd better not skimp on a battle with me．<END>
 //POINTER #849 @ $32900 - STRING #849 @ $21034
 
 #W32($32900)
-<COLOR><GRAY>バトルできなかったヽ（｀Д´）ノ<END>
+<COLOR><GRAY>but couldn't battle them ヽ（｀Д´）ノ<END>
 //POINTER #850 @ $32924 - STRING #850 @ $2105C
 
 #W32($32924)
-<COLOR><GRAY>そんなの暗記してるつーのヽ（｀Д´）ノ<END>
+<COLOR><GRAY>irrelevant to me、I've memorized them all ヽ（｀Д´）ノ<END>
 //POINTER #851 @ $32948 - STRING #851 @ $2108A
 
 #W32($32948)
-<COLOR><GRAY>ボディペイントのアーティストがいるぞ（笑）<END>
+<COLOR><GRAY>Rank A TI Circuit（lol）<END>
 //POINTER #852 @ $3296C - STRING #852 @ $210BC
 
 #W32($3296C)
-<COLOR><GRAY>まずは自分でペイントしてみることだ。<END>
+<COLOR><GRAY>try painting your car yourself．<END>
 //POINTER #853 @ $32990 - STRING #853 @ $210E8
 
 #W32($32990)
-<COLOR><GRAY>ランクＡの首都高サーキット（内）にも<END>
+<COLOR><GRAY>in body painting at Rank A Shutoko-Inner Circuit、too．<END>
 //POINTER #854 @ $329B4 - STRING #854 @ $21114
 
 #W32($329B4)
-<COLOR><GRAY>ドライビングテクニックは大したことなかった（笑）<END>
+<COLOR><GRAY>but his driving skills were nothing to boast about（lol）<END>
 //POINTER #855 @ $329D8 - STRING #855 @ $2114C
 
 #W32($329D8)
-<COLOR><GRAY>珍しい２人組のドライバーを見たよ。<END>
+<COLOR><GRAY>Rank A event．I think they mentioned looking for<END>
 //POINTER #856 @ $329FC - STRING #856 @ $21176
 
 #W32($329FC)
-<COLOR><GRAY>２人で乗ってたら単純に重いよな（笑）<END>
+<COLOR><GRAY>Must be heavy if they're both in the car、right？（lol）<END>
 //POINTER #857 @ $32A20 - STRING #857 @ $211A2
 
 #W32($32A20)
-<COLOR><GRAY>爆音＆超シャコタンで、超気合い入りまくりで<END>
+<COLOR><GRAY>The sound was deafening、and the car was slammed<END>
 //POINTER #858 @ $32A44 - STRING #858 @ $211D4
 
 #W32($32A44)
-<COLOR><GRAY>俺もマフラー変えて、車高下げて<END>
+<COLOR><GRAY>Maybe I'll change the muffler、lower the ride height、<END>
 //POINTER #859 @ $32A68 - STRING #859 @ $211FA
 
 #W32($32A68)
-<COLOR><GRAY>ちょっと気合いを入れて、某メーカーの<END>
+<COLOR><GRAY>I decided to get serious、bought some Brand Parts from<END>
 //POINTER #860 @ $32A8C - STRING #860 @ $21226
 
 #W32($32A8C)
-<COLOR><GRAY>そのパーツの話で盛り上がっちゃった（＊´д｀＊）<END>
+<COLOR><GRAY>getting really into discussing those parts（＊´д｀＊）<END>
 //POINTER #861 @ $32AB0 - STRING #861 @ $2125E
 
 #W32($32AB0)
-<COLOR><GRAY>まあ、唯一残念なのは、話しかけてきた相手が<END>
+<COLOR><GRAY>Well、there was a downside、the person who approached<END>
 //POINTER #862 @ $32AD4 - STRING #862 @ $21290
 
 #W32($32AD4)
@@ -18615,19 +18408,19 @@
 //POINTER #838 @ $32778 - STRING #838 @ $27D72
 
 #W32($32778)
-<COLOR><GRAY>今のトコ、分かってるのはここまで。<END>
+<COLOR><GRAY>have an unusual B.A.D. Name、that's all I know for now．<END>
 //POINTER #839 @ $3279C - STRING #839 @ $27D9C
 
 #W32($3279C)
-<COLOR><GRAY>ステッカーだけを貼るのが一番簡単かな。<END>
+<COLOR><GRAY>and then just put on that leader's team sticker．<END>
 //POINTER #840 @ $327C0 - STRING #840 @ $27DCA
 
 #W32($327C0)
-<COLOR><GRAY>つまり５の倍数の日にＴＩに来いってことかな（笑）<END>
+<COLOR><GRAY>ーbasically days that are the multiple of 5（lol）<END>
 //POINTER #841 @ $327E4 - STRING #841 @ $27E02
 
 #W32($327E4)
-<COLOR><GRAY>使い分けてるドライバーを倒すって息巻いてたけど。<END>
+<COLOR><GRAY>between multiple cars with his self-built all-mighty car．<END>
 //POINTER #842 @ $32808 - STRING #842 @ $27E3A
 
 #W32($32808)
@@ -18639,19 +18432,19 @@
 //POINTER #844 @ $32850 - STRING #844 @ $27E3E
 
 #W32($32850)
-<COLOR><GRAY>とにかくバトルを、数こなすことだ。<END>
+<END>
 //POINTER #845 @ $32874 - STRING #845 @ $27E68
 
 #W32($32874)
-<COLOR><GRAY>参加した方が、条件は達成しやすそうだね（笑）<END>
+<COLOR><GRAY>SP or DP Battles、rather than RP Battles（lol）<END>
 //POINTER #846 @ $32898 - STRING #846 @ $27E9C
 
 #W32($32898)
-<END>
+<COLOR><GRAY>ヽ（｀Д´）ノ<END>
 //POINTER #847 @ $328BC - STRING #847 @ $27E9E
 
 #W32($328BC)
-<COLOR><GRAY>奴の走りはヤバイぜ。<END>
+<COLOR><GRAY>and he's an insane driver．<END>
 //POINTER #848 @ $328E0 - STRING #848 @ $27EBA
 
 #W32($328E0)
@@ -18671,11 +18464,11 @@
 //POINTER #852 @ $32970 - STRING #852 @ $27EC2
 
 #W32($32970)
-<COLOR><GRAY>芸術家には、こちらから歩み寄ることが大切だよ。<END>
+<COLOR><GRAY>It's important to try to connect with an artist．<END>
 //POINTER #853 @ $32994 - STRING #853 @ $27EF8
 
 #W32($32994)
-<COLOR><GRAY>ボディペイントに興味持ってるワンダラーがいるよ。<END>
+<END>
 //POINTER #854 @ $329B8 - STRING #854 @ $27F30
 
 #W32($329B8)
@@ -18683,7 +18476,7 @@
 //POINTER #855 @ $329DC - STRING #855 @ $27F32
 
 #W32($329DC)
-<COLOR><GRAY>フルチューンの車を探してるって言ってたかな。<END>
+<COLOR><GRAY>a fully tuned car．<END>
 //POINTER #856 @ $32A00 - STRING #856 @ $27F66
 
 #W32($32A00)
@@ -18691,23 +18484,23 @@
 //POINTER #857 @ $32A24 - STRING #857 @ $27F68
 
 #W32($32A24)
-<COLOR><GRAY>限界ギリギリのドリフトかますのよ。<END>
+<COLOR><GRAY>to the ground、drifting at the very limit．<END>
 //POINTER #858 @ $32A48 - STRING #858 @ $27F92
 
 #W32($32A48)
-<COLOR><GRAY>気合い入れるかな（笑）<END>
+<COLOR><GRAY>and get into that too（lol）<END>
 //POINTER #859 @ $32A6C - STRING #859 @ $27FB0
 
 #W32($32A6C)
-<COLOR><GRAY>ブランドパーツを買ったんですよ。<END>
+<COLOR><GRAY>a certain manufacturer．<END>
 //POINTER #860 @ $32A90 - STRING #860 @ $27FD8
 
 #W32($32A90)
-<COLOR><GRAY>あ、鈴鹿サーキット（西）のランクＡでの話ね。<END>
+<COLOR><GRAY>Ah、that was at Rank A Suzuka West Circuit、by the way．<END>
 //POINTER #861 @ $32AB4 - STRING #861 @ $2800C
 
 #W32($32AB4)
-<COLOR><GRAY>男だったってことなんだけど（´＿ゝ｀）<END>
+<COLOR><GRAY>me was also a guy（´＿ゝ｀）<END>
 //POINTER #862 @ $32AD8 - STRING #862 @ $2803A
 
 #W32($32AD8)
