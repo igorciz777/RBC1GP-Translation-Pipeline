@@ -5713,63 +5713,23 @@
 //POINTER #1220 @ $35D24 - STRING #1220 @ $F078
 
 #W32($35D24)
-<COLOR><GRAY>Chatting予備<END>
+#W32($35D48)
+#W32($35D6C)
+#W32($35D90)
+#W32($35DB4)
+#W32($35DD8)
+#W32($35DFC)
+#W32($35E20)
+#W32($35E44)
+#W32($35E68)
+#W32($35E8C)
+#W32($35EB0)
+#W32($35ED4)
+#W32($35EF8)
+#W32($35F1C)
+<COLOR><GRAY>Chat Reserve<END>
 //POINTER #1221 @ $35D48 - STRING #1221 @ $F088
 
-#W32($35D48)
-<COLOR><GRAY>Chatting予備<END>
-//POINTER #1222 @ $35D6C - STRING #1222 @ $F098
-
-#W32($35D6C)
-<COLOR><GRAY>Chatting予備<END>
-//POINTER #1223 @ $35D90 - STRING #1223 @ $F0A8
-
-#W32($35D90)
-<COLOR><GRAY>Chatting予備<END>
-//POINTER #1224 @ $35DB4 - STRING #1224 @ $F0B8
-
-#W32($35DB4)
-<COLOR><GRAY>Chatting予備<END>
-//POINTER #1225 @ $35DD8 - STRING #1225 @ $F0C8
-
-#W32($35DD8)
-<COLOR><GRAY>Chatting予備<END>
-//POINTER #1226 @ $35DFC - STRING #1226 @ $F0D8
-
-#W32($35DFC)
-<COLOR><GRAY>Chatting予備<END>
-//POINTER #1227 @ $35E20 - STRING #1227 @ $F0E8
-
-#W32($35E20)
-<COLOR><GRAY>Chatting予備<END>
-//POINTER #1228 @ $35E44 - STRING #1228 @ $F0F8
-
-#W32($35E44)
-<COLOR><GRAY>Chatting予備<END>
-//POINTER #1229 @ $35E68 - STRING #1229 @ $F108
-
-#W32($35E68)
-<COLOR><GRAY>Chatting予備<END>
-//POINTER #1230 @ $35E8C - STRING #1230 @ $F118
-
-#W32($35E8C)
-<COLOR><GRAY>Chatting予備<END>
-//POINTER #1231 @ $35EB0 - STRING #1231 @ $F128
-
-#W32($35EB0)
-<COLOR><GRAY>Chatting予備<END>
-//POINTER #1232 @ $35ED4 - STRING #1232 @ $F138
-
-#W32($35ED4)
-<COLOR><GRAY>Chatting予備<END>
-//POINTER #1233 @ $35EF8 - STRING #1233 @ $F148
-
-#W32($35EF8)
-<COLOR><GRAY>Chatting予備<END>
-//POINTER #1234 @ $35F1C - STRING #1234 @ $F158
-
-#W32($35F1C)
-<COLOR><GRAY>Chatting予備<END>
 //BLOCK #002 NAME:		231.bin File - Encoded BBS Text 3
 
 //POINTER #0 @ $2B198 - STRING #0 @ $F168
@@ -8829,171 +8789,140 @@
 //POINTER #862 @ $32AD0 - STRING #862 @ $16ACE
 
 #W32($32C14)
-<COLOR><GRAY>ワンダラーの目撃談をこっそり報告するスレです。<END>
+<COLOR><GRAY>This is a thread for reporting Wanderer sightings．<END>
 //POINTER #872 @ $32C38 - STRING #872 @ $16B70
 
 #W32($32C38)
-<COLOR><GRAY>ランクＣの首都高サーキット（内）の<END>
+<COLOR><GRAY>The Wanderer driving an ALTEZZA on the Shutoko-Inner<END>
 //POINTER #873 @ $32C5C - STRING #873 @ $16B9A
 
 #W32($32C5C)
-<COLOR><GRAY>きっと、彼もオモチャを愛する心を<END>
+<COLOR><GRAY>I'm sure he's someone with a heart for loving toys、<END>
 //POINTER #874 @ $32C80 - STRING #874 @ $16BC2
 
 #W32($32C80)
-<COLOR><GRAY>やっぱりデカイ車っしょ！<END>
+<COLOR><GRAY>Big cars are the way to go！<END>
 //POINTER #875 @ $32CA4 - STRING #875 @ $16BE2
 
 #W32($32CA4)
-<COLOR><GRAY>意味分かんね（´Ａ｀）<END>
+<COLOR><GRAY>What are you on about（´Ａ｀）<END>
 //POINTER #876 @ $32CC8 - STRING #876 @ $16C00
 
 #W32($32CC8)
-<COLOR><GRAY>そそ、ランクＣの首都高サーキット（内）でね。<END>
+<COLOR><GRAY>Yup、at the Rank C Shutoko-Inner Circuit．<END>
 //POINTER #877 @ $32CEC - STRING #877 @ $16C34
 
 #W32($32CEC)
-<COLOR><GRAY>鈴鹿サーキットで見たＦＡＩＲＬＡＤＹ　Ｚは<END>
+<COLOR><GRAY>The FAIRLADY Z I saw at Suzuka Circuit was incredible．<END>
 //POINTER #878 @ $32D10 - STRING #878 @ $16C66
 
 #W32($32D10)
-<COLOR><GRAY>お菓子の車（＊´д｀＊）<END>
+<COLOR><GRAY>A car made of sweets（＊´д｀＊）<END>
 //POINTER #879 @ $32D34 - STRING #879 @ $16C86
 
 #W32($32D34)
-<COLOR><GRAY>日光サーキットでは、たまにＳ２０００を見るよ。<END>
+<COLOR><GRAY>I sometimes see a S2000 at Nikko Circuit．<END>
 //POINTER #880 @ $32D58 - STRING #880 @ $16CBC
 
 #W32($32D58)
-<COLOR><GRAY>ホンダ車で２シーターＦＲってことは……<END>
+<COLOR><GRAY>A Honda FR 2-seater means……<END>
 //POINTER #881 @ $32D7C - STRING #881 @ $16CEA
 
 #W32($32D7C)
-<COLOR><GRAY>みんな自分の車が可愛いんだよ（笑）<END>
+<COLOR><GRAY>Everyone's in love with their own car（lol）<END>
 //POINTER #882 @ $32DA0 - STRING #882 @ $16D14
 
 #W32($32DA0)
-<COLOR><GRAY>ランクＢの首都高サーキット（内）に<END>
+<COLOR><GRAY>There's a super cute street racer at the<END>
 //POINTER #883 @ $32DC4 - STRING #883 @ $16D3E
 
 #W32($32DC4)
-<COLOR><GRAY>今はアイドルレーサーに夢中らしくて<END>
+<COLOR><GRAY>She seems to be really into some idol racers now and bought<END>
 //POINTER #884 @ $32DE8 - STRING #884 @ $16D68
 
 #W32($32DE8)
-<COLOR><GRAY>ここ、本人も見てる可能性あるんだぞ……。<END>
+<COLOR><GRAY>There's a chance she might be lurking here……<END>
 //POINTER #885 @ $32E0C - STRING #885 @ $16D98
 
 #W32($32E0C)
-<COLOR><GRAY>名前入れたままだった（汗）<END>
+<COLOR><GRAY>I left my name in that post（sweats）<END>
 //POINTER #886 @ $32E30 - STRING #886 @ $16DBA
 
 #W32($32E30)
-<COLOR><GRAY>この掲示板は発言に責任を持ってもらうため<END>
+<COLOR><GRAY>On this bulletin board、<END>
 //POINTER #887 @ $32E54 - STRING #887 @ $16DEA
 
 #W32($32E54)
-<COLOR><GRAY>武士の情けはないのか○｜￣｜＿<END>
+<COLOR><GRAY>Have you got no samurai's mercy ○｜￣｜＿<END>
 //POINTER #888 @ $32E78 - STRING #888 @ $16E10
 
 #W32($32E78)
-<COLOR><GRAY>首都高サーキット（内）のランクＢのイベントに<END>
+<COLOR><GRAY>I was interviewed when participating in a Rank B event<END>
 //POINTER #889 @ $32E9C - STRING #889 @ $16E44
 
 #W32($32E9C)
-<COLOR><GRAY>取材の後で、一緒に走ったんだが上手かったな。<END>
+<COLOR><GRAY>I raced him after the interview、and he was very skilled．<END>
 //POINTER #890 @ $32EC0 - STRING #890 @ $16E78
 
 #W32($32EC0)
-<COLOR><GRAY>私もワンダラー見たよ、<END>
+<COLOR><GRAY>I also saw a Wanderer、<END>
 //POINTER #891 @ $32EE4 - STRING #891 @ $16E96
 
 #W32($32EE4)
-<COLOR><GRAY>ミニバンに乗ってるのに、<END>
+<COLOR><GRAY>He was funny、obsessed with weight reduction even though<END>
 //POINTER #892 @ $32F08 - STRING #892 @ $16EB6
 
 #W32($32F08)
-<COLOR><GRAY>ランクＢの鈴鹿サーキットでワンダラー（σ゜д゜）σ<END>
+<COLOR><GRAY>It sounds like there's another one at<END>
 //POINTER #893 @ $32F2C - STRING #893 @ $16EF0
 
 #W32($32F2C)
-<COLOR><GRAY>報告乙（’∇’）ゝ<END>
+<COLOR><GRAY>Thanks for the report（’∇’）ゝ<END>
 //POINTER #894 @ $32F50 - STRING #894 @ $16F0A
 
 #W32($32F50)
-<COLOR><GRAY>ランクＢの日光サーキットで、<END>
+<COLOR><GRAY>I happened to battle a Wanderer at the<END>
 //POINTER #895 @ $32F74 - STRING #895 @ $16F2E
 
 #W32($32F74)
-<COLOR><GRAY>他はチューニングしててもいいけど、サスペンションは<END>
+<COLOR><GRAY>You can have anything tuned、except the suspension、which<END>
 //POINTER #896 @ $32F98 - STRING #896 @ $16F68
 
 #W32($32F98)
-<COLOR><GRAY>それに比べると、同じランクＢの日光サーキットにる<END>
+<COLOR><GRAY>In comparison、a different Rank B Nikko Circuit Wanderer<END>
 //POINTER #897 @ $32FBC - STRING #897 @ $16FA0
 
 #W32($32FBC)
-<COLOR><GRAY>ランクＡの鈴鹿サーキットに、<END>
+<COLOR><GRAY>There's a Rank A Suzuka Circuit Wanderer、who drives<END>
 //POINTER #898 @ $32FE0 - STRING #898 @ $16FC4
 
 #W32($32FE0)
-<COLOR><GRAY>「長く走っているマシンでもこんなに戦えるんだ」<END>
+<COLOR><GRAY>He said、“A machine that's been driven for a long time<END>
 //POINTER #899 @ $33004 - STRING #899 @ $16FFA
 
 #W32($33004)
-<COLOR><GRAY>人を探しているのら。<END>
+<COLOR><GRAY>I'm looking for someone．I want to be friends with a<END>
 //POINTER #900 @ $33028 - STRING #900 @ $17016
 
 #W32($33028)
-<COLOR><GRAY>ん、本人！？（笑）<END>
+<COLOR><GRAY>Huh、one of them！？（lol）<END>
 //POINTER #901 @ $3304C - STRING #901 @ $17030
 
 #W32($3304C)
-<COLOR><GRAY>公式戦で、色んなサーキットの走行経験のある<END>
+<COLOR><GRAY>It sounded like they were looking for drivers<END>
 //POINTER #902 @ $33070 - STRING #902 @ $17062
 
 #W32($33070)
-<COLOR><GRAY>俺が聞いたのは、色んなサーキットのピットに入った<END>
+<COLOR><GRAY>What I've heard is that they were looking for drivers<END>
 //POINTER #903 @ $33094 - STRING #903 @ $1709A
 
 #W32($33094)
-<COLOR><GRAY>チューニングはバランスよりパワー！！<END>
+<COLOR><GRAY>Tuning is all about power over balance！！<END>
 //POINTER #904 @ $330B8 - STRING #904 @ $170C6
 
 #W32($330B8)
-<COLOR><GRAY>なんか、こっそり報告するスレが、<END>
+<COLOR><GRAY>Somehow、my sneaky sightings thread turned into<END>
 //POINTER #905 @ $330DC - STRING #905 @ $170EE
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 #W32($33538)
 <COLOR><GRAY>ＳＰバトル中、すごく可愛い子を見かけたんだけど<END>
@@ -13570,67 +13499,45 @@
 //POINTER #862 @ $32AD4 - STRING #862 @ $21290
 
 #W32($32AD4)
-<END>
-//POINTER #863 @ $32AF8 - STRING #863 @ $21292
-
 #W32($32AF8)
-<END>
-//POINTER #864 @ $32B1C - STRING #864 @ $21294
-
 #W32($32B1C)
-<END>
-//POINTER #865 @ $32B40 - STRING #865 @ $21296
-
 #W32($32B40)
-<END>
-//POINTER #866 @ $32B64 - STRING #866 @ $21298
-
+#W32($32BAC)
+#W32($32BD0)
+#W32($32BF4)
+#W32($32B88)
 #W32($32B64)
 <END>
-//POINTER #867 @ $32B88 - STRING #867 @ $2129A
-
-#W32($32B88)
-<END>
-//POINTER #868 @ $32BAC - STRING #868 @ $2129C
-
-#W32($32BAC)
-<END>
-//POINTER #869 @ $32BD0 - STRING #869 @ $2129E
-
-#W32($32BD0)
-<END>
-//POINTER #870 @ $32BF4 - STRING #870 @ $212A0
-
-#W32($32BF4)
-<END>
-//POINTER #871 @ $32C18 - STRING #871 @ $212A2
-
+//POINTER #863 @ $32AF8 - STRING #863 @ $21292
+//
+#JMP($36EA0)
+//
 #W32($32C18)
-<COLOR><GRAY>フィールド３での目撃談はこっちに。<END>
+<COLOR><GRAY>Post your Field 3 sightings here．<END>
 //POINTER #872 @ $32C3C - STRING #872 @ $212CC
 
 #W32($32C3C)
-<COLOR><GRAY>ＡＬＴＥＺＺＡに乗ってるワンダラーは<END>
+<COLOR><GRAY>Circuit in Rank C seems to be looking for<END>
 //POINTER #873 @ $32C60 - STRING #873 @ $212F8
 
 #W32($32C60)
-<COLOR><GRAY>持っている人に違いない（＊´д｀＊）<END>
+<COLOR><GRAY>too（＊´д｀＊）<END>
 //POINTER #874 @ $32C84 - STRING #874 @ $21324
 
 #W32($32C84)
-<COLOR><GRAY>ＥＬＧＲＡＮＤ最強！<END>
+<COLOR><GRAY>ELGRAND is the best！<END>
 //POINTER #875 @ $32CA8 - STRING #875 @ $21340
 
 #W32($32CA8)
-<COLOR><GRAY>ワゴンとかミニバンに乗ってれば会える<END>
+<COLOR><GRAY>There's a Wanderer that you can meet if you're driving a<END>
 //POINTER #876 @ $32CCC - STRING #876 @ $2136C
 
 #W32($32CCC)
-<COLOR><GRAY>もう１人には、気が付いたら会えるようになってるん<END>
+<COLOR><GRAY>And there's another one、you'll probably meet him before<END>
 //POINTER #877 @ $32CF0 - STRING #877 @ $213A4
 
 #W32($32CF0)
-<COLOR><GRAY>すごかったよ。一面、追加メーターだらけで。<END>
+<COLOR><GRAY>The entire dash was covered in extra gauges．<END>
 //POINTER #878 @ $32D14 - STRING #878 @ $213D6
 
 #W32($32D14)
@@ -13638,11 +13545,11 @@
 //POINTER #879 @ $32D38 - STRING #879 @ $213D8
 
 #W32($32D38)
-<COLOR><GRAY>取材って話だけど、ホンダ車、しかも<END>
+<COLOR><GRAY>I heard it's for some coverage、but they're only interested<END>
 //POINTER #880 @ $32D5C - STRING #880 @ $21402
 
 #W32($32D5C)
-<COLOR><GRAY>Ｓ２０００だけかΣ（￣□￣；）<END>
+<COLOR><GRAY>just the S2000（￣□￣；）<END>
 //POINTER #881 @ $32D80 - STRING #881 @ $21428
 
 #W32($32D80)
@@ -13650,97 +13557,95 @@
 //POINTER #882 @ $32DA4 - STRING #882 @ $2142A
 
 #W32($32DA4)
-<COLOR><GRAY>メッチャ可愛い走り屋がいるんだよ。<END>
+<COLOR><GRAY>Rank B Shutoko-Inner Circuit．<END>
 //POINTER #883 @ $32DC8 - STRING #883 @ $21454
 
 #W32($32DC8)
-<COLOR><GRAY>ポスターなんか買ってたけど、<END>
+<COLOR><GRAY>some posters of it、but one day I'll make<END>
 //POINTER #884 @ $32DEC - STRING #884 @ $21478
 
 #W32($32DEC)
-<COLOR><GRAY>（　゜д゜）ポカーン<END>
+<COLOR><GRAY>（　゜д゜）Uh ohh<END>
 //POINTER #885 @ $32E10 - STRING #885 @ $21494
 
 #W32($32E10)
-<COLOR><GRAY>さ、削除はどうやるんだ！？<END>
+<COLOR><GRAY>So、how do I delete that！？<END>
 //POINTER #886 @ $32E34 - STRING #886 @ $214B6
 
 #W32($32E34)
-<COLOR><GRAY>個人による削除はできません。<END>
+<COLOR><GRAY>individuals are not allowed to remove their posts<END>
 //POINTER #887 @ $32E58 - STRING #887 @ $214DA
 
 #W32($32E58)
-<COLOR><GRAY>次の書き込み、どうぞ……。<END>
+<COLOR><GRAY>The next post、welcome please……<END>
 //POINTER #888 @ $32E7C - STRING #888 @ $214FC
 
 #W32($32E7C)
-<COLOR><GRAY>参加したときに、取材されたよ。そのときは、<END>
+<COLOR><GRAY>at the Shutoko-Inner Circuit．At that time、<END>
 //POINTER #889 @ $32EA0 - STRING #889 @ $2152E
 
 #W32($32EA0)
-<COLOR><GRAY>ベテランの技って感じ。スバル車のオーナーは<END>
+<COLOR><GRAY>Felt like he used veteran's techniques．Subaru owners<END>
 //POINTER #890 @ $32EC4 - STRING #890 @ $21560
 
 #W32($32EC4)
-<COLOR><GRAY>ランクＢの首都高サーキット（内）で。<END>
+<COLOR><GRAY>at the Shutoko-Inner Rank B．<END>
 //POINTER #891 @ $32EE8 - STRING #891 @ $2158C
 
 #W32($32EE8)
-<COLOR><GRAY>軽量化命っておかしなやつだったな（笑）<END>
+<COLOR><GRAY>he was driving a minivan（lol）<END>
 //POINTER #892 @ $32F0C - STRING #892 @ $215BA
 
 #W32($32F0C)
-<COLOR><GRAY>ポスターが関係あるっぽいです（’∇’）ゝ<END>
+<COLOR><GRAY>Rank B Suzuka Circuit（σ゜д゜）σ <END>
 //POINTER #893 @ $32F30 - STRING #893 @ $215EA
 
 #W32($32F30)
-<COLOR><GRAY>俺も買いに行こう（笑）<END>
+<COLOR><GRAY>I'm going to go buy one too（lol）<END>
 //POINTER #894 @ $32F54 - STRING #894 @ $21608
 
 #W32($32F54)
-<COLOR><GRAY>偶然、ワンダラーとバトルできたんだけど、<END>
+<COLOR><GRAY>Rank B Nikko Circuit、but the requirement<END>
 //POINTER #895 @ $32F78 - STRING #895 @ $21638
 
 #W32($32F78)
-<COLOR><GRAY>ノーマル限定って、サスペンションをノーマルにしたら<END>
+<COLOR><GRAY>is restricted to the stock．I've had to redo my setup<END>
 //POINTER #896 @ $32F9C - STRING #896 @ $21672
 
 #W32($32F9C)
-<COLOR><GRAY>ワンダラーでも、もう１人は素直だね（笑）<END>
+<COLOR><GRAY>is really straightforward（lol）<END>
 //POINTER #897 @ $32FC0 - STRING #897 @ $216A2
 
 #W32($32FC0)
-<COLOR><GRAY>随分走り込んだマシンに乗っている<END>
+<COLOR><GRAY>a very long distance driven machine．<END>
 //POINTER #898 @ $32FE4 - STRING #898 @ $216CA
 
 #W32($32FE4)
-<COLOR><GRAY>って言ってたから、興味があったら<END>
+<COLOR><GRAY>can still compete”、so if you're interested、<END>
 //POINTER #899 @ $33008 - STRING #899 @ $216F2
 
-#JMP($36EA0)
-
 #W32($33008)
-<COLOR><GRAY>サーキットで顔のきく走り屋さんと、お友達に<END>
+<COLOR><GRAY>well-known street racer at the circuit、so I'd love for<END>
 //POINTER #900 @ $3302C - STRING #900 @ $21724
 
 #W32($3302C)
-<COLOR><GRAY>ランクＡの日光サーキットと言えば、<END>
+<COLOR><GRAY>Speaking of Rank A Nikko Circuit、<END>
 //POINTER #901 @ $33050 - STRING #901 @ $2174E
 
 #W32($33050)
-<COLOR><GRAY>ドライバーを探してるみたいだったけど。<END>
+<COLOR><GRAY>with experience on all official race circuits．<END>
 //POINTER #902 @ $33074 - STRING #902 @ $2177C
 
 #W32($33074)
-<COLOR><GRAY>ことがあるドライバーを探してるって話だったけど……<END>
+<COLOR><GRAY>who have been in the pits of various circuits… But that<END>
 //POINTER #903 @ $33098 - STRING #903 @ $217B6
 
 #W32($33098)
-<COLOR><GRAY>俺にパワーで勝てる自信のあるやつはいつでも来い！<END>
+<COLOR><GRAY>If you have confidence to beat me in power、come at me！<END>
 //POINTER #904 @ $330BC - STRING #904 @ $217EE
 
 #W32($330BC)
-<COLOR><GRAY>本人がライバルを募集するスレになってるな（笑）<END>
+<COLOR><GRAY>a rival recruitment thread（lol）<END>
 //POINTER #905 @ $330E0 - STRING #905 @ $21824
 
 #W32($330E0)
@@ -18544,7 +18449,7 @@
 //POINTER #872 @ $32C40 - STRING #872 @ $2807A
 
 #W32($32C40)
-<COLOR><GRAY>ポスターを欲しがってるらしいよ。<END>
+<COLOR><GRAY>a wall poster．<END>
 //POINTER #873 @ $32C64 - STRING #873 @ $280A2
 
 #W32($32C64)
@@ -18552,19 +18457,19 @@
 //POINTER #874 @ $32C88 - STRING #874 @ $280A4
 
 #W32($32C88)
-<COLOR><GRAY>取りあえず乗っとけ！<END>
+<COLOR><GRAY>You need to drive it！<END>
 //POINTER #875 @ $32CAC - STRING #875 @ $280C0
 
 #W32($32CAC)
-<COLOR><GRAY>ワンダラーがいるってこと？（笑）<END>
+<COLOR><GRAY>wagon or minivan、perhaps？（lol）<END>
 //POINTER #876 @ $32CD0 - STRING #876 @ $280E8
 
 #W32($32CD0)
-<COLOR><GRAY>じゃないかな。私、親切すぎだねヽ（´ー｀）ノ<END>
+<COLOR><GRAY>you even realize．I'm so helpful、aren't I ヽ（´ー｀）ノ<END>
 //POINTER #877 @ $32CF4 - STRING #877 @ $2811C
 
 #W32($32CF4)
-<COLOR><GRAY>あのメーター、全部チョコで出来てりゃいいのにな。<END>
+<COLOR><GRAY>Those gauges、if only they were made out of chocolate．<END>
 //POINTER #878 @ $32D18 - STRING #878 @ $28154
 
 #W32($32D18)
@@ -18572,7 +18477,7 @@
 //POINTER #879 @ $32D3C - STRING #879 @ $28156
 
 #W32($32D3C)
-<COLOR><GRAY>２シーターＦＲ以外には興味がないらしいんだよね。<END>
+<COLOR><GRAY>in Honda cars、and specifically the 2-seater FR ones．<END>
 //POINTER #880 @ $32D60 - STRING #880 @ $2818E
 
 #W32($32D60)
@@ -18584,11 +18489,11 @@
 //POINTER #882 @ $32DA8 - STRING #882 @ $28192
 
 #W32($32DA8)
-<COLOR><GRAY>あの娘もワンダラーなんだな。<END>
+<COLOR><GRAY>Seems like that girl is also a Wanderer．<END>
 //POINTER #883 @ $32DCC - STRING #883 @ $281B6
 
 #W32($32DCC)
-<COLOR><GRAY>いつか俺の走りで夢中にさせてみせるぜ！<END>
+<COLOR><GRAY>her go crazy for my driving！<END>
 //POINTER #884 @ $32DF0 - STRING #884 @ $281E4
 
 #W32($32DF0)
@@ -18600,7 +18505,7 @@
 //POINTER #886 @ $32E38 - STRING #886 @ $28204
 
 #W32($32E38)
-<END>
+<COLOR><GRAY>to ensure accountability for their statements．<END>
 //POINTER #887 @ $32E5C - STRING #887 @ $28206
 
 #W32($32E5C)
@@ -18608,11 +18513,11 @@
 //POINTER #888 @ $32E80 - STRING #888 @ $28208
 
 #W32($32E80)
-<COLOR><GRAY>友人から借りたスバル車に乗ってたんだけどな。<END>
+<COLOR><GRAY>I was driving my friend's Subaru that i borrowed．<END>
 //POINTER #889 @ $32EA4 - STRING #889 @ $2823C
 
 #W32($32EA4)
-<COLOR><GRAY>ランクＢの首都高サーキット（内）にいっとけ。<END>
+<COLOR><GRAY>should head to the Rank B Shutoko-Inner Circuit．<END>
 //POINTER #890 @ $32EC8 - STRING #890 @ $28270
 
 #W32($32EC8)
@@ -18620,11 +18525,11 @@
 //POINTER #891 @ $32EEC - STRING #891 @ $28272
 
 #W32($32EEC)
-<COLOR><GRAY>最初から軽い車に乗ればいいのに。<END>
+<COLOR><GRAY>Should've have just started with a lighter car．<END>
 //POINTER #892 @ $32F10 - STRING #892 @ $2829A
 
 #W32($32F10)
-<END>
+<COLOR><GRAY>It seems to be also poster related（’∇’）ゝ<END>
 //POINTER #893 @ $32F34 - STRING #893 @ $2829C
 
 #W32($32F34)
@@ -18632,43 +18537,43 @@
 //POINTER #894 @ $32F58 - STRING #894 @ $2829E
 
 #W32($32F58)
-<COLOR><GRAY>相当気まぐれだね。<END>
+<COLOR><GRAY>was really unpredictable．<END>
 //POINTER #895 @ $32F7C - STRING #895 @ $282B8
 
 #W32($32F7C)
-<COLOR><GRAY>またセッティングやり直しだよヽ（´ー｀）ノ<END>
+<COLOR><GRAY>all over again from switching to stock ヽ（´ー｀）ノ<END>
 //POINTER #896 @ $32FA0 - STRING #896 @ $282EA
 
 #W32($32FA0)
-<COLOR><GRAY>家庭の事情で３日に１度しか来られないらしいから。<END>
+<COLOR><GRAY>They come once every three days due to family reasons．<END>
 //POINTER #897 @ $32FC4 - STRING #897 @ $28322
 
 #W32($32FC4)
-<COLOR><GRAY>ワンダラーがいるんだよね。<END>
+<END>
 //POINTER #898 @ $32FE8 - STRING #898 @ $28344
 
 #W32($32FE8)
-<COLOR><GRAY>まだ走行距離の短い車で挑んでみたら？<END>
+<COLOR><GRAY>maybe challenge him with a low mileage car？<END>
 //POINTER #899 @ $3300C - STRING #899 @ $28370
 
 #W32($3300C)
-<COLOR><GRAY>なりたいので、日光サーキットに来て欲しいじょ。<END>
+<COLOR><GRAY>you to come to Nikko．<END>
 //POINTER #900 @ $33030 - STRING #900 @ $283A6
 
 #W32($33030)
-<COLOR><GRAY>そこで人探ししてるワンダラーいたな。<END>
+<COLOR><GRAY>there was a Wanderer that was looking for people there．<END>
 //POINTER #901 @ $33054 - STRING #901 @ $283D2
 
 #W32($33054)
-<COLOR><GRAY>オーバルサーキットが、ちとやっかいかな。<END>
+<COLOR><GRAY>Maybe even the Oval Circuit、which is tricky．<END>
 //POINTER #902 @ $33078 - STRING #902 @ $28402
 
 #W32($33078)
-<COLOR><GRAY>それはランクＡの鈴鹿サーキットだから別人か。<END>
+<COLOR><GRAY>was Rank A Suzuka Circuit、it must be someone else．<END>
 //POINTER #903 @ $3309C - STRING #903 @ $28436
 
 #W32($3309C)
-<COLOR><GRAY>鈴鹿サーキットのランクＡイベントで待つ！<END>
+<COLOR><GRAY>I'll be waiting at the Rank A Suzuka Circuit！<END>
 //POINTER #904 @ $330C0 - STRING #904 @ $28466
 
 #W32($330C0)
