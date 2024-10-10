@@ -14,7 +14,7 @@
 | `228.bin` | $\color{green}{\textsf{100}}$% |
 | `229.bin` | $\color{green}{\textsf{100}}$% |
 | `230.bin` | $\color{green}{\textsf{100}}$% |
-| `231.bin` | 75.8% |
+| `231.bin` | 80% |
 | `737.bin` | $\color{green}{\textsf{100}}$% |
 | `Textures` |  $\color{green}{\textsf{100}}$% |
 | `Cutscenes` |   99% |

@@ -4633,184 +4633,64 @@
 //POINTER #950 @ $3372C - STRING #950 @ $D326
 
 #W32($3372C)
-<COLOR><GRAY>re：Brake assist<END>
-//POINTER #951 @ $33750 - STRING #951 @ $D344
-
 #W32($33750)
-<COLOR><GRAY>re：Brake assist<END>
-//POINTER #952 @ $33774 - STRING #952 @ $D362
-
 #W32($33774)
-<COLOR><GRAY>re：Brake assist<END>
-//POINTER #953 @ $33798 - STRING #953 @ $D380
-
 #W32($33798)
-<COLOR><GRAY>re：Brake assist<END>
-//POINTER #954 @ $337BC - STRING #954 @ $D39E
-
 #W32($337BC)
-<COLOR><GRAY>re：Brake assist<END>
-//POINTER #955 @ $337E0 - STRING #955 @ $D3BC
-
 #W32($337E0)
-<COLOR><GRAY>re：Brake assist<END>
-//POINTER #956 @ $33804 - STRING #956 @ $D3DA
-
 #W32($33804)
-<COLOR><GRAY>re：Brake assist<END>
-//POINTER #957 @ $33828 - STRING #957 @ $D3F8
-
 #W32($33828)
-<COLOR><GRAY>re：Brake assist<END>
-//POINTER #958 @ $3384C - STRING #958 @ $D416
-
 #W32($3384C)
 <COLOR><GRAY>re：Brake assist<END>
-//POINTER #959 @ $33870 - STRING #959 @ $D434
+//POINTER #951 @ $33750 - STRING #951 @ $D344
 
 #W32($33870)
 <COLOR><GRAY>Selecting BGM<END>
 //POINTER #960 @ $33894 - STRING #960 @ $D44A
 
 #W32($33894)
-<COLOR><GRAY>re：Selecting BGM<END>
-//POINTER #961 @ $338B8 - STRING #961 @ $D466
-
 #W32($338B8)
-<COLOR><GRAY>re：Selecting BGM<END>
-//POINTER #962 @ $338DC - STRING #962 @ $D482
-
 #W32($338DC)
-<COLOR><GRAY>re：Selecting BGM<END>
-//POINTER #963 @ $33900 - STRING #963 @ $D49E
-
 #W32($33900)
-<COLOR><GRAY>re：Selecting BGM<END>
-//POINTER #964 @ $33924 - STRING #964 @ $D4BA
-
 #W32($33924)
-<COLOR><GRAY>re：Selecting BGM<END>
-//POINTER #965 @ $33948 - STRING #965 @ $D4D6
-
 #W32($33948)
-<COLOR><GRAY>re：Selecting BGM<END>
-//POINTER #966 @ $3396C - STRING #966 @ $D4F2
-
 #W32($3396C)
-<COLOR><GRAY>re：Selecting BGM<END>
-//POINTER #967 @ $33990 - STRING #967 @ $D50E
-
 #W32($33990)
-<COLOR><GRAY>re：Selecting BGM<END>
-//POINTER #968 @ $339B4 - STRING #968 @ $D52A
-
 #W32($339B4)
-<COLOR><GRAY>re：Selecting BGM<END>
-//POINTER #969 @ $339D8 - STRING #969 @ $D546
-
 #W32($339D8)
-<COLOR><GRAY>re：Selecting BGM<END>
-//POINTER #970 @ $339FC - STRING #970 @ $D562
-
 #W32($339FC)
-<COLOR><GRAY>re：Selecting BGM<END>
-//POINTER #971 @ $33A20 - STRING #971 @ $D57E
-
 #W32($33A20)
 <COLOR><GRAY>re：Selecting BGM<END>
-//POINTER #972 @ $33A44 - STRING #972 @ $D59A
+//POINTER #961 @ $338B8 - STRING #961 @ $D466
 
 #W32($33A44)
 <COLOR><GRAY>Reasons to drive fast？<END>
 //POINTER #973 @ $33A68 - STRING #973 @ $D5BC
 
 #W32($33A68)
-<COLOR><GRAY>re：Reasons to drive fast？<END>
-//POINTER #974 @ $33A8C - STRING #974 @ $D5E4
-
 #W32($33A8C)
-<COLOR><GRAY>re：Reasons to drive fast？<END>
-//POINTER #975 @ $33AB0 - STRING #975 @ $D60C
-
 #W32($33AB0)
-<COLOR><GRAY>re：Reasons to drive fast？<END>
-//POINTER #976 @ $33AD4 - STRING #976 @ $D634
-
 #W32($33AD4)
-<COLOR><GRAY>re：Reasons to drive fast？<END>
-//POINTER #977 @ $33AF8 - STRING #977 @ $D65C
-
 #W32($33AF8)
-<COLOR><GRAY>re：Reasons to drive fast？<END>
-//POINTER #978 @ $33B1C - STRING #978 @ $D684
-
 #W32($33B1C)
-<COLOR><GRAY>re：Reasons to drive fast？<END>
-//POINTER #979 @ $33B40 - STRING #979 @ $D6AC
-
 #W32($33B40)
-<COLOR><GRAY>re：Reasons to drive fast？<END>
-//POINTER #980 @ $33B64 - STRING #980 @ $D6D4
-
 #W32($33B64)
-<COLOR><GRAY>re：Reasons to drive fast？<END>
-//POINTER #981 @ $33B88 - STRING #981 @ $D6FC
-
 #W32($33B88)
-<COLOR><GRAY>re：Reasons to drive fast？<END>
-//POINTER #982 @ $33BAC - STRING #982 @ $D724
-
 #W32($33BAC)
-<COLOR><GRAY>re：Reasons to drive fast？<END>
-//POINTER #983 @ $33BD0 - STRING #983 @ $D74C
-
 #W32($33BD0)
-<COLOR><GRAY>re：Reasons to drive fast？<END>
-//POINTER #984 @ $33BF4 - STRING #984 @ $D774
-
 #W32($33BF4)
-<COLOR><GRAY>re：Reasons to drive fast？<END>
-//POINTER #985 @ $33C18 - STRING #985 @ $D79C
-
 #W32($33C18)
-<COLOR><GRAY>re：Reasons to drive fast？<END>
-//POINTER #986 @ $33C3C - STRING #986 @ $D7C4
-
 #W32($33C3C)
-<COLOR><GRAY>re：Reasons to drive fast？<END>
-//POINTER #987 @ $33C60 - STRING #987 @ $D7EC
-
 #W32($33C60)
-<COLOR><GRAY>re：Reasons to drive fast？<END>
-//POINTER #988 @ $33C84 - STRING #988 @ $D814
-
 #W32($33C84)
-<COLOR><GRAY>re：Reasons to drive fast？<END>
-//POINTER #989 @ $33CA8 - STRING #989 @ $D83C
-
 #W32($33CA8)
-<COLOR><GRAY>re：Reasons to drive fast？<END>
-//POINTER #990 @ $33CCC - STRING #990 @ $D864
-
 #W32($33CCC)
-<COLOR><GRAY>re：Reasons to drive fast？<END>
-//POINTER #991 @ $33CF0 - STRING #991 @ $D88C
-
 #W32($33CF0)
-<COLOR><GRAY>re：Reasons to drive fast？<END>
-//POINTER #992 @ $33D14 - STRING #992 @ $D8B4
-
 #W32($33D14)
-<COLOR><GRAY>re：Reasons to drive fast？<END>
-//POINTER #993 @ $33D38 - STRING #993 @ $D8DC
-
 #W32($33D38)
-<COLOR><GRAY>re：Reasons to drive fast？<END>
-//POINTER #994 @ $33D5C - STRING #994 @ $D904
-
 #W32($33D5C)
 <COLOR><GRAY>re：Reasons to drive fast？<END>
-//POINTER #995 @ $33D80 - STRING #995 @ $D92C
+//POINTER #974 @ $33A8C - STRING #974 @ $D5E4
 
 #W32($33D80)
 <COLOR><GRAY>Body paint<END>
@@ -8925,215 +8805,215 @@
 //POINTER #905 @ $330DC - STRING #905 @ $170EE
 
 #W32($33538)
-<COLOR><GRAY>ＳＰバトル中、すごく可愛い子を見かけたんだけど<END>
+<COLOR><GRAY>During SP Battle、I saw this really cute girl、<END>
 //POINTER #937 @ $3355C - STRING #937 @ $17298
 
 #W32($3355C)
-<COLOR><GRAY>名前も分からなかったけど<END>
+<COLOR><GRAY>I didn't even catch her name、but I will keep going back<END>
 //POINTER #938 @ $33580 - STRING #938 @ $172B8
 
 #W32($33580)
-<COLOR><GRAY>ご愁傷様（￣人￣）<END>
+<COLOR><GRAY>Sorry for your loss（￣人￣）I mean、<END>
 //POINTER #939 @ $335A4 - STRING #939 @ $172D2
 
 #W32($335A4)
-<COLOR><GRAY>そんな手があったかΣ（￣□￣；）<END>
+<COLOR><GRAY>I didn't know that's possible Σ（￣□￣；）<END>
 //POINTER #940 @ $335C8 - STRING #940 @ $172FA
 
 #W32($335C8)
-<COLOR><GRAY>なんか進展あったら報告ヨロ（笑）<END>
+<COLOR><GRAY>Let us know of any progress（lol）<END>
 //POINTER #941 @ $335EC - STRING #941 @ $17322
 
 #W32($335EC)
-<COLOR><GRAY>参加するイベントを選択する画面で<COLOR><RED>Ｒ１ボタン<COLOR><GRAY>を押すと<END>
+<COLOR><GRAY>When on the event selection screen、press the <COLOR><RED>R1 Button<END>
 //POINTER #942 @ $33610 - STRING #942 @ $17368
 
 #W32($33610)
-<COLOR><GRAY>ソレダ━━━━（゜∀゜）━━━━！！<END>
+<COLOR><GRAY>That's it ━━━━（゜∀゜）━━━━！！<END>
 //POINTER #943 @ $33634 - STRING #943 @ $17394
 
 #W32($33634)
-<COLOR><GRAY>雨の日ってユウウツだよね。<END>
+<COLOR><GRAY>Rainy days are suuch a chore．<END>
 //POINTER #944 @ $33658 - STRING #944 @ $173B6
 
 #W32($33658)
-<COLOR><GRAY>雨の日にだって良いことはあるぞ。<END>
+<COLOR><GRAY>Rainy days can be a good thing too．<END>
 //POINTER #945 @ $3367C - STRING #945 @ $173DE
 
 #W32($3367C)
-<COLOR><GRAY>雨で運転が難しくなるのは、自分だけじゃない。<END>
+<COLOR><GRAY>It's not just you、though．Driving gets tougher for<END>
 //POINTER #946 @ $336A0 - STRING #946 @ $17412
 
 #W32($336A0)
-<COLOR><GRAY>と言うことはだ、ＨＧタイヤをはいて、<END>
+<COLOR><GRAY>So that means、if you equip HG tires and properly prepare<END>
 //POINTER #947 @ $336C4 - STRING #947 @ $1743E
 
 #W32($336C4)
-<COLOR><GRAY>だから、普段、勝てないライバルがいたら<END>
+<COLOR><GRAY>So、if you have a rival you usually struggle to beat、<END>
 //POINTER #948 @ $336E8 - STRING #948 @ $1746C
 
 #W32($336E8)
-<COLOR><GRAY>なるほど。<END>
+<COLOR><GRAY>I see．<END>
 //POINTER #949 @ $3370C - STRING #949 @ $1747E
 
 #W32($3370C)
-<COLOR><GRAY>オプションで<COLOR><RED>ブレーキアシスト<COLOR><GRAY>って言う機能を<END>
+<COLOR><GRAY>I found a feature called <COLOR><RED>Brake Assist<COLOR><GRAY> in the options．<END>
 //POINTER #950 @ $33730 - STRING #950 @ $174BC
 
 #W32($33730)
-<COLOR><GRAY>もちろん！　超便利だよ！<END>
+<COLOR><GRAY>Of course！　It's super convenient！<END>
 //POINTER #951 @ $33754 - STRING #951 @ $174DC
 
 #W32($33754)
-<COLOR><GRAY>遅レスですが、じゃあ<END>
+<COLOR><GRAY>Sorry for the late reply、but that means it's fine to<END>
 //POINTER #952 @ $33778 - STRING #952 @ $174F8
 
 #W32($33778)
-<COLOR><GRAY>んー、まあ、はじめのうちはいいんじゃないかな。<END>
+<COLOR><GRAY>Hmm、well、I think it's fine to use at the beginning．<END>
 //POINTER #953 @ $3379C - STRING #953 @ $1752E
 
 #W32($3379C)
-<COLOR><GRAY>えー、なんで～？<END>
+<COLOR><GRAY>Eehー、whyyy～？<END>
 //POINTER #954 @ $337C0 - STRING #954 @ $17546
 
 #W32($337C0)
-<COLOR><GRAY>いつまでも機械に頼ってたら上達しないし。<END>
+<COLOR><GRAY>If you keep relying on machines、you won't improve．<END>
 //POINTER #955 @ $337E4 - STRING #955 @ $17576
 
 #W32($337E4)
-<COLOR><GRAY>上のランクに上がると、<END>
+<COLOR><GRAY>It's going to work against you、<END>
 //POINTER #956 @ $33808 - STRING #956 @ $17594
 
 #W32($33808)
-<COLOR><GRAY>じゃあ、上を目指すんだったら、<END>
+<COLOR><GRAY>So、if I want to rank up、<END>
 //POINTER #957 @ $3382C - STRING #957 @ $175BA
 
 #W32($3382C)
-<COLOR><GRAY>使い方次第だと思うよ（笑）<END>
+<COLOR><GRAY>I think it depends on how you use it（lol）<END>
 //POINTER #958 @ $33850 - STRING #958 @ $175DC
 
 #W32($33850)
-<COLOR><GRAY>ありがとうございました。<END>
+<COLOR><GRAY>Thank you very much．<END>
 //POINTER #959 @ $33874 - STRING #959 @ $175FC
 
 #W32($33874)
-<COLOR><GRAY>最高のドライビングには、最高の音楽が欠かせない。<END>
+<COLOR><GRAY>Great driving needs great music．<END>
 //POINTER #960 @ $33898 - STRING #960 @ $17634
 
 #W32($33898)
-<COLOR><GRAY>取りあえず基礎知識。<END>
+<COLOR><GRAY>Starting off with the basics．<END>
 //POINTER #961 @ $338BC - STRING #961 @ $17650
 
 #W32($338BC)
-<COLOR><GRAY>セットするサウンドは、もともと用意されているもの<END>
+<COLOR><GRAY>In addition to the usual music、<END>
 //POINTER #962 @ $338E0 - STRING #962 @ $17688
 
 #W32($338E0)
-<COLOR><GRAY>テンプレはこんなとこかな？<END>
+<COLOR><GRAY>Is that standard？<END>
 //POINTER #963 @ $33904 - STRING #963 @ $176AA
 
 #W32($33904)
-<COLOR><GRAY>また新たなイイ音楽、<END>
+<COLOR><GRAY>Let's keep chatting、<END>
 //POINTER #964 @ $33928 - STRING #964 @ $176C6
 
 #W32($33928)
-<COLOR><GRAY>ダンサーの俺らに<END>
+<COLOR><GRAY>It's tough for us dancers to express ourselves in words、<END>
 //POINTER #965 @ $3394C - STRING #965 @ $176DE
 
 #W32($3394C)
-<COLOR><GRAY>あんま、難しく考えなくていいんじゃない。<END>
+<COLOR><GRAY>No need to overthink it．Just write what comes to mind、<END>
 //POINTER #966 @ $33970 - STRING #966 @ $1770E
 
 #W32($33970)
-<COLOR><GRAY>そう言うことだ。<END>
+<COLOR><GRAY>That's the truth．<END>
 //POINTER #967 @ $33994 - STRING #967 @ $17726
 
 #W32($33994)
-<COLOR><GRAY>この間乗せてもらった車で<END>
+<COLOR><GRAY>So now I know why I've heard unfamiliar music in a car<END>
 //POINTER #968 @ $339B8 - STRING #968 @ $17746
 
 #W32($339B8)
-<COLOR><GRAY>首都高バトル……街道バトル……<END>
+<COLOR><GRAY>Shutokou Battle……Kaidou Battle……<END>
 //POINTER #969 @ $339DC - STRING #969 @ $1776C
 
 #W32($339DC)
-<COLOR><GRAY>名前は毎回違うけどね（笑）<END>
+<COLOR><GRAY>The names are different everytime、though（lol）<END>
 //POINTER #970 @ $33A00 - STRING #970 @ $1778E
 
 #W32($33A00)
-<COLOR><GRAY>ＳＰバトルは首都高バトル<END>
+<COLOR><GRAY>SP Battles with Shutokou Battle、<END>
 //POINTER #971 @ $33A24 - STRING #971 @ $177AE
 
 #W32($33A24)
-<COLOR><GRAY>ベタベタだな。<END>
+<COLOR><GRAY>That's too cliche．<END>
 //POINTER #972 @ $33A48 - STRING #972 @ $177C4
 
 #W32($33A48)
-<COLOR><GRAY>汝は、なんのために速く走るのか？<END>
+<COLOR><GRAY>For what purpose does one race fast？<END>
 //POINTER #973 @ $33A6C - STRING #973 @ $177EC
 
 #W32($33A6C)
-<COLOR><GRAY>そりゃあ、やっぱ、Ｃ１ＧＰに出場して<END>
+<COLOR><GRAY>Well、of course、it's to enter the C1 Grand Prix<END>
 //POINTER #974 @ $33A90 - STRING #974 @ $17818
 
 #W32($33A90)
-<COLOR><GRAY>漢の戦いに理由なんか無い！<END>
+<COLOR><GRAY>For a man of honor battle needs no reason！<END>
 //POINTER #975 @ $33AB4 - STRING #975 @ $1783A
 
 #W32($33AB4)
-<COLOR><GRAY>なんか、ちょっと違うんじゃねーの？（笑）<END>
+<COLOR><GRAY>Isn't that a little off？（lol）<END>
 //POINTER #976 @ $33AD8 - STRING #976 @ $1786A
 
 #W32($33AD8)
-<COLOR><GRAY>ふっ……人は俺のことを<END>
+<COLOR><GRAY>Heh……people call me<END>
 //POINTER #977 @ $33AFC - STRING #977 @ $17888
 
 #W32($33AFC)
-<COLOR><GRAY>ナニ？　ナニ？<END>
+<COLOR><GRAY>What？ Come again？<END>
 //POINTER #978 @ $33B20 - STRING #978 @ $1789E
 
 #W32($33B20)
-<COLOR><GRAY>「エロエロ大魔王」？<END>
+<COLOR><GRAY>「Ero Ero Big Demon」？<END>
 //POINTER #979 @ $33B44 - STRING #979 @ $178BA
 
 #W32($33B44)
-<COLOR><GRAY>わかってネーな～。<END>
+<COLOR><GRAY>You just don't get it～<END>
 //POINTER #980 @ $33B68 - STRING #980 @ $178D4
 
 #W32($33B68)
-<COLOR><GRAY>なんか、ちょっと強そう鴨？（笑）<END>
+<COLOR><GRAY>So、you're like a strong easy target？（lol）<END>
 //POINTER #981 @ $33B8C - STRING #981 @ $178FC
 
 #W32($33B8C)
-<COLOR><GRAY>心血注いで、持てる財力全てを投げ打って、<END>
+<COLOR><GRAY>「Demon King」、the title of the car I pour my heart<END>
 //POINTER #982 @ $33BB0 - STRING #982 @ $1792C
 
 #W32($33BB0)
-<COLOR><GRAY>と言っても「速い」とはかぎらねーよな（笑）<END>
+<COLOR><GRAY>But that doesn't give it the「Fast」title、does it（lol）<END>
 //POINTER #983 @ $33BD4 - STRING #983 @ $1795E
 
 #W32($33BD4)
-<COLOR><GRAY>きっ、貴様～！　勝負してやる～！<END>
+<COLOR><GRAY>Tch、you～！　I'll take you on～！<END>
 //POINTER #984 @ $33BF8 - STRING #984 @ $17986
 
 #W32($33BF8)
-<COLOR><GRAY>それじゃ「借金魔王」っぷりに拍車がかかるな（笑）<END>
+<COLOR><GRAY>Well、that'll just add to your「Great Debt Demon」title<END>
 //POINTER #985 @ $33C1C - STRING #985 @ $179BE
 
 #W32($33C1C)
-<COLOR><GRAY>そうだな、個人的に思う漢のレーシング仕様……。<END>
+<COLOR><GRAY>Well、here's what I think is a real man's racing setup……<END>
 //POINTER #986 @ $33C40 - STRING #986 @ $179F4
 
 #W32($33C40)
-<COLOR><GRAY>②ピストン形状は、<END>
+<COLOR><GRAY>②Ideal piston shape is one that opens like an umbrella<END>
 //POINTER #987 @ $33C64 - STRING #987 @ $17A0E
 
 #W32($33C64)
-<COLOR><GRAY>③ピストンヘッドがバルブに当たるか当たらないかの<END>
+<COLOR><GRAY>③I like when the piston head just barely hits or misses<END>
 //POINTER #988 @ $33C88 - STRING #988 @ $17A46
 
 #W32($33C88)
-<COLOR><GRAY>やっぱ、見方によっちゃ<END>
+<COLOR><GRAY>Well、he is the<END>
 //POINTER #989 @ $33CAC - STRING #989 @ $17A64
 
 #W32($33CAC)
@@ -9141,23 +9021,23 @@
 //POINTER #990 @ $33CD0 - STRING #990 @ $17A7A
 
 #W32($33CD0)
-<COLOR><GRAY>お、おちついてヽ（´ー｀）ノ<END>
+<COLOR><GRAY>Oy、calm down ヽ（´ー｀）ノ<END>
 //POINTER #991 @ $33CF4 - STRING #991 @ $17A9E
 
 #W32($33CF4)
-<COLOR><GRAY>ま、チューンするのも、タイムを極めるのも<END>
+<COLOR><GRAY>Well、whether it's tuning or pushing times、<END>
 //POINTER #992 @ $33D18 - STRING #992 @ $17ACE
 
 #W32($33D18)
-<COLOR><GRAY>漢のロマンっすね（＊´д｀＊）<END>
+<COLOR><GRAY>A man's romance、for sure（＊´д｀＊）<END>
 //POINTER #993 @ $33D3C - STRING #993 @ $17AF4
 
 #W32($33D3C)
-<COLOR><GRAY>ダイノパックで馬力測定してこよーっと！<END>
+<COLOR><GRAY>I'm off to measure my horsepower on the dyno pack！<END>
 //POINTER #994 @ $33D60 - STRING #994 @ $17B22
 
 #W32($33D60)
-<COLOR><GRAY>漢と書いて「おとこ」と読む。<END>
+<COLOR><GRAY>Is the「Honorable」title being switched around with<END>
 //POINTER #995 @ $33D84 - STRING #995 @ $17B46
 
 #W32($33D84)
@@ -13773,19 +13653,19 @@
 //POINTER #936 @ $3353C - STRING #936 @ $21862
 
 #W32($3353C)
-<COLOR><GRAY>見とれてたらブレーキ踏むの遅れてスピンしちゃって<END>
+<COLOR><GRAY>but I got so distracted that I braked too late、spun out、<END>
 //POINTER #937 @ $33560 - STRING #937 @ $2189A
 
 #W32($33560)
-<COLOR><GRAY>あの娘にもう一度会うために<END>
+<COLOR><GRAY>to that circuit until I see her again<END>
 //POINTER #938 @ $33584 - STRING #938 @ $218BC
 
 #W32($33584)
-<COLOR><GRAY>つーか、パドックに戻ったら<COLOR><RED>出走ライバル<COLOR><GRAY>見れ。<END>
+<COLOR><GRAY>you can just check the <COLOR><RED>rival list<COLOR><GRAY> back in the paddock．<END>
 //POINTER #939 @ $335A8 - STRING #939 @ $218FC
 
 #W32($335A8)
-<COLOR><GRAY>うわーん、俺のバカー。<END>
+<COLOR><GRAY>Uwaah、my dumb ass．<END>
 //POINTER #940 @ $335CC - STRING #940 @ $2191A
 
 #W32($335CC)
@@ -13793,15 +13673,15 @@
 //POINTER #941 @ $335F0 - STRING #941 @ $2191C
 
 #W32($335F0)
-<COLOR><GRAY>そのイベントに出場するライバルのリストが見られる。<END>
+<COLOR><GRAY>to see a list of rivals participating in that event．<END>
 //POINTER #942 @ $33614 - STRING #942 @ $21956
 
 #W32($33614)
-<COLOR><GRAY>……って、まだ名前を知らないから、<END>
+<COLOR><GRAY>……wait、I still don't know her name、<END>
 //POINTER #943 @ $33638 - STRING #943 @ $21980
 
 #W32($33638)
-<COLOR><GRAY>地面は滑りやすいから、ＲＰは減りやすいし。<END>
+<COLOR><GRAY>The ground is slippery and you lose RP easily．<END>
 //POINTER #944 @ $3365C - STRING #944 @ $219B2
 
 #W32($3365C)
@@ -13809,35 +13689,35 @@
 //POINTER #945 @ $33680 - STRING #945 @ $219D0
 
 #W32($33680)
-<COLOR><GRAY>俺の見たところ、晴れのときに比べて、<END>
+<COLOR><GRAY>everyone in the rain．From what I've seen、cornering<END>
 //POINTER #946 @ $336A4 - STRING #946 @ $219FC
 
 #W32($336A4)
-<COLOR><GRAY>しっかり雨の対策をすれば、<END>
+<COLOR><GRAY>for rain、you'll have a relative advantage．<END>
 //POINTER #947 @ $336C8 - STRING #947 @ $21A1E
 
 #W32($336C8)
-<COLOR><GRAY>雨の日に狙ってみるのもいいんじゃないかな？<END>
+<COLOR><GRAY>maybe try to target them on a rainy day？<END>
 //POINTER #948 @ $336EC - STRING #948 @ $21A50
 
 #W32($336EC)
-<COLOR><GRAY>ＨＧタイヤ買っとかなくっちゃ。<END>
+<COLOR><GRAY>I'll have to buy some HG tires．<END>
 //POINTER #949 @ $33710 - STRING #949 @ $21A76
 
 #W32($33710)
-<COLOR><GRAY>見つけたんですが、皆さん使ってますか？<END>
+<COLOR><GRAY>Are you guys using it？<END>
 //POINTER #950 @ $33734 - STRING #950 @ $21AA4
 
 #W32($33734)
-<COLOR><GRAY>どんなコーナーもスイスイスイ♪<END>
+<COLOR><GRAY>Makes cornering a breeze♪<END>
 //POINTER #951 @ $33758 - STRING #951 @ $21ACA
 
 #W32($33758)
-<COLOR><GRAY>遠慮無く使っていいんですね（’∇’）ゝ<END>
+<COLOR><GRAY>use without hesitation、right？（’∇’）ゝ<END>
 //POINTER #952 @ $3377C - STRING #952 @ $21AF8
 
 #W32($3377C)
-<COLOR><GRAY>でも、コースに慣れてきたら、止めた方がいいと思う。<END>
+<COLOR><GRAY>However、it's better to turn it off<END>
 //POINTER #953 @ $337A0 - STRING #953 @ $21B32
 
 #W32($337A0)
@@ -13845,63 +13725,63 @@
 //POINTER #954 @ $337C4 - STRING #954 @ $21B34
 
 #W32($337C4)
-<COLOR><GRAY>それに上手くなったら、やっぱり人間の方が<END>
+<COLOR><GRAY>Additionaly、once you get better、you can make more<END>
 //POINTER #955 @ $337E8 - STRING #955 @ $21B64
 
 #W32($337E8)
-<COLOR><GRAY>通用しなくなっていくと思う。<END>
+<COLOR><GRAY>once you move up in rank．<END>
 //POINTER #956 @ $3380C - STRING #956 @ $21B88
 
 #W32($3380C)
-<COLOR><GRAY>使わない方がいいですかね？<END>
+<COLOR><GRAY>I need to turn it off、right？<END>
 //POINTER #957 @ $33830 - STRING #957 @ $21BAA
 
 #W32($33830)
-<COLOR><GRAY>慣れないうちは、サーキットの減速ポイントとかを<END>
+<COLOR><GRAY>When you're on a circuit you're not used to、<END>
 //POINTER #958 @ $33854 - STRING #958 @ $21BE0
 
 #W32($33854)
-<COLOR><GRAY>大変、参考になりましたｍ（＿＿）ｍ<END>
+<COLOR><GRAY>You were of great help． ｍ（＿＿）ｍ<END>
 //POINTER #959 @ $33878 - STRING #959 @ $21C0A
 
 #W32($33878)
-<COLOR><GRAY>フェバリットなＢＧＭをセレクトして<END>
+<COLOR><GRAY>Let's select our favourite BGM's<END>
 //POINTER #960 @ $3389C - STRING #960 @ $21C34
 
 #W32($3389C)
-<COLOR><GRAY>ＢＧＭは<COLOR><RED>オプション<COLOR><GRAY>の<COLOR><RED>ＢＧＭセレクト<COLOR><GRAY>で<END>
+<COLOR><GRAY>You can freely set the BGM at the <COLOR><RED>OPTIONS<END>
 //POINTER #961 @ $338C0 - STRING #961 @ $21C78
 
 #W32($338C0)
-<COLOR><GRAY>に加えて、スーパーオートバックスで首都高バトルと<END>
+<COLOR><GRAY>you can buy music sets from Shutokou Battle<END>
 //POINTER #962 @ $338E4 - STRING #962 @ $21CB0
 
 #W32($338E4)
-<COLOR><GRAY>パーツを買うか、サウンドを買うかで<END>
+<COLOR><GRAY>Makes me struggle between buying parts or music（lol）<END>
 //POINTER #963 @ $33908 - STRING #963 @ $21CDA
 
 #W32($33908)
-<COLOR><GRAY>イイ友達に巡りあえる事を願いながら<END>
+<COLOR><GRAY>hoping to discover great music and to find<END>
 //POINTER #964 @ $3392C - STRING #964 @ $21D04
 
 #W32($3392C)
-<COLOR><GRAY>文字で語れって言われてもな。<END>
+<COLOR><GRAY>right？ We've got no talent for that（lol）<END>
 //POINTER #965 @ $33950 - STRING #965 @ $21D28
 
 #W32($33950)
-<COLOR><GRAY>思ったことを、そのままストレートに書けば。<END>
+<COLOR><GRAY>is all．<END>
 //POINTER #966 @ $33974 - STRING #966 @ $21D5A
 
 #W32($33974)
-<COLOR><GRAY>ライムの善し悪しだって、文才じゃない。<END>
+<COLOR><GRAY>Whether the rhymes are good or bad<END>
 //POINTER #967 @ $33998 - STRING #967 @ $21D88
 
 #W32($33998)
-<COLOR><GRAY>聞いたことのない音楽が流れてたのは<END>
+<COLOR><GRAY>I was given a ride in the other day！<END>
 //POINTER #968 @ $339BC - STRING #968 @ $21DB2
 
 #W32($339BC)
-<COLOR><GRAY>あのサウンドを聴くと、<END>
+<COLOR><GRAY>Hearing that music brings back some memories<END>
 //POINTER #969 @ $339E0 - STRING #969 @ $21DD0
 
 #W32($339E0)
@@ -13909,11 +13789,11 @@
 //POINTER #970 @ $33A04 - STRING #970 @ $21DD2
 
 #W32($33A04)
-<COLOR><GRAY>ＤＰバトルは街道バトル<END>
+<COLOR><GRAY>DP Battles with Kaidou Battle、<END>
 //POINTER #971 @ $33A28 - STRING #971 @ $21DF0
 
 #W32($33A28)
-<COLOR><GRAY>もっと冒険しないと、<END>
+<COLOR><GRAY>We can't creake a new music scene<END>
 //POINTER #972 @ $33A4C - STRING #972 @ $21E0C
 
 #W32($33A4C)
@@ -13921,11 +13801,11 @@
 //POINTER #973 @ $33A70 - STRING #973 @ $21E0E
 
 #W32($33A70)
-<COLOR><GRAY>サーキットの頂点に登り詰めるためでしょう。<END>
+<COLOR><GRAY>and reach the top of the circuits．<END>
 //POINTER #974 @ $33A94 - STRING #974 @ $21E40
 
 #W32($33A94)
-<COLOR><GRAY>漢のチューンに終わりは無い！<END>
+<COLOR><GRAY>A honorable driver's tuning knowns no end！<END>
 //POINTER #975 @ $33AB8 - STRING #975 @ $21E64
 
 #W32($33AB8)
@@ -13933,11 +13813,11 @@
 //POINTER #976 @ $33ADC - STRING #976 @ $21E66
 
 #W32($33ADC)
-<COLOR><GRAY>孤独な「魔王」と呼ぶ……。<END>
+<COLOR><GRAY>the Lone「Demon King」……<END>
 //POINTER #977 @ $33B00 - STRING #977 @ $21E88
 
 #W32($33B00)
-<COLOR><GRAY>「改造大魔王」？<END>
+<COLOR><GRAY>「Big Overhaul Demon」？<END>
 //POINTER #978 @ $33B24 - STRING #978 @ $21EA0
 
 #W32($33B24)
@@ -13945,7 +13825,7 @@
 //POINTER #979 @ $33B48 - STRING #979 @ $21EA2
 
 #W32($33B48)
-<COLOR><GRAY>「借金大魔王」に決まってんじゃねーか（；´д⊂）<END>
+<COLOR><GRAY>I'm the「Great Debt Demon」、of course（；´д⊂）<END>
 //POINTER #980 @ $33B6C - STRING #980 @ $21EDA
 
 #W32($33B6C)
@@ -13953,7 +13833,7 @@
 //POINTER #981 @ $33B90 - STRING #981 @ $21EDC
 
 #W32($33B90)
-<COLOR><GRAY>製作する車の称号が「魔王」。<END>
+<COLOR><GRAY>and soul into、investing everything．<END>
 //POINTER #982 @ $33BB4 - STRING #982 @ $21F00
 
 #W32($33BB4)
@@ -13961,31 +13841,31 @@
 //POINTER #983 @ $33BD8 - STRING #983 @ $21F02
 
 #W32($33BD8)
-<COLOR><GRAY>で、負けたらまた改造してやる～！！ヽ（｀Д´）ノ<END>
+<COLOR><GRAY>And if I lose、I'll just overhaul again～！！<END>
 //POINTER #984 @ $33BFC - STRING #984 @ $21F3A
 
 #W32($33BFC)
-<COLOR><GRAY>どんな車が理想なんだ？<END>
+<COLOR><GRAY>（lol）What kind of car would you find ideal？<END>
 //POINTER #985 @ $33C20 - STRING #985 @ $21F58
 
 #W32($33C20)
-<COLOR><GRAY>①ピストン＆コンロッドともに頑丈。<END>
+<COLOR><GRAY>①Both pistons ＆ connecting rods need to be sturdy．<END>
 //POINTER #986 @ $33C44 - STRING #986 @ $21F82
 
 #W32($33C44)
-<COLOR><GRAY>　コンロッドの先にバッと傘が開いているのが理想。<END>
+<COLOR><GRAY>　at the end of the connecting rod．<END>
 //POINTER #987 @ $33C68 - STRING #987 @ $21FBA
 
 #W32($33C68)
-<COLOR><GRAY>　ギリギリが良いなぁ。<END>
+<COLOR><GRAY>　the valves．<END>
 //POINTER #988 @ $33C8C - STRING #988 @ $21FD8
 
 #W32($33C8C)
-<COLOR><GRAY>「エロエロ大魔王」ジャン（笑）<END>
+<COLOR><GRAY>「Ero Ero Big Demon」after all（lol）<END>
 //POINTER #989 @ $33CB0 - STRING #989 @ $21FFE
 
 #W32($33CB0)
-<COLOR><GRAY>おっ、おまえらまで～！　勝負してやる～！<END>
+<COLOR><GRAY>Oh、you too～！　I'll battle you～！<END>
 //POINTER #990 @ $33CD4 - STRING #990 @ $2202E
 
 #W32($33CD4)
@@ -13993,7 +13873,7 @@
 //POINTER #991 @ $33CF8 - STRING #991 @ $22030
 
 #W32($33CF8)
-<COLOR><GRAY>己との戦いだよな。<END>
+<COLOR><GRAY>it's all a battle against myself．<END>
 //POINTER #992 @ $33D1C - STRING #992 @ $2204A
 
 #W32($33D1C)
@@ -14005,7 +13885,7 @@
 //POINTER #994 @ $33D64 - STRING #994 @ $2204E
 
 #W32($33D64)
-<COLOR><GRAY>これって常識（・ω・）？<END>
+<COLOR><GRAY>「Real Man」common knowledge（・ω・）？<END>
 //POINTER #995 @ $33D88 - STRING #995 @ $2206E
 
 #W32($33D88)
@@ -18705,15 +18585,15 @@
 //POINTER #936 @ $33540 - STRING #936 @ $284A6
 
 #W32($33540)
-<COLOR><GRAY>バトル申し込めなかったよ（；´Д｀）<END>
+<COLOR><GRAY>and couldn't challenge her to a battle（；´Д｀）<END>
 //POINTER #937 @ $33564 - STRING #937 @ $284D2
 
 #W32($33564)
-<COLOR><GRAY>あのサーキットに通い詰めるＺｅｅｅｅ（＊´д｀＊）<END>
+<COLOR><GRAY>（＊´д｀＊）<END>
 //POINTER #938 @ $33588 - STRING #938 @ $2850C
 
 #W32($33588)
-<COLOR><GRAY>名前どころかプロフィールまで載ってるよ。<END>
+<COLOR><GRAY>Not only is their name there、but the entire profile too．<END>
 //POINTER #939 @ $335AC - STRING #939 @ $2853C
 
 #W32($335AC)
@@ -18725,11 +18605,11 @@
 //POINTER #941 @ $335F4 - STRING #941 @ $28540
 
 #W32($335F4)
-<COLOR><GRAY>特定のライバルに会いたいときに使うと便利だよ。<END>
+<COLOR><GRAY>It's useful when looking to meet a specific rival．<END>
 //POINTER #942 @ $33618 - STRING #942 @ $28576
 
 #W32($33618)
-<COLOR><GRAY>意味が無かった○｜￣｜＿<END>
+<COLOR><GRAY>so it's completely pointless ○｜￣｜＿<END>
 //POINTER #943 @ $3363C - STRING #943 @ $28596
 
 #W32($3363C)
@@ -18741,11 +18621,11 @@
 //POINTER #945 @ $33684 - STRING #945 @ $2859A
 
 #W32($33684)
-<COLOR><GRAY>コーナリングの速度が１０％くらい遅くなってる。<END>
+<COLOR><GRAY>speeds are about 10％ lower compared to dry conditions．<END>
 //POINTER #946 @ $336A8 - STRING #946 @ $285D0
 
 #W32($336A8)
-<COLOR><GRAY>相対的に自分が有利になるってわけだ。<END>
+<END>
 //POINTER #947 @ $336CC - STRING #947 @ $285FC
 
 #W32($336CC)
@@ -18753,7 +18633,7 @@
 //POINTER #948 @ $336F0 - STRING #948 @ $285FE
 
 #W32($336F0)
-<COLOR><GRAY>〆（゜▽゜＊）メモメモ<END>
+<COLOR><GRAY>〆（゜▽゜＊）noted<END>
 //POINTER #949 @ $33714 - STRING #949 @ $2861C
 
 #W32($33714)
@@ -18769,7 +18649,7 @@
 //POINTER #952 @ $33780 - STRING #952 @ $28622
 
 #W32($33780)
-<END>
+<COLOR><GRAY>once you learn the track．<END>
 //POINTER #953 @ $337A4 - STRING #953 @ $28624
 
 #W32($337A4)
@@ -18777,7 +18657,7 @@
 //POINTER #954 @ $337C8 - STRING #954 @ $28626
 
 #W32($337C8)
-<COLOR><GRAY>的確な操作が可能だからね。<END>
+<COLOR><GRAY>precise maneuvers than machinery anyway．<END>
 //POINTER #955 @ $337EC - STRING #955 @ $28648
 
 #W32($337EC)
@@ -18789,7 +18669,7 @@
 //POINTER #957 @ $33834 - STRING #957 @ $2864C
 
 #W32($33834)
-<COLOR><GRAY>おぼえる手がかりとして有効だし。<END>
+<COLOR><GRAY>it can act as a guide in learning the braking points．<END>
 //POINTER #958 @ $33858 - STRING #958 @ $28674
 
 #W32($33858)
@@ -18797,27 +18677,27 @@
 //POINTER #959 @ $3387C - STRING #959 @ $28676
 
 #W32($3387C)
-<COLOR><GRAY>クールに決めようぜ♪<END>
+<COLOR><GRAY>and be cool♪<END>
 //POINTER #960 @ $338A0 - STRING #960 @ $28692
 
 #W32($338A0)
-<COLOR><GRAY>自由にセットすることができる。<END>
+<COLOR><GRAY>under the <COLOR><RED>BGM SELECT<COLOR><GRAY>．<END>
 //POINTER #961 @ $338C4 - STRING #961 @ $286B8
 
 #W32($338C4)
-<COLOR><GRAY>街道バトルのサウンドを買うことができる。<END>
+<COLOR><GRAY>and Kaidou Battle OST's at Super Autobacs．<END>
 //POINTER #962 @ $338E8 - STRING #962 @ $286E8
 
 #W32($338E8)
-<COLOR><GRAY>いつも迷うんだよね（笑）<END>
+<END>
 //POINTER #963 @ $3390C - STRING #963 @ $28708
 
 #W32($3390C)
-<COLOR><GRAY>語っていこう！<END>
+<COLOR><GRAY>awesome friends！<END>
 //POINTER #964 @ $33930 - STRING #964 @ $2871E
 
 #W32($33930)
-<COLOR><GRAY>文才なんかないぜ（笑）<END>
+<END>
 //POINTER #965 @ $33954 - STRING #965 @ $2873C
 
 #W32($33954)
@@ -18825,15 +18705,15 @@
 //POINTER #966 @ $33978 - STRING #966 @ $2873E
 
 #W32($33978)
-<END>
+<COLOR><GRAY>is not about writing talent．<END>
 //POINTER #967 @ $3399C - STRING #967 @ $28740
 
 #W32($3399C)
-<COLOR><GRAY>これだったのか！<END>
+<END>
 //POINTER #968 @ $339C0 - STRING #968 @ $28758
 
 #W32($339C0)
-<COLOR><GRAY>歴戦の記憶が次々と蘇ってくる……。<END>
+<COLOR><GRAY>from all my past battles……<END>
 //POINTER #969 @ $339E4 - STRING #969 @ $28782
 
 #W32($339E4)
@@ -18841,11 +18721,11 @@
 //POINTER #970 @ $33A08 - STRING #970 @ $28784
 
 #W32($33A08)
-<COLOR><GRAY>ＲＰバトルはレーシングバトルの曲にしてみた。<END>
+<COLOR><GRAY>RP Battles with Racing Battle music、is what I've set．<END>
 //POINTER #971 @ $33A2C - STRING #971 @ $287B8
 
 #W32($33A2C)
-<COLOR><GRAY>新しい音楽シーンは作れないぜ。<END>
+<COLOR><GRAY>if we won't take any risks．<END>
 //POINTER #972 @ $33A50 - STRING #972 @ $287DE
 
 #W32($33A50)
@@ -18857,7 +18737,7 @@
 //POINTER #974 @ $33A98 - STRING #974 @ $287E2
 
 #W32($33A98)
-<COLOR><GRAY>俺の財布に金は無い！（泣）<END>
+<COLOR><GRAY>My wallet knows no money！（crying）<END>
 //POINTER #975 @ $33ABC - STRING #975 @ $28804
 
 #W32($33ABC)
@@ -18877,7 +18757,7 @@
 //POINTER #979 @ $33B4C - STRING #979 @ $2880C
 
 #W32($33B4C)
-<COLOR><GRAY>そして、俺の車は通称「魔王号」なのだ。<END>
+<COLOR><GRAY>And my car？ It's the「Demon King Mobile」．<END>
 //POINTER #980 @ $33B70 - STRING #980 @ $2883A
 
 #W32($33B70)
@@ -18885,7 +18765,7 @@
 //POINTER #981 @ $33B94 - STRING #981 @ $2883C
 
 #W32($33B94)
-<COLOR><GRAY>男のロマンだな……（笑）<END>
+<COLOR><GRAY>That's a man's romance……（lol）<END>
 //POINTER #982 @ $33BB8 - STRING #982 @ $2885C
 
 #W32($33BB8)
@@ -18893,7 +18773,7 @@
 //POINTER #983 @ $33BDC - STRING #983 @ $2885E
 
 #W32($33BDC)
-<END>
+<COLOR><GRAY>ヽ（｀Д´）ノ<END>
 //POINTER #984 @ $33C00 - STRING #984 @ $28860
 
 #W32($33C00)
@@ -18901,11 +18781,11 @@
 //POINTER #985 @ $33C24 - STRING #985 @ $28862
 
 #W32($33C24)
-<COLOR><GRAY>　シリンダーより強くなくては！<END>
+<COLOR><GRAY>　Stronger than the cylinders！<END>
 //POINTER #986 @ $33C48 - STRING #986 @ $28888
 
 #W32($33C48)
-<COLOR><GRAY>こんなとこですが、なにか（’з’）<END>
+<COLOR><GRAY>That's all、I think（’з’）<END>
 //POINTER #987 @ $33C6C - STRING #987 @ $288B2
 
 #W32($33C6C)
@@ -18917,7 +18797,7 @@
 //POINTER #989 @ $33CB4 - STRING #989 @ $288B6
 
 #W32($33CB4)
-<COLOR><GRAY>で、負けたらまた改造してやる～！！ヽ（｀Д´）ノ<END>
+<COLOR><GRAY>And if I lose、I'll overhaul again～！！ヽ（｀Д´）ノ<END>
 //POINTER #990 @ $33CD8 - STRING #990 @ $288EE
 
 #W32($33CD8)
