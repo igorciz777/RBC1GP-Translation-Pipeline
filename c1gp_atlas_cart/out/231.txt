@@ -179,7 +179,7 @@
 #W32($33EC0)
 #W32($33F74)
 #W32($33FBC)
-#W32($34070)
+//should be bonnet artist
 #W32($34094)
 #W32($340DC)
 #W32($34124)
@@ -2843,10 +2843,11 @@
 //POINTER #1014 @ $34028 - STRING #1014 @ $56FC
 
 #W32($34028)
-<COLOR><GRAY>◎Bonnet Artist<END>
-//POINTER #1015 @ $3404C - STRING #1015 @ $571C
+<COLOR><GRAY>RB Newbie<END>
+//POINTER #1015 @ $3404C - STRING #1015 @ $571C //originally bonnet artist but post looks written by rb newbie and bonnet artist responds to it; mistake by the devs or schizophrenia lore??
 
 #W32($3404C)
+#W32($34070)
 <COLOR><GRAY>◎Bonnet Artist<END>
 //POINTER #1016 @ $34070 - STRING #1016 @ $573C
 
@@ -4697,595 +4698,265 @@
 //POINTER #996 @ $33DA4 - STRING #996 @ $D942
 
 #W32($33DA4)
+#W32($33DC8)
 <COLOR><GRAY>re：Body paint<END>
 //POINTER #997 @ $33DC8 - STRING #997 @ $D95E
 
-#W32($33DC8)
-<COLOR><GRAY>re：Body paint<END>
-//POINTER #998 @ $33DEC - STRING #998 @ $D97A
-
 #W32($33DEC)
-<COLOR><GRAY>まず始めに<END>
+<COLOR><GRAY>First of all<END>
 //POINTER #999 @ $33E10 - STRING #999 @ $D98C
 
 #W32($33E10)
-<COLOR><GRAY>re：まず始めに<END>
+#W32($33E34)
+#W32($33E58)
+#W32($33E7C)
+#W32($33EA0)
+#W32($33EC4)
+#W32($33EE8)
+<COLOR><GRAY>re：First of all<END>
 //POINTER #1000 @ $33E34 - STRING #1000 @ $D9A4
 
-#W32($33E34)
-<COLOR><GRAY>re：まず始めに<END>
-//POINTER #1001 @ $33E58 - STRING #1001 @ $D9BC
-
-#W32($33E58)
-<COLOR><GRAY>re：まず始めに<END>
-//POINTER #1002 @ $33E7C - STRING #1002 @ $D9D4
-
-#W32($33E7C)
-<COLOR><GRAY>re：まず始めに<END>
-//POINTER #1003 @ $33EA0 - STRING #1003 @ $D9EC
-
-#W32($33EA0)
-<COLOR><GRAY>re：まず始めに<END>
-//POINTER #1004 @ $33EC4 - STRING #1004 @ $DA04
-
-#W32($33EC4)
-<COLOR><GRAY>re：まず始めに<END>
-//POINTER #1005 @ $33EE8 - STRING #1005 @ $DA1C
-
-#W32($33EE8)
-<COLOR><GRAY>re：まず始めに<END>
-//POINTER #1006 @ $33F0C - STRING #1006 @ $DA34
-
 #W32($33F0C)
-<COLOR><GRAY>描く、塗る<END>
+<COLOR><GRAY>Drawing、painting<END>
 //POINTER #1007 @ $33F30 - STRING #1007 @ $DA46
 
 #W32($33F30)
-<COLOR><GRAY>re：描く、塗る<END>
+#W32($33F54)
+#W32($33F78)
+#W32($33F9C)
+<COLOR><GRAY>re：Drawing、painting<END>
 //POINTER #1008 @ $33F54 - STRING #1008 @ $DA5E
 
-#W32($33F54)
-<COLOR><GRAY>re：描く、塗る<END>
-//POINTER #1009 @ $33F78 - STRING #1009 @ $DA76
-
-#W32($33F78)
-<COLOR><GRAY>re：描く、塗る<END>
-//POINTER #1010 @ $33F9C - STRING #1010 @ $DA8E
-
-#W32($33F9C)
-<COLOR><GRAY>re：描く、塗る<END>
-//POINTER #1011 @ $33FC0 - STRING #1011 @ $DAA6
-
 #W32($33FC0)
-<COLOR><GRAY>色がありません<END>
+<COLOR><GRAY>Missing color<END>
 //POINTER #1012 @ $33FE4 - STRING #1012 @ $DABC
 
 #W32($33FE4)
-<COLOR><GRAY>re：カラーエディット<END>
+<COLOR><GRAY>Color Edit<END>
 //POINTER #1013 @ $34008 - STRING #1013 @ $DADA
 
 #W32($34008)
-<COLOR><GRAY>re：カラーエディット<END>
+#W32($3402C)
+#W32($34050)
+#W32($34074)
+#W32($34098)
+#W32($340BC)
+<COLOR><GRAY>re：Color Edit<END>
 //POINTER #1014 @ $3402C - STRING #1014 @ $DAF8
 
-#W32($3402C)
-<COLOR><GRAY>re：カラーエディット<END>
-//POINTER #1015 @ $34050 - STRING #1015 @ $DB16
-
-#W32($34050)
-<COLOR><GRAY>re：カラーエディット<END>
-//POINTER #1016 @ $34074 - STRING #1016 @ $DB34
-
-#W32($34074)
-<COLOR><GRAY>re：カラーエディット<END>
-//POINTER #1017 @ $34098 - STRING #1017 @ $DB52
-
-#W32($34098)
-<COLOR><GRAY>re：カラーエディット<END>
-//POINTER #1018 @ $340BC - STRING #1018 @ $DB70
-
-#W32($340BC)
-<COLOR><GRAY>re：カラーエディット<END>
-//POINTER #1019 @ $340E0 - STRING #1019 @ $DB8E
-
 #W32($340E0)
-<COLOR><GRAY>テクスチャーが小さい<END>
+<COLOR><GRAY>Texture is small<END>
 //POINTER #1020 @ $34104 - STRING #1020 @ $DBAA
 
 #W32($34104)
-<COLOR><GRAY>拡大縮小<END>
+<COLOR><GRAY>Zooming in and out<END>
 //POINTER #1021 @ $34128 - STRING #1021 @ $DBBA
 
 #W32($34128)
-<COLOR><GRAY>re：拡大縮小<END>
+#W32($3414C)
+<COLOR><GRAY>re：Zooming in and out<END>
 //POINTER #1022 @ $3414C - STRING #1022 @ $DBD0
 
-#W32($3414C)
-<COLOR><GRAY>re：拡大縮小<END>
-//POINTER #1023 @ $34170 - STRING #1023 @ $DBE6
-
 #W32($34170)
-<COLOR><GRAY>ステッカーを貼りたい<END>
+<COLOR><GRAY>Want to place a sticker<END>
 //POINTER #1024 @ $34194 - STRING #1024 @ $DC02
 
 #W32($34194)
-<COLOR><GRAY>ステッカー貼り付け<END>
+<COLOR><GRAY>Sticker Paste<END>
 //POINTER #1025 @ $341B8 - STRING #1025 @ $DC1C
 
 #W32($341B8)
-<COLOR><GRAY>re：ステッカー貼り付け<END>
+#W32($341DC)
+#W32($34200)
+#W32($34224)
+#W32($34248)
+#W32($3426C)
+#W32($34290)
+#W32($342B4)
+#W32($342D8)
+#W32($342FC)
+#W32($34320)
+#W32($34344)
+#W32($34368)
+<COLOR><GRAY>re：Sticker Paste<END>
 //POINTER #1026 @ $341DC - STRING #1026 @ $DC3C
 
-#W32($341DC)
-<COLOR><GRAY>re：ステッカー貼り付け<END>
-//POINTER #1027 @ $34200 - STRING #1027 @ $DC5C
-
-#W32($34200)
-<COLOR><GRAY>re：ステッカー貼り付け<END>
-//POINTER #1028 @ $34224 - STRING #1028 @ $DC7C
-
-#W32($34224)
-<COLOR><GRAY>re：ステッカー貼り付け<END>
-//POINTER #1029 @ $34248 - STRING #1029 @ $DC9C
-
-#W32($34248)
-<COLOR><GRAY>re：ステッカー貼り付け<END>
-//POINTER #1030 @ $3426C - STRING #1030 @ $DCBC
-
-#W32($3426C)
-<COLOR><GRAY>re：ステッカー貼り付け<END>
-//POINTER #1031 @ $34290 - STRING #1031 @ $DCDC
-
-#W32($34290)
-<COLOR><GRAY>re：ステッカー貼り付け<END>
-//POINTER #1032 @ $342B4 - STRING #1032 @ $DCFC
-
-#W32($342B4)
-<COLOR><GRAY>re：ステッカー貼り付け<END>
-//POINTER #1033 @ $342D8 - STRING #1033 @ $DD1C
-
-#W32($342D8)
-<COLOR><GRAY>re：ステッカー貼り付け<END>
-//POINTER #1034 @ $342FC - STRING #1034 @ $DD3C
-
-#W32($342FC)
-<COLOR><GRAY>re：ステッカー貼り付け<END>
-//POINTER #1035 @ $34320 - STRING #1035 @ $DD5C
-
-#W32($34320)
-<COLOR><GRAY>re：ステッカー貼り付け<END>
-//POINTER #1036 @ $34344 - STRING #1036 @ $DD7C
-
-#W32($34344)
-<COLOR><GRAY>re：ステッカー貼り付け<END>
-//POINTER #1037 @ $34368 - STRING #1037 @ $DD9C
-
-#W32($34368)
-<COLOR><GRAY>re：ステッカー貼り付け<END>
-//POINTER #1038 @ $3438C - STRING #1038 @ $DDBC
-
 #W32($3438C)
-<COLOR><GRAY>左右両側に描きたい<END>
+<COLOR><GRAY>Want to draw on both sides<END>
 //POINTER #1039 @ $343B0 - STRING #1039 @ $DDD6
 
 #W32($343B0)
-<COLOR><GRAY>左右両側に描きたい<END>
+#W32($343D4)
+<COLOR><GRAY>re：Want to draw on both sides<END>
 //POINTER #1040 @ $343D4 - STRING #1040 @ $DDF0
 
-#W32($343D4)
-<COLOR><GRAY>左右両側に描きたい<END>
-//POINTER #1041 @ $343F8 - STRING #1041 @ $DE0A
-
 #W32($343F8)
-<COLOR><GRAY>範囲選択<END>
+<COLOR><GRAY>Select Range<END>
 //POINTER #1042 @ $3441C - STRING #1042 @ $DE1A
 
 #W32($3441C)
-<COLOR><GRAY>re：範囲選択<END>
+#W32($34440)
+#W32($34464)
+#W32($34488)
+#W32($344AC)
+#W32($344D0)
+#W32($344F4)
+#W32($34518)
+#W32($3453C)
+#W32($34560)
+#W32($34584)
+<COLOR><GRAY>re：Select Range<END>
 //POINTER #1043 @ $34440 - STRING #1043 @ $DE30
 
-#W32($34440)
-<COLOR><GRAY>re：範囲選択<END>
-//POINTER #1044 @ $34464 - STRING #1044 @ $DE46
-
-#W32($34464)
-<COLOR><GRAY>re：範囲選択<END>
-//POINTER #1045 @ $34488 - STRING #1045 @ $DE5C
-
-#W32($34488)
-<COLOR><GRAY>re：範囲選択<END>
-//POINTER #1046 @ $344AC - STRING #1046 @ $DE72
-
-#W32($344AC)
-<COLOR><GRAY>re：範囲選択<END>
-//POINTER #1047 @ $344D0 - STRING #1047 @ $DE88
-
-#W32($344D0)
-<COLOR><GRAY>re：範囲選択<END>
-//POINTER #1048 @ $344F4 - STRING #1048 @ $DE9E
-
-#W32($344F4)
-<COLOR><GRAY>re：範囲選択<END>
-//POINTER #1049 @ $34518 - STRING #1049 @ $DEB4
-
-#W32($34518)
-<COLOR><GRAY>re：範囲選択<END>
-//POINTER #1050 @ $3453C - STRING #1050 @ $DECA
-
-#W32($3453C)
-<COLOR><GRAY>re：範囲選択<END>
-//POINTER #1051 @ $34560 - STRING #1051 @ $DEE0
-
-#W32($34560)
-<COLOR><GRAY>re：範囲選択<END>
-//POINTER #1052 @ $34584 - STRING #1052 @ $DEF6
-
-#W32($34584)
-<COLOR><GRAY>re：範囲選択<END>
-//POINTER #1053 @ $345A8 - STRING #1053 @ $DF0C
-
 #W32($345A8)
-<COLOR><GRAY>文字を描く<END>
+<COLOR><GRAY>Drawing letters<END>
 //POINTER #1054 @ $345CC - STRING #1054 @ $DF1E
 
 #W32($345CC)
-<COLOR><GRAY>文字を描く<END>
+#W32($345F0)
+<COLOR><GRAY>re：Drawing letters<END>
 //POINTER #1055 @ $345F0 - STRING #1055 @ $DF30
 
-#W32($345F0)
-<COLOR><GRAY>文字を描く<END>
-//POINTER #1056 @ $34614 - STRING #1056 @ $DF42
-
 #W32($34614)
-<COLOR><GRAY>フォント<END>
+<COLOR><GRAY>Font<END>
 //POINTER #1057 @ $34638 - STRING #1057 @ $DF52
 
 #W32($34638)
-<COLOR><GRAY>re：フォント<END>
-//POINTER #1058 @ $3465C - STRING #1058 @ $DF68
-
 #W32($3465C)
-<COLOR><GRAY>re：フォント<END>
-//POINTER #1059 @ $34680 - STRING #1059 @ $DF7E
-
 #W32($34680)
-<COLOR><GRAY>re：フォント<END>
-//POINTER #1060 @ $346A4 - STRING #1060 @ $DF94
-
 #W32($346A4)
-<COLOR><GRAY>re：フォント<END>
-//POINTER #1061 @ $346C8 - STRING #1061 @ $DFAA
-
 #W32($346C8)
-<COLOR><GRAY>re：フォント<END>
-//POINTER #1062 @ $346EC - STRING #1062 @ $DFC0
-
 #W32($346EC)
-<COLOR><GRAY>re：フォント<END>
-//POINTER #1063 @ $34710 - STRING #1063 @ $DFD6
-
 #W32($34710)
-<COLOR><GRAY>re：フォント<END>
-//POINTER #1064 @ $34734 - STRING #1064 @ $DFEC
+<COLOR><GRAY>re：Font<END>
+//POINTER #1058 @ $3465C - STRING #1058 @ $DF68
 
 #W32($34734)
 <COLOR><GRAY>Body paint 2<END>
 //POINTER #1065 @ $34758 - STRING #1065 @ $E004
 
 #W32($34758)
-<COLOR><GRAY>ペイントの確認<END>
+<COLOR><GRAY>Confirm paint<END>
 //POINTER #1066 @ $3477C - STRING #1066 @ $E01A
 
 #W32($3477C)
-<COLOR><GRAY>３Ｄ　ＰＲＥＶＩＥＷ<END>
+<COLOR><GRAY>3D PREVIEW<END>
 //POINTER #1067 @ $347A0 - STRING #1067 @ $E036
 
 #W32($347A0)
-<COLOR><GRAY>re：３Ｄ　ＰＲＥＶＩＥＷ<END>
+#W32($347C4)
+#W32($347E8)
+#W32($3480C)
+#W32($34830)
+#W32($34854)
+#W32($34878)
+#W32($3489C)
+#W32($348C0)
+#W32($348E4)
+#W32($34908)
+#W32($3492C)
+<COLOR><GRAY>re：3D PREVIEW<END>
 //POINTER #1068 @ $347C4 - STRING #1068 @ $E058
 
-#W32($347C4)
-<COLOR><GRAY>re：３Ｄ　ＰＲＥＶＩＥＷ<END>
-//POINTER #1069 @ $347E8 - STRING #1069 @ $E07A
-
-#W32($347E8)
-<COLOR><GRAY>re：３Ｄ　ＰＲＥＶＩＥＷ<END>
-//POINTER #1070 @ $3480C - STRING #1070 @ $E09C
-
-#W32($3480C)
-<COLOR><GRAY>re：３Ｄ　ＰＲＥＶＩＥＷ<END>
-//POINTER #1071 @ $34830 - STRING #1071 @ $E0BE
-
-#W32($34830)
-<COLOR><GRAY>re：３Ｄ　ＰＲＥＶＩＥＷ<END>
-//POINTER #1072 @ $34854 - STRING #1072 @ $E0E0
-
-#W32($34854)
-<COLOR><GRAY>re：３Ｄ　ＰＲＥＶＩＥＷ<END>
-//POINTER #1073 @ $34878 - STRING #1073 @ $E102
-
-#W32($34878)
-<COLOR><GRAY>re：３Ｄ　ＰＲＥＶＩＥＷ<END>
-//POINTER #1074 @ $3489C - STRING #1074 @ $E124
-
-#W32($3489C)
-<COLOR><GRAY>re：３Ｄ　ＰＲＥＶＩＥＷ<END>
-//POINTER #1075 @ $348C0 - STRING #1075 @ $E146
-
-#W32($348C0)
-<COLOR><GRAY>re：３Ｄ　ＰＲＥＶＩＥＷ<END>
-//POINTER #1076 @ $348E4 - STRING #1076 @ $E168
-
-#W32($348E4)
-<COLOR><GRAY>re：３Ｄ　ＰＲＥＶＩＥＷ<END>
-//POINTER #1077 @ $34908 - STRING #1077 @ $E18A
-
-#W32($34908)
-<COLOR><GRAY>re：３Ｄ　ＰＲＥＶＩＥＷ<END>
-//POINTER #1078 @ $3492C - STRING #1078 @ $E1AC
-
-#W32($3492C)
-<COLOR><GRAY>re：３Ｄ　ＰＲＥＶＩＥＷ<END>
-//POINTER #1079 @ $34950 - STRING #1079 @ $E1CE
-
 #W32($34950)
-<COLOR><GRAY>ボディペイントの終了<END>
+<COLOR><GRAY>Quitting Body Paint<END>
 //POINTER #1080 @ $34974 - STRING #1080 @ $E1EA
 
 #W32($34974)
-<COLOR><GRAY>ＥＮＤ<END>
+<COLOR><GRAY>END<END>
 //POINTER #1081 @ $34998 - STRING #1081 @ $E1F8
 
 #W32($34998)
-<COLOR><GRAY>re：ＥＮＤ<END>
+<COLOR><GRAY>re：END<END>
 //POINTER #1082 @ $349BC - STRING #1082 @ $E20C
 
 #W32($349BC)
-<COLOR><GRAY>セーブ・ロード<END>
+<COLOR><GRAY>Save／Load<END>
 //POINTER #1083 @ $349E0 - STRING #1083 @ $E222
 
 #W32($349E0)
-<COLOR><GRAY>re：セーブ・ロード<END>
+#W32($34A04)
+#W32($34A28)
+#W32($34A4C)
+#W32($34A70)
+#W32($34A94)
+#W32($34AB8)
+#W32($34ADC)
+#W32($34B00)
+#W32($34B24)
+#W32($34B48)
+#W32($34B6C)
+#W32($34B90)
+#W32($34BB4)
+#W32($34BD8)
+#W32($34BFC)
+#W32($34C20)
+#W32($34C44)
+#W32($34C68)
+#W32($34C8C)
+#W32($34CB0)
+#W32($34CD4)
+#W32($34CF8)
+#W32($34D1C)
+#W32($34D40)
+#W32($34D64)
+<COLOR><GRAY>re：Save／Load<END>
 //POINTER #1084 @ $34A04 - STRING #1084 @ $E23E
 
-#W32($34A04)
-<COLOR><GRAY>re：セーブ・ロード<END>
-//POINTER #1085 @ $34A28 - STRING #1085 @ $E25A
-
-#W32($34A28)
-<COLOR><GRAY>re：セーブ・ロード<END>
-//POINTER #1086 @ $34A4C - STRING #1086 @ $E276
-
-#W32($34A4C)
-<COLOR><GRAY>re：セーブ・ロード<END>
-//POINTER #1087 @ $34A70 - STRING #1087 @ $E292
-
-#W32($34A70)
-<COLOR><GRAY>re：セーブ・ロード<END>
-//POINTER #1088 @ $34A94 - STRING #1088 @ $E2AE
-
-#W32($34A94)
-<COLOR><GRAY>re：セーブ・ロード<END>
-//POINTER #1089 @ $34AB8 - STRING #1089 @ $E2CA
-
-#W32($34AB8)
-<COLOR><GRAY>re：セーブ・ロード<END>
-//POINTER #1090 @ $34ADC - STRING #1090 @ $E2E6
-
-#W32($34ADC)
-<COLOR><GRAY>re：セーブ・ロード<END>
-//POINTER #1091 @ $34B00 - STRING #1091 @ $E302
-
-#W32($34B00)
-<COLOR><GRAY>re：セーブ・ロード<END>
-//POINTER #1092 @ $34B24 - STRING #1092 @ $E31E
-
-#W32($34B24)
-<COLOR><GRAY>re：セーブ・ロード<END>
-//POINTER #1093 @ $34B48 - STRING #1093 @ $E33A
-
-#W32($34B48)
-<COLOR><GRAY>re：セーブ・ロード<END>
-//POINTER #1094 @ $34B6C - STRING #1094 @ $E356
-
-#W32($34B6C)
-<COLOR><GRAY>re：セーブ・ロード<END>
-//POINTER #1095 @ $34B90 - STRING #1095 @ $E372
-
-#W32($34B90)
-<COLOR><GRAY>re：セーブ・ロード<END>
-//POINTER #1096 @ $34BB4 - STRING #1096 @ $E38E
-
-#W32($34BB4)
-<COLOR><GRAY>re：セーブ・ロード<END>
-//POINTER #1097 @ $34BD8 - STRING #1097 @ $E3AA
-
-#W32($34BD8)
-<COLOR><GRAY>re：セーブ・ロード<END>
-//POINTER #1098 @ $34BFC - STRING #1098 @ $E3C6
-
-#W32($34BFC)
-<COLOR><GRAY>re：セーブ・ロード<END>
-//POINTER #1099 @ $34C20 - STRING #1099 @ $E3E2
-
-#W32($34C20)
-<COLOR><GRAY>re：セーブ・ロード<END>
-//POINTER #1100 @ $34C44 - STRING #1100 @ $E3FE
-
-#W32($34C44)
-<COLOR><GRAY>re：セーブ・ロード<END>
-//POINTER #1101 @ $34C68 - STRING #1101 @ $E41A
-
-#W32($34C68)
-<COLOR><GRAY>re：セーブ・ロード<END>
-//POINTER #1102 @ $34C8C - STRING #1102 @ $E436
-
-#W32($34C8C)
-<COLOR><GRAY>re：セーブ・ロード<END>
-//POINTER #1103 @ $34CB0 - STRING #1103 @ $E452
-
-#W32($34CB0)
-<COLOR><GRAY>re：セーブ・ロード<END>
-//POINTER #1104 @ $34CD4 - STRING #1104 @ $E46E
-
-#W32($34CD4)
-<COLOR><GRAY>re：セーブ・ロード<END>
-//POINTER #1105 @ $34CF8 - STRING #1105 @ $E48A
-
-#W32($34CF8)
-<COLOR><GRAY>re：セーブ・ロード<END>
-//POINTER #1106 @ $34D1C - STRING #1106 @ $E4A6
-
-#W32($34D1C)
-<COLOR><GRAY>re：セーブ・ロード<END>
-//POINTER #1107 @ $34D40 - STRING #1107 @ $E4C2
-
-#W32($34D40)
-<COLOR><GRAY>re：セーブ・ロード<END>
-//POINTER #1108 @ $34D64 - STRING #1108 @ $E4DE
-
-#W32($34D64)
-<COLOR><GRAY>re：セーブ・ロード<END>
-//POINTER #1109 @ $34D88 - STRING #1109 @ $E4FA
-
 #W32($34D88)
-<COLOR><GRAY>質問受付中<END>
+<COLOR><GRAY>Accepting questions<END>
 //POINTER #1110 @ $34DAC - STRING #1110 @ $E50C
 
 #W32($34DAC)
-<COLOR><GRAY>選択できないアイコン<END>
+<COLOR><GRAY>Unselectable Icons<END>
 //POINTER #1111 @ $34DD0 - STRING #1111 @ $E528
 
 #W32($34DD0)
-<COLOR><GRAY>”ＥｙｅＴｏｙ”カメラ<END>
+<COLOR><GRAY>“EyeToy”Camera<END>
 //POINTER #1112 @ $34DF4 - STRING #1112 @ $E546
 
 #W32($34DF4)
-<COLOR><GRAY>re：”ＥｙｅＴｏｙ”カメラ<END>
-//POINTER #1113 @ $34E18 - STRING #1113 @ $E56A
-
 #W32($34E18)
-<COLOR><GRAY>re：”ＥｙｅＴｏｙ”カメラ<END>
-//POINTER #1114 @ $34E3C - STRING #1114 @ $E58E
-
 #W32($34E3C)
-<COLOR><GRAY>re：”ＥｙｅＴｏｙ”カメラ<END>
-//POINTER #1115 @ $34E60 - STRING #1115 @ $E5B2
-
 #W32($34E60)
-<COLOR><GRAY>re：”ＥｙｅＴｏｙ”カメラ<END>
-//POINTER #1116 @ $34E84 - STRING #1116 @ $E5D6
-
 #W32($34E84)
-<COLOR><GRAY>re：”ＥｙｅＴｏｙ”カメラ<END>
-//POINTER #1117 @ $34EA8 - STRING #1117 @ $E5FA
-
 #W32($34EA8)
-<COLOR><GRAY>re：”ＥｙｅＴｏｙ”カメラ<END>
-//POINTER #1118 @ $34ECC - STRING #1118 @ $E61E
-
 #W32($34ECC)
-<COLOR><GRAY>re：”ＥｙｅＴｏｙ”カメラ<END>
-//POINTER #1119 @ $34EF0 - STRING #1119 @ $E642
+<COLOR><GRAY>re：“EyeToy”Camera<END>
+//POINTER #1113 @ $34E18 - STRING #1113 @ $E56A
 
 #W32($34EF0)
 <COLOR><GRAY>I'll eat anything！<END>
 //POINTER #1120 @ $34F14 - STRING #1120 @ $E658
 
 #W32($34F14)
+#W32($34F38)
+#W32($34F5C)
+#W32($34F80)
+#W32($34FA4)
+#W32($34FC8)
+#W32($34FEC)
+#W32($35010)
+#W32($35034)
+#W32($35058)
+#W32($3507C)
+#W32($350A0)
+#W32($350C4)
+#W32($350E8)
+#W32($3510C)
+#W32($35130)
+#W32($35154)
+#W32($35178)
+#W32($3519C)
+#W32($351C0)
+#W32($351E4)
+#W32($35208)
+#W32($3522C)
 <COLOR><GRAY>re：I'll eat anything！<END>
 //POINTER #1121 @ $34F38 - STRING #1121 @ $E674
 
-#W32($34F38)
-<COLOR><GRAY>re：I'll eat anything！<END>
-//POINTER #1122 @ $34F5C - STRING #1122 @ $E690
-
-#W32($34F5C)
-<COLOR><GRAY>re：I'll eat anything！<END>
-//POINTER #1123 @ $34F80 - STRING #1123 @ $E6AC
-
-#W32($34F80)
-<COLOR><GRAY>re：I'll eat anything！<END>
-//POINTER #1124 @ $34FA4 - STRING #1124 @ $E6C8
-
-#W32($34FA4)
-<COLOR><GRAY>re：I'll eat anything！<END>
-//POINTER #1125 @ $34FC8 - STRING #1125 @ $E6E4
-
-#W32($34FC8)
-<COLOR><GRAY>re：I'll eat anything！<END>
-//POINTER #1126 @ $34FEC - STRING #1126 @ $E700
-
-#W32($34FEC)
-<COLOR><GRAY>re：I'll eat anything！<END>
-//POINTER #1127 @ $35010 - STRING #1127 @ $E71C
-
-#W32($35010)
-<COLOR><GRAY>re：I'll eat anything！<END>
-//POINTER #1128 @ $35034 - STRING #1128 @ $E738
-
-#W32($35034)
-<COLOR><GRAY>re：I'll eat anything！<END>
-//POINTER #1129 @ $35058 - STRING #1129 @ $E754
-
-#W32($35058)
-<COLOR><GRAY>re：I'll eat anything！<END>
-//POINTER #1130 @ $3507C - STRING #1130 @ $E770
-
-#W32($3507C)
-<COLOR><GRAY>re：I'll eat anything！<END>
-//POINTER #1131 @ $350A0 - STRING #1131 @ $E78C
-
-#W32($350A0)
-<COLOR><GRAY>re：I'll eat anything！<END>
-//POINTER #1132 @ $350C4 - STRING #1132 @ $E7A8
-
-#W32($350C4)
-<COLOR><GRAY>re：I'll eat anything！<END>
-//POINTER #1133 @ $350E8 - STRING #1133 @ $E7C4
-
-#W32($350E8)
-<COLOR><GRAY>re：I'll eat anything！<END>
-//POINTER #1134 @ $3510C - STRING #1134 @ $E7E0
-
-#W32($3510C)
-<COLOR><GRAY>re：I'll eat anything！<END>
-//POINTER #1135 @ $35130 - STRING #1135 @ $E7FC
-
-#W32($35130)
-<COLOR><GRAY>re：I'll eat anything！<END>
-//POINTER #1136 @ $35154 - STRING #1136 @ $E818
-
-#W32($35154)
-<COLOR><GRAY>re：I'll eat anything！<END>
-//POINTER #1137 @ $35178 - STRING #1137 @ $E834
-
-#W32($35178)
-<COLOR><GRAY>re：I'll eat anything！<END>
-//POINTER #1138 @ $3519C - STRING #1138 @ $E850
-
-#W32($3519C)
-<COLOR><GRAY>re：I'll eat anything！<END>
-//POINTER #1139 @ $351C0 - STRING #1139 @ $E86C
-
-#W32($351C0)
-<COLOR><GRAY>re：I'll eat anything！<END>
-//POINTER #1140 @ $351E4 - STRING #1140 @ $E888
-
-#W32($351E4)
-<COLOR><GRAY>re：I'll eat anything！<END>
-//POINTER #1141 @ $35208 - STRING #1141 @ $E8A4
-
-#W32($35208)
-<COLOR><GRAY>re：I'll eat anything！<END>
-//POINTER #1142 @ $3522C - STRING #1142 @ $E8C0
-
-#W32($3522C)
-<COLOR><GRAY>re：I'll eat anything！<END>
-//POINTER #1143 @ $35250 - STRING #1143 @ $E8DC
-
 #W32($35250)
-<COLOR><GRAY>完食！<END>
+<COLOR><GRAY>I'm full！<END>
 //POINTER #1144 @ $35274 - STRING #1144 @ $E8EA
 
 #W32($35274)
@@ -5293,304 +4964,124 @@
 //POINTER #1145 @ $35298 - STRING #1145 @ $E8FE
 
 #W32($35298)
-<COLOR><GRAY>re：Not enough space<END>
-//POINTER #1146 @ $352BC - STRING #1146 @ $E918
-
 #W32($352BC)
-<COLOR><GRAY>re：Not enough space<END>
-//POINTER #1147 @ $352E0 - STRING #1147 @ $E932
-
 #W32($352E0)
-<COLOR><GRAY>re：Not enough space<END>
-//POINTER #1148 @ $35304 - STRING #1148 @ $E94C
-
 #W32($35304)
-<COLOR><GRAY>re：Not enough space<END>
-//POINTER #1149 @ $35328 - STRING #1149 @ $E966
-
 #W32($35328)
-<COLOR><GRAY>re：Not enough space<END>
-//POINTER #1150 @ $3534C - STRING #1150 @ $E980
-
 #W32($3534C)
-<COLOR><GRAY>re：Not enough space<END>
-//POINTER #1151 @ $35370 - STRING #1151 @ $E99A
-
 #W32($35370)
-<COLOR><GRAY>re：Not enough space<END>
-//POINTER #1152 @ $35394 - STRING #1152 @ $E9B4
-
 #W32($35394)
 <COLOR><GRAY>re：Not enough space<END>
-//POINTER #1153 @ $353B8 - STRING #1153 @ $E9CE
+//POINTER #1146 @ $352BC - STRING #1146 @ $E918
 
 #W32($353B8)
 <COLOR><GRAY>Stickers<END>
 //POINTER #1154 @ $353DC - STRING #1154 @ $E9E0
 
 #W32($353DC)
-<COLOR><GRAY>re：Stickers<END>
-//POINTER #1155 @ $35400 - STRING #1155 @ $E9F8
-
 #W32($35400)
-<COLOR><GRAY>re：Stickers<END>
-//POINTER #1156 @ $35424 - STRING #1156 @ $EA10
-
 #W32($35424)
-<COLOR><GRAY>re：Stickers<END>
-//POINTER #1157 @ $35448 - STRING #1157 @ $EA28
-
 #W32($35448)
-<COLOR><GRAY>re：Stickers<END>
-//POINTER #1158 @ $3546C - STRING #1158 @ $EA40
-
 #W32($3546C)
-<COLOR><GRAY>re：Stickers<END>
-//POINTER #1159 @ $35490 - STRING #1159 @ $EA58
-
 #W32($35490)
-<COLOR><GRAY>re：Stickers<END>
-//POINTER #1160 @ $354B4 - STRING #1160 @ $EA70
-
 #W32($354B4)
-<COLOR><GRAY>re：Stickers<END>
-//POINTER #1161 @ $354D8 - STRING #1161 @ $EA88
-
 #W32($354D8)
-<COLOR><GRAY>re：Stickers<END>
-//POINTER #1162 @ $354FC - STRING #1162 @ $EAA0
-
 #W32($354FC)
-<COLOR><GRAY>re：Stickers<END>
-//POINTER #1163 @ $35520 - STRING #1163 @ $EAB8
-
 #W32($35520)
-<COLOR><GRAY>re：Stickers<END>
-//POINTER #1164 @ $35544 - STRING #1164 @ $EAD0
-
 #W32($35544)
-<COLOR><GRAY>re：Stickers<END>
-//POINTER #1165 @ $35568 - STRING #1165 @ $EAE8
-
 #W32($35568)
-<COLOR><GRAY>re：Stickers<END>
-//POINTER #1166 @ $3558C - STRING #1166 @ $EB00
-
 #W32($3558C)
-<COLOR><GRAY>re：Stickers<END>
-//POINTER #1167 @ $355B0 - STRING #1167 @ $EB18
-
 #W32($355B0)
-<COLOR><GRAY>re：Stickers<END>
-//POINTER #1168 @ $355D4 - STRING #1168 @ $EB30
-
 #W32($355D4)
-<COLOR><GRAY>re：Stickers<END>
-//POINTER #1169 @ $355F8 - STRING #1169 @ $EB48
-
 #W32($355F8)
-<COLOR><GRAY>re：Stickers<END>
-//POINTER #1170 @ $3561C - STRING #1170 @ $EB60
-
 #W32($3561C)
-<COLOR><GRAY>re：Stickers<END>
-//POINTER #1171 @ $35640 - STRING #1171 @ $EB78
-
 #W32($35640)
 <COLOR><GRAY>re：Stickers<END>
-//POINTER #1172 @ $35664 - STRING #1172 @ $EB90
+//POINTER #1155 @ $35400 - STRING #1155 @ $E9F8
 
 #W32($35664)
 <COLOR><GRAY>It won't turn！<END>
 //POINTER #1173 @ $35688 - STRING #1173 @ $EBA6
 
 #W32($35688)
-<COLOR><GRAY>re：It won't turn！<END>
-//POINTER #1174 @ $356AC - STRING #1174 @ $EBC2
-
 #W32($356AC)
-<COLOR><GRAY>re：It won't turn！<END>
-//POINTER #1175 @ $356D0 - STRING #1175 @ $EBDE
-
 #W32($356D0)
-<COLOR><GRAY>re：It won't turn！<END>
-//POINTER #1176 @ $356F4 - STRING #1176 @ $EBFA
-
 #W32($356F4)
-<COLOR><GRAY>re：It won't turn！<END>
-//POINTER #1177 @ $35718 - STRING #1177 @ $EC16
-
 #W32($35718)
-<COLOR><GRAY>re：It won't turn！<END>
-//POINTER #1178 @ $3573C - STRING #1178 @ $EC32
-
 #W32($3573C)
-<COLOR><GRAY>re：It won't turn！<END>
-//POINTER #1179 @ $35760 - STRING #1179 @ $EC4E
-
 #W32($35760)
-<COLOR><GRAY>re：It won't turn！<END>
-//POINTER #1180 @ $35784 - STRING #1180 @ $EC6A
-
 #W32($35784)
-<COLOR><GRAY>re：It won't turn！<END>
-//POINTER #1181 @ $357A8 - STRING #1181 @ $EC86
-
 #W32($357A8)
-<COLOR><GRAY>re：It won't turn！<END>
-//POINTER #1182 @ $357CC - STRING #1182 @ $ECA2
-
 #W32($357CC)
 <COLOR><GRAY>re：It won't turn！<END>
-//POINTER #1183 @ $357F0 - STRING #1183 @ $ECBE
+//POINTER #1174 @ $356AC - STRING #1174 @ $EBC2
 
 #W32($357F0)
 <COLOR><GRAY>Scary experiences<END>
 //POINTER #1184 @ $35814 - STRING #1184 @ $ECCE
 
 #W32($35814)
+#W32($35838)
+#W32($3585C)
+#W32($35880)
+#W32($358A4)
+#W32($358C8)
+#W32($358EC)
+#W32($35910)
+#W32($35934)
+#W32($35B08)
 <COLOR><GRAY>re：Scary experiences<END>
 //POINTER #1185 @ $35838 - STRING #1185 @ $ECE4
 
-#W32($35838)
-<COLOR><GRAY>re：Scary experiences<END>
-//POINTER #1186 @ $3585C - STRING #1186 @ $ECFA
-
-#W32($3585C)
-<COLOR><GRAY>re：Scary experiences<END>
-//POINTER #1187 @ $35880 - STRING #1187 @ $ED10
-
-#W32($35880)
-<COLOR><GRAY>re：Scary experiences<END>
-//POINTER #1188 @ $358A4 - STRING #1188 @ $ED26
-
-#W32($358A4)
-<COLOR><GRAY>re：Scary experiences<END>
-//POINTER #1189 @ $358C8 - STRING #1189 @ $ED3C
-
-#W32($358C8)
-<COLOR><GRAY>re：Scary experiences<END>
-//POINTER #1190 @ $358EC - STRING #1190 @ $ED52
-
-#W32($358EC)
-<COLOR><GRAY>re：Scary experiences<END>
-//POINTER #1191 @ $35910 - STRING #1191 @ $ED68
-
-#W32($35910)
-<COLOR><GRAY>re：Scary experiences<END>
-//POINTER #1192 @ $35934 - STRING #1192 @ $ED7E
-
-#W32($35934)
-<COLOR><GRAY>re：Scary experiences<END>
-//POINTER #1193 @ $35958 - STRING #1193 @ $ED94
-
 #W32($35958)
-<COLOR><GRAY>いわゆる<END>
+<COLOR><GRAY>The so-called<END>
 //POINTER #1194 @ $3597C - STRING #1194 @ $EDA4
 
 #W32($3597C)
-<COLOR><GRAY>re：いわゆる<END>
+<COLOR><GRAY>re：The so-called<END>
 //POINTER #1195 @ $359A0 - STRING #1195 @ $EDBA
 
 #W32($359A0)
-<COLOR><GRAY>続・怖い体験<END>
+<COLOR><GRAY>Scary experiences・continued<END>
 //POINTER #1196 @ $359C4 - STRING #1196 @ $EDCE
 
 #W32($359C4)
-<COLOR><GRAY>re：続・怖い体験<END>
+#W32($359E8)
+#W32($35A0C)
+#W32($35A30)
+#W32($35A54)
+#W32($35A78)
+<COLOR><GRAY>re：Scary experiences・continued<END>
 //POINTER #1197 @ $359E8 - STRING #1197 @ $EDE8
 
-#W32($359E8)
-<COLOR><GRAY>re：続・怖い体験<END>
-//POINTER #1198 @ $35A0C - STRING #1198 @ $EE02
-
-#W32($35A0C)
-<COLOR><GRAY>re：続・怖い体験<END>
-//POINTER #1199 @ $35A30 - STRING #1199 @ $EE1C
-
-#W32($35A30)
-<COLOR><GRAY>re：続・怖い体験<END>
-//POINTER #1200 @ $35A54 - STRING #1200 @ $EE36
-
-#W32($35A54)
-<COLOR><GRAY>re：続・怖い体験<END>
-//POINTER #1201 @ $35A78 - STRING #1201 @ $EE50
-
-#W32($35A78)
-<COLOR><GRAY>re：続・怖い体験<END>
-//POINTER #1202 @ $35A9C - STRING #1202 @ $EE6A
-
 #W32($35A9C)
-<COLOR><GRAY>ミラクルばあちゃん<END>
+<COLOR><GRAY>Miracle Grandma<END>
 //POINTER #1203 @ $35AC0 - STRING #1203 @ $EE84
 
 #W32($35AC0)
-<COLOR><GRAY>re：ミラクルばあちゃん<END>
-//POINTER #1204 @ $35AE4 - STRING #1204 @ $EEA4
-
 #W32($35AE4)
-<COLOR><GRAY>re：ミラクルばあちゃん<END>
-//POINTER #1205 @ $35B08 - STRING #1205 @ $EEC4
-
-#W32($35B08)
-<COLOR><GRAY>re：Scary experiences<END>
-//POINTER #1206 @ $35B2C - STRING #1206 @ $EEDA
+<COLOR><GRAY>re：Miracle Grandma<END>
+//POINTER #1204 @ $35AE4 - STRING #1204 @ $EEA4
 
 #W32($35B2C)
 <COLOR><GRAY>Embarassing situations<END>
 //POINTER #1207 @ $35B50 - STRING #1207 @ $EEF2
 
 #W32($35B50)
-<COLOR><GRAY>re：Embarassing situations<END>
-//POINTER #1208 @ $35B74 - STRING #1208 @ $EF10
-
 #W32($35B74)
-<COLOR><GRAY>re：Embarassing situations<END>
-//POINTER #1209 @ $35B98 - STRING #1209 @ $EF2E
-
 #W32($35B98)
-<COLOR><GRAY>re：Embarassing situations<END>
-//POINTER #1210 @ $35BBC - STRING #1210 @ $EF4C
-
 #W32($35BBC)
-<COLOR><GRAY>re：Embarassing situations<END>
-//POINTER #1211 @ $35BE0 - STRING #1211 @ $EF6A
-
 #W32($35BE0)
-<COLOR><GRAY>re：Embarassing situations<END>
-//POINTER #1212 @ $35C04 - STRING #1212 @ $EF88
-
 #W32($35C04)
-<COLOR><GRAY>re：Embarassing situations<END>
-//POINTER #1213 @ $35C28 - STRING #1213 @ $EFA6
-
 #W32($35C28)
-<COLOR><GRAY>re：Embarassing situations<END>
-//POINTER #1214 @ $35C4C - STRING #1214 @ $EFC4
-
 #W32($35C4C)
-<COLOR><GRAY>re：Embarassing situations<END>
-//POINTER #1215 @ $35C70 - STRING #1215 @ $EFE2
-
 #W32($35C70)
-<COLOR><GRAY>re：Embarassing situations<END>
-//POINTER #1216 @ $35C94 - STRING #1216 @ $F000
-
 #W32($35C94)
-<COLOR><GRAY>re：Embarassing situations<END>
-//POINTER #1217 @ $35CB8 - STRING #1217 @ $F01E
-
 #W32($35CB8)
-<COLOR><GRAY>re：Embarassing situations<END>
-//POINTER #1218 @ $35CDC - STRING #1218 @ $F03C
-
 #W32($35CDC)
-<COLOR><GRAY>re：Embarassing situations<END>
-//POINTER #1219 @ $35D00 - STRING #1219 @ $F05A
-
 #W32($35D00)
 <COLOR><GRAY>re：Embarassing situations<END>
-//POINTER #1220 @ $35D24 - STRING #1220 @ $F078
+//POINTER #1208 @ $35B74 - STRING #1208 @ $EF10
 
 #W32($35D24)
 #W32($35D48)
@@ -9041,279 +8532,279 @@
 //POINTER #995 @ $33D84 - STRING #995 @ $17B46
 
 #W32($33D84)
-<COLOR><GRAY>ボディペイントの使い方がよく分かりません……。<END>
+<COLOR><GRAY>I'm not sure how to use the Body Paint……<END>
 //POINTER #996 @ $33DA8 - STRING #996 @ $17B7C
 
 #W32($33DA8)
-<COLOR><GRAY>う～む、使い慣れるといろいろなことができて<END>
+<COLOR><GRAY>Umm、once you get used to it、you can do all sorts of cool<END>
 //POINTER #997 @ $33DCC - STRING #997 @ $17BAE
 
 #W32($33DCC)
-<COLOR><GRAY>とりあえず、最初のお約束として、<END>
+<COLOR><GRAY>First of all、don't buy <COLOR><RED>SPECIAL<COLOR><GRAY> or <COLOR><RED>CUSTOM<COLOR><GRAY> cars．<END>
 //POINTER #998 @ $33DF0 - STRING #998 @ $17BD6
 
 #W32($33DF0)
-<COLOR><GRAY>では、順を追って説明していこう。<END>
+<COLOR><GRAY>All right、let's go step by step．<END>
 //POINTER #999 @ $33E14 - STRING #999 @ $17BFE
 
 #W32($33E14)
-<COLOR><GRAY>ボディペイント画面のアイコン一覧の<END>
+<COLOR><GRAY>On the left of the Body Paint toolbar、you'll find<END>
 //POINTER #1000 @ $33E38 - STRING #1000 @ $17C28
 
 #W32($33E38)
-<COLOR><GRAY>ステッカーも選択できるんですか？<END>
+<COLOR><GRAY>Can I also choose a sticker there？<END>
 //POINTER #1001 @ $33E5C - STRING #1001 @ $17C50
 
 #W32($33E5C)
-<COLOR><GRAY>できるよ。<END>
+<COLOR><GRAY>You can．<END>
 //POINTER #1002 @ $33E80 - STRING #1002 @ $17C62
 
 #W32($33E80)
-<COLOR><GRAY>あの～、テクスチャーってみんな四角ばっかりで<END>
+<COLOR><GRAY>Uhh～、all the textures are just squares、<END>
 //POINTER #1003 @ $33EA4 - STRING #1003 @ $17C96
 
 #W32($33EA4)
-<COLOR><GRAY>それなら、今は<COLOR><RED>２Ｄ表示<COLOR><GRAY>というコマンドに<END>
+<COLOR><GRAY>If that's so、I think your cursor is on the <COLOR><RED>2D Preview<COLOR><GRAY><END>
 //POINTER #1004 @ $33EC8 - STRING #1004 @ $17CD0
 
 #W32($33EC8)
-<COLOR><GRAY>あ、車が出てきた！<END>
+<COLOR><GRAY>Ah、the car is here！<END>
 //POINTER #1005 @ $33EEC - STRING #1005 @ $17CEA
 
 #W32($33EEC)
-<COLOR><GRAY>車の明滅している部分が、<END>
+<COLOR><GRAY>That flickering part on the car is the<END>
 //POINTER #1006 @ $33F10 - STRING #1006 @ $17D0A
 
 #W32($33F10)
-<COLOR><GRAY>ペイントするテクスチャーが決まったら、<END>
+<COLOR><GRAY>Once you've decided on the texture you want to paint、<END>
 //POINTER #1007 @ $33F34 - STRING #1007 @ $17D38
 
 #W32($33F34)
-<COLOR><GRAY>「描く」作業は、アイコン一覧の<END>
+<COLOR><GRAY>For the“drawing”part、you can accomplish most of it<END>
 //POINTER #1008 @ $33F58 - STRING #1008 @ $17D5E
 
 #W32($33F58)
-<COLOR><GRAY>画面左側にある<COLOR><RED>カラーパレット<COLOR><GRAY>で色を選択して<END>
+<COLOR><GRAY>Choose any color you like from the <COLOR><RED>Color Palette<END>
 //POINTER #1009 @ $33F7C - STRING #1009 @ $17D9C
 
 #W32($33F7C)
-<COLOR><GRAY>丸とか四角も描けるんですね。<END>
+<COLOR><GRAY>Looks like you can also draw circles and squares．<END>
 //POINTER #1010 @ $33FA0 - STRING #1010 @ $17DC0
 
 #W32($33FA0)
-<COLOR><GRAY>そのとうり！<END>
+<COLOR><GRAY>That's right！<END>
 //POINTER #1011 @ $33FC4 - STRING #1011 @ $17DD4
 
 #W32($33FC4)
-<COLOR><GRAY>黄色で塗りつぶしたいのに、<END>
+<COLOR><GRAY>I want to use Fill with yellow、<END>
 //POINTER #1012 @ $33FE8 - STRING #1012 @ $17DF6
 
 #W32($33FE8)
-<COLOR><GRAY>自分で色を作りたいときには、アイコン一覧の<END>
+<COLOR><GRAY>You can create your own colors with the <COLOR><RED>Color Edit<COLOR><GRAY> tool、<END>
 //POINTER #1013 @ $3400C - STRING #1013 @ $17E28
 
 #W32($3400C)
-<COLOR><GRAY>ＲＧＢバーを調整すれば、<END>
+<COLOR><GRAY>You can create various colors by adjusting<END>
 //POINTER #1014 @ $34030 - STRING #1014 @ $17E48
 
 #W32($34030)
-<COLOR><GRAY>カラーをいじったら、<END>
+<COLOR><GRAY>I messed with the colors、and now the filled areas<END>
 //POINTER #1015 @ $34054 - STRING #1015 @ $17E64
 
 #W32($34054)
-<COLOR><GRAY>既に塗りつぶしなどで使用しているパレットの<END>
+<COLOR><GRAY>Be careful、if you adjust a color from the palette that's<END>
 //POINTER #1016 @ $34078 - STRING #1016 @ $17E96
 
 #W32($34078)
-<COLOR><GRAY>カラーエディットを行うなら、<END>
+<COLOR><GRAY>If you're going to use Color Edit、<END>
 //POINTER #1017 @ $3409C - STRING #1017 @ $17EBA
 
 #W32($3409C)
-<COLOR><GRAY>なるほど。<END>
+<COLOR><GRAY>I see．<END>
 //POINTER #1018 @ $340C0 - STRING #1018 @ $17ECC
 
 #W32($340C0)
-<COLOR><GRAY>後は君の芸術的センス次第だ！<END>
+<COLOR><GRAY>The rest is up to your artistic sense！<END>
 //POINTER #1019 @ $340E4 - STRING #1019 @ $17EF0
 
 #W32($340E4)
-<COLOR><GRAY>テクスチャーが小さくて描きにくい……。<END>
+<COLOR><GRAY>The texture is too small and hard to draw on……<END>
 //POINTER #1020 @ $34108 - STRING #1020 @ $17F1E
 
 #W32($34108)
-<COLOR><GRAY>画面左上の拡大縮小でテクスチャーの表示サイズを<END>
+<COLOR><GRAY>You can change the display size using the zoom in and out<END>
 //POINTER #1021 @ $3412C - STRING #1021 @ $17F54
 
 #W32($3412C)
-<COLOR><GRAY>おお、広くなって描きやすくなった♪<END>
+<COLOR><GRAY>Oooh、it's now wider and easier to draw on♪<END>
 //POINTER #1022 @ $34150 - STRING #1022 @ $17F7E
 
 #W32($34150)
-<COLOR><GRAY>今回は早いな（笑）<END>
+<COLOR><GRAY>That was quick this time（lol）<END>
 //POINTER #1023 @ $34174 - STRING #1023 @ $17F98
 
 #W32($34174)
-<COLOR><GRAY>ステッカーの貼り方が分かりません！（；´д⊂）<END>
+<COLOR><GRAY>I don't know how to place a sticker！（；´д⊂）<END>
 //POINTER #1024 @ $34198 - STRING #1024 @ $17FCE
 
 #W32($34198)
-<COLOR><GRAY>いきなり話が飛んだな。<END>
+<COLOR><GRAY>Off on a tangent suddenly．<END>
 //POINTER #1025 @ $341BC - STRING #1025 @ $17FEC
 
 #W32($341BC)
-<COLOR><GRAY>新しいＲＢ初心者です（；´д⊂）<END>
+<COLOR><GRAY>I'm a new RB Newbie（；´д⊂）<END>
 //POINTER #1026 @ $341E0 - STRING #1026 @ $18014
 
 #W32($341E0)
-<COLOR><GRAY>ＲＢ初心者って何人もいたんだ（笑）<END>
+<COLOR><GRAY>How many RB Newbies are there（lol）<END>
 //POINTER #1027 @ $34204 - STRING #1027 @ $1803E
 
 #W32($34204)
-<COLOR><GRAY>ちなみに、<COLOR><RED>ステッカーのテクスチャーに<END>
+<COLOR><GRAY>By the way、<COLOR><RED>stickers can't be placed on<END>
 //POINTER #1028 @ $34228 - STRING #1028 @ $18070
 
 #W32($34228)
-<COLOR><GRAY>選びました！<END>
+<COLOR><GRAY>Texture picked！<END>
 //POINTER #1029 @ $3424C - STRING #1029 @ $18084
 
 #W32($3424C)
-<COLOR><GRAY>ステッカーの貼り付けは、アイコン一覧の<END>
+<COLOR><GRAY>To paste stickers、use the <COLOR><RED>Sticker<COLOR><GRAY> tool、<END>
 //POINTER #1030 @ $34270 - STRING #1030 @ $180B2
 
 #W32($34270)
-<COLOR><GRAY>なんかまたボタンがいっぱい出てきました……。<END>
+<COLOR><GRAY>Somehow even more buttons came up……<END>
 //POINTER #1031 @ $34294 - STRING #1031 @ $180E6
 
 #W32($34294)
-<COLOR><GRAY>貼り付けたいステッカーを選択したら、<END>
+<COLOR><GRAY>Once you've selected the sticker you want to paste、<END>
 //POINTER #1032 @ $342B8 - STRING #1032 @ $18112
 
 #W32($342B8)
-<COLOR><GRAY>表示されました！<END>
+<COLOR><GRAY>It showed up！<END>
 //POINTER #1033 @ $342DC - STRING #1033 @ $1812A
 
 #W32($342DC)
-<COLOR><GRAY>貼り付けた後には、位置や大きさなどを<END>
+<COLOR><GRAY>After pasting、you can freely adjust<END>
 //POINTER #1034 @ $34300 - STRING #1034 @ $18156
 
 #W32($34300)
-<COLOR><GRAY>ステッカーになんか□とか○の印が出てますが？<END>
+<COLOR><GRAY>What are those □ and ○ marks on the sticker？<END>
 //POINTER #1035 @ $34324 - STRING #1035 @ $1818A
 
 #W32($34324)
-<COLOR><GRAY><COLOR><RED>□印<COLOR><GRAY>をドラッグするとステッカーのサイズが変わる。<END>
+<COLOR><GRAY>Dragging the <COLOR><RED>□ icon<COLOR><GRAY> will resize the sticker．<END>
 //POINTER #1036 @ $34348 - STRING #1036 @ $181CE
 
 #W32($34348)
-<COLOR><GRAY>おぉ～、おもしろいおもしろい（笑）<END>
+<COLOR><GRAY>Oooh～、interesting interesting（lol）<END>
 //POINTER #1037 @ $3436C - STRING #1037 @ $181F8
 
 #W32($3436C)
-<COLOR><GRAY>後は君の芸術的センス次第だ！<END>
+<COLOR><GRAY>The rest is up to your artistic sense！<END>
 //POINTER #1038 @ $34390 - STRING #1038 @ $1821C
 
 #W32($34390)
-<COLOR><GRAY>左サイドに描いた模様と同じ模様を<END>
+<COLOR><GRAY>I want to draw the same pattern on the right side<END>
 //POINTER #1039 @ $343B4 - STRING #1039 @ $18244
 
 #W32($343B4)
-<COLOR><GRAY>描けば？<END>
+<COLOR><GRAY>Why can't you draw it？<END>
 //POINTER #1040 @ $343D8 - STRING #1040 @ $18254
 
 #W32($343D8)
-<COLOR><GRAY>何で今回はそんな淡白なレスなんですか（涙）<END>
+<COLOR><GRAY>Why such a bland response this time（crying）<END>
 //POINTER #1041 @ $343FC - STRING #1041 @ $18286
 
 #W32($343FC)
-<COLOR><GRAY>左側に描いたペイントを<END>
+<COLOR><GRAY>Just <COLOR><RED>copy ＆ paste<COLOR><GRAY> the paint you drew<END>
 //POINTER #1042 @ $34420 - STRING #1042 @ $182A4
 
 #W32($34420)
-<COLOR><GRAY>そんなことができるんですか？<END>
+<COLOR><GRAY>How does one do that？<END>
 //POINTER #1043 @ $34444 - STRING #1043 @ $182C8
 
 #W32($34444)
-<COLOR><GRAY>アイコン一覧の左から７番目の<COLOR><RED>範囲選択<COLOR><GRAY>を使う。<END>
+<COLOR><GRAY>Use the <COLOR><RED>Selection Tool<COLOR><GRAY>、which is the 7th icon<END>
 //POINTER #1044 @ $34468 - STRING #1044 @ $18308
 
 #W32($34468)
-<COLOR><GRAY>範囲選択？<END>
+<COLOR><GRAY>Selection？<END>
 //POINTER #1045 @ $3448C - STRING #1045 @ $1831A
 
 #W32($3448C)
-<COLOR><GRAY>点線で囲んでみなさい。<END>
+<COLOR><GRAY>Outline it with the dashed lines．<END>
 //POINTER #1046 @ $344B0 - STRING #1046 @ $18338
 
 #W32($344B0)
-<COLOR><GRAY>コピーを実行したら、<END>
+<COLOR><GRAY>After you executed the copy、select the texture<END>
 //POINTER #1047 @ $344D4 - STRING #1047 @ $18354
 
 #W32($344D4)
-<COLOR><GRAY>選びました。<END>
+<COLOR><GRAY>I've selected it．<END>
 //POINTER #1048 @ $344F8 - STRING #1048 @ $18368
 
 #W32($344F8)
-<COLOR><GRAY>そうしたら、もう一度<COLOR><RED>範囲選択<COLOR><GRAY>アイコンを<END>
+<COLOR><GRAY>Then select the <COLOR><RED>Selection Tool<COLOR><GRAY> icon again．<END>
 //POINTER #1049 @ $3451C - STRING #1049 @ $183A2
 
 #W32($3451C)
-<COLOR><GRAY>あ！<END>
+<COLOR><GRAY>Ah！<END>
 //POINTER #1050 @ $34540 - STRING #1050 @ $183AE
 
 #W32($34540)
-<COLOR><GRAY>ペイントが点線で囲まれているうちは、<END>
+<COLOR><GRAY>As long as the paint is outlined with a dashed line、<END>
 //POINTER #1051 @ $34564 - STRING #1051 @ $183DA
 
 #W32($34564)
-<COLOR><GRAY>おお！<END>
+<COLOR><GRAY>Oooh！<END>
 //POINTER #1052 @ $34588 - STRING #1052 @ $183E8
 
 #W32($34588)
-<COLOR><GRAY>質問が尽きないな……。<END>
+<COLOR><GRAY>The questions are endless……<END>
 //POINTER #1053 @ $345AC - STRING #1053 @ $18406
 
 #W32($345AC)
-<COLOR><GRAY>……カキカキ……〆（゜▽゜＊）<END>
+<COLOR><GRAY>……drawing……〆（゜▽゜＊）<END>
 //POINTER #1054 @ $345D0 - STRING #1054 @ $1842C
 
 #W32($345D0)
-<COLOR><GRAY>あからさまに俺を釣ってるな（笑）<END>
+<COLOR><GRAY>You're clearly trying to bait me（lol）<END>
 //POINTER #1055 @ $345F4 - STRING #1055 @ $18454
 
 #W32($345F4)
-<COLOR><GRAY>カッコいい文字を描きたいので。<END>
+<COLOR><GRAY>I want to draw cool letters．<END>
 //POINTER #1056 @ $34618 - STRING #1056 @ $1847A
 
 #W32($34618)
-<COLOR><GRAY>フォントを使用すれば比較的簡単に描けるぞ。<END>
+<COLOR><GRAY>You can use fonts to draw them relatively easy．<END>
 //POINTER #1057 @ $3463C - STRING #1057 @ $184AC
 
 #W32($3463C)
-<COLOR><GRAY>えぇ！　そんなのがあるんですか！？<END>
+<COLOR><GRAY>Eeh！ There is such a thing！？<END>
 //POINTER #1058 @ $34660 - STRING #1058 @ $184D6
 
 #W32($34660)
-<COLOR><GRAY>白々しいな。<END>
+<COLOR><GRAY>Come on、it's simple．<END>
 //POINTER #1059 @ $34684 - STRING #1059 @ $184EA
 
 #W32($34684)
-<COLOR><GRAY>使い方の感覚はステッカーに似ている。<END>
+<COLOR><GRAY>The use is similar to stickers．After selecting the font、<END>
 //POINTER #1060 @ $346A8 - STRING #1060 @ $18516
 
 #W32($346A8)
-<COLOR><GRAY>ステッカーと違うのは、<END>
+<COLOR><GRAY>The difference from stickers is that<END>
 //POINTER #1061 @ $346CC - STRING #1061 @ $18534
 
 #W32($346CC)
-<COLOR><GRAY>点線で囲まれている間は下に描かれているペイントに<END>
+<COLOR><GRAY>While it's still selected、you can change the color and<END>
 //POINTER #1062 @ $346F0 - STRING #1062 @ $1856C
 
 #W32($346F0)
-<COLOR><GRAY>根気よく並べれば<END>
+<COLOR><GRAY>With patience and effort、<END>
 //POINTER #1063 @ $34714 - STRING #1063 @ $18584
 
 #W32($34714)
-<COLOR><GRAY>後は君の芸術的センス次第だ！<END>
+<COLOR><GRAY>The rest is up to your artistic sense！<END>
 //POINTER #1064 @ $34738 - STRING #1064 @ $185A8
 
 #W32($34738)
@@ -13889,23 +13380,23 @@
 //POINTER #995 @ $33D88 - STRING #995 @ $2206E
 
 #W32($33D88)
-<COLOR><GRAY>どうやってペイントしたらいいのですか？<END>
+<COLOR><GRAY>How do I paint my car？<END>
 //POINTER #996 @ $33DAC - STRING #996 @ $2209C
 
 #W32($33DAC)
-<COLOR><GRAY>便利なんだけどね。<END>
+<COLOR><GRAY>things with it． Alright then、<END>
 //POINTER #997 @ $33DD0 - STRING #997 @ $220B6
 
 #W32($33DD0)
-<COLOR><GRAY><COLOR><RED>スペシャルカー<COLOR><GRAY>や<COLOR><RED>カスタムカー<COLOR><GRAY>は買っちゃダメだ。<END>
+<COLOR><GRAY>Those <COLOR><RED>can't be body painted<COLOR><GRAY>ーthat's the deal．<END>
 //POINTER #998 @ $33DF4 - STRING #998 @ $22104
 
 #W32($33DF4)
-<COLOR><GRAY>まず始めに、自分の車のどこにペイントを<END>
+<COLOR><GRAY>First、choose which part of your car you want to paint．<END>
 //POINTER #999 @ $33E18 - STRING #999 @ $22132
 
 #W32($33E18)
-<COLOR><GRAY>左端、<COLOR><RED>テクスチャー選択<COLOR><GRAY>アイコンで<END>
+<COLOR><GRAY>the <COLOR><RED>Texture Select<COLOR><GRAY> icon．Use that to choose your car's<END>
 //POINTER #1000 @ $33E3C - STRING #1000 @ $22166
 
 #W32($33E3C)
@@ -13913,15 +13404,15 @@
 //POINTER #1001 @ $33E60 - STRING #1001 @ $22168
 
 #W32($33E60)
-<COLOR><GRAY>ステッカーも<COLOR><RED>オリジナルステッカー<COLOR><GRAY>なら<END>
+<COLOR><GRAY>Only <COLOR><RED>Original Stickers<COLOR><GRAY> can be painted、though．<END>
 //POINTER #1002 @ $33E84 - STRING #1002 @ $221A0
 
 #W32($33E84)
-<COLOR><GRAY>何が何だか分からないんですがヽ（；´Д｀）ノ<END>
+<COLOR><GRAY>and I have no idea what's what ヽ（；´Д｀）ノ<END>
 //POINTER #1003 @ $33EA8 - STRING #1003 @ $221D4
 
 #W32($33EA8)
-<COLOR><GRAY>カーソルが合っていると思うが、<END>
+<COLOR><GRAY>option．Try switching to the <COLOR><RED>3D Preview<COLOR><GRAY> instead．<END>
 //POINTER #1004 @ $33ECC - STRING #1004 @ $221FA
 
 #W32($33ECC)
@@ -13929,67 +13420,67 @@
 //POINTER #1005 @ $33EF0 - STRING #1005 @ $221FC
 
 #W32($33EF0)
-<COLOR><GRAY>今選択しているテクスチャーだ。<END>
+<COLOR><GRAY>currently selected texture．<END>
 //POINTER #1006 @ $33F14 - STRING #1006 @ $22222
 
 #W32($33F14)
-<COLOR><GRAY>実際に何か描いてみよう。<END>
+<COLOR><GRAY>go ahead and try drawing something on it．<END>
 //POINTER #1007 @ $33F38 - STRING #1007 @ $22242
 
 #W32($33F38)
-<COLOR><GRAY>左から４番目、５番目の<COLOR><RED>ペン<COLOR><GRAY>と<COLOR><RED>塗りつぶし<COLOR><GRAY>で<END>
+<COLOR><GRAY>using the 4th and 5th tools from the toolbar、which are<END>
 //POINTER #1008 @ $33F5C - STRING #1008 @ $2228A
 
 #W32($33F5C)
-<COLOR><GRAY>好きな色で描いたり塗ったりできるぞ。<END>
+<COLOR><GRAY>on the left side of the screen．By the way、<END>
 //POINTER #1009 @ $33F80 - STRING #1009 @ $222B6
 
 #W32($33F80)
-<COLOR><GRAY><COLOR><RED>消しゴム機能<COLOR><GRAY>もついてる。<END>
+<COLOR><GRAY>There's an <COLOR><RED>eraser<COLOR><GRAY> too．<END>
 //POINTER #1010 @ $33FA4 - STRING #1010 @ $222E2
 
 #W32($33FA4)
-<COLOR><GRAY>後は君の芸術的センス次第だ！<END>
+<COLOR><GRAY>The rest is up to your artistic sense！<END>
 //POINTER #1011 @ $33FC8 - STRING #1011 @ $22306
 
 #W32($33FC8)
-<COLOR><GRAY>パレットに色がありませんヽ（；´Д｀）ノ<END>
+<COLOR><GRAY>but it's not on the Color Palette ヽ（；´Д｀）ノ<END>
 //POINTER #1012 @ $33FEC - STRING #1012 @ $22336
 
 #W32($33FEC)
-<COLOR><GRAY>左から３番目の<COLOR><RED>カラーエディット<COLOR><GRAY>で<END>
+<COLOR><GRAY>which is the 3rd icon on the toolbar．<END>
 //POINTER #1013 @ $34010 - STRING #1013 @ $2236A
 
 #W32($34010)
-<COLOR><GRAY>色々なカラーを作成可能だ。<END>
+<COLOR><GRAY>the RGB bars．<END>
 //POINTER #1014 @ $34034 - STRING #1014 @ $2238C
 
 #W32($34034)
-<COLOR><GRAY>塗りつぶしてあった部分の色も一緒に<END>
+<COLOR><GRAY>changed the color too ヽ（；´Д｀）ノ<END>
 //POINTER #1015 @ $34058 - STRING #1015 @ $223B6
 
 #W32($34058)
-<COLOR><GRAY>カラーを調整した場合は、そのカラーでペイントした<END>
+<COLOR><GRAY>already in use、it will change the color of everything<END>
 //POINTER #1016 @ $3407C - STRING #1016 @ $223EE
 
 #W32($3407C)
-<COLOR><GRAY>使用していないパレットのカラー<END>
+<COLOR><GRAY>I'd suggest editing the colors in the palette<END>
 //POINTER #1017 @ $340A0 - STRING #1017 @ $22414
 
 #W32($340A0)
-<COLOR><GRAY>え～と、黄色黄色……と。<END>
+<COLOR><GRAY>Umm～、yellow、yellow…… there we go．<END>
 //POINTER #1018 @ $340C4 - STRING #1018 @ $22434
 
 #W32($340C4)
-<COLOR><GRAY>では、さらばっ！<END>
+<COLOR><GRAY>See you next time！<END>
 //POINTER #1019 @ $340E8 - STRING #1019 @ $2244C
 
 #W32($340E8)
-<COLOR><GRAY>もっと広々としたテクスチャーで描きたいんですけど。<END>
+<COLOR><GRAY>I want to pain on a more spacious texture．<END>
 //POINTER #1020 @ $3410C - STRING #1020 @ $22486
 
 #W32($3410C)
-<COLOR><GRAY>変えることができる。<END>
+<COLOR><GRAY>settings located in the top left corner．<END>
 //POINTER #1021 @ $34130 - STRING #1021 @ $224A2
 
 #W32($34130)
@@ -13997,7 +13488,7 @@
 //POINTER #1022 @ $34154 - STRING #1022 @ $224A4
 
 #W32($34154)
-<COLOR><GRAY>後は君の芸術的センス次第だ！<END>
+<COLOR><GRAY>The rest is up to your artistic sense！<END>
 //POINTER #1023 @ $34178 - STRING #1023 @ $224C8
 
 #W32($34178)
@@ -14013,11 +13504,11 @@
 //POINTER #1026 @ $341E4 - STRING #1026 @ $224CE
 
 #W32($341E4)
-<COLOR><GRAY>まずはペイントの時と同じように、<END>
+<COLOR><GRAY>First、just like drawing、select the texture you<END>
 //POINTER #1027 @ $34208 - STRING #1027 @ $224F6
 
 #W32($34208)
-<COLOR><GRAY><COLOR><RED>ステッカーは貼り付けられない<COLOR><GRAY>ので、<END>
+<COLOR><RED>sticker textures<COLOR><GRAY>、so selecting those doesn't<END>
 //POINTER #1028 @ $3422C - STRING #1028 @ $2252C
 
 #W32($3422C)
@@ -14025,7 +13516,7 @@
 //POINTER #1029 @ $34250 - STRING #1029 @ $2252E
 
 #W32($34250)
-<COLOR><GRAY>左から２番目の<COLOR><RED>ステッカー<COLOR><GRAY>を使用する。<END>
+<COLOR><GRAY>which is the second icon on the toolbar．<END>
 //POINTER #1030 @ $34274 - STRING #1030 @ $22566
 
 #W32($34274)
@@ -14033,15 +13524,15 @@
 //POINTER #1031 @ $34298 - STRING #1031 @ $22568
 
 #W32($34298)
-<COLOR><GRAY>ツール機能内の<COLOR><RED>左端の貼付けボタン<COLOR><GRAY>で貼り付けられる。<END>
+<COLOR><GRAY>you can use the <COLOR><RED>Paste button on the left of Sticker tools<COLOR><GRAY>．<END>
 //POINTER #1032 @ $342BC - STRING #1032 @ $225AE
 
 #W32($342BC)
-<COLOR><GRAY>でももうちょっと違う場所に貼りたい……。<END>
+<COLOR><GRAY>But I'd like it to be in a slightly different place……<END>
 //POINTER #1033 @ $342E0 - STRING #1033 @ $225DE
 
 #W32($342E0)
-<COLOR><GRAY>自由に編集できる。<END>
+<COLOR><GRAY>the scale and position．<END>
 //POINTER #1034 @ $34304 - STRING #1034 @ $225F8
 
 #W32($34304)
@@ -14049,7 +13540,7 @@
 //POINTER #1035 @ $34328 - STRING #1035 @ $225FA
 
 #W32($34328)
-<COLOR><GRAY><COLOR><RED>○印<COLOR><GRAY>をドラッグするとステッカーが回転する。<END>
+<COLOR><GRAY>Dragging the <COLOR><RED>○ icon<COLOR><GRAY> will rotate the sticker．<END>
 //POINTER #1036 @ $3434C - STRING #1036 @ $22638
 
 #W32($3434C)
@@ -14057,11 +13548,11 @@
 //POINTER #1037 @ $34370 - STRING #1037 @ $2263A
 
 #W32($34370)
-<COLOR><GRAY>では、さらばっ！<END>
+<COLOR><GRAY>Farewell！<END>
 //POINTER #1038 @ $34394 - STRING #1038 @ $22652
 
 #W32($34394)
-<COLOR><GRAY>右サイドにも描きたいのですが……。<END>
+<COLOR><GRAY>like I drew on the left side……<END>
 //POINTER #1039 @ $343B8 - STRING #1039 @ $2267C
 
 #W32($343B8)
@@ -14069,11 +13560,11 @@
 //POINTER #1040 @ $343DC - STRING #1040 @ $2267E
 
 #W32($343DC)
-<COLOR><GRAY>まったく同じ模様なんて描けないですヽ（；´Д｀）ノ<END>
+<COLOR><GRAY>I can't draw the same exact pattern againヽ（；´Д｀）ノ<END>
 //POINTER #1041 @ $34400 - STRING #1041 @ $226B8
 
 #W32($34400)
-<COLOR><GRAY><COLOR><RED>コピー＆ペースト<COLOR><GRAY>すればいい。<END>
+<COLOR><GRAY>on the left side．<END>
 //POINTER #1042 @ $34424 - STRING #1042 @ $226E8
 
 #W32($34424)
@@ -14081,7 +13572,7 @@
 //POINTER #1043 @ $34448 - STRING #1043 @ $226EA
 
 #W32($34448)
-<COLOR><GRAY>コピーしたい部分のペイントをまずは範囲選択だ。<END>
+<COLOR><GRAY>on the toolbar．First select the area you want to copy．<END>
 //POINTER #1044 @ $3446C - STRING #1044 @ $22720
 
 #W32($3446C)
@@ -14089,11 +13580,11 @@
 //POINTER #1045 @ $34490 - STRING #1045 @ $22722
 
 #W32($34490)
-<COLOR><GRAY>囲んだらツール機能内の<COLOR><RED>左端のコピーボタン<COLOR><GRAY>を押すと<END>
+<COLOR><GRAY>Once you've done it、press the <COLOR><RED>Copy Button on the left<END>
 //POINTER #1046 @ $344B4 - STRING #1046 @ $22766
 
 #W32($344B4)
-<COLOR><GRAY>貼り付けたいテクスチャーを選択しよう。<END>
+<COLOR><GRAY>where you want to paste it in．<END>
 //POINTER #1047 @ $344D8 - STRING #1047 @ $22794
 
 #W32($344D8)
@@ -14101,35 +13592,35 @@
 //POINTER #1048 @ $344FC - STRING #1048 @ $22796
 
 #W32($344FC)
-<COLOR><GRAY>選んでごらん。<END>
+<END>
 //POINTER #1049 @ $34520 - STRING #1049 @ $227AC
 
 #W32($34520)
-<COLOR><GRAY>貼り付けられた！<END>
+<COLOR><GRAY>I pasted it！<END>
 //POINTER #1050 @ $34544 - STRING #1050 @ $227C4
 
 #W32($34544)
-<COLOR><GRAY>ステッカーと同様に自由に移動したり回転したりも<END>
+<COLOR><GRAY>you can move and rotate it freely、just like stickers．<END>
 //POINTER #1051 @ $34568 - STRING #1051 @ $227FA
 
 #W32($34568)
-<COLOR><GRAY>両側が同じペイントになったぞ！<END>
+<COLOR><GRAY>Both sides are painted the same now！<END>
 //POINTER #1052 @ $3458C - STRING #1052 @ $22820
 
 #W32($3458C)
-<COLOR><GRAY>後は君の芸術的センス次第だ！<END>
+<COLOR><GRAY>Well、the rest is up to your artistic sense！<END>
 //POINTER #1053 @ $345B0 - STRING #1053 @ $22844
 
 #W32($345B0)
-<COLOR><GRAY>……とにかくカキカキ……〆（゜▽゜＊）<END>
+<COLOR><GRAY>……still drawing……〆（゜▽゜＊）<END>
 //POINTER #1054 @ $345D4 - STRING #1054 @ $22872
 
 #W32($345D4)
-<COLOR><GRAY>そんなに力んで描いて……。<END>
+<COLOR><GRAY>Why are you drawing so intensely……<END>
 //POINTER #1055 @ $345F8 - STRING #1055 @ $22894
 
 #W32($345F8)
-<COLOR><GRAY>別に簡単に文字を描く方法を聞いているわけじゃ<END>
+<COLOR><GRAY>Not just asking for an easy way to draw text（lol）<END>
 //POINTER #1056 @ $3461C - STRING #1056 @ $228C8
 
 #W32($3461C)
@@ -14137,31 +13628,31 @@
 //POINTER #1057 @ $34640 - STRING #1057 @ $228CA
 
 #W32($34640)
-<COLOR><GRAY>わざわざ教えていただいてすみません（’з’）<END>
+<COLOR><GRAY>Sorry for troubling you but please explain（’з’）<END>
 //POINTER #1058 @ $34664 - STRING #1058 @ $228FE
 
 #W32($34664)
-<COLOR><GRAY>アイコン一覧の左から６番目の<COLOR><RED>フォント<COLOR><GRAY>を<END>
+<COLOR><GRAY>The <COLOR><RED>Font Tool<COLOR><GRAY> is the 6th icon<END>
 //POINTER #1059 @ $34688 - STRING #1059 @ $22938
 
 #W32($34688)
-<COLOR><GRAY>フォントを選択した後に、<COLOR><RED>左端の貼付けボタン<COLOR><GRAY>で<END>
+<COLOR><GRAY>you can paste it using the <COLOR><RED>Paste Button on the left<COLOR><GRAY> of<END>
 //POINTER #1060 @ $346AC - STRING #1060 @ $22978
 
 #W32($346AC)
-<COLOR><GRAY><COLOR><RED>フォントはペイントの一部<COLOR><GRAY>であるということ。<END>
+<COLOR><GRAY><COLOR><RED>fonts are part of the paint<COLOR><GRAY>．<END>
 //POINTER #1061 @ $346D0 - STRING #1061 @ $229B6
 
 #W32($346D0)
-<COLOR><GRAY>左右されずに色を変えたり拡大縮小をしたりできる。<END>
+<COLOR><GRAY>resize it without affecting the paint underneath．<END>
 //POINTER #1062 @ $346F4 - STRING #1062 @ $229EE
 
 #W32($346F4)
-<COLOR><GRAY>ＨＰアドレスも簡単に作れた……。<END>
+<COLOR><GRAY>I could create my homepage's address……<END>
 //POINTER #1063 @ $34718 - STRING #1063 @ $22A16
 
 #W32($34718)
-<COLOR><GRAY>では、さらばっ！<END>
+<COLOR><GRAY>Farewell！<END>
 //POINTER #1064 @ $3473C - STRING #1064 @ $22A2E
 
 #W32($3473C)
@@ -18825,19 +18316,19 @@
 //POINTER #996 @ $33DB0 - STRING #996 @ $288FA
 
 #W32($33DB0)
-<COLOR><GRAY>よろしい、セミプロの俺が説明しよう！<END>
+<COLOR><GRAY>let me、a semi-pro、explain it to you！<END>
 //POINTER #997 @ $33DD4 - STRING #997 @ $28926
 
 #W32($33DD4)
-<COLOR><GRAY>あれらは、<COLOR><RED>ボディペイントできない<COLOR><GRAY>決まりだから。<END>
+<END>
 //POINTER #998 @ $33DF8 - STRING #998 @ $28968
 
 #W32($33DF8)
-<COLOR><GRAY>施したいのかを選択する。<END>
+<END>
 //POINTER #999 @ $33E1C - STRING #999 @ $28988
 
 #W32($33E1C)
-<COLOR><GRAY>車のテクスチャーとステッカーを選択できる。<END>
+<COLOR><GRAY>texture and stickers．<END>
 //POINTER #1000 @ $33E40 - STRING #1000 @ $289BA
 
 #W32($33E40)
@@ -18845,7 +18336,7 @@
 //POINTER #1001 @ $33E64 - STRING #1001 @ $289BC
 
 #W32($33E64)
-<COLOR><GRAY>ペイントが可能だからね。<END>
+<END>
 //POINTER #1002 @ $33E88 - STRING #1002 @ $289DC
 
 #W32($33E88)
@@ -18853,7 +18344,7 @@
 //POINTER #1003 @ $33EAC - STRING #1003 @ $289DE
 
 #W32($33EAC)
-<COLOR><GRAY><COLOR><RED>３Ｄ表示<COLOR><GRAY>の方を選択してみるといい。<END>
+<END>
 //POINTER #1004 @ $33ED0 - STRING #1004 @ $28A14
 
 #W32($33ED0)
@@ -18869,11 +18360,11 @@
 //POINTER #1007 @ $33F3C - STRING #1007 @ $28A1A
 
 #W32($33F3C)
-<COLOR><GRAY>大体のことはできる。<END>
+<COLOR><GRAY>the <COLOR><RED>Pen<COLOR><GRAY> and <COLOR><RED>Fill<COLOR><GRAY>．<END>
 //POINTER #1008 @ $33F60 - STRING #1008 @ $28A36
 
 #W32($33F60)
-<COLOR><GRAY>ちなみに<COLOR><RED>パレットの一番上は透明色<COLOR><GRAY>だ。<END>
+<COLOR><RED>the top color of the palette is transparent<COLOR><GRAY>．<END>
 //POINTER #1009 @ $33F84 - STRING #1009 @ $28A6E
 
 #W32($33F84)
@@ -18881,7 +18372,7 @@
 //POINTER #1010 @ $33FA8 - STRING #1010 @ $28A70
 
 #W32($33FA8)
-<COLOR><GRAY>では、さらばっ！<END>
+<COLOR><GRAY>Farewell、then！<END>
 //POINTER #1011 @ $33FCC - STRING #1011 @ $28A88
 
 #W32($33FCC)
@@ -18889,7 +18380,7 @@
 //POINTER #1012 @ $33FF0 - STRING #1012 @ $28A8A
 
 #W32($33FF0)
-<COLOR><GRAY>色を作ることができる。<END>
+<END>
 //POINTER #1013 @ $34014 - STRING #1013 @ $28AA8
 
 #W32($34014)
@@ -18897,19 +18388,19 @@
 //POINTER #1014 @ $34038 - STRING #1014 @ $28AAA
 
 #W32($34038)
-<COLOR><GRAY>色が変わっちゃいましたヽ（；´Д｀）ノ<END>
+<END>
 //POINTER #1015 @ $3405C - STRING #1015 @ $28AD8
 
 #W32($3405C)
-<COLOR><GRAY>部分全体の色が変わるので注意が必要だ。<END>
+<COLOR><GRAY>that was painted using that color．<END>
 //POINTER #1016 @ $34080 - STRING #1016 @ $28B06
 
 #W32($34080)
-<COLOR><GRAY>をエディットするといいな。<END>
+<COLOR><GRAY>that you're not using．<END>
 //POINTER #1017 @ $340A4 - STRING #1017 @ $28B28
 
 #W32($340A4)
-<COLOR><GRAY>どうもありがとうございます！<END>
+<COLOR><GRAY>Thank you very much！<END>
 //POINTER #1018 @ $340C8 - STRING #1018 @ $28B4C
 
 #W32($340C8)
@@ -18921,7 +18412,7 @@
 //POINTER #1020 @ $34110 - STRING #1020 @ $28B50
 
 #W32($34110)
-<COLOR><GRAY>＋－ボタンを押してみな。<END>
+<COLOR><GRAY>Try pressing the ＋ and － buttons．<END>
 //POINTER #1021 @ $34134 - STRING #1021 @ $28B70
 
 #W32($34134)
@@ -18929,7 +18420,7 @@
 //POINTER #1022 @ $34158 - STRING #1022 @ $28B72
 
 #W32($34158)
-<COLOR><GRAY>では、さらばっ！<END>
+<COLOR><GRAY>Farewell！<END>
 //POINTER #1023 @ $3417C - STRING #1023 @ $28B8A
 
 #W32($3417C)
@@ -18945,11 +18436,11 @@
 //POINTER #1026 @ $341E8 - STRING #1026 @ $28B90
 
 #W32($341E8)
-<COLOR><GRAY>ステッカーを貼り付けたいテクスチャーを選択だ。<END>
+<COLOR><GRAY>want to apply the sticker on．<END>
 //POINTER #1027 @ $3420C - STRING #1027 @ $28BC6
 
 #W32($3420C)
-<COLOR><GRAY>これらは選んでも意味はない。<END>
+<COLOR><GRAY>make any sense．<END>
 //POINTER #1028 @ $34230 - STRING #1028 @ $28BEA
 
 #W32($34230)
@@ -19021,11 +18512,11 @@
 //POINTER #1045 @ $34494 - STRING #1045 @ $28C0C
 
 #W32($34494)
-<COLOR><GRAY>囲んだ部分のペイントがコピーされる。<END>
+<COLOR><GRAY>of the Selection tools to copy the selected paint．<END>
 //POINTER #1046 @ $344B8 - STRING #1046 @ $28C38
 
 #W32($344B8)
-<COLOR><GRAY>君の場合は右サイドだな。<END>
+<COLOR><GRAY>That's the right side、in your case．<END>
 //POINTER #1047 @ $344DC - STRING #1047 @ $28C58
 
 #W32($344DC)
@@ -19041,7 +18532,7 @@
 //POINTER #1050 @ $34548 - STRING #1050 @ $28C5E
 
 #W32($34548)
-<COLOR><GRAY>できるからあとは自分で微調整してくれ。<END>
+<COLOR><GRAY>Go ahead and make any adjustments you need．<END>
 //POINTER #1051 @ $3456C - STRING #1051 @ $28C8C
 
 #W32($3456C)
@@ -19049,7 +18540,7 @@
 //POINTER #1052 @ $34590 - STRING #1052 @ $28C8E
 
 #W32($34590)
-<COLOR><GRAY>では、さらばっ！<END>
+<COLOR><GRAY>Farewell！<END>
 //POINTER #1053 @ $345B4 - STRING #1053 @ $28CA6
 
 #W32($345B4)
@@ -19061,7 +18552,7 @@
 //POINTER #1055 @ $345FC - STRING #1055 @ $28CAA
 
 #W32($345FC)
-<COLOR><GRAY>ありませんよ（笑）<END>
+<END>
 //POINTER #1056 @ $34620 - STRING #1056 @ $28CC4
 
 #W32($34620)
@@ -19073,11 +18564,11 @@
 //POINTER #1058 @ $34668 - STRING #1058 @ $28CC8
 
 #W32($34668)
-<COLOR><GRAY>使用すればいい。<END>
+<COLOR><GRAY>on the toolbar．<END>
 //POINTER #1059 @ $3468C - STRING #1059 @ $28CE0
 
 #W32($3468C)
-<COLOR><GRAY>貼付けが可能だ。<END>
+<COLOR><GRAY>the Font tools．<END>
 //POINTER #1060 @ $346B0 - STRING #1060 @ $28CF8
 
 #W32($346B0)
@@ -19085,7 +18576,7 @@
 //POINTER #1061 @ $346D4 - STRING #1061 @ $28CFA
 
 #W32($346D4)
-<COLOR><GRAY>点線を解除したらペイントと同列になる。<END>
+<COLOR><GRAY>Once you unselect it、it becomes part of the paint．<END>
 //POINTER #1062 @ $346F8 - STRING #1062 @ $28D28
 
 #W32($346F8)
@@ -19093,7 +18584,7 @@
 //POINTER #1063 @ $3471C - STRING #1063 @ $28D2A
 
 #W32($3471C)
-<COLOR><GRAY>もうこのセリフ言うのも飽きたな。<END>
+<COLOR><GRAY>I'm tired of saying that line already．<END>
 //POINTER #1064 @ $34740 - STRING #1064 @ $28D52
 
 #W32($34740)
