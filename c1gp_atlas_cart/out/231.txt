@@ -7824,7 +7824,7 @@
 //POINTER #763 @ $31CE4 - STRING #763 @ $15D02
 
 #W32($31CE4)
-<COLOR><GRAY>Oy！ This is a public space！<END>
+<COLOR><GRAY>Oi！ This is a public space！<END>
 //POINTER #764 @ $31D08 - STRING #764 @ $15D20
 
 #W32($31D08)
@@ -8512,7 +8512,7 @@
 //POINTER #990 @ $33CD0 - STRING #990 @ $17A7A
 
 #W32($33CD0)
-<COLOR><GRAY>Oy、calm down ヽ（´ー｀）ノ<END>
+<COLOR><GRAY>Oi、calm down ヽ（´ー｀）ノ<END>
 //POINTER #991 @ $33CF4 - STRING #991 @ $17A9E
 
 #W32($33CF4)
@@ -8808,83 +8808,83 @@
 //POINTER #1064 @ $34738 - STRING #1064 @ $185A8
 
 #W32($34738)
-<COLOR><GRAY>最近質問ないな。<END>
+<COLOR><GRAY>No one asking questions lately．<END>
 //POINTER #1065 @ $3475C - STRING #1065 @ $185C0
 
 #W32($3475C)
-<COLOR><GRAY>すいません、描いたペイントを車のモデルで<END>
+<COLOR><GRAY>Sorry、is there a way to check how the paint looks<END>
 //POINTER #1066 @ $34780 - STRING #1066 @ $185F0
 
 #W32($34780)
-<COLOR><GRAY>言ってるそばから（笑）<END>
+<COLOR><GRAY>Speak of the devil（lol）<END>
 //POINTER #1067 @ $347A4 - STRING #1067 @ $1860E
 
 #W32($347A4)
-<COLOR><GRAY>テクスチャー選択の時に見られる車じゃ<END>
+<COLOR><GRAY>Can't you check it on the model you see<END>
 //POINTER #1068 @ $347C8 - STRING #1068 @ $1863A
 
 #W32($347C8)
-<COLOR><GRAY>あれはホントにテクスチャーの位置を確認するだけだ。<END>
+<COLOR><GRAY>It's really just a way to check the texture's placement．<END>
 //POINTER #1069 @ $347EC - STRING #1069 @ $18674
 
 #W32($347EC)
-<COLOR><GRAY>さっそく確認してみよう（＊´д｀＊）<END>
+<COLOR><GRAY>Let's check it out then（＊´д｀＊）<END>
 //POINTER #1070 @ $34810 - STRING #1070 @ $186A0
 
 #W32($34810)
-<COLOR><GRAY>飽きたけど決めセリフなんで言っておく（笑）<END>
+<COLOR><GRAY>Tired of saying it、but it is my catchphrase（lol）<END>
 //POINTER #1071 @ $34834 - STRING #1071 @ $186D2
 
 #W32($34834)
-<COLOR><GRAY>わああああああああああ！！！！！ヽ（；´Д｀）ノ<END>
+<COLOR><GRAY>Waaaaaaaaaah！！！！！ヽ（；´Д｀）ノ<END>
 //POINTER #1072 @ $34858 - STRING #1072 @ $1870A
 
 #W32($34858)
-<COLOR><GRAY>何だよ！<END>
+<COLOR><GRAY>What is it！<END>
 //POINTER #1073 @ $3487C - STRING #1073 @ $1871A
 
 #W32($3487C)
-<COLOR><GRAY>サイドのペイントが<END>
+<COLOR><GRAY>The paint on the side is stretched out all the way like<END>
 //POINTER #1074 @ $348A0 - STRING #1074 @ $18734
 
 #W32($348A0)
-<COLOR><GRAY>ああ、比率が変わるからだな。<END>
+<COLOR><GRAY>Ahh、because of the change in proportions．<END>
 //POINTER #1075 @ $348C4 - STRING #1075 @ $18758
 
 #W32($348C4)
-<COLOR><GRAY>先に逝ってください……○｜￣｜＿<END>
+<COLOR><GRAY>Please go on ahead……○｜￣｜＿<END>
 //POINTER #1076 @ $348E8 - STRING #1076 @ $18780
 
 #W32($348E8)
-<COLOR><GRAY>「言って」だろ（笑）<END>
+<COLOR><GRAY>You mean explain、right？（lol）<END>
 //POINTER #1077 @ $3490C - STRING #1077 @ $1879C
 
 #W32($3490C)
-<COLOR><GRAY>調整めんどい。<END>
+<COLOR><GRAY>Adjusting it now is pain．<END>
 //POINTER #1078 @ $34930 - STRING #1078 @ $187B2
 
 #W32($34930)
-<COLOR><GRAY>おい、自分で質問しておいて勝手に落ちるな（笑）<END>
+<COLOR><GRAY>Oi、don't just leave after asking a question（lol）<END>
 //POINTER #1079 @ $34954 - STRING #1079 @ $187E8
 
 #W32($34954)
-<COLOR><GRAY>終りにするのは<COLOR><RED>ＥＮＤ<COLOR><GRAY>ですか？<END>
+<COLOR><GRAY>Do I use <COLOR><RED>END<COLOR><GRAY> to quit？<END>
 //POINTER #1080 @ $34978 - STRING #1080 @ $18818
 
 #W32($34978)
-<COLOR><GRAY>そうだよ。<END>
+<COLOR><GRAY>Yup．<END>
 //POINTER #1081 @ $3499C - STRING #1081 @ $1882A
 
 #W32($3499C)
-<COLOR><GRAY>ＲＢ初心者はたくさんいます（笑）<END>
+<COLOR><GRAY>That's too much for a RB Newbie（lol）<END>
 //POINTER #1082 @ $349C0 - STRING #1082 @ $18852
 
 #W32($349C0)
-<COLOR><GRAY>ボディペイントのセーブは<END>
+<COLOR><GRAY>You can save the Body Paint by using the <COLOR><RED>Save／Load<END>
 //POINTER #1083 @ $349E4 - STRING #1083 @ $18872
 
 #W32($349E4)
-<COLOR><GRAY>ちなみに、ボディペイントでセーブできるのは<END>
+<COLOR><GRAY>Note that only the Paint Data can be saved in Body Paint、<END>
 //POINTER #1084 @ $34A08 - STRING #1084 @ $188A4
 
 #W32($34A08)
@@ -8892,27 +8892,27 @@
 //POINTER #1085 @ $34A2C - STRING #1085 @ $188B2
 
 #W32($34A2C)
-<COLOR><GRAY><COLOR><RED>メモリーカード（ＰＳ２）<COLOR><GRAY>に、ゲームデータとは別に<END>
+<COLOR><GRAY>The Paint Data is saved on the <COLOR><RED>MEMORY CARD（PS2）<END>
 //POINTER #1086 @ $34A50 - STRING #1086 @ $188F6
 
 #W32($34A50)
-<COLOR><GRAY>ゲームデータとは別にセーブすると<END>
+<COLOR><GRAY>What good does it do to save separately<END>
 //POINTER #1087 @ $34A74 - STRING #1087 @ $1891E
 
 #W32($34A74)
-<COLOR><GRAY>新しい車を買ったんですが、<END>
+<COLOR><GRAY>Just bought a new car、but it's such a pain to paint it<END>
 //POINTER #1088 @ $34A98 - STRING #1088 @ $18940
 
 #W32($34A98)
-<COLOR><GRAY>こういう人のためにゲームデータとは別に保存して<END>
+<COLOR><GRAY>For people like you、we have a separate save option．<END>
 //POINTER #1089 @ $34ABC - STRING #1089 @ $18976
 
 #W32($34ABC)
-<COLOR><GRAY>違う車種だと？<END>
+<COLOR><GRAY>Different models、though？<END>
 //POINTER #1090 @ $34AE0 - STRING #1090 @ $1898C
 
 #W32($34AE0)
-<COLOR><GRAY>さすがにそれはロードできない。<END>
+<COLOR><GRAY>That is indeed not loadable．<END>
 //POINTER #1091 @ $34B04 - STRING #1091 @ $189B2
 
 #W32($34B04)
@@ -8920,75 +8920,75 @@
 //POINTER #1092 @ $34B28 - STRING #1092 @ $189C4
 
 #W32($34B28)
-<COLOR><GRAY>中古車ディーラーにたまにペイントされた車が<END>
+<COLOR><GRAY>Sometimes、the Used Car Dealer has painted cars for sale、<END>
 //POINTER #1093 @ $34B4C - STRING #1093 @ $189F6
 
 #W32($34B4C)
-<COLOR><GRAY>〆（゜▽゜＊）ナルホド！<END>
+<COLOR><GRAY>〆（゜▽゜＊）Got it！<END>
 //POINTER #1094 @ $34B70 - STRING #1094 @ $18A16
 
 #W32($34B70)
-<COLOR><GRAY>問題点は、自分の車と同じ車種で<END>
+<COLOR><GRAY>The problem is whether a used car with the same<END>
 //POINTER #1095 @ $34B94 - STRING #1095 @ $18A3C
 
 #W32($34B94)
-<COLOR><GRAY>同じ車種でも、<COLOR><RED>エアロとかが変わっていた場合は<END>
+<COLOR><GRAY>Even if it's the same model、if the <COLOR><RED>aero parts are<END>
 //POINTER #1096 @ $34BB8 - STRING #1096 @ $18A76
 
 #W32($34BB8)
-<COLOR><GRAY>ペイントデータはここでセーブしないと<END>
+<COLOR><GRAY>Will the Paint Data stay if I dont save it here？<END>
 //POINTER #1097 @ $34BDC - STRING #1097 @ $18AA2
 
 #W32($34BDC)
-<COLOR><GRAY>電源を入れている間は消えない。<END>
+<COLOR><GRAY>It won't be deleted while the power is on．Just make sure<END>
 //POINTER #1098 @ $34C00 - STRING #1098 @ $18AC8
 
 #W32($34C00)
-<COLOR><GRAY>その上で、ペイントを抜ける時にも保存しておけば、<END>
+<COLOR><GRAY>Although、saving Paint Data when you exit will give you<END>
 //POINTER #1099 @ $34C24 - STRING #1099 @ $18B00
 
 #W32($34C24)
-<COLOR><GRAY>さあて昨日の続きを描こう♪<END>
+<COLOR><GRAY>Alright、let's continue from where I left off♪<END>
 //POINTER #1100 @ $34C48 - STRING #1100 @ $18B22
 
 #W32($34C48)
-<COLOR><GRAY>おちつけ。<END>
+<COLOR><GRAY>Relax．<END>
 //POINTER #1101 @ $34C6C - STRING #1101 @ $18B34
 
 #W32($34C6C)
-<COLOR><GRAY>だって、あんなに時間かけて描いたペイントが～～！！<END>
+<COLOR><GRAY>But I spent so much time on that paint job～～！！<END>
 //POINTER #1102 @ $34C90 - STRING #1102 @ $18B6E
 
 #W32($34C90)
-<COLOR><GRAY>クエスト終了のときにも、ちゃんとゲームデータを<END>
+<COLOR><GRAY>Did you save the Game Data properly、<END>
 //POINTER #1103 @ $34CB4 - STRING #1103 @ $18BA4
 
 #W32($34CB4)
-<COLOR><GRAY>してない。<END>
+<COLOR><GRAY>Nope．<END>
 //POINTER #1104 @ $34CD8 - STRING #1104 @ $18BB6
 
 #W32($34CD8)
-<COLOR><GRAY>「車にペイントした」という情報が破棄されたんだな。<END>
+<COLOR><GRAY>The information that you “painted the car” got discarded．<END>
 //POINTER #1105 @ $34CFC - STRING #1105 @ $18BF0
 
 #W32($34CFC)
-<COLOR><GRAY>あ、セーブされてる！<END>
+<COLOR><GRAY>Ah、it got saved！<END>
 //POINTER #1106 @ $34D20 - STRING #1106 @ $18C0C
 
 #W32($34D20)
-<COLOR><GRAY>ボディペイントを抜ける時のセーブでは<END>
+<COLOR><GRAY>When you save when quitting Body Paint、<END>
 //POINTER #1107 @ $34D44 - STRING #1107 @ $18C38
 
 #W32($34D44)
-<COLOR><GRAY>おぉ、ロードしたらペイントが復活した（涙）<END>
+<COLOR><GRAY>Oooh、I loaded it and the paint came back（crying）<END>
 //POINTER #1108 @ $34D68 - STRING #1108 @ $18C6A
 
 #W32($34D68)
-<COLOR><GRAY>ゲンキンなヤツめ。<END>
+<COLOR><GRAY>What a fickle guy．<END>
 //POINTER #1109 @ $34D8C - STRING #1109 @ $18C84
 
 #W32($34D8C)
-<COLOR><GRAY>最近決めセリフ言い忘れて凹んでいる俺です。<END>
+<COLOR><GRAY>I've been feeling down lately because I keep<END>
 //POINTER #1110 @ $34DB0 - STRING #1110 @ $18CB6
 
 #W32($34DB0)
@@ -8996,27 +8996,27 @@
 //POINTER #1111 @ $34DD4 - STRING #1111 @ $18CCC
 
 #W32($34DD4)
-<COLOR><GRAY>早いな（笑）<END>
+<COLOR><GRAY>You're early（lol）<END>
 //POINTER #1112 @ $34DF8 - STRING #1112 @ $18CE0
 
 #W32($34DF8)
-<COLOR><GRAY>それつなぐと何ができるんですか？<END>
+<COLOR><GRAY>What can you do with it once it's connected？<END>
 //POINTER #1113 @ $34E1C - STRING #1113 @ $18D08
 
 #W32($34E1C)
-<COLOR><GRAY>”ＥｙｅＴｏｙ”ＵＳＢカメラで撮影した画像を<END>
+<COLOR><GRAY>Pictures taken with the “EyeToy”USB Camera can be<END>
 //POINTER #1114 @ $34E40 - STRING #1114 @ $18D3C
 
 #W32($34E40)
-<COLOR><GRAY>どんなものでも？<END>
+<COLOR><GRAY>Any picture？<END>
 //POINTER #1115 @ $34E64 - STRING #1115 @ $18D54
 
 #W32($34E64)
-<COLOR><GRAY>物でも風景でもお気に入りのキャラでも、<END>
+<COLOR><GRAY>Whether it's an object、your favourite character、<END>
 //POINTER #1116 @ $34E88 - STRING #1116 @ $18D82
 
 #W32($34E88)
-<COLOR><GRAY>”ＥｙｅＴｏｙ”ＵＳＢカメラを本体に接続したら<END>
+<COLOR><GRAY>Once the “EyeToy”USB Camera is connected、<END>
 //POINTER #1117 @ $34EAC - STRING #1117 @ $18DB8
 
 #W32($34EAC)
@@ -9024,311 +9024,311 @@
 //POINTER #1118 @ $34ED0 - STRING #1118 @ $18DCE
 
 #W32($34ED0)
-<COLOR><GRAY>買ってこよう（笑）<END>
+<COLOR><GRAY>Go get one（lol）<END>
 //POINTER #1119 @ $34EF4 - STRING #1119 @ $18DE8
 
 #W32($34EF4)
-<COLOR><GRAY>皆さんの好きな食べ物を教えてください！<END>
+<COLOR><GRAY>Please tell me your favourite foods！<END>
 //POINTER #1120 @ $34F18 - STRING #1120 @ $18E16
 
 #W32($34F18)
-<COLOR><GRAY>焼肉。<END>
+<COLOR><GRAY>Grilled beef．<END>
 //POINTER #1121 @ $34F3C - STRING #1121 @ $18E24
 
 #W32($34F3C)
-<COLOR><GRAY>ラーメン。<END>
+<COLOR><GRAY>Ramen．<END>
 //POINTER #1122 @ $34F60 - STRING #1122 @ $18E36
 
 #W32($34F60)
-<COLOR><GRAY>お寿司。<END>
+<COLOR><GRAY>Sushi．I'd love to try authentic sea urchin and salmon roe<END>
 //POINTER #1123 @ $34F84 - STRING #1123 @ $18E46
 
 #W32($34F84)
-<COLOR><GRAY>いいね～。<END>
+<COLOR><GRAY>Nice～<END>
 //POINTER #1124 @ $34FA8 - STRING #1124 @ $18E58
 
 #W32($34FA8)
-<COLOR><GRAY>オムライス。<END>
+<COLOR><GRAY>Omurice．<END>
 //POINTER #1125 @ $34FCC - STRING #1125 @ $18E6C
 
 #W32($34FCC)
-<COLOR><GRAY>おいしそうなスレ発見（笑）<END>
+<COLOR><GRAY>I found a delicious-looking thread（lol）<END>
 //POINTER #1126 @ $34FF0 - STRING #1126 @ $18E8E
 
 #W32($34FF0)
-<COLOR><GRAY>春巻き（笑）<END>
+<COLOR><GRAY>Spring rolls（lol）<END>
 //POINTER #1127 @ $35014 - STRING #1127 @ $18EA2
 
 #W32($35014)
-<COLOR><GRAY>鍋物がいいな。<END>
+<COLOR><GRAY>I'd love a hot pot．<END>
 //POINTER #1128 @ $35038 - STRING #1128 @ $18EB8
 
 #W32($35038)
-<COLOR><GRAY>ケーキ大好き！<END>
+<COLOR><GRAY>I love cakes！<END>
 //POINTER #1129 @ $3505C - STRING #1129 @ $18ECE
 
 #W32($3505C)
-<COLOR><GRAY>私はおまんじゅうとか和菓子の方が好き。<END>
+<COLOR><GRAY>I would prefer manjuu or other Japanese sweets．<END>
 //POINTER #1130 @ $35080 - STRING #1130 @ $18EFC
 
 #W32($35080)
-<COLOR><GRAY>峠の茶屋のみたらし団子。<END>
+<COLOR><GRAY>Mitarashi dango from the touge teahouse．<END>
 //POINTER #1131 @ $350A4 - STRING #1131 @ $18F1C
 
 #W32($350A4)
-<COLOR><GRAY>デザート出てきたっ！<END>
+<COLOR><GRAY>Dessert has arrived！<END>
 //POINTER #1132 @ $350C8 - STRING #1132 @ $18F38
 
 #W32($350C8)
-<COLOR><GRAY>キャビア、フォアグラ、トリュフは<END>
+<COLOR><GRAY>I eat caviar、foie gras、and truffles<END>
 //POINTER #1133 @ $350EC - STRING #1133 @ $18F60
 
 #W32($350EC)
-<COLOR><GRAY>フカヒレ、ツバメの巣、北京ダック。<END>
+<COLOR><GRAY>Shark's fin、swallow's nest、Peking duck．<END>
 //POINTER #1134 @ $35110 - STRING #1134 @ $18F8A
 
 #W32($35110)
-<COLOR><GRAY>なんか高そうなものになってきたぞ……。<END>
+<COLOR><GRAY>It's starting to become expensive……<END>
 //POINTER #1135 @ $35134 - STRING #1135 @ $18FB8
 
 #W32($35134)
-<COLOR><GRAY>ドリアン、くさや。<END>
+<COLOR><GRAY>Durian、kusaya．<END>
 //POINTER #1136 @ $35158 - STRING #1136 @ $18FD2
 
 #W32($35158)
-<COLOR><GRAY>とうがらし、わさび、ハバネロ。<END>
+<COLOR><GRAY>Chili peppers、wasabi、habanero．<END>
 //POINTER #1137 @ $3517C - STRING #1137 @ $18FF8
 
 #W32($3517C)
-<COLOR><GRAY>いも虫。<END>
+<COLOR><GRAY>Caterpillars．<END>
 //POINTER #1138 @ $351A0 - STRING #1138 @ $19008
 
 #W32($351A0)
-<COLOR><GRAY>って言うか最後のは食いもんじゃないし！<END>
+<COLOR><GRAY>I mean、the last one isn't even food！<END>
 //POINTER #1139 @ $351C4 - STRING #1139 @ $19036
 
 #W32($351C4)
-<COLOR><GRAY>この書き込みは管理人により削除されました。<END>
+<COLOR><GRAY>This post has been deleted by the Administrator．<END>
 //POINTER #1140 @ $351E8 - STRING #1140 @ $19068
 
 #W32($351E8)
-<COLOR><GRAY>ちょっと待てぃ！<END>
+<COLOR><GRAY>Wait just a minute！<END>
 //POINTER #1141 @ $3520C - STRING #1141 @ $19080
 
 #W32($3520C)
-<COLOR><GRAY>もう止め！<END>
+<COLOR><GRAY>Enough！<END>
 //POINTER #1142 @ $35230 - STRING #1142 @ $19092
 
 #W32($35230)
-<COLOR><GRAY>食うのかよ……。<END>
+<COLOR><GRAY>You're actually going to……<END>
 //POINTER #1143 @ $35254 - STRING #1143 @ $190AA
 
 #W32($35254)
-<COLOR><GRAY>全部食べますた。<END>
+<COLOR><GRAY>Ate all of 'em．<END>
 //POINTER #1144 @ $35278 - STRING #1144 @ $190C2
 
 #W32($35278)
-<COLOR><GRAY>ガレージ狭くありません？<END>
+<COLOR><GRAY>Isn't the garage too small？<END>
 //POINTER #1145 @ $3529C - STRING #1145 @ $190E2
 
 #W32($3529C)
-<COLOR><GRAY>それなら、サブガレージを利用するといい。<END>
+<COLOR><GRAY>Well、you can use the Sub Garage then．<END>
 //POINTER #1146 @ $352C0 - STRING #1146 @ $19112
 
 #W32($352C0)
-<COLOR><GRAY>何ですかサブガレージって？<END>
+<COLOR><GRAY>What's a Sub Garage？<END>
 //POINTER #1147 @ $352E4 - STRING #1147 @ $19134
 
 #W32($352E4)
-<COLOR><GRAY>予備のガレージだ。<END>
+<COLOR><GRAY>A spare garage．<END>
 //POINTER #1148 @ $35308 - STRING #1148 @ $1914E
 
 #W32($35308)
-<COLOR><GRAY>それ、買うんですか？<END>
+<COLOR><GRAY>You need to buy it？<END>
 //POINTER #1149 @ $3532C - STRING #1149 @ $1916A
 
 #W32($3532C)
-<COLOR><GRAY>いや、<COLOR><RED>メモリーカード（ＰＳ２）<COLOR><GRAY>を用意して<END>
+<COLOR><GRAY>Nah、Prepare a <COLOR><RED>MEMORY CARD（PS2）<COLOR><GRAY> and select<END>
 //POINTER #1150 @ $35350 - STRING #1150 @ $191A6
 
 #W32($35350)
-<COLOR><GRAY>サブガレージには最高１５台まで収容できるぞ。<END>
+<COLOR><GRAY>The Sub Garage can fit up to 15 cars．<END>
 //POINTER #1151 @ $35374 - STRING #1151 @ $191DA
 
 #W32($35374)
-<COLOR><GRAY>おぉ、そうだったのかぁ！<END>
+<COLOR><GRAY>Ooh、didn't know that！<END>
 //POINTER #1152 @ $35398 - STRING #1152 @ $191FA
 
 #W32($35398)
-<COLOR><GRAY>しかし、あれだ、車を３台も持ってて<END>
+<COLOR><GRAY>But hey、isn't it kind of funny to have 3 cars<END>
 //POINTER #1153 @ $353BC - STRING #1153 @ $19224
 
 #W32($353BC)
-<COLOR><GRAY>メーカーのステッカーとか、<END>
+<COLOR><GRAY>Collecting manufacturer stickers and<END>
 //POINTER #1154 @ $353E0 - STRING #1154 @ $19246
 
 #W32($353E0)
-<COLOR><GRAY>うむり。<END>
+<COLOR><GRAY>Yeah．<END>
 //POINTER #1155 @ $35404 - STRING #1155 @ $19256
 
 #W32($35404)
-<COLOR><GRAY>え！？<END>
+<COLOR><GRAY>Huuh！？<END>
 //POINTER #1156 @ $35428 - STRING #1156 @ $19264
 
 #W32($35428)
-<COLOR><GRAY>知らずに集めていたのかヽ（´ー｀）ノ<END>
+<COLOR><GRAY>You've been collecting them without knowing ヽ（´ー｀）ノ<END>
 //POINTER #1157 @ $3544C - STRING #1157 @ $19290
 
 #W32($3544C)
-<COLOR><GRAY><COLOR><RED>ボディペイント<COLOR><GRAY>の中で貼ることができるよ。<END>
+<COLOR><GRAY>You can put them on in the <COLOR><RED>Body Paint<COLOR><GRAY>．<END>
 //POINTER #1158 @ $35470 - STRING #1158 @ $192CC
 
 #W32($35470)
-<COLOR><GRAY>メーカーステッカーと違って、<END>
+<COLOR><GRAY>Unlike manufacturer stickers、<END>
 //POINTER #1159 @ $35494 - STRING #1159 @ $192F0
 
 #W32($35494)
-<COLOR><GRAY>ペイントに近い感覚だよね。<END>
+<COLOR><GRAY>It's almost like painting．<END>
 //POINTER #1160 @ $354B8 - STRING #1160 @ $19312
 
 #W32($354B8)
-<COLOR><GRAY>知らなかったぁぁ！<END>
+<COLOR><GRAY>I had no idea！<END>
 //POINTER #1161 @ $354DC - STRING #1161 @ $1932C
 
 #W32($354DC)
-<COLOR><GRAY>頑張ってね（笑）<END>
+<COLOR><GRAY>Good luck with that（lol）<END>
 //POINTER #1162 @ $35500 - STRING #1162 @ $19344
 
 #W32($35500)
-<COLOR><GRAY>すいませーんヽ（；´Д｀）ノ<END>
+<COLOR><GRAY>Excusee mee ヽ（；´Д｀）ノ<END>
 //POINTER #1163 @ $35524 - STRING #1163 @ $19368
 
 #W32($35524)
-<COLOR><GRAY>オリジナルステッカーの４つの枠にセットしたか？<END>
+<COLOR><GRAY>Did you set it in one of the four slots<END>
 //POINTER #1164 @ $35548 - STRING #1164 @ $1939E
 
 #W32($35548)
-<COLOR><GRAY>何ですか？<END>
+<COLOR><GRAY>Come again？<END>
 //POINTER #1165 @ $3556C - STRING #1165 @ $193B0
 
 #W32($3556C)
-<COLOR><GRAY>自分で獲得したライバルのエンブレムから<END>
+<COLOR><GRAY>You need to select up to four emblems<END>
 //POINTER #1166 @ $35590 - STRING #1166 @ $193DE
 
 #W32($35590)
-<COLOR><GRAY><COLOR><RED>ステッカー<COLOR><GRAY>の項目の中の<END>
+<COLOR><GRAY>Try selecting the <COLOR><RED>ORIGINAL STICKER<COLOR><GRAY> option inside the<END>
 //POINTER #1167 @ $355B4 - STRING #1167 @ $19408
 
 #W32($355B4)
-<COLOR><GRAY>ああ、この４枠ってそういう意味だったんだ。<END>
+<COLOR><GRAY>Ahh、so that's what you meant by four slots．<END>
 //POINTER #1168 @ $355D8 - STRING #1168 @ $1943A
 
 #W32($355D8)
-<COLOR><GRAY>そこは大人の事情。<END>
+<COLOR><GRAY>A behind-the-scenes reason．<END>
 //POINTER #1169 @ $355FC - STRING #1169 @ $19454
 
 #W32($355FC)
-<COLOR><GRAY>うし！<END>
+<COLOR><GRAY>Alright！<END>
 //POINTER #1170 @ $35620 - STRING #1170 @ $19462
 
 #W32($35620)
-<COLOR><GRAY>頑張ってね（笑）<END>
+<COLOR><GRAY>Good luck with that（lol）<END>
 //POINTER #1171 @ $35644 - STRING #1171 @ $1947A
 
 #W32($35644)
-<COLOR><GRAY>ちなみに選択してなくても、空枠を使って<END>
+<COLOR><GRAY>Also、even if you don't select anything、<END>
 //POINTER #1172 @ $35668 - STRING #1172 @ $194A8
 
 #W32($35668)
-<COLOR><GRAY>どうもコーナーで曲がりきれなかったり<END>
+<COLOR><GRAY>I keep having trouble making turns and<END>
 //POINTER #1173 @ $3568C - STRING #1173 @ $194D4
 
 #W32($3568C)
-<COLOR><GRAY>曲がりやすいセッティングをするのも手だけど<END>
+<COLOR><GRAY>Setting up for better cornering is one option、<END>
 //POINTER #1174 @ $356B0 - STRING #1174 @ $19506
 
 #W32($356B0)
-<COLOR><GRAY>ブレーキ？（’з’）<END>
+<COLOR><GRAY>Brakes？（’з’）<END>
 //POINTER #1175 @ $356D4 - STRING #1175 @ $19522
 
 #W32($356D4)
-<COLOR><GRAY>おいおい。<END>
+<COLOR><GRAY>Oi、oi．<END>
 //POINTER #1176 @ $356F8 - STRING #1176 @ $19534
 
 #W32($356F8)
-<COLOR><GRAY>コーナーではしっかり減速、これは常識よ。<END>
+<COLOR><GRAY>Slowing down for corners properly is common knowledge．<END>
 //POINTER #1177 @ $3571C - STRING #1177 @ $19564
 
 #W32($3571C)
-<COLOR><GRAY>みなさん安全運転を心がけているんですね。<END>
+<COLOR><GRAY>Everyone's being a safe driver here、huh．<END>
 //POINTER #1178 @ $35740 - STRING #1178 @ $19594
 
 #W32($35740)
-<COLOR><GRAY>家庭を持つようになれば分かる（´ー｀）ｙ－～～<END>
+<COLOR><GRAY>You'll get it once you start a family（´ー｀）ｙ－～～<END>
 //POINTER #1179 @ $35764 - STRING #1179 @ $195CA
 
 #W32($35764)
-<COLOR><GRAY>無茶しないで無難に運転しておくのが一番だよ。<END>
+<COLOR><GRAY>It's best to drive safe rather than reckless．<END>
 //POINTER #1180 @ $35788 - STRING #1180 @ $195FE
 
 #W32($35788)
-<COLOR><GRAY>お前はもう少しアグレッシブになっても<END>
+<COLOR><GRAY>Don't you think you could be a little bit more<END>
 //POINTER #1181 @ $357AC - STRING #1181 @ $1962A
 
 #W32($357AC)
-<COLOR><GRAY>君に言われたくない（´Ａ｀）<END>
+<COLOR><GRAY>I don't want to hear that from you（´Ａ｀）<END>
 //POINTER #1182 @ $357D0 - STRING #1182 @ $1964E
 
 #W32($357D0)
-<COLOR><GRAY>みなさんありがとうございます！<END>
+<COLOR><GRAY>Thank you、everyone！ If there ever comes to us racing<END>
 //POINTER #1183 @ $357F4 - STRING #1183 @ $19674
 
 #W32($357F4)
-<COLOR><GRAY>車に乗っていて、怖かったことってありますか？<END>
+<COLOR><GRAY>Have you ever had a scary experience while driving？<END>
 //POINTER #1184 @ $35818 - STRING #1184 @ $196A8
 
 #W32($35818)
-<COLOR><GRAY>一番のりっ！<END>
+<COLOR><GRAY>First！ This wasn't my driving、<END>
 //POINTER #1185 @ $3583C - STRING #1185 @ $196BC
 
 #W32($3583C)
-<COLOR><GRAY>友人はもちろんシラフだったけど、<END>
+<COLOR><GRAY>My friend was sober、of course、<END>
 //POINTER #1186 @ $35860 - STRING #1186 @ $196E4
 
 #W32($35860)
-<COLOR><GRAY>始めのうちは色々しゃべってたけど、<END>
+<COLOR><GRAY>At first、we were chatting about all sorts of things、<END>
 //POINTER #1187 @ $35884 - STRING #1187 @ $1970E
 
 #W32($35884)
-<COLOR><GRAY>そうしたら急に友人が「あっ！！」って大声出して、<END>
+<COLOR><GRAY>Suddenly、my friend shouted“AAH！！”<END>
 //POINTER #1188 @ $358A8 - STRING #1188 @ $19746
 
 #W32($358A8)
-<COLOR><GRAY>白い人の形をしたものが、目の前を横切って……。<END>
+<COLOR><GRAY>A pale white human shaped thing crossed in front of us……<END>
 //POINTER #1189 @ $358CC - STRING #1189 @ $1977C
 
 #W32($358CC)
-<COLOR><GRAY>でも、車の下にも、辺りにも人影らしきものはない。<END>
+<COLOR><GRAY>But there was no sign of a person under the car<END>
 //POINTER #1190 @ $358F0 - STRING #1190 @ $197B4
 
 #W32($358F0)
-<COLOR><GRAY>俺も始めはボ～ッとしてて<END>
+<COLOR><GRAY>At first、I was still dazed and said、<END>
 //POINTER #1191 @ $35914 - STRING #1191 @ $197D4
 
 #W32($35914)
-<COLOR><GRAY>俺だけとか、友人だけ見たのなら、<END>
+<COLOR><GRAY>If only one of us had seen it、<END>
 //POINTER #1192 @ $35938 - STRING #1192 @ $197FC
 
 #W32($35938)
-<COLOR><GRAY>自宅に着いたら布団に一直線だったな。<END>
+<COLOR><GRAY>I dived straight into my futon once I got home．<END>
 //POINTER #1193 @ $3595C - STRING #1193 @ $19828
 
 #W32($3595C)
-<COLOR><GRAY>霊だね。<END>
+<COLOR><GRAY>A ghost、for sure．<END>
 //POINTER #1194 @ $35980 - STRING #1194 @ $19838
 
 #W32($35980)
-<COLOR><GRAY>簡単に処理するなっ！ヽ（；´Д｀）ノ<END>
+<COLOR><GRAY>Don't just brush it off like that！ヽ（；´Д｀）ノ<END>
 //POINTER #1195 @ $359A4 - STRING #1195 @ $19864
 
 #W32($359A4)
@@ -13656,31 +13656,31 @@
 //POINTER #1064 @ $3473C - STRING #1064 @ $22A2E
 
 #W32($3473C)
-<COLOR><GRAY>みんなちゃんと使いこなしているようだ。<END>
+<COLOR><GRAY>Looks like everyone's using it properly now．<END>
 //POINTER #1065 @ $34760 - STRING #1065 @ $22A5C
 
 #W32($34760)
-<COLOR><GRAY>確認とかできないのですか？<END>
+<COLOR><GRAY>on the car model？<END>
 //POINTER #1066 @ $34784 - STRING #1066 @ $22A7E
 
 #W32($34784)
-<COLOR><GRAY>画面の左側にある<COLOR><RED>３Ｄ　ＰＲＥＶＩＥＷ<COLOR><GRAY>という<END>
+<COLOR><GRAY>You can check it using the <COLOR><RED>3D PREVIEW<COLOR><GRAY> button<END>
 //POINTER #1067 @ $347A8 - STRING #1067 @ $22ABC
 
 #W32($347A8)
-<COLOR><GRAY>確認できないんですか？<END>
+<COLOR><GRAY>during texture selection？<END>
 //POINTER #1068 @ $347CC - STRING #1068 @ $22ADA
 
 #W32($347CC)
-<COLOR><GRAY>ペイントの確認は大人の事情でできない。<END>
+<COLOR><GRAY>You can't preview the paint there due to some <END>
 //POINTER #1069 @ $347F0 - STRING #1069 @ $22B08
 
 #W32($347F0)
-<COLOR><GRAY>どんな感じになってるかワクワクする。<END>
+<COLOR><GRAY>I'm excited to see how it turned out．<END>
 //POINTER #1070 @ $34814 - STRING #1070 @ $22B34
 
 #W32($34814)
-<COLOR><GRAY>後は君の芸術的センス次第だ！<END>
+<COLOR><GRAY>The rest is up to your artistic sense！<END>
 //POINTER #1071 @ $34838 - STRING #1071 @ $22B58
 
 #W32($34838)
@@ -13692,11 +13692,11 @@
 //POINTER #1073 @ $34880 - STRING #1073 @ $22B5C
 
 #W32($34880)
-<COLOR><GRAY>横にびろ～～～～～んて伸びてますヽ（；´Д｀）ノ<END>
+<COLOR><GRAY>bwaaaaaaah ヽ（；´Д｀）ノ<END>
 //POINTER #1074 @ $348A4 - STRING #1074 @ $22B94
 
 #W32($348A4)
-<COLOR><GRAY>サイドにペイントする時には、<COLOR><RED>比率に注意<COLOR><GRAY>が必要だ。<END>
+<COLOR><GRAY>When painting the side、you need to pay attention to the<END>
 //POINTER #1075 @ $348C8 - STRING #1075 @ $22BD8
 
 #W32($348C8)
@@ -13704,11 +13704,11 @@
 //POINTER #1076 @ $348EC - STRING #1076 @ $22BDA
 
 #W32($348EC)
-<COLOR><GRAY>相当ショック大きかったみたいだな（笑）<END>
+<COLOR><GRAY>Looks like you're still in shock（lol）<END>
 //POINTER #1077 @ $34910 - STRING #1077 @ $22C08
 
 #W32($34910)
-<COLOR><GRAY>また明日。<END>
+<COLOR><GRAY>See you tomorrow．<END>
 //POINTER #1078 @ $34934 - STRING #1078 @ $22C1A
 
 #W32($34934)
@@ -13720,19 +13720,19 @@
 //POINTER #1080 @ $3497C - STRING #1080 @ $22C1E
 
 #W32($3497C)
-<COLOR><GRAY>今まで終りにしたことなかったのか？（笑）<END>
+<COLOR><GRAY>You never tried quitting before？（lol）<END>
 //POINTER #1081 @ $349A0 - STRING #1081 @ $22C4E
 
 #W32($349A0)
-<COLOR><GRAY>描いたペイントのセーブとかはできないんですか？<END>
+<COLOR><GRAY>Can't I save the paint designs I made or something？<END>
 //POINTER #1082 @ $349C4 - STRING #1082 @ $22C84
 
 #W32($349C4)
-<COLOR><GRAY>アイコン一覧の右から２番目<COLOR><RED>ロード・セーブ<COLOR><GRAY>で<END>
+<COLOR><GRAY>option、which is the second icon from the right<END>
 //POINTER #1083 @ $349E8 - STRING #1083 @ $22CC2
 
 #W32($349E8)
-<COLOR><GRAY>ペイントデータのみで、<END>
+<COLOR><GRAY>it will not save the Game Data．<END>
 //POINTER #1084 @ $34A0C - STRING #1084 @ $22CE0
 
 #W32($34A0C)
@@ -13740,19 +13740,19 @@
 //POINTER #1085 @ $34A30 - STRING #1085 @ $22CE2
 
 #W32($34A30)
-<COLOR><GRAY>ペイントデータをセーブしておくんだ。<END>
+<COLOR><GRAY>separately from the Game Data．<END>
 //POINTER #1086 @ $34A54 - STRING #1086 @ $22D0E
 
 #W32($34A54)
-<COLOR><GRAY>何かいいことがあるんですか？<END>
+<COLOR><GRAY>from the Game Data？<END>
 //POINTER #1087 @ $34A78 - STRING #1087 @ $22D32
 
 #W32($34A78)
-<COLOR><GRAY>また一からペイントするのめんどいです。<END>
+<COLOR><GRAY>all over again from scratch．I loved the paint job<END>
 //POINTER #1088 @ $34A9C - STRING #1088 @ $22D60
 
 #W32($34A9C)
-<COLOR><GRAY>同じ車種の車だったら、<COLOR><RED>過去に描いたペイントを<END>
+<COLOR><GRAY>If the car model's the same、you can<END>
 //POINTER #1089 @ $34AC0 - STRING #1089 @ $22D9A
 
 #W32($34AC0)
@@ -13768,55 +13768,55 @@
 //POINTER #1092 @ $34B2C - STRING #1092 @ $22DA0
 
 #W32($34B2C)
-<COLOR><GRAY>売ってるから、気に入ったペイントをしてる車を<END>
+<COLOR><GRAY>so be on a look out for cars with a paint job you like、<END>
 //POINTER #1093 @ $34B50 - STRING #1093 @ $22DD4
 
 #W32($34B50)
-<COLOR><GRAY>中古車なら値段も安いし<END>
+<COLOR><GRAY>Used cars are cheap、<END>
 //POINTER #1094 @ $34B74 - STRING #1094 @ $22DF2
 
 #W32($34B74)
-<COLOR><GRAY>ペイント済みの中古車が、中古車ディーラーに<END>
+<COLOR><GRAY>model and paint job will even show up at<END>
 //POINTER #1095 @ $34B98 - STRING #1095 @ $22E24
 
 #W32($34B98)
-<COLOR><GRAY><COLOR><RED>微妙にペイントの形が崩れたりする<COLOR><GRAY>ので、<END>
+<COLOR><RED>different、the paint design might get disfigured<COLOR><GRAY>、<END>
 //POINTER #1096 @ $34BBC - STRING #1096 @ $22E5E
 
 #W32($34BBC)
-<COLOR><GRAY>消えちゃうんですか？<END>
+<END>
 //POINTER #1097 @ $34BE0 - STRING #1097 @ $22E7A
 
 #W32($34BE0)
-<COLOR><GRAY>とりあえずは<COLOR><RED>クエストを終了するときに、<END>
+<COLOR><GRAY>to <COLOR><RED>save Game Data when you finish Quest Mode<COLOR><GRAY>、<END>
 //POINTER #1098 @ $34C04 - STRING #1098 @ $22EAE
 
 #W32($34C04)
-<COLOR><GRAY>万が一の時もさらに安心できる。<END>
+<COLOR><GRAY>a peace of mind in case of an emergency．<END>
 //POINTER #1099 @ $34C28 - STRING #1099 @ $22ED4
 
 #W32($34C28)
-<COLOR><GRAY>……って車に描かれてねぇ～～～！？！？！？！？<END>
+<COLOR><GRAY>……the paint on the car、IT'S GONE！？！？！？！？<END>
 //POINTER #1100 @ $34C4C - STRING #1100 @ $22F0A
 
 #W32($34C4C)
-<COLOR><GRAY>取り乱すな。<END>
+<COLOR><GRAY>Settle down．<END>
 //POINTER #1101 @ $34C70 - STRING #1101 @ $22F1E
 
 #W32($34C70)
-<COLOR><GRAY>ちゃんとボディペイント終了するときに<END>
+<COLOR><GRAY>I saved it properly when I finished the body paint、<END>
 //POINTER #1102 @ $34C94 - STRING #1102 @ $22F4A
 
 #W32($34C94)
-<COLOR><GRAY>セーブしたか？<END>
+<COLOR><GRAY>when quitting Quest Mode？<END>
 //POINTER #1103 @ $34CB8 - STRING #1103 @ $22F60
 
 #W32($34CB8)
-<COLOR><GRAY>ボディペイント抜けてそのまま電源切った。<END>
+<COLOR><GRAY>I just exited the Body Paint and turned off<END>
 //POINTER #1104 @ $34CDC - STRING #1104 @ $22F90
 
 #W32($34CDC)
-<COLOR><GRAY>ボディペイントに入ってロード・セーブの<END>
+<COLOR><GRAY>Try going into Body Paint and selecting Load under<END>
 //POINTER #1105 @ $34D00 - STRING #1105 @ $22FBE
 
 #W32($34D00)
@@ -13824,27 +13824,27 @@
 //POINTER #1106 @ $34D24 - STRING #1106 @ $22FC0
 
 #W32($34D24)
-<COLOR><GRAY>ゲームデータとは別にセーブされるからな。<END>
+<COLOR><GRAY>it's saved separately from the Game Data．<END>
 //POINTER #1107 @ $34D48 - STRING #1107 @ $22FF0
 
 #W32($34D48)
-<COLOR><GRAY>ありがとうございます、<END>
+<COLOR><GRAY>Thank you very much、<END>
 //POINTER #1108 @ $34D6C - STRING #1108 @ $2300E
 
 #W32($34D6C)
-<COLOR><GRAY>キモイぞ。<END>
+<COLOR><GRAY>Creepy．<END>
 //POINTER #1109 @ $34D90 - STRING #1109 @ $23020
 
 #W32($34D90)
-<COLOR><GRAY>何か質問はありませんか？<END>
+<COLOR><GRAY>forgetting my catchphrase．Questions、anyone？<END>
 //POINTER #1110 @ $34DB4 - STRING #1110 @ $23040
 
 #W32($34DB4)
-<COLOR><GRAY>アイコン一覧にいつも１個選択できないアイコンが<END>
+<COLOR><GRAY>There's always one icon that I can't select．<END>
 //POINTER #1111 @ $34DD8 - STRING #1111 @ $23076
 
 #W32($34DD8)
-<COLOR><GRAY>それは<COLOR><RED>”ＥｙｅＴｏｙ”ＵＳＢカメラ<COLOR><GRAY>を<END>
+<COLOR><GRAY>It's selectable when the <COLOR><RED>“EyeToy”USB Camera<END>
 //POINTER #1112 @ $34DFC - STRING #1112 @ $230AE
 
 #W32($34DFC)
@@ -13852,7 +13852,7 @@
 //POINTER #1113 @ $34E20 - STRING #1113 @ $230B0
 
 #W32($34E20)
-<COLOR><GRAY><COLOR><RED>オリジナルステッカーとして保存<COLOR><GRAY>できる。<END>
+<COLOR><RED>saved as Original Stickers<COLOR><GRAY>．<END>
 //POINTER #1114 @ $34E44 - STRING #1114 @ $230EA
 
 #W32($34E44)
@@ -13860,15 +13860,15 @@
 //POINTER #1115 @ $34E68 - STRING #1115 @ $230EC
 
 #W32($34E68)
-<COLOR><GRAY>近所のノラ犬から母ちゃんの顔まで<END>
+<COLOR><GRAY>even from a stray dog to your mom's face、<END>
 //POINTER #1116 @ $34E8C - STRING #1116 @ $23114
 
 #W32($34E8C)
-<COLOR><GRAY>カメラの画像が表示されるから、<COLOR><RED>カーソルを動かして<END>
+<COLOR><GRAY>the camera image will show up．<COLOR><RED>Move your cursor to the<END>
 //POINTER #1117 @ $34EB0 - STRING #1117 @ $23152
 
 #W32($34EB0)
-<COLOR><GRAY>”ＥｙｅＴｏｙ”ＵＳＢカメラ持ってない場合は？<END>
+<COLOR><GRAY>What if I don't have an “EyeToy”USB Camera？<END>
 //POINTER #1118 @ $34ED4 - STRING #1118 @ $23188
 
 #W32($34ED4)
@@ -13876,31 +13876,31 @@
 //POINTER #1119 @ $34EF8 - STRING #1119 @ $2318A
 
 #W32($34EF8)
-<COLOR><GRAY>全部食べ尽くします！<END>
+<COLOR><GRAY>I'll eat 'em all！<END>
 //POINTER #1120 @ $34F1C - STRING #1120 @ $231A6
 
 #W32($34F1C)
-<COLOR><GRAY>カルビ大好き！<END>
+<COLOR><GRAY>I love Korean ribs！<END>
 //POINTER #1121 @ $34F40 - STRING #1121 @ $231BC
 
 #W32($34F40)
-<COLOR><GRAY>しょうゆ、みそ、塩、豚骨、なんでもこい！<END>
+<COLOR><GRAY>Soy sauce、miso、salt、pork bone、you name it！<END>
 //POINTER #1122 @ $34F64 - STRING #1122 @ $231EC
 
 #W32($34F64)
-<COLOR><GRAY>一度、本場北海道のウニとかイクラとか食べてみたい。<END>
+<COLOR><GRAY>from Hokkaido someday．Maybe I'll go for a drive and<END>
 //POINTER #1123 @ $34F88 - STRING #1123 @ $23226
 
 #W32($34F88)
-<COLOR><GRAY>うまそう……（´▽｀）<END>
+<COLOR><GRAY>tasty……（´▽｀）<END>
 //POINTER #1124 @ $34FAC - STRING #1124 @ $23244
 
 #W32($34FAC)
-<COLOR><GRAY>コロッケ。<END>
+<COLOR><GRAY>Croquettes．<END>
 //POINTER #1125 @ $34FD0 - STRING #1125 @ $23256
 
 #W32($34FD0)
-<COLOR><GRAY>ファミレスのハンバーグ。<END>
+<COLOR><GRAY>Family restaurant hamburgers．<END>
 //POINTER #1126 @ $34FF4 - STRING #1126 @ $23276
 
 #W32($34FF4)
@@ -13908,11 +13908,11 @@
 //POINTER #1127 @ $35018 - STRING #1127 @ $23278
 
 #W32($35018)
-<COLOR><GRAY>キムチ鍋とか。<END>
+<COLOR><GRAY>Like a kimchi stew．Adding rice at the end<END>
 //POINTER #1128 @ $3503C - STRING #1128 @ $2328E
 
 #W32($3503C)
-<COLOR><GRAY>太ると分かっていても食べちゃう！<END>
+<COLOR><GRAY>I'll eat them even when I know it makes me fat！<END>
 //POINTER #1129 @ $35060 - STRING #1129 @ $232B6
 
 #W32($35060)
@@ -13920,15 +13920,15 @@
 //POINTER #1130 @ $35084 - STRING #1130 @ $232B8
 
 #W32($35084)
-<COLOR><GRAY>お茶がこわいです（笑）<END>
+<COLOR><GRAY>The tea's scary there（lol）<END>
 //POINTER #1131 @ $350A8 - STRING #1131 @ $232D6
 
 #W32($350A8)
-<COLOR><GRAY>別腹、別腹！！<END>
+<COLOR><GRAY>Second stomach、second stomach！！<END>
 //POINTER #1132 @ $350CC - STRING #1132 @ $232EC
 
 #W32($350CC)
-<COLOR><GRAY>当り前のように食べてるわ。<END>
+<COLOR><GRAY>as the usual dish．<END>
 //POINTER #1133 @ $350F0 - STRING #1133 @ $2330E
 
 #W32($350F0)
@@ -13960,11 +13960,11 @@
 //POINTER #1140 @ $351EC - STRING #1140 @ $2331C
 
 #W32($351EC)
-<COLOR><GRAY>何を食わせる気だったんだ！？<END>
+<COLOR><GRAY>What were you trying to feed him！？<END>
 //POINTER #1141 @ $35210 - STRING #1141 @ $23340
 
 #W32($35210)
-<COLOR><GRAY>ストップ！<END>
+<COLOR><GRAY>Stop！<END>
 //POINTER #1142 @ $35234 - STRING #1142 @ $23352
 
 #W32($35234)
@@ -13972,11 +13972,11 @@
 //POINTER #1143 @ $35258 - STRING #1143 @ $23354
 
 #W32($35258)
-<COLOR><GRAY>お金なくなりますた。<END>
+<COLOR><GRAY>Ran out of money．<END>
 //POINTER #1144 @ $3527C - STRING #1144 @ $23370
 
 #W32($3527C)
-<COLOR><GRAY>車３台買ったら、一杯になっちゃたんですけど。<END>
+<COLOR><GRAY>Bought 3 cars and it's already full．<END>
 //POINTER #1145 @ $352A0 - STRING #1145 @ $233A4
 
 #W32($352A0)
@@ -13988,7 +13988,7 @@
 //POINTER #1147 @ $352E8 - STRING #1147 @ $233A8
 
 #W32($352E8)
-<COLOR><GRAY>３台以上車を購入したいときに役に立つ。<END>
+<COLOR><GRAY>Useful if you want to buy more than 3 cars．<END>
 //POINTER #1148 @ $3530C - STRING #1148 @ $233D6
 
 #W32($3530C)
@@ -13996,7 +13996,7 @@
 //POINTER #1149 @ $35330 - STRING #1149 @ $233D8
 
 #W32($35330)
-<COLOR><GRAY><COLOR><RED>ガレージ<COLOR><GRAY>で<COLOR><RED>ガレージ移動<COLOR><GRAY>を選択すれば<END>
+<COLOR><GRAY><COLOR><RED>SUB GARAGE<COLOR><GRAY> in the <COLOR><RED>GARAGE<COLOR><GRAY> to<END>
 //POINTER #1150 @ $35354 - STRING #1150 @ $2341A
 
 #W32($35354)
@@ -14004,23 +14004,23 @@
 //POINTER #1151 @ $35378 - STRING #1151 @ $2341C
 
 #W32($35378)
-<COLOR><GRAY>車を売っちゃう前に聞いておいて良かった～。<END>
+<COLOR><GRAY>Glad I asked before selling my cars～<END>
 //POINTER #1152 @ $3539C - STRING #1152 @ $2344E
 
 #W32($3539C)
-<COLOR><GRAY>「ＲＢ初心者」っておかしいぞ（笑）<END>
+<COLOR><GRAY>and still be called「RB Newbie」（lol）<END>
 //POINTER #1153 @ $353C0 - STRING #1153 @ $23478
 
 #W32($353C0)
-<COLOR><GRAY>倒したライバルチームのエンブレムとか<END>
+<COLOR><GRAY>the emblems from rival teams you've defeated<END>
 //POINTER #1154 @ $353E4 - STRING #1154 @ $234A4
 
 #W32($353E4)
-<COLOR><GRAY>ライバルのエンブレムとか車に貼っておくと、<END>
+<COLOR><GRAY>When you stick a rival emblem on your car、it makes you<END>
 //POINTER #1155 @ $35408 - STRING #1155 @ $234D6
 
 #W32($35408)
-<COLOR><GRAY>ライバルのエンブレムって車に貼れるの！？<END>
+<COLOR><GRAY>You can put rival emblems on your car！？<END>
 //POINTER #1156 @ $3542C - STRING #1156 @ $23506
 
 #W32($3542C)
@@ -14032,7 +14032,7 @@
 //POINTER #1158 @ $35474 - STRING #1158 @ $2350A
 
 #W32($35474)
-<COLOR><GRAY>場所やサイズに関係なく貼ることができるから<END>
+<COLOR><GRAY>you can place them anywhere and in any size、<END>
 //POINTER #1159 @ $35498 - STRING #1159 @ $2353C
 
 #W32($35498)
@@ -14040,7 +14040,7 @@
 //POINTER #1160 @ $354BC - STRING #1160 @ $2353E
 
 #W32($354BC)
-<COLOR><GRAY>ちょっとやってみよう。<END>
+<COLOR><GRAY>I'll try it in a bit．<END>
 //POINTER #1161 @ $354E0 - STRING #1161 @ $2355C
 
 #W32($354E0)
@@ -14048,35 +14048,35 @@
 //POINTER #1162 @ $35504 - STRING #1162 @ $2355E
 
 #W32($35504)
-<COLOR><GRAY>貼りたいステッカーが見あたらないんですけど？<END>
+<COLOR><GRAY>Where do I find the stickers I want to place？<END>
 //POINTER #1163 @ $35528 - STRING #1163 @ $23592
 
 #W32($35528)
-<END>
+<COLOR><GRAY>for original stickers？<END>
 //POINTER #1164 @ $3554C - STRING #1164 @ $23594
 
 #W32($3554C)
-<COLOR><GRAY>４つの枠って？<END>
+<COLOR><GRAY>Four slots？<END>
 //POINTER #1165 @ $35570 - STRING #1165 @ $235AA
 
 #W32($35570)
-<COLOR><GRAY>貼りたいものを４つまで<END>
+<COLOR><GRAY>from the rivals you've defeated<END>
 //POINTER #1166 @ $35594 - STRING #1166 @ $235C8
 
 #W32($35594)
-<COLOR><GRAY><COLOR><RED>オリジナルステッカー<COLOR><GRAY>という<END>
+<COLOR><RED>STICKER<COLOR><GRAY> section．<END>
 //POINTER #1167 @ $355B8 - STRING #1167 @ $235F6
 
 #W32($355B8)
-<COLOR><GRAY>でもなんで４枠なの？<END>
+<COLOR><GRAY>But why four slots？<END>
 //POINTER #1168 @ $355DC - STRING #1168 @ $23612
 
 #W32($355DC)
-<COLOR><GRAY>お察しください、って奴だ（笑）<END>
+<COLOR><GRAY>Please understand、you know？（lol）<END>
 //POINTER #1169 @ $35600 - STRING #1169 @ $23638
 
 #W32($35600)
-<COLOR><GRAY>使うエンブレムも選んだし、<END>
+<COLOR><GRAY>I've chosen the emblems and now<END>
 //POINTER #1170 @ $35624 - STRING #1170 @ $2365A
 
 #W32($35624)
@@ -14084,27 +14084,27 @@
 //POINTER #1171 @ $35648 - STRING #1171 @ $2365C
 
 #W32($35648)
-<COLOR><GRAY>ボディペイントでゼロからステッカーを作ることも<END>
+<COLOR><GRAY>you can use the empty slots to create stickers from<END>
 //POINTER #1172 @ $3566C - STRING #1172 @ $23692
 
 #W32($3566C)
-<COLOR><GRAY>壁を擦ってしまったりするんですよねえ……。<END>
+<COLOR><GRAY>scraping the walls in the corners……<END>
 //POINTER #1173 @ $35690 - STRING #1173 @ $236C4
 
 #W32($35690)
-<COLOR><GRAY>ちゃんとブレーキで減速もしているか？<END>
+<COLOR><GRAY>but are you also using the brakes properly？<END>
 //POINTER #1174 @ $356B4 - STRING #1174 @ $236F0
 
 #W32($356B4)
-<COLOR><GRAY>いえ、常にアクセル全開です。<END>
+<COLOR><GRAY>Nope、always going full throttle．<END>
 //POINTER #1175 @ $356D8 - STRING #1175 @ $23714
 
 #W32($356D8)
-<COLOR><GRAY>ゲームじゃないんだから、そんなことして<END>
+<COLOR><GRAY>This isn't a game、it's dangerous to just dive<END>
 //POINTER #1176 @ $356FC - STRING #1176 @ $23742
 
 #W32($356FC)
-<COLOR><GRAY>実際の運転ではもちろん、例えゲームでも（笑）<END>
+<COLOR><GRAY>It's true in real life、but in games too（lol）<END>
 //POINTER #1177 @ $35720 - STRING #1177 @ $23776
 
 #W32($35720)
@@ -14116,11 +14116,11 @@
 //POINTER #1179 @ $35768 - STRING #1179 @ $2377A
 
 #W32($35768)
-<COLOR><GRAY>怪我もしないし、愛車も傷つかないしさ。<END>
+<COLOR><GRAY>You won't get hurt and your car will stay undamaged．<END>
 //POINTER #1180 @ $3578C - STRING #1180 @ $237A8
 
 #W32($3578C)
-<COLOR><GRAY>いいんじゃないの？<END>
+<COLOR><GRAY>aggressive、though？<END>
 //POINTER #1181 @ $357B0 - STRING #1181 @ $237C2
 
 #W32($357B0)
@@ -14128,47 +14128,47 @@
 //POINTER #1182 @ $357D4 - STRING #1182 @ $237C4
 
 #W32($357D4)
-<COLOR><GRAY>いつかみなさんと勝負する時があったら、<END>
+<COLOR><GRAY>eachother、let's do it with safe driving！（lol）<END>
 //POINTER #1183 @ $357F8 - STRING #1183 @ $237F2
 
 #W32($357F8)
-<COLOR><GRAY>そんな経験を聞かせてください。<END>
+<COLOR><GRAY>Please share such stories．<END>
 //POINTER #1184 @ $3581C - STRING #1184 @ $23818
 
 #W32($3581C)
-<COLOR><GRAY>自分の運転じゃなかったんだけど、<END>
+<COLOR><GRAY>but I have a story from when I was drunk and<END>
 //POINTER #1185 @ $35840 - STRING #1185 @ $23840
 
 #W32($35840)
-<COLOR><GRAY>俺は結構酔ってたんだよね。<END>
+<COLOR><GRAY>but I was pretty drunk myself．<END>
 //POINTER #1186 @ $35864 - STRING #1186 @ $23862
 
 #W32($35864)
-<COLOR><GRAY>深夜だったし、そのうち会話もなくなってきて、<END>
+<COLOR><GRAY>but it was late at night、and soon the conversation<END>
 //POINTER #1187 @ $35888 - STRING #1187 @ $23896
 
 #W32($35888)
-<COLOR><GRAY>急ブレーキをかけたんだよ。<END>
+<COLOR><GRAY>and slammed on the brakes．<END>
 //POINTER #1188 @ $358AC - STRING #1188 @ $238B8
 
 #W32($358AC)
-<COLOR><GRAY>友人は「やっちゃったかな……！？」と言って<END>
+<COLOR><GRAY>My friend said、“Did I hit something……！？”<END>
 //POINTER #1189 @ $358D0 - STRING #1189 @ $238EA
 
 #W32($358D0)
-<COLOR><GRAY>周りは何もない農道だったので、誰かいれば<END>
+<COLOR><GRAY>or anywhere around．We were on a deserted farm road、<END>
 //POINTER #1190 @ $358F4 - STRING #1190 @ $2391A
 
 #W32($358F4)
-<COLOR><GRAY>「とりあえず帰ろう」なんて言ってたけど、<END>
+<COLOR><GRAY>“Let's just head home”、but as time went on、<END>
 //POINTER #1191 @ $35918 - STRING #1191 @ $2394A
 
 #W32($35918)
-<COLOR><GRAY>見間違いで済んだかもしれないけど、<END>
+<COLOR><GRAY>we could've brushed it off as a mistake、<END>
 //POINTER #1192 @ $3593C - STRING #1192 @ $23974
 
 #W32($3593C)
-<COLOR><GRAY>家族に話しても信じてもらえないんだよな。<END>
+<COLOR><GRAY>My family wouldn't believe me if I told them．<END>
 //POINTER #1193 @ $35960 - STRING #1193 @ $239A4
 
 #W32($35960)
@@ -14176,7 +14176,7 @@
 //POINTER #1194 @ $35984 - STRING #1194 @ $239A6
 
 #W32($35984)
-<COLOR><GRAY>ホントに怖かったんだからっ！<END>
+<COLOR><GRAY>I was really scared！<END>
 //POINTER #1195 @ $359A8 - STRING #1195 @ $239CA
 
 #W32($359A8)
@@ -18588,7 +18588,7 @@
 //POINTER #1064 @ $34740 - STRING #1064 @ $28D52
 
 #W32($34740)
-<COLOR><GRAY>一応新しい掲示板作っておきます。<END>
+<COLOR><GRAY>I'll go ahead and setup a new thread just in case．<END>
 //POINTER #1065 @ $34764 - STRING #1065 @ $28D7A
 
 #W32($34764)
@@ -18596,7 +18596,7 @@
 //POINTER #1066 @ $34788 - STRING #1066 @ $28D7C
 
 #W32($34788)
-<COLOR><GRAY>ボタンで確認できる。<END>
+<COLOR><GRAY>on the left side of the screen．<END>
 //POINTER #1067 @ $347AC - STRING #1067 @ $28D98
 
 #W32($347AC)
@@ -18604,7 +18604,7 @@
 //POINTER #1068 @ $347D0 - STRING #1068 @ $28D9A
 
 #W32($347D0)
-<END>
+<COLOR><GRAY>behind-the-scenes reasons．<END>
 //POINTER #1069 @ $347F4 - STRING #1069 @ $28D9C
 
 #W32($347F4)
@@ -18612,7 +18612,7 @@
 //POINTER #1070 @ $34818 - STRING #1070 @ $28D9E
 
 #W32($34818)
-<COLOR><GRAY>では、さらばっ！<END>
+<COLOR><GRAY>Farewell！<END>
 //POINTER #1071 @ $3483C - STRING #1071 @ $28DB6
 
 #W32($3483C)
@@ -18628,7 +18628,7 @@
 //POINTER #1074 @ $348A8 - STRING #1074 @ $28DBC
 
 #W32($348A8)
-<END>
+<COLOR><RED>proportions<COLOR><GRAY>．<END>
 //POINTER #1075 @ $348CC - STRING #1075 @ $28DBE
 
 #W32($348CC)
@@ -18636,7 +18636,7 @@
 //POINTER #1076 @ $348F0 - STRING #1076 @ $28DC0
 
 #W32($348F0)
-<COLOR><GRAY>なるべく<COLOR><RED>こまめに確認しながら描く<COLOR><GRAY>といいよ。<END>
+<COLOR><GRAY>It's good to make <COLOR><RED>frequent checks<COLOR><GRAY> when painting．<END>
 //POINTER #1077 @ $34914 - STRING #1077 @ $28DFE
 
 #W32($34914)
@@ -18660,11 +18660,11 @@
 //POINTER #1082 @ $349C8 - STRING #1082 @ $28E08
 
 #W32($349C8)
-<COLOR><GRAY>行うことが可能だ。<END>
+<COLOR><GRAY>on the toolbar．<END>
 //POINTER #1083 @ $349EC - STRING #1083 @ $28E22
 
 #W32($349EC)
-<COLOR><GRAY>ゲームデータはセーブされない。<END>
+<END>
 //POINTER #1084 @ $34A10 - STRING #1084 @ $28E48
 
 #W32($34A10)
@@ -18680,11 +18680,11 @@
 //POINTER #1087 @ $34A7C - STRING #1087 @ $28E4E
 
 #W32($34A7C)
-<COLOR><GRAY>前の車のペイントお気に入りだったのに（；´д⊂）<END>
+<COLOR><GRAY>on my old car（；´д⊂）<END>
 //POINTER #1088 @ $34AA0 - STRING #1088 @ $28E86
 
 #W32($34AA0)
-<COLOR><GRAY><COLOR><RED>ロードして使用できる<COLOR><GRAY>ようにしているんだ。<END>
+<COLOR><RED>load and use the paint you created in the past<COLOR><GRAY>．<END>
 //POINTER #1089 @ $34AC4 - STRING #1089 @ $28EC2
 
 #W32($34AC4)
@@ -18700,19 +18700,19 @@
 //POINTER #1092 @ $34B30 - STRING #1092 @ $28EC8
 
 #W32($34B30)
-<COLOR><GRAY>見かけたら購入して保存するのもいい。<END>
+<COLOR><GRAY>as it's a good idea to buy and save their paint．<END>
 //POINTER #1093 @ $34B54 - STRING #1093 @ $28EF4
 
 #W32($34B54)
-<COLOR><GRAY>早速、やってみよう！<END>
+<COLOR><GRAY>so I'll give it a try right away！<END>
 //POINTER #1094 @ $34B78 - STRING #1094 @ $28F10
 
 #W32($34B78)
-<COLOR><GRAY>並ぶかなんだけどな（´ー｀）ｙ－～～<END>
+<COLOR><GRAY>the Used Car Dealer（´ー｀）ｙ－～～<END>
 //POINTER #1095 @ $34B9C - STRING #1095 @ $28F3C
 
 #W32($34B9C)
-<COLOR><GRAY>その辺は要確認だな。<END>
+<COLOR><GRAY>so be sure to check on that．<END>
 //POINTER #1096 @ $34BC0 - STRING #1096 @ $28F58
 
 #W32($34BC0)
@@ -18720,7 +18720,7 @@
 //POINTER #1097 @ $34BE4 - STRING #1097 @ $28F5A
 
 #W32($34BE4)
-<COLOR><GRAY><COLOR><RED>ゲームデータをセーブ<COLOR><GRAY>しておけば大丈夫だ。<END>
+<COLOR><GRAY>and you'll be fine．<END>
 //POINTER #1098 @ $34C08 - STRING #1098 @ $28F96
 
 #W32($34C08)
@@ -18728,15 +18728,15 @@
 //POINTER #1099 @ $34C2C - STRING #1099 @ $28F98
 
 #W32($34C2C)
-<COLOR><GRAY>◎ボンネットアーティストォォォォ～～～～！！！！！<END>
+<COLOR><GRAY>◎Boonneet Artiiiist～～～～！！！！！<END>
 //POINTER #1100 @ $34C50 - STRING #1100 @ $28FD2
 
 #W32($34C50)
-<COLOR><GRAY>つーか呼び捨てにするな。<END>
+<COLOR><GRAY>And don't just call me by name．<END>
 //POINTER #1101 @ $34C74 - STRING #1101 @ $28FF2
 
 #W32($34C74)
-<COLOR><GRAY>セーブしたのにヽ（；´Д｀）ノ<END>
+<COLOR><GRAY>too ヽ（；´Д｀）ノ<END>
 //POINTER #1102 @ $34C98 - STRING #1102 @ $29018
 
 #W32($34C98)
@@ -18744,11 +18744,11 @@
 //POINTER #1103 @ $34CBC - STRING #1103 @ $2901A
 
 #W32($34CBC)
-<END>
+<COLOR><GRAY>the power without saving．<END>
 //POINTER #1104 @ $34CE0 - STRING #1104 @ $2901C
 
 #W32($34CE0)
-<COLOR><GRAY>ロードを選択してみな。<END>
+<COLOR><GRAY>Save／Load options．<END>
 //POINTER #1105 @ $34D04 - STRING #1105 @ $2903A
 
 #W32($34D04)
@@ -18756,11 +18756,11 @@
 //POINTER #1106 @ $34D28 - STRING #1106 @ $2903C
 
 #W32($34D28)
-<COLOR><GRAY>リプレイデータのセーブと同じだ。<END>
+<COLOR><GRAY>It's just like saving Replay Data．<END>
 //POINTER #1107 @ $34D4C - STRING #1107 @ $29064
 
 #W32($34D4C)
-<COLOR><GRAY>◎ボンネットアーティスト様～～。<END>
+<COLOR><GRAY>◎Bonnet Artist-sama～～<END>
 //POINTER #1108 @ $34D70 - STRING #1108 @ $2908C
 
 #W32($34D70)
@@ -18772,11 +18772,11 @@
 //POINTER #1110 @ $34DB8 - STRING #1110 @ $29090
 
 #W32($34DB8)
-<COLOR><GRAY>あるんですけど。右から３番目。<END>
+<COLOR><GRAY>Third one from the right．<END>
 //POINTER #1111 @ $34DDC - STRING #1111 @ $290B6
 
 #W32($34DDC)
-<COLOR><GRAY>接続したときに選択可能になる。<END>
+<COLOR><GRAY>is connected．<END>
 //POINTER #1112 @ $34E00 - STRING #1112 @ $290DC
 
 #W32($34E00)
@@ -18792,11 +18792,11 @@
 //POINTER #1115 @ $34E6C - STRING #1115 @ $290E2
 
 #W32($34E6C)
-<COLOR><GRAY>カメラに写る物ならなんでも。<END>
+<COLOR><GRAY>anything that can be captured by the camera works．<END>
 //POINTER #1116 @ $34E90 - STRING #1116 @ $29106
 
 #W32($34E90)
-<COLOR><GRAY><COLOR><RED>撮影したい部分で決定ボタン<COLOR><GRAY>を押せばいい。<END>
+<COLOR><RED>part you want to capture and press the Confirm Button<COLOR><GRAY>．<END>
 //POINTER #1117 @ $34EB4 - STRING #1117 @ $29142
 
 #W32($34EB4)
@@ -18820,7 +18820,7 @@
 //POINTER #1122 @ $34F68 - STRING #1122 @ $2914C
 
 #W32($34F68)
-<COLOR><GRAY>ドライブがてらに行って来ようかな（笑）<END>
+<COLOR><GRAY>check it out（lol）<END>
 //POINTER #1123 @ $34F8C - STRING #1123 @ $2917A
 
 #W32($34F8C)
@@ -18828,7 +18828,7 @@
 //POINTER #1124 @ $34FB0 - STRING #1124 @ $2917C
 
 #W32($34FB0)
-<COLOR><GRAY>安いものが好き。<END>
+<COLOR><GRAY>I like cheap food．<END>
 //POINTER #1125 @ $34FD4 - STRING #1125 @ $29194
 
 #W32($34FD4)
@@ -18840,7 +18840,7 @@
 //POINTER #1127 @ $3501C - STRING #1127 @ $29198
 
 #W32($3501C)
-<COLOR><GRAY>最後にご飯を入れておじや、これだね！<END>
+<COLOR><GRAY>to make a porridge、that's the best！<END>
 //POINTER #1128 @ $35040 - STRING #1128 @ $291C4
 
 #W32($35040)
@@ -18896,7 +18896,7 @@
 //POINTER #1141 @ $35214 - STRING #1141 @ $291DE
 
 #W32($35214)
-<COLOR><GRAY>とりあえず挙がってるの全部食っとく。<END>
+<COLOR><GRAY>I'll eat everything that was mentioned up to this point．<END>
 //POINTER #1142 @ $35238 - STRING #1142 @ $2920A
 
 #W32($35238)
@@ -18904,7 +18904,7 @@
 //POINTER #1143 @ $3525C - STRING #1143 @ $2920C
 
 #W32($3525C)
-<COLOR><GRAY>お腹こわしますた。<END>
+<COLOR><GRAY>Got a stomachache．<END>
 //POINTER #1144 @ $35280 - STRING #1144 @ $29226
 
 #W32($35280)
@@ -18928,7 +18928,7 @@
 //POINTER #1149 @ $35334 - STRING #1149 @ $29230
 
 #W32($35334)
-<COLOR><GRAY>サブガレージが作成される。<END>
+<COLOR><GRAY>create a Sub Garage．<END>
 //POINTER #1150 @ $35358 - STRING #1150 @ $29252
 
 #W32($35358)
@@ -18944,11 +18944,11 @@
 //POINTER #1153 @ $353C4 - STRING #1153 @ $29258
 
 #W32($353C4)
-<COLOR><GRAY>集めるのって楽しいですよね～。<END>
+<COLOR><GRAY>is so fun、isn't it～<END>
 //POINTER #1154 @ $353E8 - STRING #1154 @ $2927E
 
 #W32($353E8)
-<COLOR><GRAY>「撃破したんだ！」って気持ちになれる。<END>
+<COLOR><GRAY>feel like“I truly defeated them！”．<END>
 //POINTER #1155 @ $3540C - STRING #1155 @ $292AC
 
 #W32($3540C)
@@ -18964,7 +18964,7 @@
 //POINTER #1158 @ $35478 - STRING #1158 @ $292B2
 
 #W32($35478)
-<COLOR><GRAY>自由度は高い。<END>
+<COLOR><GRAY>so there's a lot of creative freedom．<END>
 //POINTER #1159 @ $3549C - STRING #1159 @ $292C8
 
 #W32($3549C)
@@ -18992,11 +18992,11 @@
 //POINTER #1165 @ $35574 - STRING #1165 @ $292D4
 
 #W32($35574)
-<COLOR><GRAY>オリジナルステッカーとして選択しないとダメなんだ。<END>
+<COLOR><GRAY>to use as original stickers．<END>
 //POINTER #1166 @ $35598 - STRING #1166 @ $2930E
 
 #W32($35598)
-<COLOR><GRAY>項目を選択してごらん。<END>
+<END>
 //POINTER #1167 @ $355BC - STRING #1167 @ $2932C
 
 #W32($355BC)
@@ -19008,7 +19008,7 @@
 //POINTER #1169 @ $35604 - STRING #1169 @ $29330
 
 #W32($35604)
-<COLOR><GRAY>今度こそ貼ってきます！<END>
+<COLOR><GRAY>I'm going to put them on！<END>
 //POINTER #1170 @ $35628 - STRING #1170 @ $2934E
 
 #W32($35628)
@@ -19016,11 +19016,11 @@
 //POINTER #1171 @ $3564C - STRING #1171 @ $29350
 
 #W32($3564C)
-<COLOR><GRAY>できるから試してみてね。<END>
+<COLOR><GRAY>scratch in Body Paint．It's worth a try．<END>
 //POINTER #1172 @ $35670 - STRING #1172 @ $29370
 
 #W32($35670)
-<COLOR><GRAY>どうしてでしょう？<END>
+<COLOR><GRAY>Why is that？<END>
 //POINTER #1173 @ $35694 - STRING #1173 @ $2938A
 
 #W32($35694)
@@ -19032,7 +19032,7 @@
 //POINTER #1175 @ $356DC - STRING #1175 @ $2938E
 
 #W32($356DC)
-<COLOR><GRAY>コーナーに突っ込んだら危ないって（苦笑）<END>
+<COLOR><GRAY>into a corner like that（wry smile）<END>
 //POINTER #1176 @ $35700 - STRING #1176 @ $293BE
 
 #W32($35700)
@@ -19060,7 +19060,7 @@
 //POINTER #1182 @ $357D8 - STRING #1182 @ $293CA
 
 #W32($357D8)
-<COLOR><GRAY>安全運転で勝負しましょう！（笑）<END>
+<END>
 //POINTER #1183 @ $357FC - STRING #1183 @ $293F2
 
 #W32($357FC)
@@ -19068,7 +19068,7 @@
 //POINTER #1184 @ $35820 - STRING #1184 @ $293F4
 
 #W32($35820)
-<COLOR><GRAY>酔っ払って友人の車で家に送ってもらってた時の話。<END>
+<COLOR><GRAY>my friend was driving me home．<END>
 //POINTER #1185 @ $35844 - STRING #1185 @ $2942C
 
 #W32($35844)
@@ -19076,31 +19076,31 @@
 //POINTER #1186 @ $35868 - STRING #1186 @ $2942E
 
 #W32($35868)
-<COLOR><GRAY>俺もうつらうつらと居眠りしかけていたんだ。<END>
+<COLOR><GRAY>died down．I started to doze off a bit．<END>
 //POINTER #1187 @ $3588C - STRING #1187 @ $29460
 
 #W32($3588C)
-<COLOR><GRAY>その時、俺も見たんだよね。<END>
+<COLOR><GRAY>That's when I saw it too．<END>
 //POINTER #1188 @ $358B0 - STRING #1188 @ $29482
 
 #W32($358B0)
-<COLOR><GRAY>車を降りたんだ。<END>
+<COLOR><GRAY>and got out of the car．<END>
 //POINTER #1189 @ $358D4 - STRING #1189 @ $2949A
 
 #W32($358D4)
-<COLOR><GRAY>分かると思うんだけど。<END>
+<COLOR><GRAY>so we would have noticed if anyone else was here．<END>
 //POINTER #1190 @ $358F8 - STRING #1190 @ $294B8
 
 #W32($358F8)
-<COLOR><GRAY>時間が経つにつれて、だんだん怖くなってきて……。<END>
+<COLOR><GRAY>I started to feel more and more scared……<END>
 //POINTER #1191 @ $3591C - STRING #1191 @ $294F0
 
 #W32($3591C)
-<COLOR><GRAY>２人して同じ物を見たからなぁ……。<END>
+<COLOR><GRAY>but since both of us saw the same thing……<END>
 //POINTER #1192 @ $35940 - STRING #1192 @ $2951A
 
 #W32($35940)
-<COLOR><GRAY>あれは何だったんだろう……？<END>
+<COLOR><GRAY>I wonder what that was……？<END>
 //POINTER #1193 @ $35964 - STRING #1193 @ $2953E
 
 #W32($35964)
