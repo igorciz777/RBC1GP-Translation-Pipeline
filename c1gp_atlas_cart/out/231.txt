@@ -9433,6 +9433,10 @@
 
 //BLOCK #003 NAME:		231.bin File - Encoded BBS Text 4
 
+//
+#JMP($36EA0)
+//
+
 //POINTER #0 @ $2B19C - STRING #0 @ $19D0C
 
 #W32($2B19C)
@@ -12880,9 +12884,7 @@
 #W32($32B64)
 <END>
 //POINTER #863 @ $32AF8 - STRING #863 @ $21292
-//
-#JMP($36EA0)
-//
+
 #W32($32C18)
 <COLOR><GRAY>Post your Field 3 sightings here．<END>
 //POINTER #872 @ $32C3C - STRING #872 @ $212CC
