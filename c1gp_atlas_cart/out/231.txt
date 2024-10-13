@@ -9332,59 +9332,59 @@
 //POINTER #1195 @ $359A4 - STRING #1195 @ $19864
 
 #W32($359A4)
-<COLOR><GRAY>キツネに化かされたことはあるよ。<END>
+<COLOR><GRAY>I've been tricked by a fox once．<END>
 //POINTER #1196 @ $359C8 - STRING #1196 @ $1988C
 
 #W32($359C8)
-<COLOR><GRAY>車じゃないけど、若い頃、自転車で新聞配達してた時、<END>
+<COLOR><GRAY>Not a car、but when I was younger I used to deliver<END>
 //POINTER #1197 @ $359EC - STRING #1197 @ $198C6
 
 #W32($359EC)
-<COLOR><GRAY>教習所に通っていた時代、先輩の車に乗せてもらって<END>
+<COLOR><GRAY>Back when I was in driving school、my senpai took me out<END>
 //POINTER #1198 @ $35A10 - STRING #1198 @ $198FE
 
 #W32($35A10)
-<COLOR><GRAY>うんうん。<END>
+<COLOR><GRAY>Sure．During driving school、<END>
 //POINTER #1199 @ $35A34 - STRING #1199 @ $19910
 
 #W32($35A34)
-<COLOR><GRAY>俺、占い師に黒の車に乗ってると<END>
+<COLOR><GRAY>A fortune teller told me that if I drive a black car、<END>
 //POINTER #1200 @ $35A58 - STRING #1200 @ $19936
 
 #W32($35A58)
-<COLOR><GRAY>で、どうしてるんだ？<END>
+<COLOR><GRAY>So、how's it going so far？<END>
 //POINTER #1201 @ $35A7C - STRING #1201 @ $19952
 
 #W32($35A7C)
-<COLOR><GRAY>御払いしてもらって乗ってる。<END>
+<COLOR><GRAY>I've had it blessed before driving it．<END>
 //POINTER #1202 @ $35AA0 - STRING #1202 @ $19976
 
 #W32($35AA0)
-<COLOR><GRAY>俺が小さい頃、<END>
+<COLOR><GRAY>When I was little、I was playing in the car with<END>
 //POINTER #1203 @ $35AC4 - STRING #1203 @ $1998C
 
 #W32($35AC4)
-<COLOR><GRAY>車庫は傾斜した土地に立っていたので、<END>
+<COLOR><GRAY>The garage was on a slope、so the car started to roll<END>
 //POINTER #1204 @ $35AE8 - STRING #1204 @ $199B8
 
 #W32($35AE8)
-<COLOR><GRAY>しかしなんと、免許を持っていない、ばあちゃんの<END>
+<COLOR><GRAY>But somehow、her miraculous handling technique、<END>
 //POINTER #1205 @ $35B0C - STRING #1205 @ $199EE
 
 #W32($35B0C)
-<COLOR><GRAY>みなさん、ありがとうございます。<END>
+<COLOR><GRAY>Thanks、everyone． Hmmm、<END>
 //POINTER #1206 @ $35B30 - STRING #1206 @ $19A16
 
 #W32($35B30)
-<COLOR><GRAY>車で起こした恥ずかしい事件を教えてください。<END>
+<COLOR><GRAY>Tell us about an embarrassing incident<END>
 //POINTER #1207 @ $35B54 - STRING #1207 @ $19A4A
 
 #W32($35B54)
-<COLOR><GRAY>女友達を後部座席に乗せようとしたとき。<END>
+<COLOR><GRAY>When I tried to get my girlfriend into the back seat．<END>
 //POINTER #1208 @ $35B78 - STRING #1208 @ $19A78
 
 #W32($35B78)
-<COLOR><GRAY>車外から助手席のシートを移動しようとしたら、<END>
+<COLOR><GRAY>When adjusting the passenger seat from outside the car、<END>
 //POINTER #1209 @ $35B9C - STRING #1209 @ $19AAC
 
 #W32($35B9C)
@@ -9392,31 +9392,31 @@
 //POINTER #1210 @ $35BC0 - STRING #1210 @ $19AC4
 
 #W32($35BC0)
-<COLOR><GRAY>ウインカーとワイパーを間違えた事がある。<END>
+<COLOR><GRAY>I once mistook the turn signal for the wipers．<END>
 //POINTER #1211 @ $35BE4 - STRING #1211 @ $19AF4
 
 #W32($35BE4)
-<COLOR><GRAY>ハイビームにしようとしたら、<END>
+<COLOR><GRAY>I meant to switch to high beams、<END>
 //POINTER #1212 @ $35C08 - STRING #1212 @ $19B18
 
 #W32($35C08)
-<COLOR><GRAY>挑発してんのか！？<END>
+<COLOR><GRAY>“You're provoking me！？”<END>
 //POINTER #1213 @ $35C2C - STRING #1213 @ $19B32
 
 #W32($35C2C)
-<COLOR><GRAY>交差点にて、信号待ちのため停車をしたら、<END>
+<COLOR><GRAY>At an intersection、I stopped for a red light．<END>
 //POINTER #1214 @ $35C50 - STRING #1214 @ $19B62
 
 #W32($35C50)
-<COLOR><GRAY>（・ω・）？と思って信号見たら青なのに止まってた。<END>
+<COLOR><GRAY>I was like（・ω・）？ and checked the signal、only to<END>
 //POINTER #1215 @ $35C74 - STRING #1215 @ $19B9C
 
 #W32($35C74)
-<COLOR><GRAY>後続車いなくて良かったね。<END>
+<COLOR><GRAY>Good thing you've had no cars behind you．<END>
 //POINTER #1216 @ $35C98 - STRING #1216 @ $19BBE
 
 #W32($35C98)
-<COLOR><GRAY>彼女に先に免許取られて、<END>
+<COLOR><GRAY>My girlfriend got her license before me、<END>
 //POINTER #1217 @ $35CBC - STRING #1217 @ $19BDE
 
 #W32($35CBC)
@@ -9424,11 +9424,11 @@
 //POINTER #1218 @ $35CE0 - STRING #1218 @ $19BF6
 
 #W32($35CE0)
-<COLOR><GRAY>ウチのカミさんの、お礼のクラクション。<END>
+<COLOR><GRAY>My wife's way of thanking with the horn．<END>
 //POINTER #1219 @ $35D04 - STRING #1219 @ $19C24
 
 #W32($35D04)
-<COLOR><GRAY>そりゃ、乗せてもらってる方は恥ずかしい（笑）<END>
+<COLOR><GRAY>Well、that has to be embarrassing for the passenger（lol）<END>
 //POINTER #1220 @ $35D28 - STRING #1220 @ $19C58
 
 //BLOCK #003 NAME:		231.bin File - Encoded BBS Text 4
@@ -14180,23 +14180,23 @@
 //POINTER #1195 @ $359A8 - STRING #1195 @ $239CA
 
 #W32($359A8)
-<COLOR><GRAY>いつも通ってて、全然知ってる道なのに、<END>
+<COLOR><GRAY>It was on a road i've known very well、despite that、<END>
 //POINTER #1196 @ $359CC - STRING #1196 @ $239F8
 
 #W32($359CC)
-<COLOR><GRAY>墓場の前に来ると、必ずタイヤがパンクしたなぁ……。<END>
+<COLOR><GRAY>newspapers by bicycle．The tire would always<END>
 //POINTER #1197 @ $359F0 - STRING #1197 @ $23A32
 
 #W32($359F0)
-<COLOR><GRAY>高速を１４０ｋｍで走られたり、前の友人の車との<END>
+<COLOR><GRAY>for a highway drive、going 140km／h、and the gap to the car<END>
 //POINTER #1198 @ $35A14 - STRING #1198 @ $23A68
 
 #W32($35A14)
-<COLOR><GRAY>教習中は、これでもかってくらい<END>
+<COLOR><GRAY>they really show you a ton of hazard prediction videos、<END>
 //POINTER #1199 @ $35A38 - STRING #1199 @ $23A8E
 
 #W32($35A38)
-<COLOR><GRAY>いつか事故るって言われた……。<END>
+<COLOR><GRAY>I'll get into an accident someday……<END>
 //POINTER #1200 @ $35A5C - STRING #1200 @ $23AB4
 
 #W32($35A5C)
@@ -14208,23 +14208,23 @@
 //POINTER #1202 @ $35AA4 - STRING #1202 @ $23AB8
 
 #W32($35AA4)
-<COLOR><GRAY>ばあちゃんと自宅の車の中で遊んでた時<END>
+<COLOR><GRAY>my grandma at home、and not knowing any better、<END>
 //POINTER #1203 @ $35AC8 - STRING #1203 @ $23AE4
 
 #W32($35AC8)
-<COLOR><GRAY>いきなりバックし出す車、後ろに迫るドブ川！<END>
+<COLOR><GRAY>backwards、heading straight for the drainage behind us！<END>
 //POINTER #1204 @ $35AEC - STRING #1204 @ $23B16
 
 #W32($35AEC)
-<COLOR><GRAY>奇跡のハンドリングで事なきを得ました！！<END>
+<COLOR><GRAY>despite not having a license、grandma saved the day！！<END>
 //POINTER #1205 @ $35B10 - STRING #1205 @ $23B46
 
 #W32($35B10)
-<COLOR><GRAY>う～ん、車に乗ってると、<END>
+<COLOR><GRAY>seems like all kinds of strange things can happen<END>
 //POINTER #1206 @ $35B34 - STRING #1206 @ $23B66
 
 #W32($35B34)
-<END>
+<COLOR><GRAY>you've had while driving．<END>
 //POINTER #1207 @ $35B58 - STRING #1207 @ $23B68
 
 #W32($35B58)
@@ -14232,11 +14232,11 @@
 //POINTER #1208 @ $35B7C - STRING #1208 @ $23B6A
 
 #W32($35B7C)
-<COLOR><GRAY>間違えてリクライニングのレバーを引いてしまい、<END>
+<COLOR><GRAY>I accidentally pulled the reclining lever instead、<END>
 //POINTER #1209 @ $35BA0 - STRING #1209 @ $23BA0
 
 #W32($35BA0)
-<COLOR><GRAY>カッコ悪い（笑）<END>
+<COLOR><GRAY>So uncool（lol）<END>
 //POINTER #1210 @ $35BC4 - STRING #1210 @ $23BB8
 
 #W32($35BC4)
@@ -14244,35 +14244,35 @@
 //POINTER #1211 @ $35BE8 - STRING #1211 @ $23BBA
 
 #W32($35BE8)
-<COLOR><GRAY>パッシングしちゃった。<END>
+<COLOR><GRAY>but I ended up just flashing my lights instead．<END>
 //POINTER #1212 @ $35C0C - STRING #1212 @ $23BD8
 
 #W32($35C0C)
-<COLOR><GRAY>……とか勘違いされそう（笑）<END>
+<COLOR><GRAY>……is what they might think（lol）<END>
 //POINTER #1213 @ $35C30 - STRING #1213 @ $23BFC
 
 #W32($35C30)
-<COLOR><GRAY>なぜか対向車がパッシングでお礼をしてそのまま右折。<END>
+<COLOR><GRAY>The oncoming car thanked me and made a right turn．<END>
 //POINTER #1214 @ $35C54 - STRING #1214 @ $23C36
 
 #W32($35C54)
-<COLOR><GRAY>対向車の人は、俺を青信号で渋滞もしてないのに<END>
+<COLOR><GRAY>find out that I've stopped for a green light．The oncoming<END>
 //POINTER #1215 @ $35C78 - STRING #1215 @ $23C6A
 
 #W32($35C78)
-<COLOR><GRAY>いたらきっと煽られてたよ（笑）<END>
+<COLOR><GRAY>You would've definitely been tailgated otherwise（lol）<END>
 //POINTER #1216 @ $35C9C - STRING #1216 @ $23C90
 
 #W32($35C9C)
-<COLOR><GRAY>一時期、彼女が運転席、<END>
+<COLOR><GRAY>so for a while、she was the driver<END>
 //POINTER #1217 @ $35CC0 - STRING #1217 @ $23CAE
 
 #W32($35CC0)
-<COLOR><GRAY>微妙にカッコ悪い。<END>
+<COLOR><GRAY>That's quite uncool．<END>
 //POINTER #1218 @ $35CE4 - STRING #1218 @ $23CC8
 
 #W32($35CE4)
-<COLOR><GRAY>「ピッ」って軽く鳴らせばいいのに、<END>
+<COLOR><GRAY>Instead of just a light“beep”、<END>
 //POINTER #1219 @ $35D08 - STRING #1219 @ $23CF2
 
 #W32($35D08)
@@ -19112,23 +19112,23 @@
 //POINTER #1195 @ $359AC - STRING #1195 @ $29542
 
 #W32($359AC)
-<COLOR><GRAY>なぜか同じ所をグルグル回ってた。<END>
+<COLOR><GRAY>I kept circling around to the same spot．<END>
 //POINTER #1196 @ $359D0 - STRING #1196 @ $2956A
 
 #W32($359D0)
-<END>
+<COLOR><GRAY>get a flat whenever I passed by the graveyard……<END>
 //POINTER #1197 @ $359F4 - STRING #1197 @ $2956C
 
 #W32($359F4)
-<COLOR><GRAY>車間距離を数十ｃｍにされたのが怖かったです。<END>
+<COLOR><GRAY>in front was just a few centimeters．It really scared me．<END>
 //POINTER #1198 @ $35A18 - STRING #1198 @ $295A0
 
 #W32($35A18)
-<COLOR><GRAY>危険予測のビデオ見せられるからねぇ。<END>
+<COLOR><GRAY>don't they．<END>
 //POINTER #1199 @ $35A3C - STRING #1199 @ $295CC
 
 #W32($35A3C)
-<COLOR><GRAY>まだ納車したばかりなんだけど……（泣）<END>
+<COLOR><GRAY>and I just had it delivered……（crying）<END>
 //POINTER #1200 @ $35A60 - STRING #1200 @ $295FA
 
 #W32($35A60)
@@ -19140,7 +19140,7 @@
 //POINTER #1202 @ $35AA8 - STRING #1202 @ $295FE
 
 #W32($35AA8)
-<COLOR><GRAY>子供だった俺は何も知らずにサイドブレーキを……。<END>
+<COLOR><GRAY>I decided to release the handbrake……<END>
 //POINTER #1203 @ $35ACC - STRING #1203 @ $29636
 
 #W32($35ACC)
@@ -19148,11 +19148,11 @@
 //POINTER #1204 @ $35AF0 - STRING #1204 @ $29638
 
 #W32($35AF0)
-<COLOR><GRAY>ばあちゃんすげ～！！<END>
+<COLOR><GRAY>My grandma's amazing～！！<END>
 //POINTER #1205 @ $35B14 - STRING #1205 @ $29654
 
 #W32($35B14)
-<COLOR><GRAY>色々と不可思議な出来事が起こるみたいですね……。<END>
+<COLOR><GRAY>when you're in a car……<END>
 //POINTER #1206 @ $35B38 - STRING #1206 @ $2968C
 
 #W32($35B38)
@@ -19164,7 +19164,7 @@
 //POINTER #1208 @ $35B80 - STRING #1208 @ $29690
 
 #W32($35B80)
-<COLOR><GRAY>頭に背もたれがガツン。<END>
+<COLOR><GRAY>and the headrest slammed into my head．<END>
 //POINTER #1209 @ $35BA4 - STRING #1209 @ $296AE
 
 #W32($35BA4)
@@ -19188,7 +19188,7 @@
 //POINTER #1214 @ $35C58 - STRING #1214 @ $296B8
 
 #W32($35C58)
-<COLOR><GRAY>譲ってくれた、すごくいい人だと思った事だろう（笑）<END>
+<COLOR><GRAY>car probably thought I was being super polite（lol）<END>
 //POINTER #1215 @ $35C7C - STRING #1215 @ $296F2
 
 #W32($35C7C)
@@ -19196,7 +19196,7 @@
 //POINTER #1216 @ $35CA0 - STRING #1216 @ $296F4
 
 #W32($35CA0)
-<COLOR><GRAY>俺が助手席になってた。<END>
+<COLOR><GRAY>and I was the passenger．<END>
 //POINTER #1217 @ $35CC4 - STRING #1217 @ $29712
 
 #W32($35CC4)
@@ -19204,7 +19204,7 @@
 //POINTER #1218 @ $35CE8 - STRING #1218 @ $29714
 
 #W32($35CE8)
-<COLOR><GRAY>「ビ～～～ッ！！」とかやたらと長く鳴らす。<END>
+<COLOR><GRAY>she always goes for a long“BEEEEEEEEEEEP！！”．<END>
 //POINTER #1219 @ $35D0C - STRING #1219 @ $29746
 
 #W32($35D0C)
