@@ -23,7 +23,7 @@
 ## Installation:
 You need an unmodified iso dump of RACING BATTLE -C1 GRAND PRIX- [SLPM-65897]
 
-MD5: 8131f1e1d205de32326d7c038f8f70a3
+`MD5: 8131f1e1d205de32326d7c038f8f70a3`
 
 You also need a xdelta patcher,
 personally I use DeltaPatcher or xdelta3
@@ -33,12 +33,18 @@ Using a xdelta patcher, apply the main patch file `tl_patch_vx.xdelta` to your i
 	
 Move the `SLPM-65897_1C087362.pnach` file to <your PCSX2 folder>/cheats/
 
+ISO MD5 after tl_patch:
+`F242BC9F7B2C3B94C144269508ADFBC3`
+
 
 ### Patching the game for hardware
 Using a xdelta patcher, apply the main patch file `tl_patch_vx.xdelta` to your iso.
 
 After that, apply the `hw_patch_vx.xdelta` patch to your modified iso from previous step.
-	
+
+ISO MD5 after tl_patch & hw_patch:
+`704042D8AA3DFF829F79D0D77F52215E`
+
 ---	
 	
 ### Tools that made this possible
