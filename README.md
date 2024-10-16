@@ -45,6 +45,10 @@ After that, apply the `hw_patch_vx.xdelta` patch to your modified iso from previ
 ISO MD5 after tl_patch & hw_patch:
 `704042D8AA3DFF829F79D0D77F52215E`
 
+Video Tutorial:
+
+[![Video Tutorial](https://img.youtube.com/vi/87E8jDqh5hk/0.jpg)](https://www.youtube.com/watch?v=87E8jDqh5hk)
+
 ---	
 	
 ### Tools that made this possible
