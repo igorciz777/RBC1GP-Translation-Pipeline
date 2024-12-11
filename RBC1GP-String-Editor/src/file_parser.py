@@ -1,39 +1,16 @@
 import struct
 
-class RivalData:
-    def __init__(self, data):
-        unpacked_data = struct.unpack('<3s I I B B 11s B 507s 24s 84s 26s 34s 232s 132s 48s 48s 48s 48s 48s 48s 24s 24s', data)
-        self.idx = unpacked_data[0]
-        self.something = unpacked_data[1]
-        self.something2 = unpacked_data[2]
-        self.zero1 = unpacked_data[3]
-        self.weirdCarValue = unpacked_data[4]
-        self.zero2 = unpacked_data[5]
-        self.carBodyId = unpacked_data[6]
-        self.unknown = unpacked_data[7]
-        self.nickname = unpacked_data[8]
-        self.unknown2 = unpacked_data[9]
-        self.name = unpacked_data[10]
-        self.job = unpacked_data[11]
-        self.bio1 = unpacked_data[12]
-        self.dialog1 = unpacked_data[13]
-        self.dialog2 = unpacked_data[14]
-        self.dialog3 = unpacked_data[15]
-        self.dialog4 = unpacked_data[16]
-        self.dialog5 = unpacked_data[17]
-        self.dialog6 = unpacked_data[18]
-        self.dialog7 = unpacked_data[19]
-        self.dialogShort1 = unpacked_data[20]
-        self.dialogShort2 = unpacked_data[21]
 
 def read_file(file_name):
     with open(file_name, 'rb') as f:
         data = f.read()
     return data
 
+
 def write_file(file_name, data):
     with open(file_name, 'wb') as f:
         f.write(data)
+
 
 def read_string_locations(data, endian='<'):
     string_locations = []
@@ -42,14 +19,15 @@ def read_string_locations(data, endian='<'):
     current_file_offset = 4
     string_locations.append((first_start_offset, first_end_offset))
     while current_file_offset < first_start_offset:
-        start_offset = struct.unpack(endian + 'I', data[current_file_offset:current_file_offset+4])[0]
+        start_offset = struct.unpack(endian + 'I', data[current_file_offset:current_file_offset + 4])[0]
         try:
-            end_offset = struct.unpack(endian + 'I', data[current_file_offset+4:current_file_offset+8])[0]
+            end_offset = struct.unpack(endian + 'I', data[current_file_offset + 4:current_file_offset + 8])[0]
         except struct.error:
             end_offset = len(data)
         string_locations.append((start_offset, end_offset))
         current_file_offset += 4
     return string_locations
+
 
 def find_strings_with_terminator(data, terminator=b'\xff\xff'):
     locations = []
@@ -61,6 +39,7 @@ def find_strings_with_terminator(data, terminator=b'\xff\xff'):
         locations.append((current_offset, next_offset + len(terminator)))
         current_offset = next_offset + len(terminator)
     return locations
+
 
 def load_encoding_table(tbl_file_name):
     encoding_table = {}
@@ -80,6 +59,7 @@ def load_encoding_table(tbl_file_name):
                 except ValueError:
                     print(f"Skipping invalid line: {line}")
     return encoding_table, decoding_table
+
 
 def decode_string(data, encoding_table):
     decoded_string = ""
@@ -105,37 +85,47 @@ def decode_string(data, encoding_table):
             i += 1
     return decoded_string
 
+
 def read_strings(data, string_locations, encoding_table, use_terminator=False):
     strings = []
     for start, end in string_locations:
-            raw_string = data[start:end]
-            string = decode_string(raw_string, encoding_table)
-            strings.append(string)
+        raw_string = data[start:end]
+        string = decode_string(raw_string, encoding_table)
+        strings.append(string)
     return strings
+
 
 def encode_string(input_string, decoding_table):
     encoded_bytes = b""
-    for char in input_string:
+    i = 0
+    while i < len(input_string):
+        matched = False
+
+        if i + 1 < len(input_string):
+            pair = input_string[i:i + 2]
+            if pair in decoding_table:
+                encoded_bytes += decoding_table[pair]
+                i += 2
+                matched = True
+                continue
+
+        char = input_string[i]
         if char == " ":
             char = "ASCII_SPACE"
         if char == "　":
             char = "EUCJP_SPACE"
         if char in decoding_table:
             encoded_bytes += decoding_table[char]
+            matched = True
         else:
-            continue
-    return encoded_bytes.hex()
+            i += 1
+        if matched:
+            i += 1
+    return encoded_bytes
 
-def realign_offsets(string_locations, data, encoding_table, strings):
-    new_data = b""
-    new_offsets = []
-    for i in range(len(strings)):
-        string = strings[i]
-        encoded_string = encode_string(string, encoding_table)
-        new_offsets.append(len(new_data))
-        new_data += bytes.fromhex(encoded_string)
-    new_offsets.append(len(new_data))
-    return new_data, new_offsets
+
+
+
 
 def write_offsets_strings(data, string_locations, strings):
     pass
