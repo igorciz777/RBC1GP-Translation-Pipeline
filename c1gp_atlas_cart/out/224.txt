@@ -1030,7 +1030,7 @@ Provides a high-voltage current to the<END>
 //POINTER #24 @ $C7C - STRING #24 @ $6938
 
 #W32($C7C)
-Disabled the handbrake's autolock．<END>
+Disables the handbrake's autolock．<END>
 //POINTER #25 @ $D00 - STRING #25 @ $6960
 
 #W32($D00)
