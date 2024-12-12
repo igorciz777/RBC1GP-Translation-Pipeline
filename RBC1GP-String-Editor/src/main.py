@@ -3,20 +3,65 @@
 
 import sys
 
+from PyQt6 import QtGui, QtCore
+from PyQt6.QtWidgets import QDialogButtonBox
+from PyQt6.QtWidgets import QMainWindow, QApplication, QLabel, QPushButton, QLineEdit, QTabWidget
+from PyQt6.QtWidgets import QStyle, QVBoxLayout, QDialog, QFileDialog, QWidget, QHBoxLayout
+
+import events_tab
+import file_parser
+import file_reader
 import rivals_tab
 import teams_tab
-import events_tab
-
-import file_reader
-
-from PyQt6 import QtGui, QtCore
-from PyQt6.QtWidgets import QMainWindow, QApplication, QLabel, QPushButton, QLineEdit, QTabWidget, QMessageBox
-from PyQt6.QtWidgets import QStyle, QVBoxLayout, QDialog, QFileDialog, QWidget, QHBoxLayout
+import bad_tab
 
 var_rivals_tab = None
 var_teams_tab = None
 var_events_tab = None
 var_bad_tab = None
+
+
+class ConvertDialog(QDialog):
+    def __init__(self, decoding_table, parent=None):
+        super().__init__(parent)
+        self.setWindowTitle('Encode Text')
+        self.setGeometry(100, 100, 400, 100)
+        self.layout = QVBoxLayout()
+        self.setLayout(self.layout)
+
+        self.table = decoding_table
+
+        self.text_label = QLabel('Text:')
+        self.layout.addWidget(self.text_label)
+
+        self.text_field = QLineEdit(self)
+        self.layout.addWidget(self.text_field)
+        self.text_field.textChanged.connect(self.change_hex_field)
+
+        self.hex_label = QLabel('Hex:')
+        self.layout.addWidget(self.hex_label)
+
+        self.hex_field = QLineEdit(self)
+        self.layout.addWidget(self.hex_field)
+
+        self.hex_le_field = QLineEdit(self)
+        self.layout.addWidget(self.hex_le_field)  # hex but in little endian
+
+        self.button_box = QDialogButtonBox(QDialogButtonBox.StandardButton.Ok)
+        self.button_box.accepted.connect(self.accept)
+        self.layout.addWidget(self.button_box)
+
+    def change_hex_field(self):
+        text = self.text_field.text()
+        encoded_bytes = file_parser.encode_string(text, self.table)
+
+        hex_str = encoded_bytes.hex().upper()
+        hex_str = ' '.join([hex_str[i:i + 4] for i in range(0, len(hex_str), 4)])
+        self.hex_field.setText(hex_str + " FFFF")
+
+        hex_str = encoded_bytes[::-1].hex().upper()
+        hex_str = ' '.join([hex_str[i:i + 4] for i in range(0, len(hex_str), 4)])
+        self.hex_le_field.setText("FFFF " + hex_str)
 
 
 class StartupDialog(QDialog):
@@ -71,7 +116,7 @@ class StartupDialog(QDialog):
         self.layout().addLayout(self.dat3_layout)
         self.layout().addWidget(self.accept_button)
 
-        made_by = QLabel("warning: slow as hell due to custom encoding/decoding")
+        made_by = QLabel("warning: very long loading due to processing data with custom encoder")
         made_by.setAlignment(QtCore.Qt.AlignmentFlag.AlignCenter)
         self.layout().addWidget(made_by)
 
@@ -92,16 +137,18 @@ class StartupDialog(QDialog):
         global var_rivals_tab, var_events_tab, var_bad_tab, var_teams_tab
         rivals_file = file_reader.RivalFile(self.dat1_field.text())
         events_file = file_reader.EventFile(self.dat2_field.text())
-        # bad_file = file_reader.BADFile(self.dat3_field.text())
+        bad_file = file_reader.BADFile(self.dat3_field.text())
         var_rivals_tab = rivals_tab.RivalsTab(rivals_file)
         var_teams_tab = teams_tab.TeamsTab(rivals_file)
         var_events_tab = events_tab.EventsTab(events_file)
+        var_bad_tab = bad_tab.BADTab(bad_file)
         super().accept()
 
 
 class MainWindow(QMainWindow):
     def __init__(self):
         super().__init__()
+        self.encoding_table, self.decoding_table = file_parser.load_encoding_table('resources//modified.tbl')
         self.menu_bar = self.menuBar()
         self.status_bar = self.statusBar()
         self.setWindowTitle("RB:C1GP Text Editor")
@@ -120,6 +167,7 @@ class MainWindow(QMainWindow):
             self.tab_widget.addTab(var_rivals_tab, "Rivals")
             self.tab_widget.addTab(var_teams_tab, "Teams")
             self.tab_widget.addTab(var_events_tab, "Events")
+            self.tab_widget.addTab(var_bad_tab, "B.A.D.")
 
         self.menu_bar_setup()
 
@@ -127,6 +175,10 @@ class MainWindow(QMainWindow):
         file_menu = self.menu_bar.addMenu("File")
         exit_action = file_menu.addAction("Exit")
         exit_action.triggered.connect(self.close)
+
+        encode_menu = self.menu_bar.addMenu("Encode")
+        encode_action = encode_menu.addAction("Encode Text")
+        encode_action.triggered.connect(ConvertDialog(self.decoding_table, self).exec)
 
 
 def run_app():

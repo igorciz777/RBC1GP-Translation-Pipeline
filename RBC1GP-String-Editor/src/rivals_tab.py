@@ -49,6 +49,7 @@ class RivalsTab(QWidget):
         self.setup_layout()
 
         # self.reset()
+        # write_rivals_to_json(self, self.rival_lines, 'rivals.json')
 
     def setup_layout(self):
         left_vbox = QVBoxLayout()
@@ -291,3 +292,29 @@ class RivalsTab(QWidget):
             file_parser.decode_string(self.rival_lines[self.rival_idx]['dialog_short_1'], self.encoding).strip('\x00'))
         self.rival_dialog_short_2.setText(
             file_parser.decode_string(self.rival_lines[self.rival_idx]['dialog_short_2'], self.encoding).strip('\x00'))
+
+def write_rivals_to_json(self, rivals, json_out):
+        with open(json_out, 'w', encoding='utf-8') as f:
+            f.write('[\n')
+            for rival in rivals:
+                f.write('    {\n')
+                f.write('        "nickname": "{}",\n'.format(file_parser.decode_string(rival['nickname'], self.encoding).strip('\x00')))
+                f.write('        "name": "{}",\n'.format(file_parser.decode_string(rival['name'], self.encoding).strip('\x00')))
+                f.write('        "occupation": "{}",\n'.format(file_parser.decode_string(rival['occupation'], self.encoding).strip('\x00')))
+                f.write('        "motto": "{}",\n'.format(file_parser.decode_string(rival['motto'], self.encoding).strip('\x00')))
+                f.write('        "profile_bio_1": "{}",\n'.format(file_parser.decode_string(rival['profile_bio_1'], self.encoding).strip('\x00')))
+                f.write('        "profile_bio_2": "{}",\n'.format(file_parser.decode_string(rival['profile_bio_2'], self.encoding).strip('\x00')))
+                f.write('        "profile_bio_3": "{}",\n'.format(file_parser.decode_string(rival['profile_bio_3'], self.encoding).strip('\x00')))
+                f.write('        "profile_bio_4": "{}",\n'.format(file_parser.decode_string(rival['profile_bio_4'], self.encoding).strip('\x00')))
+                f.write('        "profile_bio_5": "{}",\n'.format(file_parser.decode_string(rival['profile_bio_5'], self.encoding).strip('\x00')))
+                f.write('        "dialog_1": "{}",\n'.format(file_parser.decode_string(rival['dialog_1'], self.encoding).strip('\x00')))
+                f.write('        "dialog_2": "{}",\n'.format(file_parser.decode_string(rival['dialog_2'], self.encoding).strip('\x00')))
+                f.write('        "dialog_3": "{}",\n'.format(file_parser.decode_string(rival['dialog_3'], self.encoding).strip('\x00')))
+                f.write('        "dialog_4": "{}",\n'.format(file_parser.decode_string(rival['dialog_4'], self.encoding).strip('\x00')))
+                f.write('        "dialog_5": "{}",\n'.format(file_parser.decode_string(rival['dialog_5'], self.encoding).strip('\x00')))
+                f.write('        "dialog_6": "{}",\n'.format(file_parser.decode_string(rival['dialog_6'], self.encoding).strip('\x00')))
+                f.write('        "dialog_short_1": "{}",\n'.format(file_parser.decode_string(rival['dialog_short_1'], self.encoding).strip('\x00')))
+                f.write('        "dialog_short_2": "{}"\n'.format(file_parser.decode_string(rival['dialog_short_2'], self.encoding).strip('\x00')))
+                f.write('    },\n')
+            f.write(']\n')
+        print('Rivals written to {}'.format(json_out))

@@ -66,6 +66,47 @@ def event_struct(file):
     return event
 
 
+def bad_struct(file):
+    bad = {
+        'spacing': file.read_uint16(),
+        'value': file.read_uint16(),
+        'name0': file.read(0x0e),
+        'name1': file.read(0x0e)
+    }
+    return bad
+
+
+def bad_name_with_value(file):
+    bad = {
+        'value': file.read_uint16(),
+        'name': file.read(0x1a)
+    }
+    return bad
+
+
+def bad_name_without_value_short(file):
+    bad = {
+        'short': 1,
+        'name': file.read(0x0e)
+    }
+    return bad
+
+
+def bad_name_without_value_long(file):
+    bad = {
+        'name': file.read(0x1a)
+    }
+    return bad
+
+
+def bad_block_struct(file):
+    bad_block = {
+        'bad_value': file.read_uint32(),
+        'blocks': [bad_struct(file) for _ in range(5)]
+    }
+    return bad_block
+
+
 # class for reading binary files, little-endian
 class FileReader:
     def __init__(self, filename):
@@ -210,9 +251,46 @@ class BADFile:
         self.file = FileReader(filename)
 
     def get_bad(self):
-        # TODO implement
-        bad = []
-        return bad
+        bad_data_0 = []
+        bad_data_1 = []
+        self.file.seek(0x0, os.SEEK_SET)
+        for i in range(30):
+            bad = bad_block_struct(self.file)
+            bad_data_0.append(bad)
+
+        for i in range(71):
+            bad = bad_name_without_value_long(self.file)
+            bad_data_1.append(bad)
+
+        for i in range(39):
+            bad = bad_name_with_value(self.file)
+            bad_data_1.append(bad)
+
+        bad_data_1.append(bad_name_without_value_long(self.file))
+        bad_data_1.append(bad_name_without_value_short(self.file))
+        bad_data_1.append(bad_name_without_value_short(self.file))
+
+        return bad_data_0, bad_data_1
+
+    def write_bad(self, bad_data_0, bad_data_1):
+        self.file.seek(0x0, os.SEEK_SET)
+        for bad in bad_data_0:
+            # self.file.write_n_bytes(bad['bad_value'].to_bytes(4, 'little'), 4)
+            self.file.seek(0x4, os.SEEK_CUR)
+            for block in bad['blocks']:
+                # self.file.write_n_bytes(block['spacing'].to_bytes(2, 'little'), 2)
+                # self.file.write_n_bytes(block['value'].to_bytes(2, 'little'), 2)
+                self.file.seek(0x4, os.SEEK_CUR)
+                self.file.write_n_bytes(block['name0'], 0x0e)
+                self.file.write_n_bytes(block['name1'], 0x0e)
+
+        for bad in bad_data_1:
+            if 'value' in bad:
+                self.file.seek(0x2, os.SEEK_CUR)
+            if 'short' in bad:
+                self.file.write_n_bytes(bad['name'], 0x0e)
+            else:
+                self.file.write_n_bytes(bad['name'], 0x1a)
 
     def close(self):
         self.file.close()
