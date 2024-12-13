@@ -1,7 +1,7 @@
+from PyQt6.QtGui import QBrush, QColor
 from PyQt6.QtWidgets import QLineEdit, QLabel, QPushButton
 from PyQt6.QtWidgets import QWidget, QTreeWidget, QVBoxLayout, QScrollArea, QHBoxLayout, QTreeWidgetItem
 
-import file_parser
 import file_reader
 
 
@@ -12,8 +12,8 @@ class TeamsTab(QWidget):
         self.rival_file = rival_file
         self.teams_tree_view = QTreeWidget()
 
-        self.encoding, self.decoding = file_parser.load_encoding_table('resources//c1gp.tbl')
-        self.mod_encoding, self.mod_decoding = file_parser.load_encoding_table('resources//modified.tbl')
+        self.encoding, self.decoding = file_reader.load_encoding_table('resources//c1gp.tbl')
+        self.mod_encoding, self.mod_decoding = file_reader.load_encoding_table('resources//modified.tbl')
 
         self.teams = rival_file.get_teams()
         self.team_name = QLineEdit()
@@ -35,11 +35,11 @@ class TeamsTab(QWidget):
         self.layout.addLayout(left_vbox)
 
         for team in self.teams:
-            # print(file_parser.decode_string(rival['nickname'], encoding).strip('\x00'))
-            item = QTreeWidgetItem([file_parser.decode_string(team['team_name'], self.encoding).strip('\x00')])
+            # print(file_reader.decode_string(rival['nickname'], encoding).strip('\x00'))
+            item = QTreeWidgetItem([file_reader.decode_string(team['team_name'], self.encoding).strip('\x00')])
             self.teams_tree_view.addTopLevelItem(item)
 
-        self.teams_tree_view.itemClicked.connect(self.rival_selected)
+        self.teams_tree_view.itemClicked.connect(self.team_selected)
 
         right_vbox = QVBoxLayout()
         self.layout.addLayout(right_vbox)
@@ -57,17 +57,16 @@ class TeamsTab(QWidget):
 
         right_vbox.addStretch(1)
 
-    def rival_selected(self, item):
+    def team_selected(self, item):
         self.team_idx = self.teams_tree_view.indexOfTopLevelItem(item)
-        self.team_name.setText(
-            file_parser.decode_string(self.teams[self.team_idx]['team_name'], self.encoding).strip('\x00'))
+        self.refresh()
 
     def save_team(self):
 
         self.team_name.setStyleSheet("background-color: white;")
 
-        self.teams[self.team_idx]['team_name'] = file_parser.encode_string(
-            self.team_name.text(), self.mod_decoding) + b'\xFF' + b'\xFF'
+        self.teams[self.team_idx]['team_name'] = file_reader.encode_string(
+            self.team_name.text().replace(" ", "$"), self.mod_decoding) + b'\xFF' + b'\xFF'
 
         if len(self.teams[self.team_idx]['team_name']) > 0x22:
             self.teams[self.team_idx]['team_name'] = self.teams[self.team_idx]['team_name'][:0x20] \
@@ -75,6 +74,9 @@ class TeamsTab(QWidget):
             self.team_name.setStyleSheet("background-color: red;")
 
         self.rival_file.write_teams(self.teams)
+        self.teams_tree_view.topLevelItem(self.team_idx).setText(0, self.team_name.text())
+        self.teams_tree_view.itemFromIndex(self.teams_tree_view.selectedIndexes()[0]) \
+            .setBackground(0, QBrush(QColor(0, 255, 0)))
 
     def switch_encoding(self):
         temp = self.encoding
@@ -84,4 +86,5 @@ class TeamsTab(QWidget):
 
     def refresh(self):
         self.team_name.setText(
-            file_parser.decode_string(self.teams[self.team_idx]['team_name'], self.encoding).strip('\x00'))
+            file_reader.decode_string(self.teams[self.team_idx]['team_name'], self.encoding).strip('\x00')
+            .replace("$", " "))

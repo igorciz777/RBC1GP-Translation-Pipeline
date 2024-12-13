@@ -1,8 +1,8 @@
+from PyQt6.QtGui import QBrush, QColor
+from PyQt6.QtWidgets import QFrame
 from PyQt6.QtWidgets import QLineEdit, QLabel, QPushButton
 from PyQt6.QtWidgets import QWidget, QTreeWidget, QVBoxLayout, QScrollArea, QHBoxLayout, QTreeWidgetItem
-from PyQt6.QtWidgets import QFrame
 
-import file_parser
 import file_reader
 
 
@@ -21,8 +21,8 @@ class RivalsTab(QWidget):
         self.rival_file = rival_file
         self.rivals_tree_view = QTreeWidget()
 
-        self.encoding, self.decoding = file_parser.load_encoding_table('resources//c1gp.tbl')
-        self.mod_encoding, self.mod_decoding = file_parser.load_encoding_table('resources//modified.tbl')
+        self.encoding, self.decoding = file_reader.load_encoding_table('resources//c1gp.tbl')
+        self.mod_encoding, self.mod_decoding = file_reader.load_encoding_table('resources//modified.tbl')
 
         self.rival_lines = rival_file.get_rivals()
         self.rival_nickname = QLineEdit()
@@ -62,8 +62,8 @@ class RivalsTab(QWidget):
         self.layout.addLayout(left_vbox)
 
         for rival in self.rival_lines:
-            # print(file_parser.decode_string(rival['nickname'], encoding).strip('\x00'))
-            item = QTreeWidgetItem([file_parser.decode_string(rival['nickname'], self.encoding).strip('\x00')])
+            # print(file_reader.decode_string(rival['nickname'], encoding).strip('\x00'))
+            item = QTreeWidgetItem([file_reader.decode_string(rival['nickname'], self.encoding).strip('\x00')])
             self.rivals_tree_view.addTopLevelItem(item)
 
         self.rivals_tree_view.itemClicked.connect(self.rival_selected)
@@ -144,40 +144,40 @@ class RivalsTab(QWidget):
         self.rival_dialog_short_1.setStyleSheet("background-color: white;")
         self.rival_dialog_short_2.setStyleSheet("background-color: white;")
 
-        self.rival_lines[self.rival_idx]['nickname'] = file_parser.encode_string(
-            self.rival_nickname.text(), self.mod_decoding) + b'\xFF' + b'\xFF'
-        self.rival_lines[self.rival_idx]['name'] = file_parser.encode_string(
-            self.rival_name.text(), self.mod_decoding) + b'\xFF' + b'\xFF'
-        self.rival_lines[self.rival_idx]['occupation'] = file_parser.encode_string(
-            self.rival_occupation.text(), self.mod_decoding) + b'\xFF' + b'\xFF'
-        self.rival_lines[self.rival_idx]['motto'] = file_parser.encode_string(
-            self.rival_motto.text(), self.mod_decoding) + b'\xFF' + b'\xFF'
-        self.rival_lines[self.rival_idx]['profile_bio_1'] = file_parser.encode_string(
-            self.rival_profile_bio_1.text(), self.mod_decoding) + b'\xFF' + b'\xFF'
-        self.rival_lines[self.rival_idx]['profile_bio_2'] = file_parser.encode_string(
-            self.rival_profile_bio_2.text(), self.mod_decoding) + b'\xFF' + b'\xFF'
-        self.rival_lines[self.rival_idx]['profile_bio_3'] = file_parser.encode_string(
-            self.rival_profile_bio_3.text(), self.mod_decoding) + b'\xFF' + b'\xFF'
-        self.rival_lines[self.rival_idx]['profile_bio_4'] = file_parser.encode_string(
-            self.rival_profile_bio_4.text(), self.mod_decoding) + b'\xFF' + b'\xFF'
-        self.rival_lines[self.rival_idx]['profile_bio_5'] = file_parser.encode_string(
-            self.rival_profile_bio_5.text(), self.mod_decoding) + b'\xFF' + b'\xFF'
-        self.rival_lines[self.rival_idx]['dialog_1'] = file_parser.encode_string(
-            self.rival_dialog_1.text(), self.mod_decoding) + b'\xFF' + b'\xFF'
-        self.rival_lines[self.rival_idx]['dialog_2'] = file_parser.encode_string(
-            self.rival_dialog_2.text(), self.mod_decoding) + b'\xFF' + b'\xFF'
-        self.rival_lines[self.rival_idx]['dialog_3'] = file_parser.encode_string(
-            self.rival_dialog_3.text(), self.mod_decoding) + b'\xFF' + b'\xFF'
-        self.rival_lines[self.rival_idx]['dialog_4'] = file_parser.encode_string(
-            self.rival_dialog_4.text(), self.mod_decoding) + b'\xFF' + b'\xFF'
-        self.rival_lines[self.rival_idx]['dialog_5'] = file_parser.encode_string(
-            self.rival_dialog_5.text(), self.mod_decoding) + b'\xFF' + b'\xFF'
-        self.rival_lines[self.rival_idx]['dialog_6'] = file_parser.encode_string(
-            self.rival_dialog_6.text(), self.mod_decoding) + b'\xFF' + b'\xFF'
-        self.rival_lines[self.rival_idx]['dialog_short_1'] = file_parser.encode_string(
-            self.rival_dialog_short_1.text(), self.mod_decoding) + b'\xFF' + b'\xFF'
-        self.rival_lines[self.rival_idx]['dialog_short_2'] = file_parser.encode_string(
-            self.rival_dialog_short_2.text(), self.mod_decoding) + b'\xFF' + b'\xFF'
+        self.rival_lines[self.rival_idx]['nickname'] = file_reader.encode_string(
+            self.rival_nickname.text().replace(" ", "$"), self.mod_decoding) + b'\xFF' + b'\xFF'
+        self.rival_lines[self.rival_idx]['name'] = file_reader.encode_string(
+            self.rival_name.text().replace(" ", "$"), self.mod_decoding) + b'\xFF' + b'\xFF'
+        self.rival_lines[self.rival_idx]['occupation'] = file_reader.encode_string(
+            self.rival_occupation.text().replace(" ", "$"), self.mod_decoding) + b'\xFF' + b'\xFF'
+        self.rival_lines[self.rival_idx]['motto'] = file_reader.encode_string(
+            self.rival_motto.text().replace(" ", "$"), self.mod_decoding) + b'\xFF' + b'\xFF'
+        self.rival_lines[self.rival_idx]['profile_bio_1'] = file_reader.encode_string(
+            self.rival_profile_bio_1.text().replace(" ", "$"), self.mod_decoding) + b'\xFF' + b'\xFF'
+        self.rival_lines[self.rival_idx]['profile_bio_2'] = file_reader.encode_string(
+            self.rival_profile_bio_2.text().replace(" ", "$"), self.mod_decoding) + b'\xFF' + b'\xFF'
+        self.rival_lines[self.rival_idx]['profile_bio_3'] = file_reader.encode_string(
+            self.rival_profile_bio_3.text().replace(" ", "$"), self.mod_decoding) + b'\xFF' + b'\xFF'
+        self.rival_lines[self.rival_idx]['profile_bio_4'] = file_reader.encode_string(
+            self.rival_profile_bio_4.text().replace(" ", "$"), self.mod_decoding) + b'\xFF' + b'\xFF'
+        self.rival_lines[self.rival_idx]['profile_bio_5'] = file_reader.encode_string(
+            self.rival_profile_bio_5.text().replace(" ", "$"), self.mod_decoding) + b'\xFF' + b'\xFF'
+        self.rival_lines[self.rival_idx]['dialog_1'] = file_reader.encode_string(
+            self.rival_dialog_1.text().replace(" ", "$"), self.mod_decoding) + b'\xFF' + b'\xFF'
+        self.rival_lines[self.rival_idx]['dialog_2'] = file_reader.encode_string(
+            self.rival_dialog_2.text().replace(" ", "$"), self.mod_decoding) + b'\xFF' + b'\xFF'
+        self.rival_lines[self.rival_idx]['dialog_3'] = file_reader.encode_string(
+            self.rival_dialog_3.text().replace(" ", "$"), self.mod_decoding) + b'\xFF' + b'\xFF'
+        self.rival_lines[self.rival_idx]['dialog_4'] = file_reader.encode_string(
+            self.rival_dialog_4.text().replace(" ", "$"), self.mod_decoding) + b'\xFF' + b'\xFF'
+        self.rival_lines[self.rival_idx]['dialog_5'] = file_reader.encode_string(
+            self.rival_dialog_5.text().replace(" ", "$"), self.mod_decoding) + b'\xFF' + b'\xFF'
+        self.rival_lines[self.rival_idx]['dialog_6'] = file_reader.encode_string(
+            self.rival_dialog_6.text().replace(" ", "$"), self.mod_decoding) + b'\xFF' + b'\xFF'
+        self.rival_lines[self.rival_idx]['dialog_short_1'] = file_reader.encode_string(
+            self.rival_dialog_short_1.text().replace(" ", "$"), self.mod_decoding) + b'\xFF' + b'\xFF'
+        self.rival_lines[self.rival_idx]['dialog_short_2'] = file_reader.encode_string(
+            self.rival_dialog_short_2.text().replace(" ", "$"), self.mod_decoding) + b'\xFF' + b'\xFF'
 
         if len(self.rival_lines[self.rival_idx]['nickname']) > 0x1A:
             self.rival_lines[self.rival_idx]['nickname'] = self.rival_lines[self.rival_idx]['nickname'][:0x18] \
@@ -248,6 +248,9 @@ class RivalsTab(QWidget):
                 self.rival_lines[self.rival_idx]['dialog_short_2'][:0x16] + b'\xFF' + b'\xFF'
             self.rival_dialog_short_2.setStyleSheet("background-color: red;")
         self.rival_file.write_rivals(self.rival_lines)
+        self.rivals_tree_view.topLevelItem(self.rival_idx).setText(0, self.rival_nickname.text())
+        self.rivals_tree_view.itemFromIndex(self.rivals_tree_view.selectedIndexes()[0]) \
+            .setBackground(0, QBrush(QColor(0, 255, 0)))
 
     def switch_encoding(self):
         temp = self.encoding
@@ -257,64 +260,97 @@ class RivalsTab(QWidget):
 
     def refresh(self):
         self.rival_nickname.setText(
-            file_parser.decode_string(self.rival_lines[self.rival_idx]['nickname'], self.encoding).strip('\x00'))
-        self.rival_nickname_hex.setText(
-            self.rival_lines[self.rival_idx]['nickname'].hex())
+            file_reader.decode_string(self.rival_lines[self.rival_idx]['nickname'], self.encoding).strip('\x00')
+            .replace("$", " "))
         self.rival_name.setText(
-            file_parser.decode_string(self.rival_lines[self.rival_idx]['name'], self.encoding).strip('\x00'))
+            file_reader.decode_string(self.rival_lines[self.rival_idx]['name'], self.encoding).strip('\x00')
+            .replace("$", " "))
         self.rival_occupation.setText(
-            file_parser.decode_string(self.rival_lines[self.rival_idx]['occupation'], self.encoding).strip('\x00'))
+            file_reader.decode_string(self.rival_lines[self.rival_idx]['occupation'], self.encoding).strip('\x00')
+            .replace("$", " "))
         self.rival_motto.setText(
-            file_parser.decode_string(self.rival_lines[self.rival_idx]['motto'], self.encoding).strip('\x00'))
+            file_reader.decode_string(self.rival_lines[self.rival_idx]['motto'], self.encoding).strip('\x00')
+            .replace("$", " "))
         self.rival_profile_bio_1.setText(
-            file_parser.decode_string(self.rival_lines[self.rival_idx]['profile_bio_1'], self.encoding).strip('\x00'))
+            file_reader.decode_string(self.rival_lines[self.rival_idx]['profile_bio_1'], self.encoding).strip('\x00')
+            .replace("$", " "))
         self.rival_profile_bio_2.setText(
-            file_parser.decode_string(self.rival_lines[self.rival_idx]['profile_bio_2'], self.encoding).strip('\x00'))
+            file_reader.decode_string(self.rival_lines[self.rival_idx]['profile_bio_2'], self.encoding).strip('\x00')
+            .replace("$", " "))
         self.rival_profile_bio_3.setText(
-            file_parser.decode_string(self.rival_lines[self.rival_idx]['profile_bio_3'], self.encoding).strip('\x00'))
+            file_reader.decode_string(self.rival_lines[self.rival_idx]['profile_bio_3'], self.encoding).strip('\x00')
+            .replace("$", " "))
         self.rival_profile_bio_4.setText(
-            file_parser.decode_string(self.rival_lines[self.rival_idx]['profile_bio_4'], self.encoding).strip('\x00'))
+            file_reader.decode_string(self.rival_lines[self.rival_idx]['profile_bio_4'], self.encoding).strip('\x00')
+            .replace("$", " "))
         self.rival_profile_bio_5.setText(
-            file_parser.decode_string(self.rival_lines[self.rival_idx]['profile_bio_5'], self.encoding).strip('\x00'))
+            file_reader.decode_string(self.rival_lines[self.rival_idx]['profile_bio_5'], self.encoding).strip('\x00')
+            .replace("$", " "))
         self.rival_dialog_1.setText(
-            file_parser.decode_string(self.rival_lines[self.rival_idx]['dialog_1'], self.encoding).strip('\x00'))
+            file_reader.decode_string(self.rival_lines[self.rival_idx]['dialog_1'], self.encoding).strip('\x00')
+            .replace("$", " "))
         self.rival_dialog_2.setText(
-            file_parser.decode_string(self.rival_lines[self.rival_idx]['dialog_2'], self.encoding).strip('\x00'))
+            file_reader.decode_string(self.rival_lines[self.rival_idx]['dialog_2'], self.encoding).strip('\x00')
+            .replace("$", " "))
         self.rival_dialog_3.setText(
-            file_parser.decode_string(self.rival_lines[self.rival_idx]['dialog_3'], self.encoding).strip('\x00'))
+            file_reader.decode_string(self.rival_lines[self.rival_idx]['dialog_3'], self.encoding).strip('\x00')
+            .replace("$", " "))
         self.rival_dialog_4.setText(
-            file_parser.decode_string(self.rival_lines[self.rival_idx]['dialog_4'], self.encoding).strip('\x00'))
+            file_reader.decode_string(self.rival_lines[self.rival_idx]['dialog_4'], self.encoding).strip('\x00')
+            .replace("$", " "))
         self.rival_dialog_5.setText(
-            file_parser.decode_string(self.rival_lines[self.rival_idx]['dialog_5'], self.encoding).strip('\x00'))
+            file_reader.decode_string(self.rival_lines[self.rival_idx]['dialog_5'], self.encoding).strip('\x00')
+            .replace("$", " "))
         self.rival_dialog_6.setText(
-            file_parser.decode_string(self.rival_lines[self.rival_idx]['dialog_6'], self.encoding).strip('\x00'))
+            file_reader.decode_string(self.rival_lines[self.rival_idx]['dialog_6'], self.encoding).strip('\x00')
+            .replace("$", " "))
         self.rival_dialog_short_1.setText(
-            file_parser.decode_string(self.rival_lines[self.rival_idx]['dialog_short_1'], self.encoding).strip('\x00'))
+            file_reader.decode_string(self.rival_lines[self.rival_idx]['dialog_short_1'], self.encoding).strip('\x00')
+            .replace("$", " "))
         self.rival_dialog_short_2.setText(
-            file_parser.decode_string(self.rival_lines[self.rival_idx]['dialog_short_2'], self.encoding).strip('\x00'))
+            file_reader.decode_string(self.rival_lines[self.rival_idx]['dialog_short_2'], self.encoding).strip('\x00')
+            .replace("$", " "))
+
 
 def write_rivals_to_json(self, rivals, json_out):
-        with open(json_out, 'w', encoding='utf-8') as f:
-            f.write('[\n')
-            for rival in rivals:
-                f.write('    {\n')
-                f.write('        "nickname": "{}",\n'.format(file_parser.decode_string(rival['nickname'], self.encoding).strip('\x00')))
-                f.write('        "name": "{}",\n'.format(file_parser.decode_string(rival['name'], self.encoding).strip('\x00')))
-                f.write('        "occupation": "{}",\n'.format(file_parser.decode_string(rival['occupation'], self.encoding).strip('\x00')))
-                f.write('        "motto": "{}",\n'.format(file_parser.decode_string(rival['motto'], self.encoding).strip('\x00')))
-                f.write('        "profile_bio_1": "{}",\n'.format(file_parser.decode_string(rival['profile_bio_1'], self.encoding).strip('\x00')))
-                f.write('        "profile_bio_2": "{}",\n'.format(file_parser.decode_string(rival['profile_bio_2'], self.encoding).strip('\x00')))
-                f.write('        "profile_bio_3": "{}",\n'.format(file_parser.decode_string(rival['profile_bio_3'], self.encoding).strip('\x00')))
-                f.write('        "profile_bio_4": "{}",\n'.format(file_parser.decode_string(rival['profile_bio_4'], self.encoding).strip('\x00')))
-                f.write('        "profile_bio_5": "{}",\n'.format(file_parser.decode_string(rival['profile_bio_5'], self.encoding).strip('\x00')))
-                f.write('        "dialog_1": "{}",\n'.format(file_parser.decode_string(rival['dialog_1'], self.encoding).strip('\x00')))
-                f.write('        "dialog_2": "{}",\n'.format(file_parser.decode_string(rival['dialog_2'], self.encoding).strip('\x00')))
-                f.write('        "dialog_3": "{}",\n'.format(file_parser.decode_string(rival['dialog_3'], self.encoding).strip('\x00')))
-                f.write('        "dialog_4": "{}",\n'.format(file_parser.decode_string(rival['dialog_4'], self.encoding).strip('\x00')))
-                f.write('        "dialog_5": "{}",\n'.format(file_parser.decode_string(rival['dialog_5'], self.encoding).strip('\x00')))
-                f.write('        "dialog_6": "{}",\n'.format(file_parser.decode_string(rival['dialog_6'], self.encoding).strip('\x00')))
-                f.write('        "dialog_short_1": "{}",\n'.format(file_parser.decode_string(rival['dialog_short_1'], self.encoding).strip('\x00')))
-                f.write('        "dialog_short_2": "{}"\n'.format(file_parser.decode_string(rival['dialog_short_2'], self.encoding).strip('\x00')))
-                f.write('    },\n')
-            f.write(']\n')
-        print('Rivals written to {}'.format(json_out))
+    with open(json_out, 'w', encoding='utf-8') as f:
+        f.write('[\n')
+        for rival in rivals:
+            f.write('    {\n')
+            f.write('        "nickname": "{}",\n'.format(
+                file_reader.decode_string(rival['nickname'], self.encoding).strip('\x00')))
+            f.write(
+                '        "name": "{}",\n'.format(file_reader.decode_string(rival['name'], self.encoding).strip('\x00')))
+            f.write('        "occupation": "{}",\n'.format(
+                file_reader.decode_string(rival['occupation'], self.encoding).strip('\x00')))
+            f.write('        "motto": "{}",\n'.format(
+                file_reader.decode_string(rival['motto'], self.encoding).strip('\x00')))
+            f.write('        "profile_bio_1": "{}",\n'.format(
+                file_reader.decode_string(rival['profile_bio_1'], self.encoding).strip('\x00')))
+            f.write('        "profile_bio_2": "{}",\n'.format(
+                file_reader.decode_string(rival['profile_bio_2'], self.encoding).strip('\x00')))
+            f.write('        "profile_bio_3": "{}",\n'.format(
+                file_reader.decode_string(rival['profile_bio_3'], self.encoding).strip('\x00')))
+            f.write('        "profile_bio_4": "{}",\n'.format(
+                file_reader.decode_string(rival['profile_bio_4'], self.encoding).strip('\x00')))
+            f.write('        "profile_bio_5": "{}",\n'.format(
+                file_reader.decode_string(rival['profile_bio_5'], self.encoding).strip('\x00')))
+            f.write('        "dialog_1": "{}",\n'.format(
+                file_reader.decode_string(rival['dialog_1'], self.encoding).strip('\x00')))
+            f.write('        "dialog_2": "{}",\n'.format(
+                file_reader.decode_string(rival['dialog_2'], self.encoding).strip('\x00')))
+            f.write('        "dialog_3": "{}",\n'.format(
+                file_reader.decode_string(rival['dialog_3'], self.encoding).strip('\x00')))
+            f.write('        "dialog_4": "{}",\n'.format(
+                file_reader.decode_string(rival['dialog_4'], self.encoding).strip('\x00')))
+            f.write('        "dialog_5": "{}",\n'.format(
+                file_reader.decode_string(rival['dialog_5'], self.encoding).strip('\x00')))
+            f.write('        "dialog_6": "{}",\n'.format(
+                file_reader.decode_string(rival['dialog_6'], self.encoding).strip('\x00')))
+            f.write('        "dialog_short_1": "{}",\n'.format(
+                file_reader.decode_string(rival['dialog_short_1'], self.encoding).strip('\x00')))
+            f.write('        "dialog_short_2": "{}"\n'.format(
+                file_reader.decode_string(rival['dialog_short_2'], self.encoding).strip('\x00')))
+            f.write('    },\n')
+        f.write(']\n')
+    print('Rivals written to {}'.format(json_out))

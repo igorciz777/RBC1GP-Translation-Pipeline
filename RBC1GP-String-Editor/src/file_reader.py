@@ -4,7 +4,6 @@ import os
 import struct
 
 from PyQt6.QtGui import QTextCursor
-from PyQt6.QtWidgets import QFrame
 
 
 def check_max_length(text_edit, max_length):
@@ -15,6 +14,80 @@ def check_max_length(text_edit, max_length):
         text_edit.setText(text[:max_length])
         text_edit.blockSignals(False)
         text_edit.moveCursor(QTextCursor.MoveOperation.End)
+
+
+def load_encoding_table(tbl_file_name):
+    encoding_table = {}
+    decoding_table = {}
+    with open(tbl_file_name, 'r', encoding='utf-8', errors='ignore') as f:
+        for line in f:
+            if line.startswith("#") or line.startswith("//"):
+                continue
+            line = line.strip()
+            if '=' in line:
+                hex_value, char = line.split('=')
+                hex_value = hex_value.strip()
+                char = char.strip()
+                try:
+                    encoding_table[bytes.fromhex(hex_value)] = char
+                    decoding_table[char] = bytes.fromhex(hex_value)
+                except ValueError:
+                    print(f"Skipping invalid line: {line}")
+    return encoding_table, decoding_table
+
+
+def decode_string(data, encoding_table):
+    decoded_string = ""
+    i = 0
+    while i < len(data):
+        matched = False
+        for hex_value, char in encoding_table.items():
+            if data[i:i + len(hex_value)] == hex_value:
+                if char == "ASCII_SPACE":
+                    char = " "
+                if char == "EUCJP_SPACE":
+                    char = "　"
+                if char == "COLOR_START#":
+                    color = data[i + 4:i + 8].hex().upper()
+                    char = f"#{color}"
+                    i += 4
+                decoded_string += char
+                i += len(hex_value)
+                matched = True
+                break
+        if not matched:
+            decoded_string += data[i:i + 1].decode('ascii', errors='ignore')
+            i += 1
+    return decoded_string
+
+
+def encode_string(input_string, decoding_table):
+    encoded_bytes = b""
+    i = 0
+    while i < len(input_string):
+        matched = False
+
+        if i + 1 < len(input_string):
+            pair = input_string[i:i + 2]
+            if pair in decoding_table:
+                encoded_bytes += decoding_table[pair]
+                i += 2
+                matched = True
+                continue
+
+        char = input_string[i]
+        if char == " ":
+            char = "ASCII_SPACE"
+        if char == "　":
+            char = "EUCJP_SPACE"
+        if char in decoding_table:
+            encoded_bytes += decoding_table[char]
+            matched = True
+        else:
+            i += 1
+        if matched:
+            i += 1
+    return encoded_bytes
 
 
 def highlight_too_long_lineedit(line_edit, hex_form, max_length):

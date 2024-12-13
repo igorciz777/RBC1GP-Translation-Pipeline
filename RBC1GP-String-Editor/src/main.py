@@ -8,12 +8,11 @@ from PyQt6.QtWidgets import QDialogButtonBox
 from PyQt6.QtWidgets import QMainWindow, QApplication, QLabel, QPushButton, QLineEdit, QTabWidget
 from PyQt6.QtWidgets import QStyle, QVBoxLayout, QDialog, QFileDialog, QWidget, QHBoxLayout
 
+import bad_tab
 import events_tab
-import file_parser
 import file_reader
 import rivals_tab
 import teams_tab
-import bad_tab
 
 var_rivals_tab = None
 var_teams_tab = None
@@ -53,7 +52,7 @@ class ConvertDialog(QDialog):
 
     def change_hex_field(self):
         text = self.text_field.text()
-        encoded_bytes = file_parser.encode_string(text, self.table)
+        encoded_bytes = file_reader.encode_string(text.replace(" ", "$"), self.table)
 
         hex_str = encoded_bytes.hex().upper()
         hex_str = ' '.join([hex_str[i:i + 4] for i in range(0, len(hex_str), 4)])
@@ -148,7 +147,7 @@ class StartupDialog(QDialog):
 class MainWindow(QMainWindow):
     def __init__(self):
         super().__init__()
-        self.encoding_table, self.decoding_table = file_parser.load_encoding_table('resources//modified.tbl')
+        _, self.mod_decoding_table = file_reader.load_encoding_table('resources//modified.tbl')
         self.menu_bar = self.menuBar()
         self.status_bar = self.statusBar()
         self.setWindowTitle("RB:C1GP Text Editor")
@@ -178,7 +177,7 @@ class MainWindow(QMainWindow):
 
         encode_menu = self.menu_bar.addMenu("Encode")
         encode_action = encode_menu.addAction("Encode Text")
-        encode_action.triggered.connect(ConvertDialog(self.decoding_table, self).exec)
+        encode_action.triggered.connect(ConvertDialog(self.mod_decoding_table, self).exec)
 
 
 def run_app():

@@ -1,7 +1,7 @@
+from PyQt6.QtGui import QBrush, QColor
 from PyQt6.QtWidgets import QLineEdit, QLabel, QPushButton
 from PyQt6.QtWidgets import QWidget, QTreeWidget, QVBoxLayout, QScrollArea, QHBoxLayout, QTreeWidgetItem
 
-import file_parser
 import file_reader
 
 
@@ -12,8 +12,8 @@ class EventsTab(QWidget):
         self.event_file = event_file
         self.event_tree_view = QTreeWidget()
 
-        self.encoding, self.decoding = file_parser.load_encoding_table('resources//c1gp.tbl')
-        self.mod_encoding, self.mod_decoding = file_parser.load_encoding_table('resources//modified.tbl')
+        self.encoding, self.decoding = file_reader.load_encoding_table('resources//c1gp.tbl')
+        self.mod_encoding, self.mod_decoding = file_reader.load_encoding_table('resources//modified.tbl')
 
         self.events = event_file.get_events()
         self.event_name = QLineEdit()
@@ -35,11 +35,11 @@ class EventsTab(QWidget):
         self.layout.addLayout(left_vbox)
 
         for event in self.events:
-            # print(file_parser.decode_string(rival['nickname'], encoding).strip('\x00'))
-            item = QTreeWidgetItem([file_parser.decode_string(event['event_name'], self.encoding).strip('\x00')])
+            # print(file_reader.decode_string(rival['nickname'], encoding).strip('\x00'))
+            item = QTreeWidgetItem([file_reader.decode_string(event['event_name'], self.encoding).strip('\x00')])
             self.event_tree_view.addTopLevelItem(item)
 
-        self.event_tree_view.itemClicked.connect(self.rival_selected)
+        self.event_tree_view.itemClicked.connect(self.event_selected)
 
         right_vbox = QVBoxLayout()
         self.layout.addLayout(right_vbox)
@@ -57,17 +57,16 @@ class EventsTab(QWidget):
 
         right_vbox.addStretch(1)
 
-    def rival_selected(self, item):
+    def event_selected(self, item):
         self.event_idx = self.event_tree_view.indexOfTopLevelItem(item)
-        self.event_name.setText(
-            file_parser.decode_string(self.events[self.event_idx]['event_name'], self.encoding).strip('\x00'))
+        self.refresh()
 
     def save_event(self):
 
         self.event_name.setStyleSheet("background-color: white;")
 
-        self.events[self.event_idx]['event_name'] = file_parser.encode_string(
-            self.event_name.text(), self.mod_decoding) + b'\xFF' + b'\xFF'
+        self.events[self.event_idx]['event_name'] = file_reader.encode_string(
+            self.event_name.text().replace(" ", "$"), self.mod_decoding) + b'\xFF' + b'\xFF'
 
         if len(self.events[self.event_idx]['event_name']) > 0x1C:
             self.events[self.event_idx]['event_name'] = self.events[self.event_idx]['event_name'][:0x1A] \
@@ -75,6 +74,9 @@ class EventsTab(QWidget):
             self.event_name.setStyleSheet("background-color: red;")
 
         self.event_file.write_events(self.events)
+        self.event_tree_view.topLevelItem(self.event_idx).setText(0, self.event_name.text())
+        self.event_tree_view.itemFromIndex(self.event_tree_view.selectedIndexes()[0]) \
+            .setBackground(0, QBrush(QColor(0, 255, 0)))
 
     def switch_encoding(self):
         temp = self.encoding
@@ -84,4 +86,5 @@ class EventsTab(QWidget):
 
     def refresh(self):
         self.event_name.setText(
-            file_parser.decode_string(self.events[self.event_idx]['event_name'], self.encoding).strip('\x00'))
+            file_reader.decode_string(self.events[self.event_idx]['event_name'], self.encoding).strip('\x00')
+            .replace("$", " "))

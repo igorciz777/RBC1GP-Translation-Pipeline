@@ -37,7 +37,7 @@ Video Tutorial:
 | File | Translated |
 | ---- | ----------- |
 | `210.bin` |   1% |
-| `211.bin` |   1% |
+| `211.bin` | $\color{green}{\textsf{100}}$% |
 | `212.bin` |   1% |
 | `224.bin` | $\color{green}{\textsf{100}}$% |
 | `227.bin` | $\color{green}{\textsf{100}}$% |
