@@ -46,9 +46,9 @@ Video Tutorial:
 | `230.bin` | $\color{green}{\textsf{100}}$% |
 | `231.bin` | $\color{green}{\textsf{100}}$% |
 | `737.bin` | $\color{green}{\textsf{100}}$% |
-| `Textures` |  $\color{green}{\textsf{100}}$% |
-| `Cutscenes` |   99% |
-| `Executable` |  99% |
+| `Textures` | $\color{green}{\textsf{100}}$% |
+| `Cutscenes` | $\color{green}{\textsf{100}}$% |
+| `Executable` | $\color{green}{\textsf{100}}$% |
 ---	
 	
 ### Tools that made this possible
