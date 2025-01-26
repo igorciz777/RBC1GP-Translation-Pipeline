@@ -5338,7 +5338,7 @@
 //POINTER #58 @ $2B9C0 - STRING #58 @ $FB64
 
 #W32($2B9C0)
-<COLOR><GRAY>The nice thing about RB Battles is when you finish first、<END>
+<COLOR><GRAY>The nice thing about RP Battles is when you finish first、<END>
 //POINTER #59 @ $2B9E4 - STRING #59 @ $FB86
 
 #W32($2B9E4)
@@ -6988,7 +6988,7 @@
 //POINTER #493 @ $2F6EC - STRING #493 @ $13BF2
 
 #W32($2F6EC)
-<COLOR><GRAY>Oi oi、me、 huh！<END>
+<COLOR><GRAY>Oi oi、me、 huh？！<END>
 //POINTER #494 @ $2F710 - STRING #494 @ $13C0C
 
 #W32($2F710)
@@ -11398,7 +11398,7 @@
 //POINTER #493 @ $2F6F0 - STRING #493 @ $1E53A
 
 #W32($2F6F0)
-<COLOR><GRAY>I'm the buzz、huh！<END>
+<COLOR><GRAY>I'm getting the buzz！<END>
 //POINTER #494 @ $2F714 - STRING #494 @ $1E552
 
 #W32($2F714)

@@ -1908,7 +1908,7 @@ CARS VALUATION<END>
 //POINTER #474 @ $768 - STRING #474 @ $2FB6
 
 #W32($768)
-B．A．D．<END>
+<$39><$0E><$38><$0E><$3B><$0E><$DD><$0D><$0C><$03><$0E><$00><END>
 //POINTER #475 @ $76C - STRING #475 @ $2FBE
 
 #W32($76C)
@@ -2788,7 +2788,7 @@ Ending 2<END>
 //POINTER #694 @ $AD8 - STRING #694 @ $3BE0
 
 #W32($AD8)
-★Shutokou Bancho introduction<END>
+★Shutoko Banchou introduction<END>
 //POINTER #695 @ $ADC - STRING #695 @ $3BF2
 
 #W32($ADC)

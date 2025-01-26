@@ -24,6 +24,7 @@ class BADTab(QWidget):
         self.setup_layout()
 
         # self.reset()
+        # self.write_bad_to_json(self.bad_names_0 + self.bad_names_1, 'bad.json')
 
     def setup_layout(self):
         left_vbox = QVBoxLayout()
@@ -97,12 +98,12 @@ class BADTab(QWidget):
 
             if len(self.bad_names_0[block_id]['blocks'][self.bad_idx % 5]['name0']) > 0x0E:
                 self.bad_line_0.setStyleSheet("background-color: red;")
-                self.bad_names_0[block_id]['blocks'][self.bad_idx % 5]['name0']\
+                self.bad_names_0[block_id]['blocks'][self.bad_idx % 5]['name0'] \
                     = self.bad_names_0[block_id]['blocks'][self.bad_idx % 5]['name0'][:0x0C] + b'\xFF\xFF'
 
             if len(self.bad_names_0[block_id]['blocks'][self.bad_idx % 5]['name1']) > 0x0E:
                 self.bad_line_1.setStyleSheet("background-color: red;")
-                self.bad_names_0[block_id]['blocks'][self.bad_idx % 5]['name1']\
+                self.bad_names_0[block_id]['blocks'][self.bad_idx % 5]['name1'] \
                     = self.bad_names_0[block_id]['blocks'][self.bad_idx % 5]['name1'][:0x0C] + b'\xFF\xFF'
         else:
             self.bad_names_1[self.bad_idx - (30 * 5)]['name'] = file_reader.encode_string(
@@ -110,12 +111,12 @@ class BADTab(QWidget):
 
             if len(self.bad_names_1[self.bad_idx - (30 * 5)]['name']) > 0x1A:
                 self.bad_line_0.setStyleSheet("background-color: red;")
-                self.bad_names_1[self.bad_idx - (30 * 5)]['name']\
+                self.bad_names_1[self.bad_idx - (30 * 5)]['name'] \
                     = self.bad_names_1[self.bad_idx - (30 * 5)]['name'][:0x18] + b'\xFF\xFF'
 
         self.bad_file.write_bad(self.bad_names_0, self.bad_names_1)
         self.bad_tree_view.topLevelItem(self.bad_idx).setText(0, self.bad_line_0.text() + '\t' + self.bad_line_1.text())
-        self.bad_tree_view.itemFromIndex(self.bad_tree_view.selectedIndexes()[0])\
+        self.bad_tree_view.itemFromIndex(self.bad_tree_view.selectedIndexes()[0]) \
             .setBackground(0, QBrush(QColor(0, 255, 0)))
 
     def switch_encoding(self):
@@ -123,4 +124,28 @@ class BADTab(QWidget):
         self.encoding = self.mod_encoding
         self.mod_encoding = temp
         self.bad_selected(self.bad_tree_view.topLevelItem(self.bad_idx))
-            
+
+    def write_bad_to_json(self, bad_names, json_out):
+        with open(json_out, 'w', encoding='utf-8') as f:
+            f.write('[\n')
+            for bad in bad_names:
+                if 'blocks' in bad.keys():
+                    for i, block in enumerate(bad['blocks']):
+                        f.write('  {\n')
+                        try:
+                            f.write('    "name0": "' + file_reader.decode_string(block['name0'], self.encoding).strip(
+                                '\x00') + '",\n')
+                            f.write('    "name1": "' + file_reader.decode_string(block['name1'], self.encoding).strip(
+                                '\x00') + '"\n')
+                        except KeyError:
+                            f.write(
+                                '    "name": "' + file_reader.decode_string(block['name'], self.encoding).strip('\x00')
+                                + '"\n')
+                        f.write('  },\n')
+                else:
+                    f.write('  {\n')
+                    f.write('    "name": "' + file_reader.decode_string(bad['name'], self.encoding).strip('\x00')
+                            + '"\n')
+                    f.write('  },\n')
+            f.seek(f.tell() - 2, 0)
+            f.write('\n]\n')
