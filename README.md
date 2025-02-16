@@ -36,7 +36,7 @@ Video Tutorial:
 (99% is pretty much 100% but with issues, possible glitches etc.)
 | File | Translated |
 | ---- | ----------- |
-| `210.bin` |  45% |
+| `210.bin` |  65% |
 | `211.bin` | $\color{green}{\textsf{100}}$% |
 | `212.bin` | $\color{green}{\textsf{100}}$% |
 | `224.bin` | $\color{green}{\textsf{100}}$% |
