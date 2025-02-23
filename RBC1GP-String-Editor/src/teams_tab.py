@@ -36,7 +36,7 @@ class TeamsTab(QWidget):
 
         for team in self.teams:
             # print(file_reader.decode_string(rival['nickname'], encoding).strip('\x00'))
-            item = QTreeWidgetItem([file_reader.decode_string(team['team_name'], self.encoding).strip('\x00')])
+            item = QTreeWidgetItem([file_reader.decode_string(team['team_name'], self.mod_encoding).strip('\x00')])
             self.teams_tree_view.addTopLevelItem(item)
 
         self.teams_tree_view.itemClicked.connect(self.team_selected)

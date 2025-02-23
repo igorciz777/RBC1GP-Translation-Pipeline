@@ -36,7 +36,7 @@ class EventsTab(QWidget):
 
         for event in self.events:
             # print(file_reader.decode_string(rival['nickname'], encoding).strip('\x00'))
-            item = QTreeWidgetItem([file_reader.decode_string(event['event_name'], self.encoding).strip('\x00')])
+            item = QTreeWidgetItem([file_reader.decode_string(event['event_name'], self.mod_encoding).strip('\x00')])
             self.event_tree_view.addTopLevelItem(item)
 
         self.event_tree_view.itemClicked.connect(self.event_selected)

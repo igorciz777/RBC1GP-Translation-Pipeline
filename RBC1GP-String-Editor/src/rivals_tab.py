@@ -63,7 +63,7 @@ class RivalsTab(QWidget):
 
         for rival in self.rival_lines:
             # print(file_reader.decode_string(rival['nickname'], encoding).strip('\x00'))
-            item = QTreeWidgetItem([file_reader.decode_string(rival['nickname'], self.encoding).strip('\x00')])
+            item = QTreeWidgetItem([file_reader.decode_string(rival['nickname'], self.mod_encoding).strip('\x00')])
             self.rivals_tree_view.addTopLevelItem(item)
 
         self.rivals_tree_view.itemClicked.connect(self.rival_selected)

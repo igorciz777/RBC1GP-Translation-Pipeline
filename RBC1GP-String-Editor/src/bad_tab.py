@@ -38,12 +38,12 @@ class BADTab(QWidget):
 
         for bad in self.bad_names_0:
             for block in bad['blocks']:
-                item = QTreeWidgetItem([file_reader.decode_string(block['name0'], self.encoding).strip('\x00') + '\t' +
-                                        file_reader.decode_string(block['name1'], self.encoding).strip('\x00')])
+                item = QTreeWidgetItem([file_reader.decode_string(block['name0'], self.mod_encoding).strip('\x00') + '\t' +
+                                        file_reader.decode_string(block['name1'], self.mod_encoding).strip('\x00')])
                 self.bad_tree_view.addTopLevelItem(item)
 
         for bad in self.bad_names_1:
-            item = QTreeWidgetItem([file_reader.decode_string(bad['name'], self.encoding).strip('\x00')])
+            item = QTreeWidgetItem([file_reader.decode_string(bad['name'], self.mod_encoding).strip('\x00')])
             self.bad_tree_view.addTopLevelItem(item)
 
         self.bad_tree_view.itemClicked.connect(self.bad_selected)
