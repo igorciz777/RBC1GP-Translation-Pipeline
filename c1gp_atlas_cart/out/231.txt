@@ -2102,7 +2102,7 @@
 
 
 #W32($31B08)
-<COLOR><GRAY>Profound Knowledge Utchii<END>
+<COLOR><GRAY>Profound Utchii<END>
 //POINTER #751 @ $31B2C - STRING #751 @ $4178
 
 #W32($31B2C)
@@ -2110,7 +2110,7 @@
 //POINTER #752 @ $31B50 - STRING #752 @ $4196
 
 #W32($31B50)
-<COLOR><GRAY>Profound Knowledge Utchii<END>
+<COLOR><GRAY>Profound Utchii<END>
 //POINTER #753 @ $31B74 - STRING #753 @ $41AE
 
 #W32($31B74)
@@ -2118,7 +2118,7 @@
 //POINTER #754 @ $31B98 - STRING #754 @ $41CC
 
 #W32($31B98)
-<COLOR><GRAY>Profound Knowledge Utchii<END>
+<COLOR><GRAY>Profound Utchii<END>
 //POINTER #755 @ $31BBC - STRING #755 @ $41E4
 
 #W32($31BBC)
@@ -2126,7 +2126,7 @@
 //POINTER #756 @ $31BE0 - STRING #756 @ $4202
 
 #W32($31BE0)
-<COLOR><GRAY>Deep Green Freshly Severed Head<END>
+<COLOR><GRAY>Deep Green Severed Head<END>
 //POINTER #757 @ $31C04 - STRING #757 @ $4214
 
 #W32($31C04)
@@ -2138,7 +2138,7 @@
 //POINTER #759 @ $31C4C - STRING #759 @ $423C
 
 #W32($31C4C)
-<COLOR><GRAY>Deep Green Freshly Severed Head<END>
+<COLOR><GRAY>Deep Green Severed Head<END>
 //POINTER #760 @ $31C70 - STRING #760 @ $424E
 
 #W32($31C70)
@@ -2552,11 +2552,11 @@
 //POINTER #897 @ $32FB4 - STRING #897 @ $4D8E
 
 #W32($32FB4)
-<COLOR><GRAY>Profound Knowledge Utchii<END>
+<COLOR><GRAY>Profound Utchii<END>
 //POINTER #898 @ $32FD8 - STRING #898 @ $4DA6
 
 #W32($32FD8)
-<COLOR><GRAY>Profound Knowledge Utchii<END>
+<COLOR><GRAY>Profound Utchii<END>
 //POINTER #899 @ $32FFC - STRING #899 @ $4DBE
 
 #W32($32FFC)
