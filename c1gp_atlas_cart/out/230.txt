@@ -1876,7 +1876,7 @@ Defeat the three RANK A MASTERS of every field、<END>
 //POINTER #3 @ $78 - STRING #3 @ $507E
 
 #W32($78)
-are supreme in each of the<COLOR><PALE_CHESTNUT>SP、RP、DP<COLOR_END> battle types．<END>
+are supreme in each of the <COLOR><PALE_CHESTNUT>SP、RP、DP<COLOR_END> battle types．<END>
 //POINTER #4 @ $9C - STRING #4 @ $50AC
 
 #W32($9C)
