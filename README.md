@@ -5,7 +5,9 @@
 ## Installation:
 
 You need an unmodified iso dump of RACING BATTLE -C1 GRAND PRIX- [SLPM-65897]
+
 MD5:	8131f1e1d205de32326d7c038f8f70a3
+
 SHA-1:	a00f956b669684c8dbced0bf0f19673b005aaa2f
 
 You also need a xdelta patcher,
