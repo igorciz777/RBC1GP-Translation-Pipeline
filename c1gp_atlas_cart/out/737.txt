@@ -248,7 +248,7 @@ Replace tires．<END>
 //POINTER #59 @ $EC - STRING #59 @ $8DC
 
 #W32($EC)
-”Inch-Up” the wheel size．Increasing the inch size enhances lateral rigidity of the tires and changes the appearence．<END>
+“Inch-Up” the wheel size．Increasing the inch size enhances lateral rigidity of the tires and changes the appearence．<END>
 //POINTER #60 @ $F0 - STRING #60 @ $946
 
 #W32($F0)
@@ -508,7 +508,7 @@ Installs soft compound S tires．They provide best grip、but have the worst dur
 //POINTER #124 @ $1F0 - STRING #124 @ $1BB4
 
 #W32($1F0)
-Select a size for the ”Inch-Up”．<END>
+Select a size for the “Inch-Up”．<END>
 //POINTER #125 @ $1F4 - STRING #125 @ $1BE0
 
 #W32($1F4)
@@ -564,7 +564,7 @@ Do not remove the MEMORY CARD（PS2）or controller<END>
 //POINTER #138 @ $228 - STRING #138 @ $1E1E
 
 #W32($228)
-Do not turn off the ”PlayStation 2” console<END>
+Do not turn off the “PlayStation 2” console<END>
 //POINTER #139 @ $22C - STRING #139 @ $1E64
 
 #W32($22C)
@@ -632,7 +632,7 @@ Do not remove the MEMORY CARD（PS2）or controller<END>
 //POINTER #155 @ $26C - STRING #155 @ $2142
 
 #W32($26C)
-Do not turn off the ”PlayStation 2” console<END>
+Do not turn off the “PlayStation 2” console<END>
 //POINTER #156 @ $270 - STRING #156 @ $2188
 
 #W32($270)
@@ -688,7 +688,7 @@ Do not remove the MEMORY CARD（PS2）or controller<END>
 //POINTER #169 @ $2A4 - STRING #169 @ $233C
 
 #W32($2A4)
-Do not turn off the ”PlayStation 2” console<END>
+Do not turn off the “PlayStation 2” console<END>
 //POINTER #170 @ $2A8 - STRING #170 @ $2382
 
 #W32($2A8)
@@ -720,7 +720,7 @@ Do not remove the MEMORY CARD（PS2）or controller<END>
 //POINTER #177 @ $2C4 - STRING #177 @ $247A
 
 #W32($2C4)
-Do not turn off the ”PlayStation 2” console<END>
+Do not turn off the “PlayStation 2” console<END>
 //POINTER #178 @ $2C8 - STRING #178 @ $24A8
 
 #W32($2C8)
@@ -752,7 +752,7 @@ Do not remove the MEMORY CARD（PS2）or controller<END>
 //POINTER #185 @ $2E4 - STRING #185 @ $268E
 
 #W32($2E4)
-Do not turn off the ”PlayStation 2” console<END>
+Do not turn off the “PlayStation 2” console<END>
 //POINTER #186 @ $2E8 - STRING #186 @ $26D4
 
 #W32($2E8)

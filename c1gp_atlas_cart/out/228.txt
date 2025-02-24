@@ -2496,7 +2496,7 @@ MEMORY CARD（PS2）CHECK<END>
 //POINTER #621 @ $9B4 - STRING #621 @ $37D0
 
 #W32($9B4)
-”EyeToy” Camera<END>
+“EyeToy” Camera<END>
 //POINTER #622 @ $9B8 - STRING #622 @ $37EE
 
 #W32($9B8)
@@ -2992,27 +2992,27 @@ No recommended parts available<END>
 //POINTER #745 @ $BA4 - STRING #745 @ $42CC
 
 #W32($BA4)
-The ”Turbo Boost” setting is now adjustable．<END>
+The “Turbo Boost” setting is now adjustable．<END>
 //POINTER #746 @ $BA8 - STRING #746 @ $4302
 
 #W32($BA8)
-The ”Suspension” and ”Alignment” settings are now adjustable．<END>
+The “Suspension” and “Alignment” settings are now adjustable．<END>
 //POINTER #747 @ $BAC - STRING #747 @ $4348
 
 #W32($BAC)
-The ”Transmission” setting is now adjustable．<END>
+The “Transmission” setting is now adjustable．<END>
 //POINTER #748 @ $BB0 - STRING #748 @ $437A
 
 #W32($BB0)
-The ”Brake Balance” setting is now adjustable．<END>
+The “Brake Balance” setting is now adjustable．<END>
 //POINTER #749 @ $BB4 - STRING #749 @ $43B2
 
 #W32($BB4)
-The ”Drive Balance” setting is now adjustable．<END>
+The “Drive Balance” setting is now adjustable．<END>
 //POINTER #750 @ $BB8 - STRING #750 @ $43EA
 
 #W32($BB8)
-The ”Downforce” setting is now adjustable．<END>
+The “Downforce” setting is now adjustable．<END>
 //POINTER #751 @ $BBC - STRING #751 @ $4420
 
 #W32($BBC)
@@ -3156,7 +3156,7 @@ Do not remove the MEMORY CARD（PS2）or controller<END>
 //POINTER #786 @ $C48 - STRING #786 @ $4A1C
 
 #W32($C48)
-Do not turn off the ”PlayStation 2” console<END>
+Do not turn off the “PlayStation 2” console<END>
 //POINTER #787 @ $C4C - STRING #787 @ $4A62
 
 #W32($C4C)
@@ -3224,7 +3224,7 @@ Do not remove the MEMORY CARD（PS2）or controller<END>
 //POINTER #803 @ $C8C - STRING #803 @ $4D56
 
 #W32($C8C)
-Do not turn off the ”PlayStation 2” console<END>
+Do not turn off the “PlayStation 2” console<END>
 //POINTER #804 @ $C90 - STRING #804 @ $4D9C
 
 #W32($C90)
@@ -3372,7 +3372,7 @@ No MEMORY CARD（PS2）in MEMORY CARD Slot 1 and 2<END>
 //POINTER #840 @ $D20 - STRING #840 @ $51F4
 
 #W32($D20)
-”RACING BATTLE” requires a MEMORY CARD（PS2）<END>
+“RACING BATTLE” requires a MEMORY CARD（PS2）<END>
 //POINTER #841 @ $D24 - STRING #841 @ $5230
 
 #W32($D24)
@@ -3452,7 +3452,7 @@ Do not remove the MEMORY CARD（PS2）or controller<END>
 //POINTER #860 @ $D70 - STRING #860 @ $568C
 
 #W32($D70)
-Do not turn off the ”PlayStation 2” console<END>
+Do not turn off the “PlayStation 2” console<END>
 //POINTER #861 @ $D74 - STRING #861 @ $56D2
 
 #W32($D74)
@@ -3468,7 +3468,7 @@ Do not remove the MEMORY CARD（PS2）or controller<END>
 //POINTER #864 @ $D80 - STRING #864 @ $5774
 
 #W32($D80)
-Do not turn off the ”PlayStation 2” console<END>
+Do not turn off the “PlayStation 2” console<END>
 //POINTER #865 @ $D84 - STRING #865 @ $57BA
 
 #W32($D84)
@@ -3488,7 +3488,7 @@ Main Garage to the Sub-Garage．<END>
 //POINTER #869 @ $D94 - STRING #869 @ $584C
 
 #W32($D94)
-Select ”NO DATA” to move the car from the<END>
+Select “NO DATA” to move the car from the<END>
 //POINTER #870 @ $D98 - STRING #870 @ $5864
 
 #W32($D98)
@@ -3648,7 +3648,7 @@ Do not remove the MEMORY CARD（PS2）or controller<END>
 //POINTER #909 @ $E34 - STRING #909 @ $5F60
 
 #W32($E34)
-Do not turn off the ”PlayStation 2” console<END>
+Do not turn off the “PlayStation 2” console<END>
 //POINTER #910 @ $E38 - STRING #910 @ $5FA6
 
 #W32($E38)
@@ -3672,7 +3672,7 @@ Do not remove the MEMORY CARD（PS2）or controller<END>
 //POINTER #915 @ $E4C - STRING #915 @ $6084
 
 #W32($E4C)
-Do not turn off the ”PlayStation 2” console<END>
+Do not turn off the “PlayStation 2” console<END>
 //POINTER #916 @ $E50 - STRING #916 @ $60CA
 
 #W32($E50)
@@ -3692,7 +3692,7 @@ Do not remove the MEMORY CARD（PS2）or controller<END>
 //POINTER #920 @ $E60 - STRING #920 @ $6186
 
 #W32($E60)
-Do not turn off the ”PlayStation 2” console<END>
+Do not turn off the “PlayStation 2” console<END>
 //POINTER #921 @ $E64 - STRING #921 @ $61CC
 
 #W32($E64)
@@ -3712,7 +3712,7 @@ Do not remove the MEMORY CARD（PS2）or controller<END>
 //POINTER #925 @ $E74 - STRING #925 @ $628E
 
 #W32($E74)
-Do not turn off the ”PlayStation 2” console<END>
+Do not turn off the “PlayStation 2” console<END>
 //POINTER #926 @ $E78 - STRING #926 @ $62D4
 
 #W32($E78)
@@ -3736,7 +3736,7 @@ Do not remove the MEMORY CARD（PS2）or controller<END>
 //POINTER #931 @ $E8C - STRING #931 @ $63BE
 
 #W32($E8C)
-Do not turn off the ”PlayStation 2” console<END>
+Do not turn off the “PlayStation 2” console<END>
 //POINTER #932 @ $E90 - STRING #932 @ $6404
 
 #W32($E90)
@@ -3868,7 +3868,7 @@ Do not remove the MEMORY CARD（PS2）or controller<END>
 //POINTER #964 @ $F10 - STRING #964 @ $6A00
 
 #W32($F10)
-Do not turn off the ”PlayStation 2” console<END>
+Do not turn off the “PlayStation 2” console<END>
 //POINTER #965 @ $F14 - STRING #965 @ $6A2E
 
 #W32($F14)
@@ -3904,7 +3904,7 @@ Do not remove the MEMORY CARD（PS2）or controller<END>
 //POINTER #973 @ $F34 - STRING #973 @ $6C2A
 
 #W32($F34)
-Do not turn off the ”PlayStation 2” console<END>
+Do not turn off the “PlayStation 2” console<END>
 //POINTER #974 @ $F38 - STRING #974 @ $6C70
 
 #W32($F38)
@@ -3948,7 +3948,7 @@ Do not remove the MEMORY CARD（PS2）or controller<END>
 //POINTER #984 @ $F60 - STRING #984 @ $6EBC
 
 #W32($F60)
-Do not turn off the ”PlayStation 2” console<END>
+Do not turn off the “PlayStation 2” console<END>
 //POINTER #985 @ $F64 - STRING #985 @ $6F02
 
 #W32($F64)
@@ -4088,7 +4088,7 @@ Do not remove the controller<END>
 //POINTER #1019 @ $FEC - STRING #1019 @ $744A
 
 #W32($FEC)
-Do not turn off the ”PlayStation 2” console<END>
+Do not turn off the “PlayStation 2” console<END>
 //POINTER #1020 @ $FF0 - STRING #1020 @ $7468
 
 #W32($FF0)
@@ -4144,7 +4144,7 @@ Do not remove the MEMORY CARD（PS2）or controller<END>
 //POINTER #1033 @ $1024 - STRING #1033 @ $7732
 
 #W32($1024)
-Do not turn off the ”PlayStation 2” console<END>
+Do not turn off the “PlayStation 2” console<END>
 //POINTER #1034 @ $1028 - STRING #1034 @ $7778
 
 #W32($1028)
@@ -4200,7 +4200,7 @@ Do not remove the MEMORY CARD（PS2）or controller<END>
 //POINTER #1047 @ $105C - STRING #1047 @ $796E
 
 #W32($105C)
-Do not turn off the ”PlayStation 2” console<END>
+Do not turn off the “PlayStation 2” console<END>
 //POINTER #1048 @ $1060 - STRING #1048 @ $799C
 
 #W32($1060)
