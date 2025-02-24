@@ -2,30 +2,27 @@
 ### The process of translation is described in the [repository's Wiki](https://github.com/igorciz777/RBC1GP-Translation-Pipeline/wiki)
 ### Any translations released by me are at [Releases](https://github.com/igorciz777/RBC1GP-Translation-Pipeline/releases)
 ---
-## Installation
-You need an unmodified iso dump of RACING BATTLE -C1 GRAND PRIX- [SLPM-65897]
+## Installation:
 
-`MD5: 8131f1e1d205de32326d7c038f8f70a3`
+You need an unmodified iso dump of RACING BATTLE -C1 GRAND PRIX- [SLPM-65897]
+MD5:	8131f1e1d205de32326d7c038f8f70a3
+SHA-1:	a00f956b669684c8dbced0bf0f19673b005aaa2f
 
 You also need a xdelta patcher,
 personally I use DeltaPatcher or xdelta3
 
-### Patching the game for emulation
-Using a xdelta patcher, apply the main patch file `tl_patch_vx.xdelta` to your iso. (remember to backup the iso, some patchers just overwrite the file without a backup)
-	
-Move the `SLPM-65897_1C087362.pnach` file to <your PCSX2 folder>/cheats/
+### Patching the game
 
-ISO MD5 after tl_patch:
-`F242BC9F7B2C3B94C144269508ADFBC3`
+Using a xdelta patcher, apply the main patch file `RBC1GP_English_Patch_v8.xdelta` to your iso. (remember to backup the iso, some patchers just overwrite the file without a backup)
 
 
-### Patching the game for hardware
-Using a xdelta patcher, apply the main patch file `tl_patch_vx.xdelta` to your iso.
+### Widescreen patch
 
-After that, apply the `hw_patch_vx.xdelta` patch to your modified iso from previous step.
+For emulation, the widescreen patch should be included with newest releases of PCSX2, but
+if you're missing it you can move the pnach file from
+the 'widescreen patch' folder to '<Your PCSX2 directory>/patches/'
 
-ISO MD5 after tl_patch & hw_patch:
-`704042D8AA3DFF829F79D0D77F52215E`
+For hardware, use 'widescreen_for_hardware_patch.xdelta' to patch your modified ISO file (one that's already patched with the main translation file)
 
 Video Tutorial:
 
