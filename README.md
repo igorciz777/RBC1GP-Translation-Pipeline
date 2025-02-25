@@ -29,7 +29,7 @@ For hardware, use `widescreen_for_hardware_patch.xdelta` to patch your modified 
 ---
 Video Tutorial:
 
-[![Video Tutorial](https://img.youtube.com/vi/87E8jDqh5hk/0.jpg)](https://www.youtube.com/watch?v=87E8jDqh5hk)
+[![Video Tutorial](https://img.youtube.com/vi/RM-U211Co2Q/0.jpg)](https://www.youtube.com/watch?v=RM-U211Co2Q)
 
 ---
 ## Translation status
