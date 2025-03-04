@@ -13286,7 +13286,7 @@
 //POINTER #971 @ $33A28 - STRING #971 @ $21DF0
 
 #W32($33A28)
-<COLOR><GRAY>We can't creake a new music scene<END>
+<COLOR><GRAY>We can't create a new music scene<END>
 //POINTER #972 @ $33A4C - STRING #972 @ $21E0C
 
 #W32($33A4C)
