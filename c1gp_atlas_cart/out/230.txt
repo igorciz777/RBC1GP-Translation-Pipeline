@@ -1262,7 +1262,7 @@ Win the C1GP by defeating the <COLOR><PALE_CHESTNUT>5 rivals<COLOR_END> who<END>
 //POINTER #4 @ $98 - STRING #4 @ $3F86
 
 #W32($98)
-the skilled WANDERES、who have been quietly spectating、<END>
+the skilled WANDERERS、who have been quietly spectating、<END>
 //POINTER #5 @ $BC - STRING #5 @ $3FB0
 
 #W32($BC)
