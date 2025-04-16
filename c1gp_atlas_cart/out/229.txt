@@ -5962,7 +5962,7 @@ A general-purpose brake cleaner、<END>
 //POINTER #165 @ $1C78 - STRING #165 @ $D0FE
 
 #W32($1C78)
-Upgraged from the previous version to be<END>
+Upgraded from the previous version to be<END>
 //POINTER #166 @ $1CA4 - STRING #166 @ $D12A
 
 #W32($1CA4)
