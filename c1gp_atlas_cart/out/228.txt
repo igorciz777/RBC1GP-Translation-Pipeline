@@ -3312,7 +3312,7 @@ Take CAR GOODS in packs to race events．<END>
 //POINTER #825 @ $CE4 - STRING #825 @ $4FDA
 
 #W32($CE4)
-CAR GOODS can be categorized and equiped into<END>
+CAR GOODS can be categorized and equipped into<END>
 //POINTER #826 @ $CE8 - STRING #826 @ $5004
 
 #W32($CE8)
@@ -3332,7 +3332,7 @@ This item is already selected．<END>
 //POINTER #830 @ $CF8 - STRING #830 @ $508E
 
 #W32($CF8)
-Item of same type is already equiped．<END>
+Item of same type is already equipped．<END>
 //POINTER #831 @ $CFC - STRING #831 @ $50B4
 
 #W32($CFC)

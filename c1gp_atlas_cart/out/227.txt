@@ -338,7 +338,7 @@ Select the wheels you want to mount．<END>
 //POINTER #82 @ $148 - STRING #82 @ $1B64
 
 #W32($148)
-“Inch-Up” the wheel size．Increasing the inch size enhances lateral rigidity of the tires and changes the appearence．<END>
+“Inch-Up” the wheel size．Increasing the inch size enhances lateral rigidity of the tires and changes the appearance．<END>
 //POINTER #83 @ $14C - STRING #83 @ $1BCE
 
 #W32($14C)
@@ -734,7 +734,7 @@ Super Autobacs offers car accessories、new music and garage remodeling．<END>
 //POINTER #181 @ $2D4 - STRING #181 @ $3254
 
 #W32($2D4)
-Buy car accessories．There are two available types of items：effective when purchased and effective only when equiped．<END>
+Buy car accessories．There are two available types of items：effective when purchased and effective only when equipped．<END>
 //POINTER #182 @ $2D8 - STRING #182 @ $32C6
 
 #W32($2D8)
@@ -754,7 +754,7 @@ Car accessories related to NP and used car sales．<END>
 //POINTER #186 @ $2E8 - STRING #186 @ $3386
 
 #W32($2E8)
-Car accessories to be used with other accessories to help boost their effectivness or add bonus effects．<END>
+Car accessories to be used with other accessories to help boost their effectiveness or add bonus effects．<END>
 //POINTER #187 @ $2EC - STRING #187 @ $33EA
 
 #W32($2EC)
@@ -922,7 +922,7 @@ Improves grip performance．Provides more grip but it is harder to drift．<END>
 //POINTER #228 @ $390 - STRING #228 @ $3D0C
 
 #W32($390)
-Improves turning performance．Car is more maneuverable in turns but instable on straights．<END>
+Improves turning performance．Car is more maneuverable in turns but unstable on straights．<END>
 //POINTER #229 @ $394 - STRING #229 @ $3D5E
 
 #W32($394)

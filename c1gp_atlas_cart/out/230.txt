@@ -1530,7 +1530,7 @@ mostly used as the material、making the weight<END>
 //POINTER #71 @ $A04 - STRING #71 @ $4B04
 
 #W32($A04)
-maximizng peak power and response at high RPM．<END>
+maximizing peak power and response at high RPM．<END>
 //POINTER #72 @ $A28 - STRING #72 @ $4B32
 
 #W32($A28)

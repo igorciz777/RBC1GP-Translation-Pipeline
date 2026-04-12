@@ -1672,7 +1672,7 @@ FLOOR CARPET<END>
 //POINTER #195 @ $218C - STRING #195 @ $4CAA
 
 #W32($218C)
-NEGATIVE ION GENORATOR<END>
+NEGATIVE ION GENERATOR<END>
 //POINTER #196 @ $21B8 - STRING #196 @ $4CC0
 
 #W32($21B8)
@@ -3436,7 +3436,7 @@ Improved agility！「WEIGHT REDUCTION TYPE 5」available．<END>
 //POINTER #195 @ $2194 - STRING #195 @ $7688
 
 #W32($2194)
-「NEGATIVE ION GENORATOR」available．<END>
+「NEGATIVE ION GENERATOR」available．<END>
 //POINTER #196 @ $21C0 - STRING #196 @ $76A6
 
 #W32($21C0)
@@ -4824,7 +4824,7 @@ mostly used as the material、making the weight<END>
 //POINTER #101 @ $1174 - STRING #101 @ $A3BC
 
 #W32($1174)
-maximizng peak power and response at high RPM．<END>
+maximizing peak power and response at high RPM．<END>
 //POINTER #102 @ $11A0 - STRING #102 @ $A3EA
 
 #W32($11A0)
@@ -5204,11 +5204,11 @@ Use with「AIR PURIFIER」and「AIR FRESHNER」<END>
 //POINTER #196 @ $21C8 - STRING #196 @ $B340
 
 #W32($21C8)
-Use with「NEGATIVE ION GENORATOR」for a better effect．<END>
+Use with「NEGATIVE ION GENERATOR」for a better effect．<END>
 //POINTER #197 @ $21F4 - STRING #197 @ $B36E
 
 #W32($21F4)
-Use with「NEGATIVE ION GENORATOR」for a better effect．<END>
+Use with「NEGATIVE ION GENERATOR」for a better effect．<END>
 //POINTER #198 @ $2220 - STRING #198 @ $B39C
 
 #W32($2220)
