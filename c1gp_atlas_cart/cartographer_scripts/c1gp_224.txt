@@ -2,14 +2,33 @@
 
 //file contains item names and description
 //each item has its own struct:
-//struct Item {
-    //int32 namePointer;
-    //char[20] unknown;
-    //int32 effectDescriptionPointer;
-    //int32 combinationDescriptionPointer;
-    //int32 itemDescriptionPointer;
-    //char[96] *unknown;
+//struct ItemAttribute {
+//    u32 attributeId;
+//    u32 value;
 //};
+//
+//struct Item {
+//    u32 namePointer [[color("FF5555")]];                  // Red pointer
+//    u32 unknownValue1;
+//    u32 unknownValue2;
+//    u32 unknownConstant3;
+//    u32 unknownValue4;
+//    u32 unknownValue5;
+//    
+//    u32 effectDescriptionPointer [[color("55FF55")]];       // Green pointer
+//    u32 combinationDescriptionPointer [[color("55FFFF")]];  // Cyan pointer
+//    u32 itemDescriptionPointer [[color("FFFF55")]];         // Yellow pointer
+//    
+//    u8  itemIndex;
+//    u8  unknown6;
+//    u16 padding1;
+//    
+//    float statModifier [[color("FF55FF")]];                 // Magenta float
+//    
+//    ItemAttribute attributes[11];
+//};
+//
+//Item items[115] @ 0x00;
 
 #BLOCK NAME:	224.bin File - Item Names block
 #TYPE:			NORMAL
@@ -69,4 +88,14 @@
 
 #TABLE:			c1gp.tbl
 #COMMENTS:		No
+#END BLOCK
+
+// Day-based unlock table
+#BLOCK NAME:	224.bin File - Day Unlock Table
+#TYPE:			NORMAL
+#METHOD:		RAW
+
+#SCRIPT START:	$3B4C
+#SCRIPT STOP:	$4E54
+
 #END BLOCK
